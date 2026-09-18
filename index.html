@@ -465,7 +465,24 @@ function closeMapZoom(){
 }
 document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeMapZoom(); });
 
+// Use the device's local calendar date, including its current travel time zone.
+// Explicit dates keep overnight flights from taking priority over a full day's plan.
+function itineraryForDate(now = new Date()) {
+  if (now.getFullYear() !== 2026) return null;
+  const month = now.getMonth() + 1;
+  const day = now.getDate();
+  if (month === 9 && day >= 22 && day <= 27) return { guide: 'wa', day: day - 22 };
+  if (month === 9 && day >= 28 && day <= 30) return { guide: 'nz', day: day - 28 };
+  if (month === 10 && day >= 1 && day <= 9) return { guide: 'nz', day: day + 2 };
+  return null;
+}
+const initialItinerary = itineraryForDate();
+if (initialItinerary) {
+  curGuide = initialItinerary.guide;
+  curDay = initialItinerary.day;
+}
 render();
+
 </script>
 </body>
 </html>
