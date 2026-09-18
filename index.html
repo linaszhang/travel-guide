@@ -88,6 +88,7 @@ body{
 .map-card img{width:100%;display:block;}
 
 .content{max-width:760px;margin:0 auto;padding:0 24px 90px;}
+#dayView .content{padding-top:24px;}   /* comment 1: 24px gap above day header */
 
 .day-head{
   background:#fff;border-radius:16px;padding:22px 24px;box-shadow:0 4px 16px rgba(0,0,0,.04);margin-bottom:18px;
@@ -119,6 +120,23 @@ body{
 .chip.dist{background:#f0f0f0;color:#666;}
 .price{font-size:13px;font-weight:700;margin-left:auto;white-space:nowrap;color:var(--price);}
 .price .win{color:var(--ink-3);font-weight:500;font-size:11px;margin-left:6px;}
+
+/* stay bar: address + price + check-in/out window in one gray rounded row (per reference UI) */
+.stay-bar{
+  display:flex;align-items:center;gap:14px;margin-top:10px;
+  background:#f4f2ef;border-radius:12px;padding:13px 18px;
+}
+.stay-bar .addr-in{flex:1;min-width:0;font-size:13.5px;color:var(--ink);font-weight:500;}
+.addr-link{color:inherit;text-decoration:underline;text-underline-offset:2px;cursor:pointer;transition:.15s;}
+.addr-link:hover{color:#3a6ea5;}
+.item .addr .addr-link{color:#3a6ea5;}
+.stay-bar .stay-right{display:flex;align-items:center;gap:14px;white-space:nowrap;flex:none;}
+.stay-bar .stay-right .price{margin-left:0;font-size:15px;}
+.stay-bar .stay-right .win{color:#3a6ea5;font-size:13px;font-weight:600;}
+@media(max-width:860px){
+  .stay-bar{flex-wrap:wrap;gap:8px;padding:12px 14px;}
+  .stay-bar .stay-right{flex:1 0 100%;justify-content:space-between;gap:10px;}
+}
 .note{margin-top:9px;padding:9px 13px;border-radius:9px;font-size:12px;line-height:1.7;}
 .note.info{background:#eef4fb;color:#3a5a7a;}
 .note.tip{background:#eef7f0;color:#3d6b4a;}
@@ -223,6 +241,7 @@ const DATA = {"wa": {"region": "西澳大利亚", "route": "北线", "color": "#
 let curGuide='wa', curDay=-1;   // -1 = overview mode
 
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function gmap(addr){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(addr);}
 
 function render(){
   const g=DATA[curGuide];
@@ -302,17 +321,31 @@ function renderDay(){
     const time = `<div class="time"><div class="p">${esc(it.period)}</div><div class="r">${esc(it.range)}</div></div>`;
     const paras = (it.paras||[]).map(p=>`<div class="para">${esc(p)}</div>`).join('');
     const link = it.link? `<div class="link">🔗 ${esc(it.link)}</div>`:'';
-    const addr = it.addr? `<div class="addr">📍 ${esc(it.addr)}</div>`:'';
     const notes = (it.notes||[]).map(n=>`<div class="note ${n[0]}">${esc(n[1])}</div>`).join('');
-    let chips = (it.chips||[]).map(c=>`<span class="chip ${c.indexOf('🚗')>=0?'dist':''}">${esc(c)}</span>`).join('');
-    let priceHtml='';
-    if(it.price){ const col=it.priceColor||'var(--price)';
-      priceHtml=`<span class="price" style="color:${col}">${esc(it.price)}${it.win?`<span class="win">${esc(it.win)}</span>`:''}</span>`;}
-    const chipRow = (chips||priceHtml)? `<div class="chips">${chips}${priceHtml}</div>`:'';
     const desc = it.desc? `<span class="desc"> · ${esc(it.desc)}</span>`:'';
+
+    // "stay bar": address + price + time-window rendered as one gray rounded bar
+    const isStay = it.addr && it.price && it.win;
+    let stay='', addr='', priceHtml='';
+    if(isStay){
+      const pcol = it.priceColor||'var(--price)';
+      stay = `<div class="stay-bar">
+        <a class="addr-in addr-link" href="${gmap(it.addr)}" target="_blank" rel="noopener">${esc(it.addr)}</a>
+        <div class="stay-right">
+          <span class="price" style="color:${pcol}">${esc(it.price)}</span>
+          <span class="win">${esc(it.win)}</span>
+        </div></div>`;
+    } else {
+      addr = it.addr? `<div class="addr">📍 <a class="addr-link" href="${gmap(it.addr)}" target="_blank" rel="noopener">${esc(it.addr)}</a></div>`:'';
+      if(it.price){ const col=it.priceColor||'var(--price)';
+        priceHtml=`<span class="price" style="color:${col}">${esc(it.price)}${it.win?`<span class="win">${esc(it.win)}</span>`:''}</span>`;}
+    }
+    let chips = (it.chips||[]).map(c=>`<span class="chip ${c.indexOf('🚗')>=0?'dist':''}">${esc(c)}</span>`).join('');
+    const chipRow = (chips||priceHtml)? `<div class="chips">${chips}${priceHtml}</div>`:'';
+
     return `<div class="item">${time}
       <div class="icon" style="background:${it.iconbg||'#f4f4f4'}">${it.icon||''}</div>
-      <div class="body"><div class="name">${esc(it.name)}${desc}</div>${paras}${link}${addr}${notes}${chipRow}</div></div>`;
+      <div class="body"><div class="name">${esc(it.name)}${desc}</div>${paras}${link}${addr}${stay}${notes}${chipRow}</div></div>`;
   }).join('');
 
   document.getElementById('main').scrollTop=0;
