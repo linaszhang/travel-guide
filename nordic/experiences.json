@@ -206,5 +206,81 @@
         "label": "蓝湖与熔岩地貌"
       }
     ]
+  },
+  {
+    "id": "husky-sledding",
+    "country": "norway",
+    "day": 5,
+    "excluded": true,
+    "title": "自行驾驶哈士奇雪橇",
+    "location": "特罗姆瑟 · Kvaløya",
+    "duration": "全程约4h15m · 雪橇约45min",
+    "price": 2399,
+    "intro": "两人共用一辆雪橇，轮流驾驶与乘坐，在向导带领下穿过北极冬季雪原。全程还包含接送、基础教学、狗舍参观与热午餐。",
+    "meeting": "原计划在Radisson Blu酒店门前集合，发团前15分钟到场；营地巴士约25–35分钟／程。",
+    "includes": [
+      "约45分钟双人共享雪橇体验与驾驶教学",
+      "接送、狗舍参观、热午餐与保暖装备（按原计划参考）"
+    ],
+    "notes": [
+      "此项目已从当前预算中排除，查看详情不会将其加入预算。",
+      "原计划发团时段07:30／08:30／09:30／10:30；实际日期和集合要求需在预订时确认。",
+      "驾驶需要一定体力与平衡能力；准备帽子和手套，参与要求按运营方说明核对。"
+    ],
+    "priceNote": "原预算参考¥2,399／人，当前不计入游玩项目小计及总预算；不是2027年场次的实时售价。",
+    "url": "https://www.villmarkssenter.no/booking/self-drive-dog-sledding/",
+    "operator": "Tromsø Villmarkssenter",
+    "photos": [
+      {
+        "src": "assets/day-05-0.jpg",
+        "label": "哈士奇雪橇 · 原行程图片"
+      },
+      {
+        "src": "assets/experiences/husky-1.jpg",
+        "label": "哈士奇雪橇 · 自行驾驶体验"
+      },
+      {
+        "src": "assets/experiences/husky-2.jpg",
+        "label": "Tromsø Villmarkssenter · 雪地体验"
+      }
+    ]
+  },
+  {
+    "id": "trollfjord-rib",
+    "country": "norway",
+    "day": 8,
+    "excluded": true,
+    "title": "海鹰 RIB 与 Trollfjord",
+    "location": "罗弗敦 · Svolvær／Trollfjorden",
+    "duration": "约2h（参考产品）",
+    "price": 560,
+    "intro": "从斯沃尔维尔乘开放式RIB快艇出海，沿Raftsundet水道前往Trollfjord，欣赏峡湾山壁并观察海鹰。野生动物出现及可航行路线取决于当天条件。",
+    "meeting": "参考XXLofoten产品：J. E. Paulsens gate 9，Svolvær；发船前30分钟到场。",
+    "includes": [
+      "RIB峡湾航程与向导讲解",
+      "参考产品提供漂浮保暖服、救生衣与护目镜"
+    ],
+    "notes": [
+      "此项目已从当前预算中排除，不计入预算，也不会自动替换当天海钓安排。",
+      "开放式快艇体感寒冷，分层穿衣，带帽子、手套及防滑保暖鞋。",
+      "出发时间和冬季可用航线需另行确认。"
+    ],
+    "priceNote": "原预算参考¥560／人，当前不计入总额。运营方现列的参考产品与原预算金额可能不同，重新选择时需核对产品和报价。",
+    "url": "https://xxlofoten.no/en/experiences/sea-eagle-safari",
+    "operator": "XXLofoten",
+    "photos": [
+      {
+        "src": "assets/experiences/rib-1.jpg",
+        "label": "RIB海鹰与峡湾体验"
+      },
+      {
+        "src": "assets/experiences/rib-2.jpg",
+        "label": "海鹰观察 · 景观参考"
+      },
+      {
+        "src": "assets/experiences/rib-3.jpg",
+        "label": "Trollfjord · RIB航行参考"
+      }
+    ]
   }
 ]
