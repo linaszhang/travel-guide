@@ -49,3 +49,4 @@ a.place-link,.copy a.place-link{color:inherit;text-decoration-line:underline;tex
 /* Smaller map glyphs retain comfortable touch targets. */
 .expand-map .map-control-icon,.leaflet-control-zoom .map-control-icon{width:16px;height:16px}.budget-summary{grid-template-columns:minmax(0,1fr)}.budget-heading p{max-width:680px;font-size:11px;line-height:1.85}.map-banner-meta{display:flex;align-items:baseline;flex-wrap:wrap;gap:3px 12px}.map-banner-meta .map-route-legend{color:#bed2ce}.map-banner{max-width:calc(100% - 75px)}
 @media(max-width:600px){.budget-heading p{font-size:10px}.map-banner-meta{gap:3px 9px}.map-banner-meta .map-route-legend{font-size:9px}}
+.country-cover h1 span{font-size:1em}
