@@ -28,3 +28,5 @@ a.place-link,.copy a.place-link{color:inherit;text-decoration-line:underline;tex
 @media(max-width:380px){.mobile-bar{grid-template-columns:64px minmax(0,1fr) 64px;padding:0 8px}.mobile-brand{font-size:14px;letter-spacing:0}.mobile-brand span{font-size:9px;margin-left:3px}.mobile-actions{gap:0}.mobile-actions .icon-button{width:32px;height:36px}}
 /* Green budget totals stand apart from both the page and white cards. */
 .budget-subtotal{background:#c9ded3;border-top-color:#adc9ba;color:#244c3b}.budget-subtotal strong{color:#244c3b}.budget-subtotal small{color:#355c49}.budget-base{background:#c9ded3;border-color:#adc9ba;color:#244c3b}.budget-base-label>small,.budget-base>strong>small{color:#355c49}.activity-tags{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:9px 0}.activity-tags>.pill-box{margin:0}.activity-tags>.pill-box .copy{white-space:nowrap}.activity-tags>.info-box{margin:0}
+.page-wrap>.map-block+.country-card{margin-top:24px}
+@media(max-width:860px){.page-wrap>.map-block+.country-card{margin-top:20px}}
