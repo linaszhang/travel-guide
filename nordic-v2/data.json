@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "norway",
+    "name": "挪威",
+    "en": "NORWAY",
+    "color": "#325B74",
+    "subtitle": "峡湾与群岛",
+    "cover": [
+      "N O R D I C   J O U R N E Y   /   2 0 2 7",
+      "挪威",
+      "峡湾与群岛",
+      "2027  02.07 — 02.13  ·  DAY 01–07",
+      "7",
+      "本段天数",
+      "15",
+      "全程天数"
+    ],
+    "days": [
+      {
+        "num": 1,
+        "id": "v2-arrival",
+        "title": "浦东 → 特罗姆瑟 · 18:30抵达",
+        "date": "2月7日（周日） · 经赫尔辛基中转，晚间抵达后休息",
+        "tags": [
+          "✈️ 08:40 飞特罗姆瑟"
+        ],
+        "photos": [
+          {
+            "label": "Ersfjordbotn 峡湾",
+            "src": "../nordic/assets/day-04-0.jpg",
+            "source": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T"
+          },
+          {
+            "label": "特罗姆瑟 · 港湾",
+            "src": "../nordic/assets/day-04-1.jpg",
+            "source": "https://www.bronwyntownsend.com/blog/3-day-tromso-itinerary"
+          },
+          {
+            "label": "Storgata 冬日街景",
+            "src": "../nordic/assets/day-04-2.jpg",
+            "source": "https://depuertoenpuerto.com/un-breve-paseo-invernal-por-tromso/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "出发",
+              "08:40"
+            ],
+            "emoji": "✈️",
+            "title": "浦东 → 赫尔辛基中转 → 特罗姆瑟",
+            "body": [
+              {
+                "t": "2月7日浦东08:40出发，赫尔辛基中转4h35m，当地时间18:30抵达特罗姆瑟。全程约16h50m；本日只安排抵达与休息，2月8日开始北挪威自驾。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "c": [
+                      {
+                        "t": "全程约16h50m · 中转4h35m",
+                        "links": []
+                      },
+                      {
+                        "t": "08:40 → 18:30",
+                        "links": []
+                      },
+                      {
+                        "t": "¥8,532／人",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上",
+              "约20:00"
+            ],
+            "emoji": "🏨",
+            "title": "机场进城 · 入住特罗姆瑟",
+            "body": [
+              {
+                "t": "入境、取行李后乘机场巴士或出租车到酒店，简单晚餐后休息。今晚不取租车；次日上午前往机场取车。推荐住市中心交通方便的区域，或选择有接送服务的机场附近住处。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "id": "262:474",
+        "title": "特罗姆瑟 · 鲸岛自驾 → 港口与市区",
+        "date": "2月8日（周一） · 开始北挪威自驾，白天看峡湾，下午漫步市区",
+        "tags": [
+          "约1–1.5h（50–70km）"
+        ],
+        "photos": [
+          {
+            "label": "Ersfjordbotn 峡湾",
+            "src": "../nordic/assets/day-04-0.jpg",
+            "source": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T"
+          },
+          {
+            "label": "特罗姆瑟 · 港湾",
+            "src": "../nordic/assets/day-04-1.jpg",
+            "source": "https://www.bronwyntownsend.com/blog/3-day-tromso-itinerary"
+          },
+          {
+            "label": "Storgata 冬日街景",
+            "src": "../nordic/assets/day-04-2.jpg",
+            "source": "https://depuertoenpuerto.com/un-breve-paseo-invernal-por-tromso/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "09:00–10:00"
+            ],
+            "emoji": "🚗",
+            "title": "特罗姆瑟机场取车 · 公路补给",
+            "body": [
+              {
+                "t": "早餐后前往机场取车，拍照记录车况，确认冬胎与保险，购买水与零食。今天开始完整的北挪威6天行程，2月14日飞冰岛前还车。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "上午",
+              "10:30 -\n15:00"
+            ],
+            "emoji": "🚗",
+            "title": "鲸岛 Kvaløya：Ersfjordbotn 小环线自驾",
+            "body": [
+              {
+                "t": "选择一个峡湾村庄和沿途合法停车点，体验海岸雪山。只走 Ersfjordbotn 一线，不叠加完整鲸岛与夏日岛环线，给港口与市区留时间。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:2583",
+                "c": [
+                  {
+                    "t": "🚗 特罗姆瑟 → Ersfjordbotn 约 35—50 分钟",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:546",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:547",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "上午至午后有光时拍海湾尽头的雪峰与海面层次；在村内合法停车点用长焦压缩山海。",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "15:00 -\n18:00"
+            ],
+            "emoji": "🏛️",
+            "title": "极地博物馆 · Storgata 市区街道与港口",
+            "body": [
+              {
+                "t": "沿主街和港口散步，全球最北麦当劳",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4649",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4650",
+                    "c": [
+                      {
+                        "t": "极地博物馆",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4652",
+                        "c": [
+                          {
+                            "t": "¥92/人",
+                            "links": []
+                          },
+                          {
+                            "t": "营业至18:00",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上"
+            ],
+            "emoji": "🏨",
+            "title": "晚餐 · 入住特罗姆瑟",
+            "body": [
+              {
+                "t": "在市区吃晚餐",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4661",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4662",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 4
+      },
+      {
+        "num": 3,
+        "id": "262:507",
+        "title": "特罗姆瑟 · 峡湾游船",
+        "date": "2月9日（周二） · 乘船看冬季峡湾，返城后在港口休息",
+        "tags": [
+          "约0–0.5h（0–15km）"
+        ],
+        "photos": [
+          {
+            "label": "Brim Explorer 峡湾巡航",
+            "src": "../nordic/assets/day-05-1.jpg",
+            "source": "https://www.tromso-tours.com/sv/travel-guide/best-time-to-visit/"
+          },
+          {
+            "label": "特罗姆瑟 · 哈士奇雪橇",
+            "src": "../nordic/assets/day-05-0.jpg",
+            "source": "https://guidetoeurope.eu/norway/best-tours-and-tickets/details/tromso-husky-sledding-adventure-with-soup-and-transfers"
+          },
+          {
+            "label": "特罗姆瑟 · 冬日港湾",
+            "src": "../nordic/assets/day-05-2.jpg",
+            "source": "https://www.princess.com/cruise-destinations/european-cruises/cruises-to-tromso-norway"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "11:00 - \n15:00"
+            ],
+            "emoji": "🚢",
+            "title": "🔥 Brim 冬季峡湾游船",
+            "body": [
+              {
+                "t": "暖舱船约4小时，海上看冬季山海景观；是独立观景产品，与交通轮渡体验不同。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4665",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4666",
+                    "c": [
+                      {
+                        "t": "从海上看海岸雪山、渔村和峡湾",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4668",
+                        "c": [
+                          {
+                            "t": "¥913/人",
+                            "links": []
+                          },
+                          {
+                            "t": "约11:00／11:30／12:00，全程4h",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:2733",
+                "c": [
+                  {
+                    "t": "🚢 Skarven旁码头 Kaigata 6；市中心步行可达",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "上午",
+              "7:15 -\n11:45",
+              "早班建议"
+            ],
+            "emoji": "🐕",
+            "title": "🔥 自行驾驶哈士奇雪橇",
+            "body": [
+              {
+                "t": "两人一橇，中途交换驾驶与乘坐；实际雪橇约45分钟，其余为接送、教学、狗舍与用餐。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4674",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4675",
+                    "c": [
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4677",
+                        "c": [
+                          {
+                            "t": "官网发团07:30／08:30／09:30／10:30",
+                            "links": []
+                          },
+                          {
+                            "t": "¥2,399/人；含接送、热午餐与保暖装备",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:2658",
+                "c": [
+                  {
+                    "t": "🚗 自驾到Radisson Blu附近合法停车区集合；营地巴士25–35分钟／程按产品保留",
+                    "links": []
+                  }
+                ]
+              }
+            ],
+            "excluded": true
+          },
+          {
+            "time": [
+              "下午",
+              "16:00"
+            ],
+            "emoji": "🍽️",
+            "title": "晚餐 · 休息",
+            "body": [
+              {
+                "t": "游船返城后安排晚餐、咖啡与休息；哈士奇雪橇保留为已排除的替换项目，不与游船同时安排。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4683",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4684",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          }
+        ],
+        "originalDay": 5
+      },
+      {
+        "num": 4,
+        "id": "262:542",
+        "title": "特罗姆瑟 · 雪山徒步 → 晚上前往塞尼亚岛",
+        "date": "2月10日（周三） · 登高看峡湾，再连人带车乘轮渡前往塞尼亚",
+        "tags": [
+          "约2–2.5h（90–110km）"
+        ],
+        "photos": [
+          {
+            "label": "Kvaløya · 雪鞋山海景观",
+            "src": "../nordic/assets/day-06-0.jpg",
+            "source": "https://www.visitnorway.com/listings/private-snowshoe-trip/270294/"
+          },
+          {
+            "label": "Brensholmen–Botnhamn 轮渡",
+            "src": "../nordic/assets/day-06-1.jpg",
+            "source": "https://www.folkebladet.no/nyheter/i/2BpMPq/helaarsdrift-for-sambandet-brensholmen-botnhamn-ser-ut-til-aa-bli-suksess"
+          },
+          {
+            "label": "Mefjordvær 渔村",
+            "src": "../nordic/assets/day-06-2.jpg",
+            "source": "https://www.tripadvisor.com/Hotel_Review-g6527688-d7698951-Reviews-Mefjord_Brygge-Mefjordvaer_Berg_Municipality_Troms_Northern_Norway.html"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "9:20 -\n14:30"
+            ],
+            "emoji": "🏔️",
+            "title": "🔥 Kvaløya 雪鞋登高",
+            "body": [
+              {
+                "t": "市中心 Fredrik Langes gate 14集合，带高帮保暖防水鞋；雪鞋不等于保暖鞋。\n向导带领进入近郊雪山，可能爬升约 400 米，能看到峡湾和群山，以山海全景与中途热饮休息为特色，路线随雪况调整。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4695",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4696",
+                    "c": [
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4697",
+                        "c": [
+                          {
+                            "t": "09:20集合，全程5h",
+                            "links": []
+                          },
+                          {
+                            "t": "¥1,054人",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:551",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:552",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "向导允许停留时拍前景雪坡、远处峡湾的层次；短暂停步即可，不为取景偏离队伍。",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "随实际班次"
+            ],
+            "emoji": "⛴️",
+            "title": "自驾前往塞尼亚岛，乘坐181 汽车轮渡 → Botnhamn",
+            "body": [
+              {
+                "t": "自驾前往 Brensholmen 码头\n连人带车过峡湾，无需另开长距离陆路绕行；不接受提前订位，先到先排。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4701",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4702",
+                    "c": [
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4703",
+                        "c": [
+                          {
+                            "t": "航程约35–45分钟",
+                            "links": []
+                          },
+                          {
+                            "t": "¥161／车",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上",
+              "约1h"
+            ],
+            "emoji": "🏨",
+            "title": "Botnhamn → Mefjordvær · 入住",
+            "body": [
+              {
+                "t": "进入塞尼亚北部渔村，晚间以抵达住宿与休息为主。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4707",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4708",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:2858",
+                "c": [
+                  {
+                    "t": "🚗 Botnhamn → Mefjordvær约45–60分钟",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 6
+      },
+      {
+        "num": 5,
+        "id": "262:577",
+        "title": "塞尼亚 · 环岛自驾 → 晚上前往斯沃尔维尔",
+        "date": "2月11日（周四） · 串起海滩与观景台",
+        "tags": [
+          "约7–9h（430–500km）"
+        ],
+        "photos": [
+          {
+            "label": "Tungeneset 恶魔之牙",
+            "src": "../nordic/assets/day-07-0.jpg",
+            "source": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/"
+          },
+          {
+            "label": "Bergsbotn 峡湾",
+            "src": "../nordic/assets/day-07-1.jpg",
+            "source": "https://backiee.com/wallpaper/bergsbotn-viewpoint-at-wintertime-norway/121545"
+          },
+          {
+            "label": "Ersfjordstranda 海滩",
+            "src": "../nordic/assets/day-07-2.jpg",
+            "source": "https://nordnorge.com/en/artikkel/the-national-tourist-route-winds-around-senjas-outer-coast/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "白天",
+              "8:30 -\n14:30"
+            ],
+            "emoji": "🚗",
+            "title": "塞尼亚环岛自驾",
+            "body": [
+              {
+                "t": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær\nBergsbotn Viewing Platform： 悬空伸向峡湾的木质观景平台，俯瞰 Bergsfjord 峡湾、雪山与海湾村庄，是塞尼亚岛最经典的全景机位；停车后步行约 2–3 分钟\nTungeneset： 木栈道延伸至海边岩石平台，正对锯齿状的 Okshornan「恶魔之牙」雪山，黑色礁石、海浪与尖锐山峰形成极具冲击力的构图；停车后步行约 5–10 分钟\nErsfjordstranda： 被陡峭雪山包围的白沙海滩，冬季可拍摄雪山、浅色沙滩与北极海水的强烈反差，附近还有标志性的金色公共厕所；停车后步行约 2–5 分钟\nHusfjellet： 俯瞰 Bergsfjord 与周围群岛的高山观景点，山脊两侧延伸出壮阔的峡湾和尖峰，是塞尼亚岛最具代表性的登山摄影机位之一；夏季徒步往返约 3–5 小时，2 月需专业冬季登山向导，不属于路边观景点\nMefjordvær Viewpoint： 小渔村坐落在陡峭雪山与峡湾之间，红白色房屋、渔港和海岸山峰形成典型的北挪威风景；停车后步行约 2–5 分钟\nHusøy Fishing Village： 被雪山与海水包围的小岛渔村，通过堤道与塞尼亚岛相连，密集的彩色房屋散落在海湾中，适合拍摄渔村与峡湾全景；可自驾抵达\nHamn i Senja： 小型海港与周围岛礁相互交错，雪山、灯塔、木屋和海水构成层次丰富的北极海岸风景；停车后步行约 5–10 分钟\nSegla / Hesten Viewpoint： 塞尼亚岛最具辨识度的刀锋状山峰，近乎垂直的山壁直插峡湾，从 Hesten 山坡可以拍摄经典的 Segla 侧面构图；需登山徒步，2 月不建议无专业向导前往",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "281:4711",
+                "c": [
+                  {
+                    "t": "🚗 环岛约 6 小时 ",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:556",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:557",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "白天优先 Tungeneset 雪峰与黑礁、Bergsbotn 峡湾全景；木栈道开放且无冰封时再步行取景。",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上",
+              "15:00 - \n21:00"
+            ],
+            "emoji": "🚗",
+            "title": "自驾前往罗弗敦岛，入住斯沃尔维尔",
+            "body": [
+              {
+                "t": "经陆路主干道前往罗弗敦",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4743",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4744",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:2983",
+                "c": [
+                  {
+                    "t": "🚗 Bergsbotn → 斯沃尔维尔 约6h",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 7
+      },
+      {
+        "num": 6,
+        "id": "262:612",
+        "title": "罗弗敦岛 · 海钓 → 亨宁斯维尔 → 雷纳",
+        "date": "2月12日（周五） · 上午体验海钓，沿渔村与海岸一路向南",
+        "tags": [
+          "约3–4h（140–160km）"
+        ],
+        "photos": [
+          {
+            "label": "Svolvær · 渔船海钓",
+            "src": "../nordic/assets/day-08-0.jpg",
+            "source": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/"
+          },
+          {
+            "label": "Henningsvær 渔村",
+            "src": "../nordic/assets/day-08-1.jpg",
+            "source": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-mountain-in-the-background-MlBEc_7DemY"
+          },
+          {
+            "label": "Hamnøy 红色渔屋",
+            "src": "../nordic/assets/day-08-2.jpg",
+            "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "8:30 -\n13:00",
+              "建议"
+            ],
+            "emoji": "🎣",
+            "title": "🔥 传统渔船海钓",
+            "body": [
+              {
+                "t": "参考XXLofoten传统渔船MS Symra，集合地址J.E. Paulsens gate 9；官网要求发船前30分钟到。\n体验北挪威渔业文化、学习海钓和船上处理渔获",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4720",
+                "c": [
+                  {
+                    "t": "官网明确季节2月15日–4月30日，待确认是否有相应活动行程",
+                    "links": []
+                  },
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4721",
+                    "c": [
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4722",
+                        "c": [
+                          {
+                            "t": "全程4h",
+                            "links": []
+                          },
+                          {
+                            "t": "¥916/人",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "14:00 -\n15:15"
+            ],
+            "emoji": "🏘️",
+            "title": "亨宁斯维尔 渔村",
+            "body": [
+              {
+                "t": "桥梁连接的海岛渔村，沿港湾与小街短暂散步",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3058",
+                "c": [
+                  {
+                    "t": "🚗 斯沃尔维尔 → 亨宁斯维尔约30–40分钟",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:561",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:562",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "下午尚有日光时，从港口拍渔屋倒影与远处雪峰；阴天也适合红屋与冷色海水的对比。",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "15:30 -\n18:30",
+              "预算窗口"
+            ],
+            "emoji": "🚗",
+            "title": "沿E10南下 Hamnøy／雷纳",
+            "body": [
+              {
+                "t": "为了次日返程，建议今天就住到南端；路上只保留必要补给和休息，黄昏到达。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3083",
+                "c": [
+                  {
+                    "t": "🚗 亨宁斯维尔 → 雷纳 约2.5–3小时",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:566",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:567",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "沿 E10 仍有日光时，在合法停车处拍海湾、桥梁与雪山；天黑后以抵达住宿为主。",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "Background",
+                "id": "281:4751",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4752",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 8
+      },
+      {
+        "num": 7,
+        "id": "262:645",
+        "title": "罗弗敦 · 南部自驾 → 晚上返回特罗姆瑟",
+        "date": "2月13日（周六） · 短暂停留南部渔村，随后长途返回特罗姆瑟",
+        "tags": [
+          "约8–10h（550–620km）"
+        ],
+        "photos": [
+          {
+            "label": "Hamnøy · 雪山红屋",
+            "src": "../nordic/assets/day-09-0.jpg",
+            "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
+          },
+          {
+            "label": "Sakrisøy 黄色渔屋",
+            "src": "../nordic/assets/day-09-1.jpg",
+            "source": "https://www.lonelyplanet.com/articles/what-is-friluftsliv"
+          },
+          {
+            "label": "Reine 雷讷海湾",
+            "src": "../nordic/assets/day-09-2.jpg",
+            "source": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "白天",
+              "9:00"
+            ],
+            "emoji": "🚗",
+            "title": "罗弗敦南部环线自驾",
+            "body": [
+              {
+                "t": "Nusfjord Fishing Village： 保存完好的传统挪威渔村，红黄色渔屋沿狭窄海湾排列，背后是陡峭雪山，具有浓厚的北极渔业文化氛围；从停车场步行约 5–10 分钟，进入村落可能收费\nFredvang Bridges： 两座弧形桥梁跨越碧蓝海峡，背后是连绵的尖锐雪山，公路、桥梁与峡湾构成极具辨识度的罗弗敦摄影画面；可在桥梁附近安全停车点拍摄，步行约 5–10 分钟\nHamnøy Viewpoint： 罗弗敦最经典的明信片机位，红色渔屋坐落在海边礁石上，背后是陡峭的 Olstinden 雪山，红屋、海水和雪峰形成标志性构图；从附近停车点步行约 3–5 分钟\nSakrisøy Fishing Village： 明黄色传统渔屋散落在小岛海岸，背后是尖锐雪峰与宁静海湾，与 Hamnøy 的红色渔屋形成鲜明对比；可自驾抵达，停车后步行约 2–5 分钟\nReinehalsen Viewpoint： 俯瞰雷讷渔村、海湾和周围陡峭雪山的经典路边观景点，红色渔屋、岛屿与峡湾交错，是不登山也能拍到的罗弗敦代表性全景；停车后步行约 2–5 分钟\nÅ Fishing Village： 位于 E10 公路尽头的传统渔村，红色木屋、鳕鱼晾晒架、古老码头与雪山共同构成北挪威渔村风貌；停车后步行约 5–10 分钟\nReinebringen Viewpoint： 罗弗敦最著名的高山全景机位，从山脊俯瞰雷讷、蜿蜒峡湾和密集的刀锋状雪峰，视觉冲击力极强；需陡峭登山，2 月积雪结冰且存在雪崩风险，不建议安排普通自助徒步。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3108",
+                "c": [
+                  {
+                    "t": "🚗 游玩约 3h",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:571",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:572",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "早晨优先 Hamnøy 红屋、Sakrisøy 黄屋与雪峰；只选 1–2 个路边点，为长途返程留时间。",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "11:00 -\n19:00"
+            ],
+            "emoji": "🚗",
+            "title": "自驾前往特罗姆瑟",
+            "body": [
+              {
+                "t": "斯沃尔维尔到特罗姆瑟约6h；冬季加上休息，整段按8h准备",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3183",
+                "c": [
+                  {
+                    "t": "🚗 约8h",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上"
+            ],
+            "emoji": "🏨",
+            "title": "入住特罗姆瑟机场附近 · 次日08:55飞冰岛",
+            "body": [
+              {
+                "t": "次日清晨还车",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4755",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4756",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          }
+        ],
+        "originalDay": 9
+      }
+    ],
+    "notes": [
+      "自驾公里与时长为冬季路线估算，不含游览、团车及轮渡；具体住宿、支线与路况会影响实际用时。"
+    ]
+  },
+  {
+    "id": "iceland",
+    "name": "冰岛",
+    "en": "ICELAND",
+    "color": "#3B7C89",
+    "subtitle": "南岸冰与火",
+    "cover": [
+      "N O R D I C   J O U R N E Y   /   2 0 2 7",
+      "冰岛",
+      "南岸冰与火",
+      "2027  02.14 — 02.18  ·  DAY 08–12",
+      "5",
+      "本段天数",
+      "15",
+      "全程天数"
+    ],
+    "days": [
+      {
+        "num": 8,
+        "id": "262:702",
+        "title": "特罗姆瑟机场住宿 → 08:55飞 雷克雅未克 → 晚上抵达",
+        "date": "2月14日（周日） · 经赫尔辛基转机，傍晚抵达后取车入住",
+        "tags": [
+          "约1–1.5h（50–60km）",
+          "✈️ 08:55 飞冰岛 · 经赫尔辛基"
+        ],
+        "photos": [
+          {
+            "label": "雷克雅未克 · 大教堂",
+            "src": "../nordic/assets/day-10-0.jpg",
+            "source": "https://tanabotalog.com/iceland/"
+          },
+          {
+            "label": "Harpa 音乐厅",
+            "src": "../nordic/assets/day-10-1.jpg",
+            "source": "https://dornob.com/icelands-harpa-concert-hall-is-the-pinnacle-of-glass-architecture/"
+          },
+          {
+            "label": "雷克雅未克 · 冬日街景",
+            "src": "../nordic/assets/day-10-2.jpg",
+            "source": "https://www.radynacestu.cz/magazin/reykjavik/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "7:30"
+            ],
+            "emoji": "✈️",
+            "title": "特罗姆瑟值机 · 8:55 飞冰岛",
+            "body": [
+              {
+                "name": "Background",
+                "id": "281:4782",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4783",
+                    "c": [
+                      {
+                        "t": "特罗姆瑟 ✈️ 雷克雅未克 9h20m",
+                        "links": []
+                      },
+                      {
+                        "t": "8:55 - 17:15",
+                        "links": []
+                      },
+                      {
+                        "t": "芬兰航空",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4787",
+                        "c": [
+                          {
+                            "t": "¥2374",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "t": "特罗姆瑟 - 赫尔辛基 8:55 - 11:45",
+                    "links": []
+                  },
+                  {
+                    "t": "中转赫尔辛基 3h35m",
+                    "links": []
+                  },
+                  {
+                    "t": "赫尔辛基 - 雷克雅未克 15:20 - 17:15",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上",
+              "18:00"
+            ],
+            "emoji": "🚗",
+            "title": "取车 · 晚餐 · 入住雷克雅未克市区",
+            "body": [
+              {
+                "t": "抵达冰岛后取租车并检查车况，沿主路自驾进雷克雅未克；自驾南岸，离开冰岛时在机场还车。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4793",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4794",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3258",
+                "c": [
+                  {
+                    "t": "🚗 凯夫拉维克取车 → 雷克雅未克 约45分钟",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 10
+      },
+      {
+        "num": 9,
+        "id": "262:735",
+        "title": "南岸双瀑布 → 维克",
+        "date": "2月15日（周一） · 沿一号公路追随瀑布，傍晚抵达维克休整",
+        "tags": [
+          "约3–4h（200–220km）"
+        ],
+        "photos": [
+          {
+            "label": "塞里雅兰瀑布",
+            "src": "../nordic/assets/day-11-0.jpg",
+            "source": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland"
+          },
+          {
+            "label": "Skógafoss 斯科加瀑布",
+            "src": "../nordic/assets/day-11-1.jpg",
+            "source": "https://www.icelandair.com/it-it/blog/migliori-cascate-dell-islanda/"
+          },
+          {
+            "label": "Sólheimajökull 冰川",
+            "src": "../nordic/assets/day-11-2.jpg",
+            "source": "https://cn.adventures.is/iceland/attractions/solheimajokull/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "9:30 -\n12:30"
+            ],
+            "emoji": "💦",
+            "title": "雷克雅未克 → 塞里雅兰瀑布",
+            "body": [
+              {
+                "t": "细长落水与山崖形成南岸标志性景观；冬季以正面观景为主，不默认可以走到瀑布背后。",
+                "links": []
+              },
+              {
+                "name": "Frame 60",
+                "id": "288:5000",
+                "c": [
+                  {
+                    "name": "交通胶囊",
+                    "id": "281:4800",
+                    "c": [
+                      {
+                        "t": "🚗 雷克雅未克 → 塞里雅兰瀑布 约2h",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "交通胶囊",
+                    "id": "279:3383",
+                    "c": [
+                      {
+                        "t": "🚶 从停车区步行约5–10分钟；实际看结冰范围",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "13:00 -\n14:00"
+            ],
+            "emoji": "💦",
+            "title": "Skógafoss 斯科加瀑布",
+            "body": [
+              {
+                "t": "宽阔瀑面适合拍正面水势与人物尺度；阶梯是否攀爬按结冰和体力决定。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3408",
+                "c": [
+                  {
+                    "t": "🚗 塞里雅兰 → 斯科加约30分钟，冬季留40分钟",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:576",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:577",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "有阳光时留意瀑布水雾里的彩虹；从正面远处拍人物尺度，避开结冰与水雾湿滑区。",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "14:00 -\n15:00"
+            ],
+            "emoji": "🍽️",
+            "title": "午餐",
+            "body": [
+              {
+                "t": "瀑布附近或维克方向选开门餐饮；如餐厅排队，优先简餐，别把午餐压到所有店都关门。",
+                "links": []
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "15:00 -\n16:30"
+            ],
+            "emoji": "🚗",
+            "title": "前往维克 · 入住维克镇内",
+            "body": [
+              {
+                "t": "下午结束长距离游览，维克镇内小范围散步，黑沙滩留到次日上午。",
+                "links": []
+              },
+              {
+                "t": "顺路经过 Sólheimajökull 索尔黑马冰川；抵达维克后可短停 Víkurkirkja 维克教堂外观，拍小镇与海岸全景（支路开放、时间允许时短停）。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3458",
+                "c": [
+                  {
+                    "t": "🚗 斯科加 → 维克约35–45分钟",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "Background",
+                "id": "281:4820",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4821",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          }
+        ],
+        "originalDay": 11
+      },
+      {
+        "num": 10,
+        "id": "262:768",
+        "title": "黑沙滩 → Skaftafell",
+        "date": "2月16日（周二） · 上午看玄武岩与海浪，下午驶向冰川腹地",
+        "tags": [
+          "约3–4h（180–210km）"
+        ],
+        "photos": [
+          {
+            "label": "Reynisfjara 黑沙滩",
+            "src": "../nordic/assets/day-12-0.jpg",
+            "source": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/"
+          },
+          {
+            "label": "Fjaðrárgljúfur 羽毛峡谷",
+            "src": "../nordic/assets/day-12-1.jpg",
+            "source": "https://www.rexby.com/mattberthou/ttd/fjadrargljufur-is-one-of-the-deepest-canyons-in-iceland"
+          },
+          {
+            "label": "Hofskirkja 草皮教堂",
+            "src": "../nordic/assets/day-12-2.jpg",
+            "source": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "9:30 -\n10:30"
+            ],
+            "emoji": "🌊",
+            "title": "Reynisfjara 黑沙滩",
+            "body": [
+              {
+                "t": "黑色火山沙、玄武岩柱与海蚀柱形成强烈画面；只在允许区域拍照，不靠近浪线。",
+                "links": []
+              },
+              {
+                "name": "Frame 59",
+                "id": "281:4809",
+                "c": [
+                  {
+                    "name": "交通胶囊",
+                    "id": "279:3483",
+                    "c": [
+                      {
+                        "t": "🚗 维克 → 黑沙滩约15–20分钟／程",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "活动时长标签",
+                    "id": "281:4806",
+                    "c": [
+                      {
+                        "t": "🕐 1h",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "上午",
+              "10:45 -\n11:30"
+            ],
+            "emoji": "🍽️",
+            "title": "返回维克 · 午餐与加油",
+            "body": [
+              {
+                "t": "出镇前加油、吃饭、补水；确认接下来住宿是否提供晚餐，避免抵达后没有餐食。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3508",
+                "c": [
+                  {
+                    "t": "🚗 黑沙滩 → 维克约15–20分钟",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "上午",
+              "11:30 -\n15:30"
+            ],
+            "emoji": "🚗",
+            "title": "维克 → Skaftafell · 入住 Hof 村周边",
+            "body": [
+              {
+                "t": "沿1号公路东行，在官方停车位做少量风景停留；不要进入未评估的支路或高地F路。",
+                "links": []
+              },
+              {
+                "t": "顺路经过 Eldhraun 埃尔德熔岩原、Fjaðrárgljúfur 羽毛峡谷、Kirkjubæjarklaustur 教堂镇、Stjórnarfoss 阶梯瀑布、Hofskirkja 草皮教堂（支路开放、时间允许时短停；教堂镇可顺便补给、散步）。",
+                "links": []
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:581",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:582",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "白天在熔岩原指定停车点拍黑色熔岩与白雪纹理；Hof 草皮教堂适合低机位拍屋顶与雪山。",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "Background",
+                "id": "281:4816",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4817",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3533",
+                "c": [
+                  {
+                    "t": "🚗 维克 → Skaftafell 约3h",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 12
+      },
+      {
+        "num": 11,
+        "id": "262:801",
+        "title": "蓝冰洞 → 冰河湖 → 钻石沙滩",
+        "date": "2月17日（周三） · 走进冰川与蓝冰洞，再看浮冰与黑沙交汇",
+        "tags": [
+          "约2–2.5h（100–120km）"
+        ],
+        "photos": [
+          {
+            "label": "瓦特纳冰川 · 蓝冰洞参考",
+            "src": "../nordic/assets/day-13-0.jpg",
+            "source": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/"
+          },
+          {
+            "label": "Jökulsárlón 冰河湖",
+            "src": "../nordic/assets/day-13-1.jpg",
+            "source": "https://iceland-lovers.com/en/where-to-stay-iceland-winter-best-places-hotels/"
+          },
+          {
+            "label": "Fellsfjara 钻石沙滩",
+            "src": "../nordic/assets/day-13-2.jpg",
+            "source": "https://www.kimkim.com/c/12-day-ring-road-including-westfjords"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "9:00 -\n13:00",
+              "建议"
+            ],
+            "emoji": "🧊",
+            "title": "🔥 蓝冰洞＋冰川徒步 · Falljökull",
+            "body": [
+              {
+                "t": "Troll官网要求提前20分钟到场。现场确认冰爪、头盔、安全带与鞋子尺寸，贵重物品随身带。\n跟向导探索冰面与当天开放的天然冰洞；总团程约4小时，冰上约2小时，季节为10月–4月。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4810",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4811",
+                    "c": [
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4812",
+                        "c": [
+                          {
+                            "t": "全程4h",
+                            "links": []
+                          },
+                          {
+                            "t": "¥1,200–1,800／人",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3608",
+                "c": [
+                  {
+                    "t": "🚐 团车至冰川停车场约15分钟，再步行接近冰川",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "13:00 -\n15:00"
+            ],
+            "emoji": "🧊",
+            "title": "简餐 · 前往Jökulsárlón 冰河湖",
+            "body": [
+              {
+                "t": "漂浮蓝冰与冰川背景，是南岸摄影主点；冬季本卡只安排岸边观景，不安排游船。",
+                "links": []
+              },
+              {
+                "t": "顺路经过 Fjallsárlón 菲亚尔冰川湖，可在前往杰古沙龙途中短停。",
+                "links": []
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:586",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:587",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "午后从湖岸拍蓝冰与远山；用长焦压缩浮冰层次，风小时可留意水面倒影。",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3658",
+                "c": [
+                  {
+                    "t": "🚶 停车区 → 湖边短途步行约5–10分钟",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "15:10 -\n16:00"
+            ],
+            "emoji": "💎",
+            "title": "钻石沙滩 Fellsfjara · 当晚入住 Hof 村周边",
+            "body": [
+              {
+                "t": "透明冰块散落黑沙滩，可拍冰与海浪的对比；按现场浪况选择远处机位。",
+                "links": []
+              },
+              {
+                "t": "住宿建议：2/16–17 连住 Hof 村周边同一住处。钻石沙滩游览后向西返回，预留约45–60分钟车程（冬季视路况增加），为次日返程减少驾驶距离。",
+                "links": []
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "id": "295:591",
+                "c": [
+                  {
+                    "name": "拍照点标签",
+                    "id": "295:592",
+                    "c": [
+                      {
+                        "t": "📸",
+                        "links": []
+                      },
+                      {
+                        "t": "拍照点",
+                        "links": []
+                      }
+                    ]
+                  },
+                  {
+                    "t": "下午低角度光线可拍透亮冰块与黑沙反差；在远离浪线的位置取景，不追逐海浪中的冰块。",
+                    "links": []
+                  }
+                ]
+              },
+              {
+                "name": "Background",
+                "id": "281:4824",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4825",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 13
+      },
+      {
+        "num": 12,
+        "id": "262:836",
+        "title": "南岸返程 → 雷克雅未克",
+        "date": "2月18日（周四） · 沿南岸向西返回，给天气与沿途补拍留出余量",
+        "tags": [
+          "约5.5–7h（400–420km）"
+        ],
+        "photos": [
+          {
+            "label": "Skeiðarársandur 冰川平原",
+            "src": "../nordic/assets/day-14-0.jpg",
+            "source": "https://cromwell-intl.com/travel/iceland/vik-hali/"
+          },
+          {
+            "label": "蓝湖温泉 Blue Lagoon",
+            "src": "../nordic/assets/day-14-1.jpg",
+            "source": "https://www.nordicvisitor.com/blog/iceland-travel/"
+          },
+          {
+            "label": "Reykjanes 熔岩地貌",
+            "src": "../nordic/assets/day-14-2.jpg",
+            "source": "https://guidetoiceland.is/book-holiday-trips/private-reykjanes-tour-with-pick-up-included"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "9:00 - \n16:00"
+            ],
+            "emoji": "🚗",
+            "title": "西行回程 · 冰川平原公路",
+            "body": [
+              {
+                "t": "沿1号公路返回，按需要安排加油、洗手间与短休息。今天核心目标是为次日飞机保留缓冲。",
+                "links": []
+              },
+              {
+                "name": "交通胶囊",
+                "id": "279:3733",
+                "c": [
+                  {
+                    "t": "🚗 Skaftafell → 雷市约4.5–6h；冰河湖 → 雷市约5.5–7h冬季预算",
+                    "links": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "16:00 -\n18:00"
+            ],
+            "emoji": "♨️",
+            "title": "🔥 蓝湖温泉",
+            "body": [
+              {
+                "t": "乳蓝色温泉、黑色熔岩与蒸汽是冰岛最有代表性的画面",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4840",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4841",
+                    "c": [
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4842",
+                        "c": [
+                          {
+                            "t": "08:00—20:00",
+                            "links": []
+                          },
+                          {
+                            "t": "约 ¥707／人，含入场、毛巾、储物柜、硅泥面膜、1 杯指定无酒精饮品及桑拿／蒸汽浴",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "18:00"
+            ],
+            "emoji": "🏨",
+            "title": "入住凯夫拉维克机场（KEF）附近 · 归还车辆",
+            "body": [
+              {
+                "t": "抵达后办理入住、整理行李",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4860",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4861",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "originalDay": 14
+      }
+    ],
+    "notes": [
+      "自驾公里与时长为冬季路线估算，不含游览、团车及轮渡；具体住宿、支线与路况会影响实际用时。"
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": "丹麦",
+    "en": "DENMARK",
+    "color": "#995344",
+    "subtitle": "城市慢旅行",
+    "cover": [
+      "N O R D I C   J O U R N E Y   /   2 0 2 7",
+      "哥本哈根",
+      "城市慢旅行",
+      "2027  02.19 — 02.21  ·  DAY 13–15",
+      "3",
+      "本段天数",
+      "15",
+      "全程天数"
+    ],
+    "days": [
+      {
+        "num": 13,
+        "id": "262:891",
+        "title": "雷克雅未克机场住宿 → 7:30飞 哥本哈根 → 下午逛街",
+        "date": "2月19日（周五） · 告别冰岛，抵达后沿新港与步行街认识城市",
+        "tags": [
+          "✈️ 飞哥本哈根（班次待选）"
+        ],
+        "photos": [
+          {
+            "label": "Nyhavn 新港",
+            "src": "../nordic/assets/day-15-0.jpg",
+            "source": "https://foreverkaren.com/travel/copenhagen-cruise-port/"
+          },
+          {
+            "label": "Amalienborg 阿美琳堡宫",
+            "src": "../nordic/assets/day-15-1.jpg",
+            "source": "https://www.ad-magazin.de/artikel/schloesser-der-daenischen-koenigsfamilie"
+          },
+          {
+            "label": "新港 · 水岸夜景",
+            "src": "../nordic/assets/day-15-2.jpg",
+            "source": "https://www.hellotickets.co.in/denmark/copenhagen/copenhagen-in-may/sc-202-4477"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "出发",
+              "待确定"
+            ],
+            "emoji": "✈️",
+            "title": "雷克雅未克 ✈️ 哥本哈根",
+            "body": [
+              {
+                "name": "Background",
+                "id": "281:4864",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4865",
+                    "c": [
+                      {
+                        "t": "选项一 直飞3h",
+                        "links": []
+                      },
+                      {
+                        "t": "07:30 - 11:45",
+                        "links": []
+                      },
+                      {
+                        "t": "冰岛航空",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4869",
+                        "c": [
+                          {
+                            "t": "¥1685",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Background",
+                "id": "281:4872",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4873",
+                    "c": [
+                      {
+                        "t": "选项二 直飞3h",
+                        "links": []
+                      },
+                      {
+                        "t": "11:35 - 15:40",
+                        "links": []
+                      },
+                      {
+                        "t": "北欧航空",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4877",
+                        "c": [
+                          {
+                            "t": "¥1584",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "落地后",
+              "约1h"
+            ],
+            "emoji": "🚇",
+            "title": "机场进城 · 酒店寄存",
+            "body": [
+              {
+                "t": "往新港方向可乘M2至Kongens Nytorv，地铁全天运行；具体班次查Rejseplanen；酒店在中央火车站方向可选火车。",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4882",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4883",
+                    "c": [
+                      {
+                        "t": "机场 → 市中心约13–15分钟",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4887",
+                        "c": [
+                          {
+                            "t": "机场3区票约¥30／人",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午"
+            ],
+            "emoji": "🏛️",
+            "title": "经典哥本哈根 · 运河、皇宫",
+            "body": [
+              {
+                "t": "Nyhavn 新港： 哥本哈根最具代表性的彩色运河街区，17–18 世纪的彩色建筑、木船与水岸咖啡馆构成经典明信片画面；建议停留 45–60 分钟\nAmalienborg Palace 阿美琳堡宫： 丹麦王室的主要居所之一，四座洛可可宫殿环绕八角形广场，中央骑马雕像与卫兵换岗仪式很有特色；建议停留 30–60 分钟",
+                "links": []
+              },
+              {
+                "t": "若选择07:30出发、11:45抵达的航班，下午可顺路短逛 Strøget 步行购物街；若15:40才抵达，则以新港附近散步与晚餐为主。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上"
+            ],
+            "emoji": "🍽️",
+            "title": "晚餐",
+            "body": [
+              {
+                "t": "哥本哈根市区用餐",
+                "links": []
+              },
+              {
+                "name": "Background",
+                "id": "281:4913",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4914",
+                    "c": [
+                      {
+                        "t": "住宿未预订",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          }
+        ],
+        "originalDay": 15
+      },
+      {
+        "num": 14,
+        "id": "262:924",
+        "title": "哥本哈根 · 设计与逛街 → 20:00飞上海",
+        "date": "2月20日（周六） · 保留丹麦设计与独立小店，晚间返程",
+        "tags": [
+          "✈️ 20:00 飞上海"
+        ],
+        "photos": [
+          {
+            "label": "Designmuseum Danmark",
+            "src": "../nordic/assets/day-16-0.jpg",
+            "source": "https://danishdesignreview.com/blog/2017/10/19/chairs-at-designmuseum-danmark"
+          },
+          {
+            "label": "Strøget 步行街",
+            "src": "../nordic/assets/day-16-1.jpg",
+            "source": "https://lex.dk/hvid_jul"
+          },
+          {
+            "label": "哥本哈根 · 夜色港湾",
+            "src": "../nordic/assets/day-16-2.jpg",
+            "source": "https://viajesviatamundo.com/tour/tour-por-dinamarca-y-noruega/?srsltid=AfmBOorvqddkdbxtM7t3JZhZ5CLBxUwiRNjwgzQg-TO4GLvpaZA2g82y"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "10:00–11:30"
+            ],
+            "emoji": "🪑",
+            "title": "Designmuseum Danmark · 丹麦设计",
+            "body": [
+              {
+                "t": "参观经典家具、椅子与工艺设计，约1.5小时。返程日不叠加远郊博物馆，优先把时间留给设计与城市小店。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "中午",
+              "12:00–13:30"
+            ],
+            "emoji": "🛍️",
+            "title": "Nørrebro／Jægersborggade · 独立小店与午餐",
+            "body": [
+              {
+                "t": "集中逛 Jægersborggade 一条街，陶瓷、首饰和独立设计小店择店短逛，途中午餐或咖啡。可看 Keramiker Inge Vincents、Ladyfingers、Coffee Collective；不要求全部逛完。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "14:30–16:00"
+            ],
+            "emoji": "🛍️",
+            "title": "Vesterbro／Istedgade · 返程前逛街",
+            "body": [
+              {
+                "t": "从中央火车站西侧进入 Istedgade，往 Enghave Plads 方向挑店慢逛。Kyoto（Istedgade 95）可看北欧品牌与独立服饰；16:00左右结束购物，最晚17:00取回寄存行李。",
+                "links": []
+              },
+              {
+                "t": "Louisiana 现代艺术博物馆作为备选：若特别想去，需要替换今天的设计博物馆与部分逛街，不与这条市区路线叠加。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上",
+              "18:00"
+            ],
+            "emoji": "✈️",
+            "title": "哥本哈根 ✈️ 上海",
+            "body": [
+              {
+                "name": "Background",
+                "id": "281:4992",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "id": "281:4993",
+                    "c": [
+                      {
+                        "t": "直飞 10h30m",
+                        "links": []
+                      },
+                      {
+                        "t": "20:00 - 次日13:30",
+                        "links": []
+                      },
+                      {
+                        "t": "东方航空",
+                        "links": []
+                      },
+                      {
+                        "name": "Frame 55",
+                        "id": "281:4997",
+                        "c": [
+                          {
+                            "t": "¥4376",
+                            "links": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "t": "官网／详情 ↗",
+                "links": []
+              }
+            ]
+          }
+        ],
+        "originalDay": 16
+      },
+      {
+        "num": 15,
+        "id": "281:4890",
+        "title": "抵达上海",
+        "date": "2月21日（周日） · 13:30抵达上海",
+        "tags": [
+          "✈️ 13:30 抵达上海"
+        ],
+        "photos": [],
+        "activities": [],
+        "originalDay": 18
+      }
+    ],
+    "notes": []
+  }
+]

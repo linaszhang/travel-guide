@@ -1,0 +1,1278 @@
+[
+  {
+    "query": "Tromsø Airport",
+    "name": "特罗姆瑟机场",
+    "days": [
+      1,
+      2,
+      7,
+      8
+    ],
+    "kind": "airport",
+    "coord": [
+      18.9137976,
+      69.6818725
+    ],
+    "id": "p20",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-04-0.jpg",
+    "imageLabel": "Ersfjordbotn 峡湾",
+    "imageSource": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T",
+    "rating": null
+  },
+  {
+    "query": "Ersfjordbotn Norway",
+    "name": "Ersfjordbotn 峡湾",
+    "days": [
+      2
+    ],
+    "kind": "nature",
+    "coord": [
+      18.6208344,
+      69.6944118
+    ],
+    "id": "p21",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-04-0.jpg",
+    "imageLabel": "Ersfjordbotn 峡湾",
+    "imageSource": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T",
+    "description": "拍照记录车况、确认冬胎与保险，再采购水、零食等公路补给。\n选择一个峡湾村庄和沿途合法停车点，体验海岸雪山。只走 Ersfjordbotn 一线，不在落地日再绕完整个鲸岛与夏日岛。",
+    "rating": null
+  },
+  {
+    "query": "Polar Museum Tromsø",
+    "name": "极地博物馆",
+    "days": [
+      2
+    ],
+    "kind": "sight",
+    "id": "p22",
+    "coord": [
+      18.9633171,
+      69.652207
+    ],
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-04-0.jpg",
+    "imageLabel": "Ersfjordbotn 峡湾",
+    "imageSource": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T",
+    "rating": null
+  },
+  {
+    "query": "Storgata Tromsø",
+    "name": "Storgata 主街",
+    "days": [
+      2
+    ],
+    "kind": "shopping",
+    "coord": [
+      18.9626113,
+      69.6556521
+    ],
+    "id": "p23",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-04-2.jpg",
+    "imageLabel": "Storgata 冬日街景",
+    "imageSource": "https://depuertoenpuerto.com/un-breve-paseo-invernal-por-tromso/",
+    "rating": null
+  },
+  {
+    "query": "Tromsø harbour",
+    "name": "特罗姆瑟港口",
+    "days": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "kind": "sight",
+    "coord": [
+      18.9649592,
+      69.650719
+    ],
+    "id": "p24",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-04-0.jpg",
+    "imageLabel": "Ersfjordbotn 峡湾",
+    "imageSource": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T",
+    "rating": null
+  },
+  {
+    "query": "Radisson Blu Tromsø",
+    "name": "Radisson Blu 集合点",
+    "days": [
+      3
+    ],
+    "kind": "optional",
+    "coord": [
+      18.9606995,
+      69.6492018
+    ],
+    "id": "p25",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-05-0.jpg",
+    "imageLabel": "特罗姆瑟 · 哈士奇雪橇",
+    "imageSource": "https://guidetoeurope.eu/norway/best-tours-and-tickets/details/tromso-husky-sledding-adventure-with-soup-and-transfers",
+    "description": "🚗 自驾到Radisson Blu附近合法停车区集合；营地巴士25–35分钟／程按产品保留",
+    "rating": null
+  },
+  {
+    "query": "Kvaløya Tromsø Norway",
+    "name": "Kvaløya 鲸岛",
+    "days": [
+      2,
+      4
+    ],
+    "kind": "nature",
+    "coord": [
+      18.791863,
+      69.684458
+    ],
+    "id": "p26",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-06-0.jpg",
+    "imageLabel": "Kvaløya · 雪鞋山海景观",
+    "imageSource": "https://www.visitnorway.com/listings/private-snowshoe-trip/270294/",
+    "description": "拍照记录车况、确认冬胎与保险，再采购水、零食等公路补给。\n选择一个峡湾村庄和沿途合法停车点，体验海岸雪山。只走 Ersfjordbotn 一线，不在落地日再绕完整个鲸岛与夏日岛。",
+    "rating": null
+  },
+  {
+    "query": "Fredrik Langes gate 14 Tromsø",
+    "name": "雪鞋团集合点",
+    "days": [
+      4
+    ],
+    "kind": "transport",
+    "coord": [
+      18.957924,
+      69.64932
+    ],
+    "id": "p27",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-06-0.jpg",
+    "imageLabel": "Kvaløya · 雪鞋山海景观",
+    "imageSource": "https://www.visitnorway.com/listings/private-snowshoe-trip/270294/",
+    "rating": null
+  },
+  {
+    "query": "Brensholmen ferry Norway",
+    "name": "Brensholmen 轮渡码头",
+    "days": [
+      4
+    ],
+    "kind": "transport",
+    "id": "p28",
+    "coord": [
+      18.0160868,
+      69.5903593
+    ],
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-06-1.jpg",
+    "imageLabel": "Brensholmen–Botnhamn 轮渡",
+    "imageSource": "https://www.folkebladet.no/nyheter/i/2BpMPq/helaarsdrift-for-sambandet-brensholmen-botnhamn-ser-ut-til-aa-bli-suksess",
+    "rating": null
+  },
+  {
+    "query": "Botnhamn ferry Norway",
+    "name": "Botnhamn 轮渡码头",
+    "days": [
+      4
+    ],
+    "kind": "transport",
+    "id": "p29",
+    "coord": [
+      17.9028281,
+      69.5082193
+    ],
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-06-1.jpg",
+    "imageLabel": "Brensholmen–Botnhamn 轮渡",
+    "imageSource": "https://www.folkebladet.no/nyheter/i/2BpMPq/helaarsdrift-for-sambandet-brensholmen-botnhamn-ser-ut-til-aa-bli-suksess",
+    "description": "自驾前往 Brensholmen 码头\n连人带车过峡湾，无需另开长距离陆路绕行；不接受提前订位，先到先排。",
+    "rating": null
+  },
+  {
+    "query": "Mefjordvær Norway",
+    "name": "Mefjordvær 渔村",
+    "days": [
+      4,
+      5
+    ],
+    "kind": "sight",
+    "coord": [
+      17.438209,
+      69.5186431
+    ],
+    "id": "p30",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-06-2.jpg",
+    "imageLabel": "Mefjordvær 渔村",
+    "imageSource": "https://www.tripadvisor.com/Hotel_Review-g6527688-d7698951-Reviews-Mefjord_Brygge-Mefjordvaer_Berg_Municipality_Troms_Northern_Norway.html",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "Ersfjordstranda Senja",
+    "name": "Ersfjordstranda 海滩",
+    "days": [
+      5
+    ],
+    "kind": "nature",
+    "coord": [
+      17.394624,
+      69.478861
+    ],
+    "id": "p31",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-07-2.jpg",
+    "imageLabel": "Ersfjordstranda 海滩",
+    "imageSource": "https://nordnorge.com/en/artikkel/the-national-tourist-route-winds-around-senjas-outer-coast/",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "Tungeneset Senja",
+    "name": "Tungeneset 恶魔之牙",
+    "days": [
+      5
+    ],
+    "kind": "nature",
+    "coord": [
+      17.333932,
+      69.488865
+    ],
+    "id": "p32",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "Bergsbotn Norway",
+    "name": "Bergsbotn 观景台",
+    "days": [
+      5
+    ],
+    "kind": "nature",
+    "coord": [
+      17.467572,
+      69.4396444
+    ],
+    "id": "p33",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-07-1.jpg",
+    "imageLabel": "Bergsbotn 峡湾",
+    "imageSource": "https://backiee.com/wallpaper/bergsbotn-viewpoint-at-wintertime-norway/121545",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "Husfjellet Senja Norway",
+    "name": "Husfjellet（冬季需向导）",
+    "days": [
+      5
+    ],
+    "kind": "optional",
+    "coord": [
+      17.2730764,
+      69.4702389
+    ],
+    "id": "p34",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "rating": null
+  },
+  {
+    "query": "Husøy Senja Norway",
+    "name": "Husøy 渔村",
+    "days": [
+      5
+    ],
+    "kind": "optional",
+    "coord": [
+      17.6636993,
+      69.5441983
+    ],
+    "id": "p35",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "description": "Husøy Fishing Village： 被雪山与海水包围的小岛渔村，通过堤道与塞尼亚岛相连，密集的彩色房屋散落在海湾中，适合拍摄渔村与峡湾全景；可自驾抵达",
+    "rating": null
+  },
+  {
+    "query": "Hamn i Senja Norway",
+    "name": "Hamn i Senja",
+    "days": [
+      5
+    ],
+    "kind": "optional",
+    "coord": [
+      17.2129307,
+      69.4151237
+    ],
+    "id": "p36",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "description": "Hamn i Senja： 小型海港与周围岛礁相互交错，雪山、灯塔、木屋和海水构成层次丰富的北极海岸风景；停车后步行约 5–10 分钟",
+    "rating": null
+  },
+  {
+    "query": "Segla Senja Norway",
+    "name": "Segla／Hesten（冬季不建议自助）",
+    "days": [
+      5
+    ],
+    "kind": "optional",
+    "coord": [
+      17.5957204,
+      69.5073661
+    ],
+    "id": "p37",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "description": "Segla / Hesten Viewpoint： 塞尼亚岛最具辨识度的刀锋状山峰，近乎垂直的山壁直插峡湾，从 Hesten 山坡可以拍摄经典的 Segla 侧面构图；需登山徒步，2 月不建议无专业向导前往",
+    "rating": null
+  },
+  {
+    "query": "Finnsnes Norway",
+    "name": "Finnsnes",
+    "days": [
+      5
+    ],
+    "kind": "transport",
+    "coord": [
+      17.9812966,
+      69.2296016
+    ],
+    "id": "p38",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "Bjerkvik Norway",
+    "name": "Bjerkvik",
+    "days": [
+      5,
+      7
+    ],
+    "kind": "transport",
+    "coord": [
+      17.5571481,
+      68.5491657
+    ],
+    "id": "p39",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-07-0.jpg",
+    "imageLabel": "Tungeneset 恶魔之牙",
+    "imageSource": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "Svolvær Norway",
+    "name": "Svolvær 斯沃尔维尔",
+    "days": [
+      5,
+      6,
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      14.5646019,
+      68.2321709
+    ],
+    "id": "p40",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-08-0.jpg",
+    "imageLabel": "Svolvær · 渔船海钓",
+    "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
+    "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
+    "rating": null
+  },
+  {
+    "query": "J E Paulsens gate 9 Svolvær",
+    "name": "海钓集合点 · J.E. Paulsens gate 9",
+    "days": [
+      6
+    ],
+    "kind": "transport",
+    "id": "p41",
+    "coord": [
+      14.5658836,
+      68.2333303
+    ],
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-08-0.jpg",
+    "imageLabel": "Svolvær · 渔船海钓",
+    "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
+    "description": "参考XXLofoten传统渔船MS Symra，集合地址J.E. Paulsens gate 9；官网要求发船前30分钟到。",
+    "rating": null
+  },
+  {
+    "query": "Henningsvær Norway",
+    "name": "Henningsvær 亨宁斯维尔",
+    "days": [
+      6
+    ],
+    "kind": "sight",
+    "coord": [
+      14.2007245,
+      68.152888
+    ],
+    "id": "p42",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-08-1.jpg",
+    "imageLabel": "Henningsvær 渔村",
+    "imageSource": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-mountain-in-the-background-MlBEc_7DemY",
+    "rating": null
+  },
+  {
+    "query": "Hamnøy Norway",
+    "name": "Hamnøy 红色渔屋",
+    "days": [
+      6,
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      13.137623,
+      67.946388
+    ],
+    "id": "p43",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-08-2.jpg",
+    "imageLabel": "Hamnøy 红色渔屋",
+    "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
+    "description": "为了次日返程，建议今天就住到南端；路上只保留必要补给和休息，黄昏到达。",
+    "rating": null
+  },
+  {
+    "query": "Reine Norway",
+    "name": "Reine 雷纳",
+    "days": [
+      6,
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      13.0887684,
+      67.9324675
+    ],
+    "id": "p44",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-09-2.jpg",
+    "imageLabel": "Reine 雷讷海湾",
+    "imageSource": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/",
+    "description": "Reinehalsen Viewpoint： 俯瞰雷讷渔村、海湾和周围陡峭雪山的经典路边观景点，红色渔屋、岛屿与峡湾交错，是不登山也能拍到的罗弗敦代表性全景；停车后步行约 2–5 分钟",
+    "rating": null
+  },
+  {
+    "query": "Nusfjord Norway",
+    "name": "Nusfjord 渔村",
+    "days": [
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      13.3477048,
+      68.0354096
+    ],
+    "id": "p45",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-09-0.jpg",
+    "imageLabel": "Hamnøy · 雪山红屋",
+    "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
+    "description": "Nusfjord Fishing Village： 保存完好的传统挪威渔村，红黄色渔屋沿狭窄海湾排列，背后是陡峭雪山，具有浓厚的北极渔业文化氛围；从停车场步行约 5–10 分钟，进入村落可能收费",
+    "rating": null
+  },
+  {
+    "query": "Fredvang Norway",
+    "name": "Fredvang 桥梁",
+    "days": [
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      13.1666862,
+      68.0840556
+    ],
+    "id": "p46",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-09-0.jpg",
+    "imageLabel": "Hamnøy · 雪山红屋",
+    "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
+    "description": "Fredvang Bridges： 两座弧形桥梁跨越碧蓝海峡，背后是连绵的尖锐雪山，公路、桥梁与峡湾构成极具辨识度的罗弗敦摄影画面；可在桥梁附近安全停车点拍摄，步行约 5–10 分钟",
+    "rating": null
+  },
+  {
+    "query": "Sakrisøy Norway",
+    "name": "Sakrisøy 黄色渔屋",
+    "days": [
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      13.1110859,
+      67.9412116
+    ],
+    "id": "p47",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-09-1.jpg",
+    "imageLabel": "Sakrisøy 黄色渔屋",
+    "imageSource": "https://www.lonelyplanet.com/articles/what-is-friluftsliv",
+    "description": "Nusfjord Fishing Village： 保存完好的传统挪威渔村，红黄色渔屋沿狭窄海湾排列，背后是陡峭雪山，具有浓厚的北极渔业文化氛围；从停车场步行约 5–10 分钟，进入村落可能收费",
+    "rating": null
+  },
+  {
+    "query": "Reinehalsen Norway",
+    "name": "Reinehalsen 观景点",
+    "days": [
+      7
+    ],
+    "kind": "nature",
+    "coord": [
+      13.0858333,
+      67.9283833
+    ],
+    "id": "p48",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-09-0.jpg",
+    "imageLabel": "Hamnøy · 雪山红屋",
+    "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
+    "description": "Reinehalsen Viewpoint： 俯瞰雷讷渔村、海湾和周围陡峭雪山的经典路边观景点，红色渔屋、岛屿与峡湾交错，是不登山也能拍到的罗弗敦代表性全景；停车后步行约 2–5 分钟",
+    "rating": null
+  },
+  {
+    "query": "Å Lofoten Norway",
+    "name": "Å 渔村",
+    "days": [
+      7
+    ],
+    "kind": "sight",
+    "coord": [
+      12.9534616,
+      67.8846138
+    ],
+    "id": "p49",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-09-0.jpg",
+    "imageLabel": "Hamnøy · 雪山红屋",
+    "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
+    "rating": null
+  },
+  {
+    "query": "Reinebringen Norway",
+    "name": "Reinebringen（冬季不建议徒步）",
+    "days": [
+      7
+    ],
+    "kind": "optional",
+    "coord": [
+      13.0714019,
+      67.92784
+    ],
+    "id": "p50",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "imageReference": true,
+    "image": "../nordic/assets/day-09-0.jpg",
+    "imageLabel": "Hamnøy · 雪山红屋",
+    "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
+    "rating": null
+  },
+  {
+    "query": "Keflavik Airport Iceland",
+    "name": "凯夫拉维克机场 KEF",
+    "days": [
+      8,
+      12,
+      13
+    ],
+    "kind": "airport",
+    "coord": [
+      -22.6238642,
+      63.9950427
+    ],
+    "id": "p51",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-10-0.jpg",
+    "imageLabel": "雷克雅未克 · 大教堂",
+    "imageSource": "https://tanabotalog.com/iceland/",
+    "rating": null
+  },
+  {
+    "query": "Reykjavik Iceland",
+    "name": "雷克雅未克市区",
+    "days": [
+      8,
+      9
+    ],
+    "kind": "sight",
+    "coord": [
+      -21.9422367,
+      64.145981
+    ],
+    "id": "p52",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-10-0.jpg",
+    "imageLabel": "雷克雅未克 · 大教堂",
+    "imageSource": "https://tanabotalog.com/iceland/",
+    "description": "抵达冰岛后取租车并检查车况，沿主路自驾进雷克雅未克；自驾南岸，离开冰岛时在机场还车。",
+    "rating": null
+  },
+  {
+    "query": "Hallgrimskirkja Reykjavik",
+    "name": "哈尔格林姆斯教堂",
+    "days": [
+      8
+    ],
+    "kind": "sight",
+    "coord": [
+      -21.9267103,
+      64.1417951
+    ],
+    "id": "p53",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-10-0.jpg",
+    "imageLabel": "雷克雅未克 · 大教堂",
+    "imageSource": "https://tanabotalog.com/iceland/",
+    "rating": null
+  },
+  {
+    "query": "Harpa Reykjavik",
+    "name": "Harpa 音乐厅",
+    "days": [
+      8
+    ],
+    "kind": "sight",
+    "coord": [
+      -21.9328535,
+      64.1504326
+    ],
+    "id": "p54",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-10-1.jpg",
+    "imageLabel": "Harpa 音乐厅",
+    "imageSource": "https://dornob.com/icelands-harpa-concert-hall-is-the-pinnacle-of-glass-architecture/",
+    "rating": null
+  },
+  {
+    "query": "Seljalandsfoss Iceland",
+    "name": "塞里雅兰瀑布",
+    "days": [
+      9
+    ],
+    "kind": "nature",
+    "coord": [
+      -19.9881686,
+      63.6154571
+    ],
+    "id": "p55",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-11-0.jpg",
+    "imageLabel": "塞里雅兰瀑布",
+    "imageSource": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland",
+    "description": "细长落水与山崖形成南岸标志性景观；冬季以正面观景为主，不默认可以走到瀑布背后。",
+    "rating": null
+  },
+  {
+    "query": "Skogafoss Iceland",
+    "name": "Skógafoss 斯科加瀑布",
+    "days": [
+      9
+    ],
+    "kind": "nature",
+    "coord": [
+      -19.511292,
+      63.5321038
+    ],
+    "id": "p56",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-11-1.jpg",
+    "imageLabel": "Skógafoss 斯科加瀑布",
+    "imageSource": "https://www.icelandair.com/it-it/blog/migliori-cascate-dell-islanda/",
+    "description": "宽阔瀑面适合拍正面水势与人物尺度；阶梯是否攀爬按结冰和体力决定。",
+    "rating": null
+  },
+  {
+    "query": "Solheimajokull Iceland",
+    "name": "Sólheimajökull 索尔黑马冰川",
+    "days": [
+      9
+    ],
+    "kind": "optional",
+    "coord": [
+      -19.2955016,
+      63.5660204
+    ],
+    "id": "p57",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-11-2.jpg",
+    "imageLabel": "Sólheimajökull 冰川",
+    "imageSource": "https://cn.adventures.is/iceland/attractions/solheimajokull/",
+    "description": "顺路经过 Sólheimajökull 索尔黑马冰川（支路开放、时间允许时短停观景）。",
+    "rating": null
+  },
+  {
+    "query": "Vik Iceland",
+    "name": "Vík 维克",
+    "days": [
+      9,
+      10
+    ],
+    "kind": "sight",
+    "coord": [
+      -19.0054737,
+      63.4188166
+    ],
+    "id": "p58",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-11-0.jpg",
+    "imageLabel": "塞里雅兰瀑布",
+    "imageSource": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland",
+    "rating": null
+  },
+  {
+    "query": "Reynisfjara Iceland",
+    "name": "Reynisfjara 黑沙滩",
+    "days": [
+      10
+    ],
+    "kind": "nature",
+    "coord": [
+      -19.0587987,
+      63.4044262
+    ],
+    "id": "p59",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-12-0.jpg",
+    "imageLabel": "Reynisfjara 黑沙滩",
+    "imageSource": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/",
+    "description": "黑色火山沙、玄武岩柱与海蚀柱形成强烈画面；只在允许区域拍照，不靠近浪线。",
+    "rating": null
+  },
+  {
+    "query": "Eldhraun Iceland",
+    "name": "Eldhraun 埃尔德熔岩原",
+    "days": [
+      10
+    ],
+    "kind": "optional",
+    "coord": [
+      -18.2050033,
+      63.7408959
+    ],
+    "id": "p60",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-12-0.jpg",
+    "imageLabel": "Reynisfjara 黑沙滩",
+    "imageSource": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/",
+    "description": "顺路经过 Eldhraun 埃尔德熔岩原、Fjaðrárgljúfur 羽毛峡谷、Stjórnarfoss 阶梯瀑布、Hofskirkja 草皮教堂（支路开放、时间允许时短停）。",
+    "rating": null
+  },
+  {
+    "query": "Fjaðrárgljúfur Iceland",
+    "name": "Fjaðrárgljúfur 羽毛峡谷",
+    "days": [
+      10
+    ],
+    "kind": "optional",
+    "coord": [
+      -18.1737214,
+      63.7725995
+    ],
+    "id": "p61",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-12-1.jpg",
+    "imageLabel": "Fjaðrárgljúfur 羽毛峡谷",
+    "imageSource": "https://www.rexby.com/mattberthou/ttd/fjadrargljufur-is-one-of-the-deepest-canyons-in-iceland",
+    "description": "顺路经过 Eldhraun 埃尔德熔岩原、Fjaðrárgljúfur 羽毛峡谷、Stjórnarfoss 阶梯瀑布、Hofskirkja 草皮教堂（支路开放、时间允许时短停）。",
+    "rating": null
+  },
+  {
+    "query": "Stjórnarfoss Iceland",
+    "name": "Stjórnarfoss 阶梯瀑布",
+    "days": [
+      10
+    ],
+    "kind": "optional",
+    "coord": [
+      -18.0620001,
+      63.7993723
+    ],
+    "id": "p62",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-12-0.jpg",
+    "imageLabel": "Reynisfjara 黑沙滩",
+    "imageSource": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/",
+    "description": "顺路经过 Eldhraun 埃尔德熔岩原、Fjaðrárgljúfur 羽毛峡谷、Stjórnarfoss 阶梯瀑布、Hofskirkja 草皮教堂（支路开放、时间允许时短停）。",
+    "rating": null
+  },
+  {
+    "query": "Skaftafell Iceland",
+    "name": "Skaftafell 斯卡夫塔山",
+    "days": [
+      10,
+      11
+    ],
+    "kind": "nature",
+    "coord": [
+      -16.966458,
+      64.0164548
+    ],
+    "id": "p63",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-12-0.jpg",
+    "imageLabel": "Reynisfjara 黑沙滩",
+    "imageSource": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/",
+    "description": "沿1号公路东行，在官方停车位做少量风景停留；不要进入未评估的支路或高地F路。",
+    "rating": null
+  },
+  {
+    "query": "Hofskirkja Iceland",
+    "name": "Hofskirkja 草皮教堂",
+    "days": [
+      10
+    ],
+    "kind": "optional",
+    "coord": [
+      -16.7067323,
+      63.9070358
+    ],
+    "id": "p64",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-12-2.jpg",
+    "imageLabel": "Hofskirkja 草皮教堂",
+    "imageSource": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly",
+    "description": "顺路经过 Eldhraun 埃尔德熔岩原、Fjaðrárgljúfur 羽毛峡谷、Stjórnarfoss 阶梯瀑布、Hofskirkja 草皮教堂（支路开放、时间允许时短停）。",
+    "rating": null
+  },
+  {
+    "query": "Hof Öræfi Iceland",
+    "name": "Hof 村住宿区域",
+    "days": [
+      10,
+      11,
+      12
+    ],
+    "kind": "stay",
+    "id": "p65",
+    "coord": [
+      -16.7067323,
+      63.9070358
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-12-2.jpg",
+    "imageLabel": "Hofskirkja 草皮教堂",
+    "imageSource": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly",
+    "description": "沿1号公路东行，在官方停车位做少量风景停留；不要进入未评估的支路或高地F路。",
+    "rating": null
+  },
+  {
+    "query": "Falljökull Iceland",
+    "name": "Falljökull 冰川徒步区域",
+    "days": [
+      11
+    ],
+    "kind": "nature",
+    "coord": [
+      -16.7303927,
+      63.9867209
+    ],
+    "id": "p66",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-13-0.jpg",
+    "imageLabel": "瓦特纳冰川 · 蓝冰洞参考",
+    "imageSource": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/",
+    "description": "Troll官网要求提前20分钟到场。现场确认冰爪、头盔、安全带与鞋子尺寸，贵重物品随身带。\n跟向导探索冰面与当天开放的天然冰洞；总团程约4小时，冰上约2小时，季节为10月–4月。",
+    "rating": null
+  },
+  {
+    "query": "Fjallsárlón Iceland",
+    "name": "Fjallsárlón 菲亚尔冰川湖",
+    "days": [
+      11
+    ],
+    "kind": "optional",
+    "coord": [
+      -16.3977875,
+      64.0228952
+    ],
+    "id": "p67",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-13-0.jpg",
+    "imageLabel": "瓦特纳冰川 · 蓝冰洞参考",
+    "imageSource": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/",
+    "description": "顺路经过 Fjallsárlón 菲亚尔冰川湖，可在前往杰古沙龙途中短停。",
+    "rating": null
+  },
+  {
+    "query": "Jökulsárlón Iceland",
+    "name": "Jökulsárlón 杰古沙龙冰河湖",
+    "days": [
+      11
+    ],
+    "kind": "nature",
+    "coord": [
+      -16.2274213,
+      64.0783208
+    ],
+    "id": "p68",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-13-1.jpg",
+    "imageLabel": "Jökulsárlón 冰河湖",
+    "imageSource": "https://iceland-lovers.com/en/where-to-stay-iceland-winter-best-places-hotels/",
+    "description": "漂浮蓝冰与冰川背景，是南岸摄影主点；冬季本卡只安排岸边观景，不安排游船。",
+    "rating": null
+  },
+  {
+    "query": "Diamond Beach Iceland",
+    "name": "Fellsfjara 钻石沙滩",
+    "days": [
+      11
+    ],
+    "kind": "nature",
+    "coord": [
+      -16.178248,
+      64.0431419
+    ],
+    "id": "p69",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-13-2.jpg",
+    "imageLabel": "Fellsfjara 钻石沙滩",
+    "imageSource": "https://www.kimkim.com/c/12-day-ring-road-including-westfjords",
+    "description": "透明冰块散落黑沙滩，可拍冰与海浪的对比；按现场浪况选择远处机位。",
+    "rating": null
+  },
+  {
+    "query": "Skeiðarársandur Iceland",
+    "name": "Skeiðarársandur 冰川平原",
+    "days": [
+      12
+    ],
+    "kind": "nature",
+    "coord": [
+      -17.2585352,
+      63.8875265
+    ],
+    "id": "p70",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-14-0.jpg",
+    "imageLabel": "Skeiðarársandur 冰川平原",
+    "imageSource": "https://cromwell-intl.com/travel/iceland/vik-hali/",
+    "description": "沿1号公路返回，按需要安排加油、洗手间与短休息。今天核心目标是为次日飞机保留缓冲。",
+    "rating": null
+  },
+  {
+    "query": "Blue Lagoon Iceland",
+    "name": "蓝湖温泉",
+    "days": [
+      12
+    ],
+    "kind": "spa",
+    "coord": [
+      -22.4443196,
+      63.8791684
+    ],
+    "id": "p71",
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-14-1.jpg",
+    "imageLabel": "蓝湖温泉 Blue Lagoon",
+    "imageSource": "https://www.nordicvisitor.com/blog/iceland-travel/",
+    "rating": null
+  },
+  {
+    "query": "Copenhagen Airport",
+    "name": "哥本哈根机场 CPH",
+    "days": [
+      13,
+      14
+    ],
+    "kind": "airport",
+    "coord": [
+      12.6509822,
+      55.6091282
+    ],
+    "id": "p72",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "imageReference": true,
+    "image": "../nordic/assets/day-15-0.jpg",
+    "imageLabel": "Nyhavn 新港",
+    "imageSource": "https://foreverkaren.com/travel/copenhagen-cruise-port/",
+    "rating": null
+  },
+  {
+    "query": "Nyhavn Copenhagen",
+    "name": "Nyhavn 新港",
+    "days": [
+      13
+    ],
+    "kind": "sight",
+    "coord": [
+      12.5908855,
+      55.679736
+    ],
+    "id": "p73",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "image": "../nordic/assets/day-15-0.jpg",
+    "imageLabel": "Nyhavn 新港",
+    "imageSource": "https://foreverkaren.com/travel/copenhagen-cruise-port/",
+    "description": "Nyhavn 新港： 哥本哈根最具代表性的彩色运河街区，17–18 世纪的彩色建筑、木船与水岸咖啡馆构成经典明信片画面；建议停留 45–60 分钟",
+    "rating": null
+  },
+  {
+    "query": "Amalienborg Copenhagen",
+    "name": "Amalienborg 阿美琳堡宫",
+    "days": [
+      13
+    ],
+    "kind": "sight",
+    "coord": [
+      12.5930781,
+      55.6839601
+    ],
+    "id": "p74",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "image": "../nordic/assets/day-15-1.jpg",
+    "imageLabel": "Amalienborg 阿美琳堡宫",
+    "imageSource": "https://www.ad-magazin.de/artikel/schloesser-der-daenischen-koenigsfamilie",
+    "description": "Amalienborg Palace 阿美琳堡宫： 丹麦王室的主要居所之一，四座洛可可宫殿环绕八角形广场，中央骑马雕像与卫兵换岗仪式很有特色；建议停留 30–60 分钟",
+    "rating": null
+  },
+  {
+    "query": "Kongens Nytorv Copenhagen",
+    "name": "Kongens Nytorv 地铁站",
+    "days": [
+      13
+    ],
+    "kind": "transport",
+    "coord": [
+      12.5859632,
+      55.6804191
+    ],
+    "id": "p75",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "imageReference": true,
+    "image": "../nordic/assets/day-15-0.jpg",
+    "imageLabel": "Nyhavn 新港",
+    "imageSource": "https://foreverkaren.com/travel/copenhagen-cruise-port/",
+    "description": "往新港方向可乘M2至Kongens Nytorv，地铁全天运行；具体班次查Rejseplanen；酒店在中央火车站方向可选火车。",
+    "rating": null
+  },
+  {
+    "query": "Copenhagen Central Station",
+    "name": "哥本哈根中央火车站",
+    "days": [
+      13
+    ],
+    "kind": "transport",
+    "coord": [
+      12.5646789,
+      55.6727587
+    ],
+    "id": "p76",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "imageReference": true,
+    "image": "../nordic/assets/day-15-0.jpg",
+    "imageLabel": "Nyhavn 新港",
+    "imageSource": "https://foreverkaren.com/travel/copenhagen-cruise-port/",
+    "rating": null
+  },
+  {
+    "query": "Designmuseum Danmark Copenhagen",
+    "name": "Designmuseum Danmark 丹麦设计博物馆",
+    "days": [
+      14
+    ],
+    "kind": "sight",
+    "coord": [
+      12.5944077,
+      55.6863742
+    ],
+    "id": "p77",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "image": "../nordic/assets/day-16-0.jpg",
+    "imageLabel": "Designmuseum Danmark",
+    "imageSource": "https://danishdesignreview.com/blog/2017/10/19/chairs-at-designmuseum-danmark",
+    "description": "Designmuseum Danmark 丹麦设计博物馆： 展示丹麦经典家具、椅子、工业设计与工艺美学，能系统了解北欧设计的发展，对设计从业者尤其值得一看；建议停留 1.5–2 小时",
+    "rating": null
+  },
+  {
+    "query": "Strøget Copenhagen",
+    "name": "Strøget 购物街",
+    "days": [
+      13
+    ],
+    "kind": "shopping",
+    "coord": [
+      12.5730436,
+      55.6779232
+    ],
+    "id": "p78",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "image": "../nordic/assets/day-16-1.jpg",
+    "imageLabel": "Strøget 步行街",
+    "imageSource": "https://lex.dk/hvid_jul",
+    "description": "Strøget 购物街： 欧洲著名的步行购物街，沿途聚集丹麦设计品牌、时尚店铺和家居商店，适合逛街、买手店探索与城市街拍；建议停留 2–3 小时",
+    "rating": null
+  },
+  {
+    "query": "Louisiana Museum Humlebæk Denmark",
+    "name": "Louisiana 路易斯安那现代艺术博物馆",
+    "days": [
+      14
+    ],
+    "kind": "optional",
+    "coord": [
+      12.5431572,
+      55.969352
+    ],
+    "id": "p79",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "image": "../nordic/assets/day-17-0.jpg",
+    "imageLabel": "Louisiana 现代艺术博物馆",
+    "imageSource": "https://arquitecturayempresa.es/noticia/arte-arquitectura-y-paisaje-museo-louisiana-de-jorgen-bo-y-vilhelm-wohlert",
+    "description": "压缩版哥本哈根备选点：需替换市区部分行程，不与全部购物安排叠加。",
+    "rating": null
+  },
+  {
+    "id": "p83",
+    "name": "Jægersborggade 独立小店街",
+    "query": "Jægersborggade Copenhagen Denmark",
+    "coord": [
+      12.5439523,
+      55.6927065
+    ],
+    "days": [
+      14
+    ],
+    "kind": "shopping",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "description": "Nørrebro 的独立小店街，集中逛陶瓷、首饰与设计店，搭配 Coffee Collective 咖啡休息。D16 下午预留约1.5–2小时；各店营业时间行前核实。",
+    "source": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/street-guide-jaegersborggade",
+    "rating": null,
+    "imageReference": true,
+    "image": "../nordic/assets/day-16-1.jpg",
+    "imageLabel": "Strøget 步行街",
+    "imageSource": "https://lex.dk/hvid_jul"
+  },
+  {
+    "id": "p84",
+    "name": "Istedgade 购物街",
+    "query": "Istedgade Copenhagen Denmark",
+    "coord": [
+      12.5569031,
+      55.6702561
+    ],
+    "days": [
+      14
+    ],
+    "kind": "shopping",
+    "countryName": "丹麦",
+    "countryId": "denmark",
+    "description": "Vesterbro 的服饰、设计小店与咖啡街道，从中央车站西侧步行进入。D17 下午预留约1–1.5小时，可看 Istedgade 95 的 Kyoto；若去 Louisiana 则缩短，17:00左右取行李去机场。",
+    "source": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/where-to-shop-in-vesterbro",
+    "rating": null,
+    "imageReference": true,
+    "image": "../nordic/assets/day-17-1.jpg",
+    "imageLabel": "Torvehallerne 美食市场",
+    "imageSource": "https://www.cntraveler.com/stories/2012-06-02/torvehallerne-copenhagen-scandinavian-food-market-photos"
+  }
+]

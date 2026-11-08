@@ -1,0 +1,250 @@
+[
+  {
+    "id": "kvaloya-snowshoe",
+    "country": "norway",
+    "day": 4,
+    "title": "Kvaløya 雪鞋登高徒步",
+    "location": "特罗姆瑟 · 鲸岛",
+    "duration": "全程最多约5h",
+    "price": 1054,
+    "intro": "跟随向导穿过雪地，登高俯瞰峡湾、岛屿与雪山。路线具有一定体力要求，累计爬升可达约400米。",
+    "meeting": "Tromsø Outdoor，Fredrik Langes gate 14；原计划09:20集合、09:30出发。",
+    "includes": [
+      "向导、雪鞋与登山杖",
+      "往返交通、热饮与小点心"
+    ],
+    "notes": [
+      "穿保暖防水的高帮徒步鞋；雪鞋是雪地行走工具，不能代替保暖鞋。",
+      "分层穿衣，准备防风防水外层；线路随天气与雪况调整。"
+    ],
+    "priceNote": "预算¥1,054／人。原行程价格仅供预算参考，具体团期与费用以预订确认为准。",
+    "url": "https://www.tromsooutdoor.no/activities/004-guided-snowshoeing-hike-on-kvaloya-tromso-outdoor",
+    "operator": "Tromsø Outdoor",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-06-0.jpg",
+        "label": "Kvaløya 雪鞋徒步"
+      },
+      {
+        "src": "../nordic/assets/experiences/snowshoe-1.jpg",
+        "label": "雪地登高 · 峡湾视野"
+      },
+      {
+        "src": "../nordic/assets/experiences/snowshoe-2.jpg",
+        "label": "向导带队的雪鞋体验"
+      }
+    ]
+  },
+  {
+    "id": "arctic-fjord-cruise",
+    "country": "norway",
+    "day": 3,
+    "title": "Brim 冬季峡湾游船",
+    "location": "特罗姆瑟 · Arctic Fjord Cruise",
+    "duration": "约4h",
+    "price": 1000,
+    "intro": "在有暖舱的船上欣赏北极冬季峡湾，从海上看雪山、海岸与渔村。可在甲板拍摄，也可以回到室内休息。",
+    "meeting": "原行程集合点：Skarven旁码头，Kaigata 6；提前核对船名与登船时间。",
+    "includes": [
+      "冬季峡湾观景航程",
+      "船上室内观景空间与甲板"
+    ],
+    "notes": [
+      "甲板风大，准备帽子、手套与防风衣物。",
+      "原计划发船时段约11:00／11:30／12:00，依所选日期确认。"
+    ],
+    "priceNote": "预算¥1,000／人；原行程参考约¥913／人。餐饮与具体航线以所选产品为准。",
+    "url": "https://brimexplorer.com/tours/arctic-fjord-cruise",
+    "operator": "Brim Explorer",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-05-1.jpg",
+        "label": "Brim Explorer 峡湾游船"
+      },
+      {
+        "src": "../nordic/assets/experiences/cruise-1.jpg",
+        "label": "冬季峡湾 · 海上视角"
+      }
+    ]
+  },
+  {
+    "id": "lofoten-fishing",
+    "country": "norway",
+    "day": 6,
+    "title": "传统渔船冬季海钓",
+    "location": "罗弗敦 · 斯沃尔维尔",
+    "duration": "约4h（原行程参考）",
+    "price": 900,
+    "intro": "乘传统渔船出海，在船员指导下体验海钓，感受罗弗敦的渔业生活。原计划参考 XXLofoten 的传统渔船产品。",
+    "meeting": "原行程集合点：J. E. Paulsens gate 9，Svolvær；建议提前30分钟到场。",
+    "includes": [
+      "海钓与船员指导体验",
+      "渔具及随船装备以预订产品为准"
+    ],
+    "notes": [
+      "穿保暖防风衣物与防滑鞋，提前考虑个人晕船情况。",
+      "计划日期为2月11日；原计划记录冬季场次2月15日起，需向运营方确认2月11日是否有合适场次。"
+    ],
+    "priceNote": "预算¥900／人；原行程参考约¥916／人。尚未按已预订项目处理。",
+    "url": "https://xxlofoten.no/en/experiences/fishing-trip-svolvaer/",
+    "operator": "XXLofoten",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-08-0.jpg",
+        "label": "罗弗敦 · 传统渔船海钓"
+      },
+      {
+        "src": "../nordic/assets/experiences/fishing-1.jpg",
+        "label": "冬季出海捕鱼"
+      },
+      {
+        "src": "../nordic/assets/experiences/fishing-2.jpg",
+        "label": "海钓体验 · 渔获参考"
+      }
+    ]
+  },
+  {
+    "id": "vatnajokull-ice-cave",
+    "country": "iceland",
+    "day": 11,
+    "title": "瓦特纳冰川蓝冰洞体验",
+    "location": "冰岛 · Skaftafell／Falljökull",
+    "duration": "约4h · 冰上约2h",
+    "price": 1500,
+    "intro": "跟随向导探索冰面与当天开放的天然冰洞，观察蓝色冰层、冰壁纹理与冰川地貌。冰洞形态及可达路线随天气、冰况变化。",
+    "meeting": "原行程按Skaftafell／Falljökull区域安排，要求提前20分钟到场；准确集合点以选定产品为准。",
+    "includes": [
+      "原行程包含冰洞与冰川徒步",
+      "冰爪、头盔、安全带及鞋码需在集合时确认"
+    ],
+    "notes": [
+      "预算单原名为“蓝冰洞超级吉普”，Day 13目前写的是“冰洞＋冰川徒步”。这两种产品的交通方式和集合点可能不同，预订前需核对。",
+      "原计划为冬季体验；当天开放的天然冰洞由向导依冰况决定。"
+    ],
+    "priceNote": "预算¥1,500／人；原行程参考¥1,200–1,800／人。图片为冰洞与冰川体验参考，并非已确认场次。",
+    "url": "https://troll.is/",
+    "operator": "Tröll Expeditions",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-13-0.jpg",
+        "label": "天然蓝冰洞 · 景观参考"
+      },
+      {
+        "src": "../nordic/assets/experiences/ice-1.webp",
+        "label": "蓝色冰层 · 冰洞参考"
+      },
+      {
+        "src": "../nordic/assets/experiences/ice-2.webp",
+        "label": "Skaftafell 冰川徒步参考"
+      }
+    ]
+  },
+  {
+    "id": "blue-lagoon",
+    "country": "iceland",
+    "day": 12,
+    "title": "Blue Lagoon 蓝湖温泉",
+    "location": "冰岛 · 雷克雅内斯半岛",
+    "duration": "建议预留2–3h",
+    "price": 700,
+    "intro": "在黑色熔岩地貌包围的乳蓝色温泉中放松，作为南岸自驾返程后的休息安排。当天需同时为返回住宿地及机场方向的交通留出时间。",
+    "meeting": "Blue Lagoon 接待处；按所选入场时段到场。",
+    "includes": [
+      "原计划参考Comfort入场产品",
+      "毛巾、面膜、饮品等权益以所选票种为准"
+    ],
+    "notes": [
+      "带泳衣，提前选择入场时段；额外餐饮及升级项目另计。",
+      "开放安排受当地条件影响，出发前核对官网通知与道路信息。"
+    ],
+    "priceNote": "预算¥700／人；原行程参考约¥707／人。建议停留时间是行程安排，不是固定产品时长。",
+    "url": "https://www.bluelagoon.com/en/day-visit/the-blue-lagoon",
+    "operator": "Blue Lagoon",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-14-1.jpg",
+        "label": "Blue Lagoon · 蓝湖温泉"
+      },
+      {
+        "src": "../nordic/assets/experiences/blue-1.jpg",
+        "label": "蓝湖与熔岩地貌"
+      }
+    ]
+  },
+  {
+    "id": "husky-sledding",
+    "country": "norway",
+    "day": 3,
+    "excluded": true,
+    "title": "自行驾驶哈士奇雪橇",
+    "location": "特罗姆瑟 · Kvaløya",
+    "duration": "全程约4h15m · 雪橇约45min",
+    "price": 2399,
+    "intro": "两人共用一辆雪橇，轮流驾驶与乘坐，在向导带领下穿过北极冬季雪原。全程还包含接送、基础教学、狗舍参观与热午餐。",
+    "meeting": "原计划在Radisson Blu酒店门前集合，发团前15分钟到场；营地巴士约25–35分钟／程。",
+    "includes": [
+      "约45分钟双人共享雪橇体验与驾驶教学",
+      "接送、狗舍参观、热午餐与保暖装备（按原计划参考）"
+    ],
+    "notes": [
+      "此项目已从当前预算中排除，查看详情不会将其加入预算。",
+      "原计划发团时段07:30／08:30／09:30／10:30；实际日期和集合要求需在预订时确认。",
+      "驾驶需要一定体力与平衡能力；准备帽子和手套，参与要求按运营方说明核对。"
+    ],
+    "priceNote": "原预算参考¥2,399／人，当前不计入游玩项目小计及总预算；不是2027年场次的实时售价。",
+    "url": "https://www.villmarkssenter.no/booking/self-drive-dog-sledding/",
+    "operator": "Tromsø Villmarkssenter",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-05-0.jpg",
+        "label": "哈士奇雪橇 · 原行程图片"
+      },
+      {
+        "src": "../nordic/assets/experiences/husky-1.jpg",
+        "label": "哈士奇雪橇 · 自行驾驶体验"
+      },
+      {
+        "src": "../nordic/assets/experiences/husky-2.jpg",
+        "label": "Tromsø Villmarkssenter · 雪地体验"
+      }
+    ]
+  },
+  {
+    "id": "trollfjord-rib",
+    "country": "norway",
+    "day": 6,
+    "excluded": true,
+    "title": "海鹰 RIB 与 Trollfjord",
+    "location": "罗弗敦 · Svolvær／Trollfjorden",
+    "duration": "约2h（参考产品）",
+    "price": 560,
+    "intro": "从斯沃尔维尔乘开放式RIB快艇出海，沿Raftsundet水道前往Trollfjord，欣赏峡湾山壁并观察海鹰。野生动物出现及可航行路线取决于当天条件。",
+    "meeting": "参考XXLofoten产品：J. E. Paulsens gate 9，Svolvær；发船前30分钟到场。",
+    "includes": [
+      "RIB峡湾航程与向导讲解",
+      "参考产品提供漂浮保暖服、救生衣与护目镜"
+    ],
+    "notes": [
+      "此项目已从当前预算中排除，不计入预算，也不会自动替换当天海钓安排。",
+      "开放式快艇体感寒冷，分层穿衣，带帽子、手套及防滑保暖鞋。",
+      "出发时间和冬季可用航线需另行确认。"
+    ],
+    "priceNote": "原预算参考¥560／人，当前不计入总额。运营方现列的参考产品与原预算金额可能不同，重新选择时需核对产品和报价。",
+    "url": "https://xxlofoten.no/en/experiences/sea-eagle-safari",
+    "operator": "XXLofoten",
+    "photos": [
+      {
+        "src": "../nordic/assets/experiences/rib-1.jpg",
+        "label": "RIB海鹰与峡湾体验"
+      },
+      {
+        "src": "../nordic/assets/experiences/rib-2.jpg",
+        "label": "海鹰观察 · 景观参考"
+      },
+      {
+        "src": "../nordic/assets/experiences/rib-3.jpg",
+        "label": "Trollfjord · RIB航行参考"
+      }
+    ]
+  }
+]
