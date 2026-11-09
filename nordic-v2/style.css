@@ -84,3 +84,5 @@ a.budget-project{color:inherit;text-decoration:none;transition:background .15s}a
 .version-badge{font:500 12px/1.4 sans-serif;letter-spacing:.04em;vertical-align:middle;background:#dbe8e0;color:#325b48;border-radius:6px;padding:3px 6px;margin-left:8px}.version-link{font-size:11px;color:#6f7b73;text-align:right;margin:10px 0}.version-link a{text-decoration:underline;text-underline-offset:3px}
 
 @media(max-width:600px){.home-intro h1{font-size:28px;white-space:nowrap}.home-intro .intro-meta{white-space:nowrap;flex-shrink:0}.version-badge{font-size:10px;margin-left:4px}}
+
+.version-difference{font-size:12px;line-height:1.8;color:#777269;margin:12px 2px 16px;overflow-wrap:anywhere}
