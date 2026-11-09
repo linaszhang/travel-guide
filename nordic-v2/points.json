@@ -3,10 +3,10 @@
     "query": "Tromsø Airport",
     "name": "特罗姆瑟机场",
     "days": [
-      1,
       2,
-      7,
-      8
+      3,
+      8,
+      9
     ],
     "kind": "airport",
     "coord": [
@@ -26,7 +26,7 @@
     "query": "Ersfjordbotn Norway",
     "name": "Ersfjordbotn 峡湾",
     "days": [
-      2
+      3
     ],
     "kind": "nature",
     "coord": [
@@ -46,7 +46,7 @@
     "query": "Polar Museum Tromsø",
     "name": "极地博物馆",
     "days": [
-      2
+      3
     ],
     "kind": "sight",
     "id": "p22",
@@ -66,7 +66,7 @@
     "query": "Storgata Tromsø",
     "name": "Storgata 主街",
     "days": [
-      2
+      3
     ],
     "kind": "shopping",
     "coord": [
@@ -85,10 +85,10 @@
     "query": "Tromsø harbour",
     "name": "特罗姆瑟港口",
     "days": [
-      1,
       2,
       3,
-      4
+      4,
+      5
     ],
     "kind": "sight",
     "coord": [
@@ -108,7 +108,7 @@
     "query": "Radisson Blu Tromsø",
     "name": "Radisson Blu 集合点",
     "days": [
-      3
+      4
     ],
     "kind": "optional",
     "coord": [
@@ -129,8 +129,8 @@
     "query": "Kvaløya Tromsø Norway",
     "name": "Kvaløya 鲸岛",
     "days": [
-      2,
-      4
+      3,
+      5
     ],
     "kind": "nature",
     "coord": [
@@ -150,7 +150,7 @@
     "query": "Fredrik Langes gate 14 Tromsø",
     "name": "雪鞋团集合点",
     "days": [
-      4
+      5
     ],
     "kind": "transport",
     "coord": [
@@ -170,7 +170,7 @@
     "query": "Brensholmen ferry Norway",
     "name": "Brensholmen 轮渡码头",
     "days": [
-      4
+      5
     ],
     "kind": "transport",
     "id": "p28",
@@ -189,7 +189,7 @@
     "query": "Botnhamn ferry Norway",
     "name": "Botnhamn 轮渡码头",
     "days": [
-      4
+      5
     ],
     "kind": "transport",
     "id": "p29",
@@ -209,8 +209,8 @@
     "query": "Mefjordvær Norway",
     "name": "Mefjordvær 渔村",
     "days": [
-      4,
-      5
+      5,
+      6
     ],
     "kind": "sight",
     "coord": [
@@ -230,7 +230,7 @@
     "query": "Ersfjordstranda Senja",
     "name": "Ersfjordstranda 海滩",
     "days": [
-      5
+      6
     ],
     "kind": "nature",
     "coord": [
@@ -250,7 +250,7 @@
     "query": "Tungeneset Senja",
     "name": "Tungeneset 恶魔之牙",
     "days": [
-      5
+      6
     ],
     "kind": "nature",
     "coord": [
@@ -270,7 +270,7 @@
     "query": "Bergsbotn Norway",
     "name": "Bergsbotn 观景台",
     "days": [
-      5
+      6
     ],
     "kind": "nature",
     "coord": [
@@ -290,7 +290,7 @@
     "query": "Husfjellet Senja Norway",
     "name": "Husfjellet（冬季需向导）",
     "days": [
-      5
+      6
     ],
     "kind": "optional",
     "coord": [
@@ -310,7 +310,7 @@
     "query": "Husøy Senja Norway",
     "name": "Husøy 渔村",
     "days": [
-      5
+      6
     ],
     "kind": "optional",
     "coord": [
@@ -331,7 +331,7 @@
     "query": "Hamn i Senja Norway",
     "name": "Hamn i Senja",
     "days": [
-      5
+      6
     ],
     "kind": "optional",
     "coord": [
@@ -352,7 +352,7 @@
     "query": "Segla Senja Norway",
     "name": "Segla／Hesten（冬季不建议自助）",
     "days": [
-      5
+      6
     ],
     "kind": "optional",
     "coord": [
@@ -373,7 +373,7 @@
     "query": "Finnsnes Norway",
     "name": "Finnsnes",
     "days": [
-      5
+      6
     ],
     "kind": "transport",
     "coord": [
@@ -394,8 +394,8 @@
     "query": "Bjerkvik Norway",
     "name": "Bjerkvik",
     "days": [
-      5,
-      7
+      6,
+      8
     ],
     "kind": "transport",
     "coord": [
@@ -416,9 +416,9 @@
     "query": "Svolvær Norway",
     "name": "Svolvær 斯沃尔维尔",
     "days": [
-      5,
       6,
-      7
+      7,
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -438,7 +438,7 @@
     "query": "J E Paulsens gate 9 Svolvær",
     "name": "海钓集合点 · J.E. Paulsens gate 9",
     "days": [
-      6
+      7
     ],
     "kind": "transport",
     "id": "p41",
@@ -459,7 +459,7 @@
     "query": "Henningsvær Norway",
     "name": "Henningsvær 亨宁斯维尔",
     "days": [
-      6
+      7
     ],
     "kind": "sight",
     "coord": [
@@ -478,8 +478,8 @@
     "query": "Hamnøy Norway",
     "name": "Hamnøy 红色渔屋",
     "days": [
-      6,
-      7
+      7,
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -499,8 +499,8 @@
     "query": "Reine Norway",
     "name": "Reine 雷纳",
     "days": [
-      6,
-      7
+      7,
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -520,7 +520,7 @@
     "query": "Nusfjord Norway",
     "name": "Nusfjord 渔村",
     "days": [
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -541,7 +541,7 @@
     "query": "Fredvang Norway",
     "name": "Fredvang 桥梁",
     "days": [
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -562,7 +562,7 @@
     "query": "Sakrisøy Norway",
     "name": "Sakrisøy 黄色渔屋",
     "days": [
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -582,7 +582,7 @@
     "query": "Reinehalsen Norway",
     "name": "Reinehalsen 观景点",
     "days": [
-      7
+      8
     ],
     "kind": "nature",
     "coord": [
@@ -603,7 +603,7 @@
     "query": "Å Lofoten Norway",
     "name": "Å 渔村",
     "days": [
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -622,7 +622,7 @@
     "query": "Reinebringen Norway",
     "name": "Reinebringen（冬季不建议徒步）",
     "days": [
-      7
+      8
     ],
     "kind": "optional",
     "coord": [
@@ -642,9 +642,9 @@
     "query": "Keflavik Airport Iceland",
     "name": "凯夫拉维克机场 KEF",
     "days": [
-      8,
-      12,
-      13
+      9,
+      13,
+      14
     ],
     "kind": "airport",
     "coord": [
@@ -664,8 +664,8 @@
     "query": "Reykjavik Iceland",
     "name": "雷克雅未克市区",
     "days": [
-      8,
-      9
+      9,
+      10
     ],
     "kind": "sight",
     "coord": [
@@ -686,7 +686,7 @@
     "query": "Hallgrimskirkja Reykjavik",
     "name": "哈尔格林姆斯教堂",
     "days": [
-      8
+      9
     ],
     "kind": "sight",
     "coord": [
@@ -706,7 +706,7 @@
     "query": "Harpa Reykjavik",
     "name": "Harpa 音乐厅",
     "days": [
-      8
+      9
     ],
     "kind": "sight",
     "coord": [
@@ -725,7 +725,7 @@
     "query": "Seljalandsfoss Iceland",
     "name": "塞里雅兰瀑布",
     "days": [
-      9
+      10
     ],
     "kind": "nature",
     "coord": [
@@ -745,7 +745,7 @@
     "query": "Skogafoss Iceland",
     "name": "Skógafoss 斯科加瀑布",
     "days": [
-      9
+      10
     ],
     "kind": "nature",
     "coord": [
@@ -765,7 +765,7 @@
     "query": "Solheimajokull Iceland",
     "name": "Sólheimajökull 索尔黑马冰川",
     "days": [
-      9
+      10
     ],
     "kind": "optional",
     "coord": [
@@ -785,8 +785,8 @@
     "query": "Vik Iceland",
     "name": "Vík 维克",
     "days": [
-      9,
-      10
+      10,
+      11
     ],
     "kind": "sight",
     "coord": [
@@ -806,7 +806,7 @@
     "query": "Reynisfjara Iceland",
     "name": "Reynisfjara 黑沙滩",
     "days": [
-      10
+      11
     ],
     "kind": "nature",
     "coord": [
@@ -826,7 +826,7 @@
     "query": "Eldhraun Iceland",
     "name": "Eldhraun 埃尔德熔岩原",
     "days": [
-      10
+      11
     ],
     "kind": "optional",
     "coord": [
@@ -847,7 +847,7 @@
     "query": "Fjaðrárgljúfur Iceland",
     "name": "Fjaðrárgljúfur 羽毛峡谷",
     "days": [
-      10
+      11
     ],
     "kind": "optional",
     "coord": [
@@ -867,7 +867,7 @@
     "query": "Stjórnarfoss Iceland",
     "name": "Stjórnarfoss 阶梯瀑布",
     "days": [
-      10
+      11
     ],
     "kind": "optional",
     "coord": [
@@ -888,8 +888,8 @@
     "query": "Skaftafell Iceland",
     "name": "Skaftafell 斯卡夫塔山",
     "days": [
-      10,
-      11
+      11,
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -910,7 +910,7 @@
     "query": "Hofskirkja Iceland",
     "name": "Hofskirkja 草皮教堂",
     "days": [
-      10
+      11
     ],
     "kind": "optional",
     "coord": [
@@ -930,9 +930,9 @@
     "query": "Hof Öræfi Iceland",
     "name": "Hof 村住宿区域",
     "days": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "kind": "stay",
     "id": "p65",
@@ -952,7 +952,7 @@
     "query": "Falljökull Iceland",
     "name": "Falljökull 冰川徒步区域",
     "days": [
-      11
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -973,7 +973,7 @@
     "query": "Fjallsárlón Iceland",
     "name": "Fjallsárlón 菲亚尔冰川湖",
     "days": [
-      11
+      12
     ],
     "kind": "optional",
     "coord": [
@@ -994,7 +994,7 @@
     "query": "Jökulsárlón Iceland",
     "name": "Jökulsárlón 杰古沙龙冰河湖",
     "days": [
-      11
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -1014,7 +1014,7 @@
     "query": "Diamond Beach Iceland",
     "name": "Fellsfjara 钻石沙滩",
     "days": [
-      11
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -1034,7 +1034,7 @@
     "query": "Skeiðarársandur Iceland",
     "name": "Skeiðarársandur 冰川平原",
     "days": [
-      12
+      13
     ],
     "kind": "nature",
     "coord": [
@@ -1054,7 +1054,7 @@
     "query": "Blue Lagoon Iceland",
     "name": "蓝湖温泉",
     "days": [
-      12
+      13
     ],
     "kind": "spa",
     "coord": [
@@ -1073,8 +1073,8 @@
     "query": "Copenhagen Airport",
     "name": "哥本哈根机场 CPH",
     "days": [
-      13,
-      14
+      14,
+      15
     ],
     "kind": "airport",
     "coord": [
@@ -1094,7 +1094,7 @@
     "query": "Nyhavn Copenhagen",
     "name": "Nyhavn 新港",
     "days": [
-      13
+      14
     ],
     "kind": "sight",
     "coord": [
@@ -1114,7 +1114,7 @@
     "query": "Amalienborg Copenhagen",
     "name": "Amalienborg 阿美琳堡宫",
     "days": [
-      13
+      14
     ],
     "kind": "sight",
     "coord": [
@@ -1134,7 +1134,7 @@
     "query": "Kongens Nytorv Copenhagen",
     "name": "Kongens Nytorv 地铁站",
     "days": [
-      13
+      14
     ],
     "kind": "transport",
     "coord": [
@@ -1155,7 +1155,7 @@
     "query": "Copenhagen Central Station",
     "name": "哥本哈根中央火车站",
     "days": [
-      13
+      14
     ],
     "kind": "transport",
     "coord": [
@@ -1175,7 +1175,7 @@
     "query": "Designmuseum Danmark Copenhagen",
     "name": "Designmuseum Danmark 丹麦设计博物馆",
     "days": [
-      14
+      15
     ],
     "kind": "sight",
     "coord": [
@@ -1195,7 +1195,7 @@
     "query": "Strøget Copenhagen",
     "name": "Strøget 购物街",
     "days": [
-      13
+      14
     ],
     "kind": "shopping",
     "coord": [
@@ -1215,7 +1215,7 @@
     "query": "Louisiana Museum Humlebæk Denmark",
     "name": "Louisiana 路易斯安那现代艺术博物馆",
     "days": [
-      14
+      15
     ],
     "kind": "optional",
     "coord": [
@@ -1240,7 +1240,7 @@
       55.6927065
     ],
     "days": [
-      14
+      15
     ],
     "kind": "shopping",
     "countryName": "丹麦",
@@ -1262,7 +1262,7 @@
       55.6702561
     ],
     "days": [
-      14
+      15
     ],
     "kind": "shopping",
     "countryName": "丹麦",
@@ -1274,5 +1274,250 @@
     "image": "../nordic/assets/day-17-1.jpg",
     "imageLabel": "Torvehallerne 美食市场",
     "imageSource": "https://www.cntraveler.com/stories/2012-06-02/torvehallerne-copenhagen-scandinavian-food-market-photos"
+  },
+  {
+    "query": "Helsinki Airport",
+    "name": "赫尔辛基机场",
+    "days": [
+      1,
+      2
+    ],
+    "kind": "airport",
+    "coord": [
+      24.9473611,
+      60.3218156
+    ],
+    "id": "p0",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "rating": null
+  },
+  {
+    "query": "Helsinki Central railway station",
+    "name": "赫尔辛基中央车站",
+    "days": [
+      1,
+      2
+    ],
+    "kind": "transport",
+    "coord": [
+      24.9405946,
+      60.1715453
+    ],
+    "id": "p1",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "image": "../nordic/assets/day-01-2.jpg",
+    "imageLabel": "赫尔辛基中央车站",
+    "imageSource": "https://www.rbc.ru/society/24/05/2023/646db5c89a7947776e18b70a",
+    "rating": null
+  },
+  {
+    "query": "Senate Square Helsinki",
+    "name": "参议院广场",
+    "days": [
+      1
+    ],
+    "kind": "sight",
+    "coord": [
+      24.9522693,
+      60.1695115
+    ],
+    "id": "p2",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "description": "顺路步行：参议院广场 → 大教堂外观 → 港口街区 → Esplanadi → Kämp Galleria／Stockmann",
+    "rating": null
+  },
+  {
+    "query": "Helsinki Cathedral",
+    "name": "赫尔辛基大教堂",
+    "days": [
+      1
+    ],
+    "kind": "sight",
+    "coord": [
+      24.9521799,
+      60.1704218
+    ],
+    "id": "p3",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "rating": null
+  },
+  {
+    "query": "Market Square Helsinki",
+    "name": "赫尔辛基南港",
+    "days": [
+      1
+    ],
+    "kind": "sight",
+    "coord": [
+      24.953265,
+      60.1671972
+    ],
+    "id": "p4",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "image": "../nordic/assets/day-01-1.jpg",
+    "imageLabel": "赫尔辛基 · 南港",
+    "imageSource": "https://www.momondo.dk/flybilletter/helsinki",
+    "rating": null
+  },
+  {
+    "query": "Esplanadi Helsinki",
+    "name": "Esplanadi 林荫大道",
+    "days": [
+      1
+    ],
+    "kind": "shopping",
+    "coord": [
+      24.9449092,
+      60.167392
+    ],
+    "id": "p5",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "description": "顺路步行：参议院广场 → 大教堂外观 → 港口街区 → Esplanadi → Kämp Galleria／Stockmann",
+    "rating": null
+  },
+  {
+    "query": "Marimekko Aleksanterinkatu Helsinki",
+    "name": "Marimekko 市中心店",
+    "days": [
+      1
+    ],
+    "kind": "shopping",
+    "coord": [
+      24.9432631,
+      60.1687255
+    ],
+    "id": "p6",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "description": "Marimekko 市中心店：喜欢芬兰印花、服饰和家居小物可优先逛；可选 Aleksanterinkatu 50 门店。",
+    "rating": null
+  },
+  {
+    "query": "Kämp Galleria Helsinki",
+    "name": "Kämp Galleria",
+    "days": [
+      1
+    ],
+    "kind": "shopping",
+    "coord": [
+      24.9463724,
+      60.1682452
+    ],
+    "id": "p7",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "description": "顺路步行：参议院广场 → 大教堂外观 → 港口街区 → Esplanadi → Kämp Galleria／Stockmann",
+    "rating": null
+  },
+  {
+    "query": "Stockmann Helsinki",
+    "name": "Stockmann 百货",
+    "days": [
+      1
+    ],
+    "kind": "shopping",
+    "coord": [
+      24.940795,
+      60.1682954
+    ],
+    "id": "p8",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-01-0.jpg",
+    "imageLabel": "赫尔辛基大教堂",
+    "imageSource": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/",
+    "description": "顺路步行：参议院广场 → 大教堂外观 → 港口街区 → Esplanadi → Kämp Galleria／Stockmann",
+    "rating": null
+  },
+  {
+    "query": "Design District Helsinki",
+    "name": "Design District 设计街区",
+    "days": [
+      2
+    ],
+    "kind": "shopping",
+    "coord": [
+      24.9472875,
+      60.1588125
+    ],
+    "id": "p12",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "imageReference": true,
+    "image": "../nordic/assets/day-02-0.jpg",
+    "imageLabel": "老市场 Vanha Kauppahalli",
+    "imageSource": "https://lilyrianitravelholic.blogspot.com/2015/09/yummiest-salmon-helsinki-old-market-hall.html",
+    "description": "沿 Fredrikinkatu、Erottaja 一带看家居、文具与独立设计店",
+    "rating": null
+  },
+  {
+    "query": "Oodi Helsinki",
+    "name": "Oodi 中央图书馆",
+    "days": [
+      2
+    ],
+    "kind": "sight",
+    "coord": [
+      24.9379816,
+      60.1739404
+    ],
+    "id": "p13",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "image": "../nordic/assets/day-02-1.jpg",
+    "imageLabel": "Oodi 中央图书馆",
+    "imageSource": "https://www.dangerous-business.com/things-to-do-in-helsinki/",
+    "description": "Oodi 中央图书馆：木质立面与通透阅读层，是感受芬兰公共空间设计的好起点（08:00–21:00）",
+    "rating": null
+  },
+  {
+    "query": "Temppeliaukio Helsinki",
+    "name": "岩石教堂 Temppeliaukio",
+    "days": [
+      2
+    ],
+    "kind": "sight",
+    "coord": [
+      24.9258894,
+      60.1731687
+    ],
+    "id": "p14",
+    "countryName": "芬兰",
+    "countryId": "finland",
+    "image": "../nordic/assets/day-02-2.jpg",
+    "imageLabel": "岩石教堂 Temppeliaukio",
+    "imageSource": "https://temppeliaukionkirkko.fi/sv/index/forarrangorer.html",
+    "description": "岩石教堂 Temppeliaukio Church： 直接在天然花岗岩中开凿的教堂，粗粝岩壁与铜质穹顶形成强烈对比，是芬兰最有代表性的现代建筑之一（10:00–17:00）",
+    "rating": null
   }
 ]

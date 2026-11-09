@@ -2,7 +2,7 @@
   {
     "id": "kvaloya-snowshoe",
     "country": "norway",
-    "day": 4,
+    "day": 5,
     "title": "Kvaløya 雪鞋登高徒步",
     "location": "特罗姆瑟 · 鲸岛",
     "duration": "全程最多约5h",
@@ -38,7 +38,7 @@
   {
     "id": "arctic-fjord-cruise",
     "country": "norway",
-    "day": 3,
+    "day": 4,
     "title": "Brim 冬季峡湾游船",
     "location": "特罗姆瑟 · Arctic Fjord Cruise",
     "duration": "约4h",
@@ -70,7 +70,7 @@
   {
     "id": "lofoten-fishing",
     "country": "norway",
-    "day": 6,
+    "day": 7,
     "title": "传统渔船冬季海钓",
     "location": "罗弗敦 · 斯沃尔维尔",
     "duration": "约4h（原行程参考）",
@@ -106,7 +106,7 @@
   {
     "id": "vatnajokull-ice-cave",
     "country": "iceland",
-    "day": 11,
+    "day": 12,
     "title": "瓦特纳冰川蓝冰洞体验",
     "location": "冰岛 · Skaftafell／Falljökull",
     "duration": "约4h · 冰上约2h",
@@ -142,7 +142,7 @@
   {
     "id": "blue-lagoon",
     "country": "iceland",
-    "day": 12,
+    "day": 13,
     "title": "Blue Lagoon 蓝湖温泉",
     "location": "冰岛 · 雷克雅内斯半岛",
     "duration": "建议预留2–3h",
@@ -174,7 +174,7 @@
   {
     "id": "husky-sledding",
     "country": "norway",
-    "day": 3,
+    "day": 4,
     "excluded": true,
     "title": "自行驾驶哈士奇雪橇",
     "location": "特罗姆瑟 · Kvaløya",
@@ -212,7 +212,7 @@
   {
     "id": "trollfjord-rib",
     "country": "norway",
-    "day": 6,
+    "day": 7,
     "excluded": true,
     "title": "海鹰 RIB 与 Trollfjord",
     "location": "罗弗敦 · Svolvær／Trollfjorden",
