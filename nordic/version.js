@@ -5,7 +5,7 @@
  const css=document.querySelector('link[href^="style.css"]');
  css.href=root+'style.css?v=unified-5';
  const brand=document.querySelector('.mobile-brand');brand.textContent='北欧旅行计划';
- const control=()=>{const select=document.createElement('select');select.className='version-select';select.setAttribute('aria-label','行程版本');select.innerHTML='<option value="1">V1</option><option value="2">V2</option>';select.value=version;select.addEventListener('change',()=>changeVersion(select));return select;};
+ const control=()=>{const picker=document.createElement('span');picker.className='version-picker';const label=document.createElement('span');label.className='version-picker-label';label.setAttribute('aria-hidden','true');label.textContent='V'+version;const arrow=document.createElementNS('http://www.w3.org/2000/svg','svg');arrow.setAttribute('viewBox','0 0 12 12');arrow.setAttribute('aria-hidden','true');arrow.innerHTML='<path d="m3 4.5 3 3 3-3"/>';const select=document.createElement('select');select.className='version-select';select.setAttribute('aria-label','行程版本');select.innerHTML='<option value="1">V1</option><option value="2">V2</option>';select.value=version;select.addEventListener('change',()=>changeVersion(select));picker.append(label,arrow,select);return picker;};
  async function changeVersion(select){
   const target=select.value;if(target===version)return;select.disabled=true;
   try{
