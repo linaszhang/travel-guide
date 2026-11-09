@@ -18,11 +18,23 @@
         "photos": [
           {
             "src": "assets/stays/helsinki-1.jpg",
-            "label": "Ultra Central - Best Location! · 房源实景 1"
+            "label": "Ultra Central - Best Location! · 房源实景 1",
+            "thumb": "assets/stays/helsinki-1-thumb.jpg"
           },
           {
             "src": "assets/stays/helsinki-2.jpg",
-            "label": "Ultra Central - Best Location! · 房源实景 2"
+            "label": "Ultra Central - Best Location! · 房源实景 2",
+            "thumb": "assets/stays/helsinki-2-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/helsinki-3.jpg",
+            "label": "赫尔辛基公寓 · 室内空间",
+            "thumb": "assets/stays/helsinki-3-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/helsinki-4.jpg",
+            "label": "赫尔辛基公寓 · 生活细节",
+            "thumb": "assets/stays/helsinki-4-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -40,7 +52,8 @@
         "photos": [
           {
             "src": "assets/stays/radisson.jpg",
-            "label": "Radisson RED Helsinki · 建筑外观"
+            "label": "Radisson RED Helsinki · 建筑外观",
+            "thumb": "assets/stays/radisson-thumb.jpg"
           }
         ],
         "status": "对比住宿",
@@ -68,11 +81,28 @@
         "photos": [
           {
             "src": "assets/stays/eira.jpg",
-            "label": "EIRA Fjord Stay · 峡湾住宿"
+            "label": "EIRA Fjord Stay · 峡湾住宿",
+            "thumb": "assets/stays/eira-thumb.jpg"
           },
           {
             "src": "assets/stays/eira-room.jpg",
-            "label": "EIRA Fjord Stay · 卧室"
+            "label": "EIRA Fjord Stay · 卧室",
+            "thumb": "assets/stays/eira-room-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/eira-terrace.jpg",
+            "label": "EIRA · 露台山景",
+            "thumb": "assets/stays/eira-terrace-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/eira-living.jpg",
+            "label": "EIRA · 客厅",
+            "thumb": "assets/stays/eira-living-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/eira-sauna.jpg",
+            "label": "EIRA · 桑拿参考",
+            "thumb": "assets/stays/eira-sauna-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -91,7 +121,8 @@
         "photos": [
           {
             "src": "assets/stays/arctic-view.jpg",
-            "label": "Arctic View Apartment · 房源景观"
+            "label": "Arctic View Apartment · 房源景观",
+            "thumb": "assets/stays/arctic-view-thumb.jpg"
           }
         ],
         "status": "对比住宿",
@@ -121,12 +152,29 @@
         "total": 2780.12,
         "photos": [
           {
+            "src": "assets/stays/senja-4.jpg",
+            "label": "Senja Botnhamn · 雪地海边木屋",
+            "thumb": "assets/stays/senja-4-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/senja-3.jpg",
+            "label": "Senja Botnhamn · 客厅",
+            "thumb": "assets/stays/senja-3-thumb.jpg"
+          },
+          {
             "src": "assets/stays/senja-1.jpg",
-            "label": "Senja, Botnhamn · 房源实景 1"
+            "label": "Senja, Botnhamn · 房源实景 1",
+            "thumb": "assets/stays/senja-1-thumb.jpg"
           },
           {
             "src": "assets/stays/senja-2.jpg",
-            "label": "Senja, Botnhamn · 房源实景 2"
+            "label": "Senja, Botnhamn · 房源实景 2",
+            "thumb": "assets/stays/senja-2-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/senja-5.jpg",
+            "label": "Senja Botnhamn · 餐厅与窗景",
+            "thumb": "assets/stays/senja-5-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -155,12 +203,24 @@
         "total": 2472,
         "photos": [
           {
+            "src": "assets/stays/chess-living.jpg",
+            "label": "The Chess House · 设计客厅",
+            "thumb": "assets/stays/chess-living-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/chess-dining.jpg",
+            "label": "The Chess House · 餐厅与窗景",
+            "thumb": "assets/stays/chess-dining-thumb.jpg"
+          },
+          {
             "src": "assets/stays/chess.jpg",
-            "label": "The Chess House Lofoten · 别墅"
+            "label": "The Chess House Lofoten · 别墅",
+            "thumb": "assets/stays/chess-thumb.jpg"
           },
           {
             "src": "assets/stays/chess-room.jpg",
-            "label": "The Chess House Lofoten · 室内"
+            "label": "The Chess House Lofoten · 室内",
+            "thumb": "assets/stays/chess-room-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -178,7 +238,8 @@
         "photos": [
           {
             "src": "assets/stays/kakern.jpg",
-            "label": "Arctic Resort Lofoten · 临水小屋"
+            "label": "Arctic Resort Lofoten · 临水小屋",
+            "thumb": "assets/stays/kakern-thumb.jpg"
           }
         ],
         "status": "对比住宿",
@@ -205,11 +266,23 @@
         "photos": [
           {
             "src": "assets/stays/rorbuer.jpg",
-            "label": "Lofoten Rorbuer · 港口景观"
+            "label": "Lofoten Rorbuer · 港口景观",
+            "thumb": "assets/stays/rorbuer-thumb.jpg"
           },
           {
             "src": "assets/stays/rorbuer-room.jpg",
-            "label": "Lofoten Rorbuer · 卧室参考"
+            "label": "Lofoten Rorbuer · 卧室参考",
+            "thumb": "assets/stays/rorbuer-room-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/rorbuer-aerial.jpg",
+            "label": "Lofoten Rorbuer · 港湾与山景",
+            "thumb": "assets/stays/rorbuer-aerial-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/rorbuer-kitchen.jpg",
+            "label": "Lofoten Rorbuer · 厨房房型参考",
+            "thumb": "assets/stays/rorbuer-kitchen-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -227,7 +300,8 @@
         "photos": [
           {
             "src": "assets/stays/svolvaer-havn.jpg",
-            "label": "Rorbuene Svolvær Havn · 港口渔屋"
+            "label": "Rorbuene Svolvær Havn · 港口渔屋",
+            "thumb": "assets/stays/svolvaer-havn-thumb.jpg"
           }
         ],
         "status": "对比住宿",
@@ -267,19 +341,48 @@
       9
     ],
     "country": "iceland",
-    "location": "雷克雅未克东侧",
+    "location": "雷克雅未克市区",
     "dates": "2.14–2.15",
     "nights": 1,
     "options": [
       {
-        "name": "Laugardalur／市区东侧住宿",
-        "features": "停车方便 · 可晚入住",
-        "description": "尚未预订。蓝湖后进入雷克雅未克，优先有停车位、接受晚到的酒店或公寓；Kópavogur可比价。",
-        "url": null,
-        "total": null,
-        "photos": [],
-        "status": "待预订",
-        "notes": []
+        "name": "Apartments Reykjavik",
+        "features": "一卧室公寓 · 厨房 · 城市短住",
+        "description": "雷克雅未克市区的一卧室公寓，适合作为南岸行程前后中转。配厨房，具体布局以已订房型为准；并非KEF机场酒店。",
+        "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+        "total": 1059.83,
+        "originalTotal": 141.31,
+        "currency": "EUR",
+        "conversionRate": 7.5,
+        "estimated": true,
+        "photos": [
+          {
+            "src": "assets/stays/reykjavik-kitchen.jpg",
+            "label": "Apartments Reykjavik · 厨房房型参考",
+            "thumb": "assets/stays/reykjavik-kitchen-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/reykjavik-exterior.jpg",
+            "label": "Apartments Reykjavik · 建筑外观",
+            "thumb": "assets/stays/reykjavik-exterior-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/reykjavik-bedroom.jpg",
+            "label": "Apartments Reykjavik · 卧室房型参考",
+            "thumb": "assets/stays/reykjavik-bedroom-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/reykjavik-living.jpg",
+            "label": "Apartments Reykjavik · 起居空间参考",
+            "thumb": "assets/stays/reykjavik-living-thumb.jpg"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
+          "人民币按1 EUR≈7.5 RMB估算，最终以扣款为准。",
+          "蓝湖后前往公寓；预计晚到须提前确认入住。"
+        ]
       }
     ]
   },
@@ -306,11 +409,28 @@
         "photos": [
           {
             "src": "assets/stays/black-beach-1.jpg",
-            "label": "Black Beach Suites · 房源实景 1"
+            "label": "Black Beach Suites · 房源实景 1",
+            "thumb": "assets/stays/black-beach-1-thumb.jpg"
           },
           {
             "src": "assets/stays/black-beach-2.jpg",
-            "label": "Black Beach Suites · 房源实景 2"
+            "label": "Black Beach Suites · 房源实景 2",
+            "thumb": "assets/stays/black-beach-2-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/black-beach-kitchen.jpg",
+            "label": "Black Beach Suites · 开放式厨房",
+            "thumb": "assets/stays/black-beach-kitchen-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/black-beach-exterior.jpg",
+            "label": "Black Beach Suites · 山景建筑",
+            "thumb": "assets/stays/black-beach-exterior-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/black-beach-bedroom.jpg",
+            "label": "Black Beach Suites · 卧室参考",
+            "thumb": "assets/stays/black-beach-bedroom-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -346,11 +466,23 @@
         "photos": [
           {
             "src": "assets/stays/rey-stays-1.jpg",
-            "label": "REY Stays - House · 房源实景 1"
+            "label": "REY Stays - House · 房源实景 1",
+            "thumb": "assets/stays/rey-stays-1-thumb.jpg"
           },
           {
             "src": "assets/stays/rey-stays-2.jpg",
-            "label": "REY Stays - House · 房源实景 2"
+            "label": "REY Stays - House · 房源实景 2",
+            "thumb": "assets/stays/rey-stays-2-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/rey-exterior.jpg",
+            "label": "REY Stays · 木屋与露台",
+            "thumb": "assets/stays/rey-exterior-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/rey-bedroom.jpg",
+            "label": "REY Stays · 卧室",
+            "thumb": "assets/stays/rey-bedroom-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -370,11 +502,13 @@
         "photos": [
           {
             "src": "assets/stays/aurora-cabins-1.jpg",
-            "label": "Aurora Cabins · 房源实景 1"
+            "label": "Aurora Cabins · 房源实景 1",
+            "thumb": "assets/stays/aurora-cabins-1-thumb.jpg"
           },
           {
             "src": "assets/stays/aurora-cabins-2.jpg",
-            "label": "Aurora Cabins · 房源实景 2"
+            "label": "Aurora Cabins · 房源实景 2",
+            "thumb": "assets/stays/aurora-cabins-2-thumb.jpg"
           }
         ],
         "status": "对比住宿",
@@ -391,19 +525,48 @@
       13
     ],
     "country": "iceland",
-    "location": "KEF 机场附近",
+    "location": "雷克雅未克市区",
     "dates": "2.18–2.19",
     "nights": 1,
     "options": [
       {
-        "name": "KEF 航站楼附近住宿",
-        "features": "晚到方便 · 清晨还车",
-        "description": "尚未预订。2月18日蝙蝠山后西返，优先机场酒店；2月19日约04:00还车、05:00到航站楼。",
-        "url": null,
-        "total": null,
-        "photos": [],
-        "status": "待预订",
-        "notes": []
+        "name": "Apartments Reykjavik",
+        "features": "一卧室公寓 · 厨房 · 城市短住",
+        "description": "雷克雅未克市区的一卧室公寓，适合作为南岸行程前后中转。配厨房，具体布局以已订房型为准；并非KEF机场酒店。",
+        "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+        "total": 1059.83,
+        "originalTotal": 141.31,
+        "currency": "EUR",
+        "conversionRate": 7.5,
+        "estimated": true,
+        "photos": [
+          {
+            "src": "assets/stays/reykjavik-kitchen.jpg",
+            "label": "Apartments Reykjavik · 厨房房型参考",
+            "thumb": "assets/stays/reykjavik-kitchen-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/reykjavik-exterior.jpg",
+            "label": "Apartments Reykjavik · 建筑外观",
+            "thumb": "assets/stays/reykjavik-exterior-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/reykjavik-bedroom.jpg",
+            "label": "Apartments Reykjavik · 卧室房型参考",
+            "thumb": "assets/stays/reykjavik-bedroom-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/reykjavik-living.jpg",
+            "label": "Apartments Reykjavik · 起居空间参考",
+            "thumb": "assets/stays/reykjavik-living-thumb.jpg"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
+          "人民币按1 EUR≈7.5 RMB估算，最终以扣款为准。",
+          "2月19日07:30起飞，约03:00从市区出发；预留约50–60分钟去KEF、04:00还车、05:00到航站楼。"
+        ]
       }
     ]
   },
@@ -426,11 +589,23 @@
         "photos": [
           {
             "src": "assets/stays/copenhagen-1.jpg",
-            "label": "Aperon · One-Bedroom Apartment for 4 · 房源实景 1"
+            "label": "Aperon · One-Bedroom Apartment for 4 · 房源实景 1",
+            "thumb": "assets/stays/copenhagen-1-thumb.jpg"
           },
           {
             "src": "assets/stays/copenhagen-2.jpg",
-            "label": "Aperon · One-Bedroom Apartment for 4 · 房源实景 2"
+            "label": "Aperon · One-Bedroom Apartment for 4 · 房源实景 2",
+            "thumb": "assets/stays/copenhagen-2-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/copenhagen-3.jpg",
+            "label": "Aperon · 室内设计",
+            "thumb": "assets/stays/copenhagen-3-thumb.jpg"
+          },
+          {
+            "src": "assets/stays/copenhagen-4.jpg",
+            "label": "Aperon · 公寓空间",
+            "thumb": "assets/stays/copenhagen-4-thumb.jpg"
           }
         ],
         "status": "已预订",
@@ -448,7 +623,8 @@
         "photos": [
           {
             "src": "assets/stays/bethel.jpg",
-            "label": "Hotel Bethel · 新港建筑"
+            "label": "Hotel Bethel · 新港建筑",
+            "thumb": "assets/stays/bethel-thumb.jpg"
           }
         ],
         "status": "对比住宿",
