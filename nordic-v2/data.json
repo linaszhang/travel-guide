@@ -577,7 +577,7 @@
             "title": "Polar Adventures · 峡湾游船与海钓",
             "body": [
               {
-                "t": "已预订All-inclusive套餐，乘船看雪山峡湾，体验海钓。约15:00返回出发码头。",
+                "t": "已预订All-inclusive套餐，乘船看雪山峡湾，途中体验海钓；约15:00返港。罗弗敦不再重复安排海钓。",
                 "links": []
               },
               {
@@ -832,14 +832,14 @@
       {
         "num": 7,
         "id": "262:612",
-        "title": "罗弗敦岛 · 海钓 → 亨宁斯维尔 → 雷纳",
-        "date": "2月12日（周五） · 上午体验海钓，沿渔村与海岸一路向南",
+        "title": "罗弗敦岛 · 斯沃尔维尔 → 亨宁斯维尔 → 雷纳",
+        "date": "2月12日（周五） · 沿渔村与海岸一路向南",
         "tags": [
           "约3–4h（140–160km）"
         ],
         "photos": [
           {
-            "label": "Svolvær · 渔船海钓",
+            "label": "Svolvær · 渔船与港口",
             "src": "../nordic/assets/day-08-0.jpg",
             "source": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/"
           },
@@ -857,48 +857,18 @@
         "activities": [
           {
             "time": [
-              "上午",
-              "8:30 -\n13:00",
-              "建议"
+              "原上午",
+              "已排除"
             ],
             "emoji": "🎣",
-            "title": "🔥 传统渔船海钓",
+            "title": "传统渔船海钓 · 暂不安排",
             "body": [
               {
-                "t": "参考XXLofoten传统渔船MS Symra，集合地址J.E. Paulsens gate 9；官网要求发船前30分钟到。\n体验北挪威渔业文化、学习海钓和船上处理渔获",
+                "t": "特罗姆瑟2月9日已订峡湾游船包含海钓，罗弗敦不再重复报名；原¥900／人已移出预算。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "id": "281:4720",
-                "c": [
-                  {
-                    "t": "官网明确季节2月15日–4月30日，待确认是否有相应活动行程",
-                    "links": []
-                  },
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4721",
-                    "c": [
-                      {
-                        "name": "Frame 55",
-                        "id": "281:4722",
-                        "c": [
-                          {
-                            "t": "全程4h",
-                            "links": []
-                          },
-                          {
-                            "t": "¥916/人",
-                            "links": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
               }
-            ]
+            ],
+            "excluded": true
           },
           {
             "time": [

@@ -47,11 +47,12 @@
     "location": "特罗姆瑟 · Arctic Fjord Cruise",
     "duration": "约5h · 2.9 10:00–15:00",
     "price": 1358,
-    "intro": "已预订Polar Adventures峡湾游船与海钓，乘船欣赏雪山峡湾并体验海钓，结束后自驾前往塞尼亚。",
+    "intro": "已预订Polar Adventures全包峡湾游船：欣赏雪山与峡湾，途中体验海钓，一次完成海上观景与钓鱼；不再另报罗弗敦海钓。",
     "meeting": "2月9日09:45前到Killengreens gate 7–11前方码头集合；10:00出发，约15:00返回同一地点。",
     "includes": [
-      "All-inclusive Fjord and Fishing Cruise已订套餐",
-      "峡湾航程与海钓体验；具体餐饮按所订套餐"
+      "已订All-inclusive Fjord and Fishing Cruise套餐",
+      "峡湾观景＋海钓体验，非仅观景游船",
+      "具体餐饮与随船服务以已订套餐为准"
     ],
     "notes": [
       "甲板风大，带帽子、手套和防风衣物。",
@@ -151,17 +152,17 @@
     "location": "罗弗敦 · 斯沃尔维尔",
     "duration": "约4h（原行程参考）",
     "price": 900,
-    "intro": "乘传统渔船出海，在船员指导下体验海钓，感受罗弗敦的渔业生活。原计划参考 XXLofoten 的传统渔船产品。",
+    "intro": "原计划在罗弗敦乘传统渔船体验海钓。因2月9日已订的特罗姆瑟峡湾游船包含海钓，本项目暂移至已排除项目，避免重复安排。",
     "meeting": "原行程集合点：J. E. Paulsens gate 9，Svolvær；建议提前30分钟到场。",
     "includes": [
       "海钓与船员指导体验",
       "渔具及随船装备以预订产品为准"
     ],
     "notes": [
-      "穿保暖防风衣物与防滑鞋，提前考虑个人晕船情况。",
-      "计划日期为2月12日；原计划记录冬季场次2月15日起，需向运营方确认2月12日是否有合适场次。"
+      "暂不安排；海钓体验已包含在2月9日Polar Adventures峡湾游船中。",
+      "保留项目资料，后续如需恢复可重新核对团期与价格。"
     ],
-    "priceNote": "预算¥900／人；原行程参考约¥916／人。尚未按已预订项目处理。",
+    "priceNote": "原预算¥900／人，当前不计入游玩项目小计及总预算。",
     "url": "https://xxlofoten.no/en/experiences/fishing-trip-svolvaer/",
     "operator": "XXLofoten",
     "photos": [
@@ -177,7 +178,8 @@
         "src": "../nordic/assets/experiences/fishing-2.jpg",
         "label": "海钓体验 · 渔获参考"
       }
-    ]
+    ],
+    "excluded": true
   },
   {
     "id": "vatnajokull-ice-cave",
