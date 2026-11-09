@@ -1,37 +1,41 @@
 [
   {
-    "id": "kvaloya-snowshoe",
+    "id": "hesten-segla-snowshoe",
     "country": "norway",
-    "day": 4,
-    "title": "Kvaløya 雪鞋登高徒步",
-    "location": "特罗姆瑟 · 鲸岛",
-    "duration": "全程最多约5h",
-    "price": 1054,
-    "intro": "跟随向导穿过雪地，登高俯瞰峡湾、岛屿与雪山。路线具有一定体力要求，累计爬升可达约400米。",
-    "meeting": "Tromsø Outdoor，Fredrik Langes gate 14；原计划09:20集合、09:30出发。",
+    "day": null,
+    "title": "Hesten／Segla 雪山徒步",
+    "location": "塞尼亚岛 · Fjordgård／Hesten",
+    "duration": "运营方参考约2.5–3h；冬季以确认方案为准",
+    "price": 1330,
+    "intro": "跟随当地向导在塞尼亚岛雪山徒步，优先选择Hesten方向的观景路线，欣赏Segla刀锋般的山体、峡湾与周围雪峰。Hesten观景和登顶Segla是不同路线，本项目以Hesten看Segla为目标，不默认安排攀登Segla顶峰。",
+    "meeting": "日期暂未安排，不与原每日行程绑定。向Storm Adventure Senja询问2月Hesten观景雪鞋路线，集合地点与时间需邮件确认；自行前往塞尼亚岛的交通另计。",
     "includes": [
-      "向导、雪鞋与登山杖",
-      "往返交通、热饮与小点心"
+      "当地向导带队，英文或挪威文讲解",
+      "运营方列有雪鞋；其他装备与接送是否包含须预订前确认",
+      "具体路线按冬季天气、积雪和向导评估调整，不保证登顶"
     ],
     "notes": [
-      "穿保暖防水的高帮徒步鞋；雪鞋是雪地行走工具，不能代替保暖鞋。",
-      "分层穿衣，准备防风防水外层；线路随天气与雪况调整。"
+      "2月团期、Hesten观景路线、冬季实际时长与最终价格需向运营方确认，当前未预订。",
+      "准备保暖防水高帮徒步鞋、防风外层、手套帽子、水与食物；是否需要额外防滑装备听从向导。",
+      "冬季山地存在结冰和雪崩风险，应由当地合格向导评估；情况不适合时改线或取消。"
     ],
-    "priceNote": "预算¥1,054／人。原行程价格仅供预算参考，具体团期与费用以预订确认为准。",
-    "url": "https://www.tromsooutdoor.no/activities/004-guided-snowshoeing-hike-on-kvaloya-tromso-outdoor",
-    "operator": "Tromsø Outdoor",
+    "priceNote": "Storm Adventure Senja官网Hesten／Segla参考报价1,900 NOK／人，最低团费3,000 NOK；2人按人头合计3,800 NOK。沿用预算汇率1 NOK≈0.7 RMB，暂列¥1,330／人。2月报价、接送与装备费用另向运营方核实。",
+    "url": "https://www.senjastormadventure.com/snowshoe-walk-hiking-to-segla/hesten/riven",
+    "operator": "Storm Adventure Senja",
+    "imageCredit": "Senja by Heart（Hesten／Segla冬季景观参考，非所列运营方的实拍团次）",
+    "imageSource": "https://senjabyheart.no/en/product/snowshoe-hike-to-hesten-with-segla-view/",
     "photos": [
       {
-        "src": "../nordic/assets/day-06-0.jpg",
-        "label": "Kvaløya 雪鞋徒步"
+        "src": "../nordic/assets/experiences/hesten-segla-0.jpg",
+        "label": "Hesten方向看Segla · 冬季景观参考"
       },
       {
-        "src": "../nordic/assets/experiences/snowshoe-1.jpg",
-        "label": "雪地登高 · 峡湾视野"
+        "src": "../nordic/assets/experiences/hesten-segla-1.jpg",
+        "label": "Segla与峡湾 · 景观参考"
       },
       {
-        "src": "../nordic/assets/experiences/snowshoe-2.jpg",
-        "label": "向导带队的雪鞋体验"
+        "src": "../nordic/assets/experiences/hesten-segla-2.jpg",
+        "label": "塞尼亚雪山 · 景观参考"
       }
     ]
   },
@@ -246,5 +250,42 @@
         "label": "Trollfjord · RIB航行参考"
       }
     ]
+  },
+  {
+    "id": "kvaloya-snowshoe",
+    "country": "norway",
+    "day": 4,
+    "title": "Kvaløya 雪鞋登高徒步",
+    "location": "特罗姆瑟 · 鲸岛",
+    "duration": "全程最多约5h",
+    "price": 1054,
+    "intro": "跟随向导穿过雪地，登高俯瞰峡湾、岛屿与雪山。路线具有一定体力要求，累计爬升可达约400米。",
+    "meeting": "Tromsø Outdoor，Fredrik Langes gate 14；原计划09:20集合、09:30出发。",
+    "includes": [
+      "向导、雪鞋与登山杖",
+      "往返交通、热饮与小点心"
+    ],
+    "notes": [
+      "穿保暖防水的高帮徒步鞋；雪鞋是雪地行走工具，不能代替保暖鞋。",
+      "分层穿衣，准备防风防水外层；线路随天气与雪况调整。"
+    ],
+    "priceNote": "预算¥1,054／人。原行程价格仅供预算参考，具体团期与费用以预订确认为准。",
+    "url": "https://www.tromsooutdoor.no/activities/004-guided-snowshoeing-hike-on-kvaloya-tromso-outdoor",
+    "operator": "Tromsø Outdoor",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-06-0.jpg",
+        "label": "Kvaløya 雪鞋徒步"
+      },
+      {
+        "src": "../nordic/assets/experiences/snowshoe-1.jpg",
+        "label": "雪地登高 · 峡湾视野"
+      },
+      {
+        "src": "../nordic/assets/experiences/snowshoe-2.jpg",
+        "label": "向导带队的雪鞋体验"
+      }
+    ],
+    "excluded": true
   }
 ]
