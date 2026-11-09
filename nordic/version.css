@@ -75,3 +75,11 @@
 @media(max-width:380px){.mobile-actions{gap:2px}.mobile-actions .icon-button{width:30px;height:30px}}
 @media(max-width:340px){.mobile-title .mobile-brand{font-size:12px}.mobile-title{gap:4px;font-size:12px}.mobile-actions .icon-button{width:28px;height:28px}.mobile-actions svg{width:20px;height:20px}}
 .packing-page{padding-top:24px}
+
+/* Keep the mobile drawer focused on country navigation. */
+@media(max-width:860px){
+ .sidebar .side-brand,.sidebar .side-switch>.home-icon{display:none}
+ .sidebar .side-switch{top:0;padding-top:0;gap:0}
+ .sidebar .side-switch nav{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));width:100%;flex:1 1 auto;margin-left:0;gap:4px}
+ .sidebar .side-switch nav button{width:100%;min-width:0;text-align:center;padding:10px 4px}
+}
