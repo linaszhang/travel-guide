@@ -248,16 +248,15 @@
     "nights": 1,
     "options": [
       {
-        "name": "Langnes 机场侧住宿",
-        "features": "早航班方便 · 停车／清晨还车",
-        "description": "尚未预订。继续按文档推荐Langnes机场一侧，次日07:50飞冰岛。",
+        "name": "车上过夜",
+        "features": "2月13日晚 · 次晨早班机 · 住宿费¥0",
+        "description": "按飞书最新安排，这晚住车上，不再预留机场酒店房费。次晨07:50起飞，清晨还车后前往航站楼。",
         "url": null,
-        "total": null,
+        "total": 0,
         "photos": [],
-        "status": "待预订",
+        "status": "车上过夜",
         "notes": [
-          "预算仍按¥1,000／人／晚。",
-          "清晨还车和机场接驳按最终车行安排。"
+          "提前确认允许过夜停车的地点及车辆保暖条件；条件不满足时改订机场附近酒店。"
         ]
       }
     ]
@@ -290,19 +289,36 @@
       10
     ],
     "country": "iceland",
-    "location": "维克",
+    "location": "维克 · 黑沙滩一侧",
     "dates": "2.15–2.16",
     "nights": 1,
     "options": [
       {
-        "name": "Vík 镇内住宿",
-        "features": "餐饮补给方便 · 次日黑沙滩",
-        "description": "尚未预订。镇内优先；Reyni／Reynishverfi可比较景观住宿与车程。",
-        "url": null,
-        "total": null,
-        "photos": [],
-        "status": "待预订",
-        "notes": []
+        "name": "Black Beach Suites · 黑色海滩套房",
+        "features": "豪华特大床一室公寓 · 大窗景观 · 厨房 · 露台",
+        "description": "已订豪华特大号床一室公寓，带私人浴室、厨房与露台；含一辆车的停车位。位于维克镇外黑沙滩一侧，适合次晨去Reynisfjara。",
+        "url": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
+        "total": 2521.88,
+        "originalTotal": 336.25,
+        "currency": "EUR",
+        "conversionRate": 7.5,
+        "estimated": true,
+        "photos": [
+          {
+            "src": "assets/stays/black-beach-1.jpg",
+            "label": "Black Beach Suites · 房源实景 1"
+          },
+          {
+            "src": "assets/stays/black-beach-2.jpg",
+            "label": "Black Beach Suites · 房源实景 2"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月15日15:00–00:00入住，2月16日12:00前退房；2位成人1晚。",
+          "优惠后应付€336.25；不是优惠前€369。人民币按1 EUR≈7.5 RMB估算，最终以扣款为准。",
+          "当晚在维克补给后再回公寓，次晨直接前往黑沙滩。"
+        ]
       }
     ]
   },
@@ -313,20 +329,58 @@
       12
     ],
     "country": "iceland",
-    "location": "Hof／Freysnes",
+    "location": "霍芬 Höfn 周边",
     "dates": "2.16–2.18",
     "nights": 2,
     "options": [
       {
-        "name": "Hof／Freysnes 连住住宿",
-        "features": "近冰洞集合点 · 连住2晚",
-        "description": "尚未预订。首查Adventure Hotel Hof及附近客房；Freysnes的Hotel Skaftafell可比价。2月17日08:40到Hof的Tröll基地集合。",
-        "url": null,
-        "total": null,
-        "photos": [],
-        "status": "待预订",
+        "name": "REY Stays - House",
+        "features": "两卧室整租公寓 · 窗景 · 厨房 · 露台 · 免费停车",
+        "description": "霍芬附近的两卧室整租公寓，约52㎡，配厨房、起居区、私人浴室及露台，连住两晚。实际位于Höfn周边，不能按Hof村附近住宿计算冰洞集合交通。",
+        "url": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
+        "total": 3763.43,
+        "originalTotal": 501.79,
+        "currency": "EUR",
+        "conversionRate": 7.5,
+        "estimated": true,
+        "photos": [
+          {
+            "src": "assets/stays/rey-stays-1.jpg",
+            "label": "REY Stays - House · 房源实景 1"
+          },
+          {
+            "src": "assets/stays/rey-stays-2.jpg",
+            "label": "REY Stays - House · 房源实景 2"
+          }
+        ],
+        "status": "已预订",
         "notes": [
-          "集合点为Tröll Expeditions Skaftafell（Hof），不是国家公园游客中心。"
+          "2月16日15:00后入住，2月18日10:30前退房；2位成人2晚。",
+          "优惠后应付€501.79；不是优惠前€540。人民币按1 EUR≈7.5 RMB估算，最终以扣款为准。",
+          "2月17日08:40在Hof的Tröll基地集合，需反向西行；冬季先预留约2–2.5小时车程，约06:00出发，出行前按路况复核。",
+          "2月17日下午游冰河湖与钻石沙滩后回霍芬；2月18日先去Stokksnes，再长途西返。"
+        ]
+      },
+      {
+        "name": "Aurora Cabins · 极光度假屋",
+        "features": "霍芬周边木屋 · 山景露台 · 厨房 · 免费停车",
+        "description": "文档中的对比民宿，带山景露台、厨房及私人浴室，配花园和烧烤设施。文档备注室内、室外略逊于已选住宿；具体房型与报价待核实。",
+        "url": "https://www.booking.com/hotel/is/aurora-cabins.zh-cn.html",
+        "total": null,
+        "photos": [
+          {
+            "src": "assets/stays/aurora-cabins-1.jpg",
+            "label": "Aurora Cabins · 房源实景 1"
+          },
+          {
+            "src": "assets/stays/aurora-cabins-2.jpg",
+            "label": "Aurora Cabins · 房源实景 2"
+          }
+        ],
+        "status": "对比住宿",
+        "notes": [
+          "同样位于霍芬一带，不能替代Hof村附近住宿的交通便利。",
+          "未提供2月16–18日可确认的订单金额，不计入预算。"
         ]
       }
     ]

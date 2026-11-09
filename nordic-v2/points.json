@@ -1098,13 +1098,12 @@
   },
   {
     "query": "Hof Öræfi Iceland",
-    "name": "Hof 村住宿区域",
+    "name": "Hof 村／草皮教堂",
     "days": [
       11,
-      12,
-      13
+      12
     ],
-    "kind": "stay",
+    "kind": "sight",
     "id": "p65",
     "coord": [
       -16.7067323,
@@ -1115,7 +1114,7 @@
     "image": "../nordic/assets/day-12-2.jpg",
     "imageLabel": "Hofskirkja 草皮教堂",
     "imageSource": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly",
-    "description": "沿1号公路东行，在官方停车位做少量风景停留；不要进入未评估的支路或高地F路。",
+    "description": "沿途草皮教堂与冰洞集合区域；本次已订住宿实际在霍芬Höfn周边，2月17日需清晨西行到Hof集合。",
     "rating": null
   },
   {
@@ -1752,6 +1751,28 @@
     "imageLabel": "Svolvær · 渔船海钓",
     "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
     "description": "2月11日南部住宿区域；实际入住The Chess House Lofoten。",
+    "rating": null
+  },
+  {
+    "id": "p-reystays",
+    "query": "REY Stays House Hofn Iceland",
+    "name": "REY Stays · 霍芬住宿",
+    "days": [
+      11,
+      12,
+      13
+    ],
+    "kind": "stay",
+    "countryId": "iceland",
+    "countryName": "冰岛",
+    "coord": [
+      -15.19693508884103,
+      64.300145069035
+    ],
+    "image": "../nordic-v2/assets/stays/rey-stays-1.jpg",
+    "imageLabel": "REY Stays - House",
+    "imageSource": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
+    "description": "2月16–18日连住两晚。位于霍芬Höfn周边，2月17日需清晨开车至Hof的冰洞集合点；2月18日先去Stokksnes再西返。",
     "rating": null
   }
 ]
