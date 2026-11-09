@@ -1537,20 +1537,22 @@
   },
   {
     "id": "p-ski",
-    "name": "Tromsø Outdoor 越野滑雪集合点",
+    "name": "Tromsø Outdoor · 备选滑雪装备租赁",
     "query": "Fredrik Langes gate 14 Tromso",
     "coord": [
       18.9553,
       69.6493
     ],
-    "days": [],
-    "kind": "attraction",
+    "days": [
+      2
+    ],
+    "kind": "optional",
     "countryId": "norway",
     "countryName": "挪威",
     "image": "../nordic/assets/experiences/cross-country-ski.jpg",
     "imageLabel": "越野滑雪 · 入门课程（二选一）",
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
-    "description": "驯鹿项目的替换方案，09:00场集合参考，非实际滑雪线路。",
+    "description": "2月7日13:30自主滑雪的备选租赁点，须约12:30前回城；不是雪道入口，费用另询。",
     "rating": null,
     "imageReference": false
   },
@@ -1637,5 +1639,26 @@
     "description": "临水黑色建筑与通透中庭，公共区域免费。",
     "rating": null,
     "imageReference": true
+  },
+  {
+    "id": "p-charlottenlund",
+    "name": "Charlottenlund · 备选越野滑雪区域",
+    "query": "Charlottenlund aktivitets og friluftspark Tromso",
+    "coord": [
+      18.95255,
+      69.66508
+    ],
+    "days": [
+      2
+    ],
+    "kind": "optional",
+    "countryId": "norway",
+    "countryName": "挪威",
+    "image": "../nordic/assets/experiences/cross-country-ski.jpg",
+    "imageLabel": "Tromsøya越野滑雪 · 区域景观参考",
+    "imageReference": true,
+    "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
+    "description": "自驾提前回城才前往。地图为Charlottenlund区域示意；实际平缓压雪道入口及当日压雪状况向租赁店核实，按体力折返。",
+    "rating": null
   }
 ]
