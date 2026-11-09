@@ -772,7 +772,7 @@
       {
         "name": "Lofoten Rorbuer · 海景套房",
         "features": "渔民套房 · 海景与渔船 · 露台",
-        "description": "文档已订的罗弗敦渔民公寓海景套房，窗外是海景与渔船，有露台。2月12日游览南部后北上入住，次日游览北部后直接返特罗姆瑟。",
+        "description": "罗弗敦渔民公寓的约40㎡海景套房，设客厅、两间独立卧室、私人厨房和浴室，带海景露台。卧室1配两张单人床，卧室2为上下铺，共4个床位。2月12日游览南部后北上入住，次日游览北部后直接返特罗姆瑟。",
         "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
         "total": 1895,
         "photos": [
@@ -899,13 +899,14 @@
         ],
         "status": "已预订",
         "notes": [
-          "2月12日入住、2月13日退房，海景套房。",
+          "2月12日入住、2月13日退房，海景套房；卧室1为2张单人床，卧室2为上下铺的2个床位。",
           "订单总额 NOK 2,682.90，页面折算约¥1,895；含订单列出的停车服务。"
         ],
-        "roomLayout": "海景套房 · 卧室与床数待核实",
+        "roomLayout": "2卧室 · 2张单人床＋1张双层床（共4床位）",
         "cancellation": "2027.2.6 23:59前免费取消",
         "userNote": "渔民套房，窗外能看海景和渔船，另有露台。",
-        "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船。"
+        "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船。",
+        "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707"
       }
     ]
   },
@@ -1099,7 +1100,7 @@
       {
         "name": "Apartments Reykjavik",
         "features": "一卧室公寓 · 厨房 · 城市短住",
-        "description": "雷克雅未克市区的一卧室公寓，适合作为南岸行程前后中转。配厨房，具体布局以已订房型为准；并非KEF机场酒店。",
+        "description": "雷克雅未克市区的一卧室公寓，设一张双人床，带客厅、厨房、私人浴室和阳台，可看花园及庭院景观，适合作为南岸行程前后的中转住宿。",
         "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
         "total": 1059.83,
         "originalTotal": 141.31,
@@ -1233,10 +1234,11 @@
           "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
           "蓝湖后前往公寓；预计晚到须提前确认入住。"
         ],
-        "roomLayout": "1卧室 · 床数待核实",
+        "roomLayout": "1卧室 · 1张双人床",
         "cancellation": "2027.2.8 23:59前免费取消",
         "userNote": "作为中转落脚点，住宿以简单实用为主。",
-        "budgetSummary": "带厨房的一卧室公寓，作为城市中转落脚点，以简单实用为主。"
+        "budgetSummary": "带厨房的一卧室公寓，作为城市中转落脚点，以简单实用为主。",
+        "roomSource": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html#RD913380204"
       }
     ]
   },
