@@ -1523,7 +1523,7 @@
       69.6464
     ],
     "days": [
-      4
+      3
     ],
     "kind": "attraction",
     "countryId": "norway",
@@ -1531,7 +1531,7 @@
     "image": "../nordic/assets/experiences/reindeer-sledding.jpg",
     "imageLabel": "驯鹿雪橇 · 短程体验",
     "imageSource": "https://tromsoarcticreindeer.com/short-reindeer-sledding",
-    "description": "与越野滑雪二选一；此处为市区集合参考，实际按订单确认，非营地位置。",
+    "description": "2月8日上午自主滑雪、下午25–30分钟驯鹿雪橇。13:00场需重新确认；地图为市区集合或雪道区域参考。",
     "rating": null,
     "imageReference": false
   },
@@ -1544,7 +1544,8 @@
       69.6493
     ],
     "days": [
-      4
+      2,
+      3
     ],
     "kind": "optional",
     "countryId": "norway",
@@ -1552,7 +1553,7 @@
     "image": "../nordic/assets/experiences/cross-country-ski.jpg",
     "imageLabel": "越野滑雪 · 入门课程（二选一）",
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
-    "description": "2月9日10:00取具、约10:30–11:30自主滑雪，12:15前还具，再参加下午驯鹿体验。Charlottenlund为区域示意，雪道入口和当日状况向租赁店确认。",
+    "description": "2月7日约13:00–13:30取雪具，2月8日约11:00归还，租期控制24小时内。",
     "rating": null,
     "imageReference": false
   },
@@ -1649,7 +1650,7 @@
       69.66508
     ],
     "days": [
-      4
+      3
     ],
     "kind": "optional",
     "countryId": "norway",
@@ -1658,7 +1659,7 @@
     "imageLabel": "Tromsøya越野滑雪 · 区域景观参考",
     "imageReference": true,
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
-    "description": "2月9日10:00取具、约10:30–11:30自主滑雪，12:15前还具，再参加下午驯鹿体验。Charlottenlund为区域示意，雪道入口和当日状况向租赁店确认。",
+    "description": "2月8日上午自主滑雪、下午25–30分钟驯鹿雪橇。13:00场需重新确认；地图为市区集合或雪道区域参考。",
     "rating": null
   },
   {
@@ -1677,5 +1678,22 @@
     "countryName": "挪威",
     "rating": null,
     "description": "2月7日约14:00到下站，目标14:30前后上山、15:00前登顶，等日落与城市亮灯的蓝调；约16:30下山。运营和停车按当日公告确认。"
+  },
+  {
+    "id": "p-pust",
+    "name": "Pust 浮动桑拿",
+    "query": "Pust Sauna Skippergata 1C Tromso",
+    "coord": [
+      18.9603,
+      69.6492
+    ],
+    "days": [
+      3
+    ],
+    "kind": "attraction",
+    "countryId": "norway",
+    "countryName": "挪威",
+    "rating": null,
+    "description": "2月8日晚海港桑拿，建议18:00–19:30参考；提前预约，150 NOK起，费用暂未计入预算。"
   }
 ]
