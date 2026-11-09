@@ -30,16 +30,16 @@
     page.querySelector('[data-packing-count]').textContent = `${count} / ${ids.size}`;
     const progress = page.querySelector('progress');
     progress.value = count;
-    page.querySelector('[data-packing-message]').textContent = storageAvailable
-      ? '自动保存在本机浏览器；换设备、换浏览器或清除网站数据后不会保留。'
-      : '浏览器暂不允许保存，当前勾选可能无法在下次打开时保留。';
+    const message = page.querySelector('[data-packing-message]');
+    message.hidden = storageAvailable;
+    message.textContent = storageAvailable ? '' : '浏览器暂不允许保存，当前勾选可能无法在下次打开时保留。';
     for (const group of groups) {
       page.querySelector(`[data-packing-group="${group.id}"]`).textContent = `${group.items.filter(([id]) => checked[id]).length} / ${group.items.length}`;
     }
   }
   window.renderPacking = function () {
     readState();
-    document.getElementById('main').innerHTML = `<div class="page-wrap packing-page"><header class="packing-heading"><h1>行李清单</h1><p>北欧冬季出行 · 勾选已装好的物品</p></header><section class="packing-progress" aria-label="行李准备进度"><div><span>已准备</span><strong data-packing-count></strong></div><progress max="${ids.size}" value="0" aria-label="已准备的行李数量"></progress><p data-packing-message role="status"></p></section><div class="packing-groups">${groups.map(group => `<section class="packing-group" aria-labelledby="packing-${group.id}"><header><h2 id="packing-${group.id}">${group.title}</h2><span data-packing-group="${group.id}"></span></header>${group.items.map(([id,label]) => `<label class="packing-item${checked[id]?' is-packed':''}"><input type="checkbox" data-packing-id="${id}"${checked[id]?' checked':''}><span>${label}</span></label>`).join('')}</section>`).join('')}</div></div>`;
+    document.getElementById('main').innerHTML = `<div class="page-wrap packing-page"><header class="packing-heading"><h1>行李清单</h1></header><section class="packing-progress" aria-label="行李准备进度"><div><span>已准备</span><strong data-packing-count></strong></div><progress max="${ids.size}" value="0" aria-label="已准备的行李数量"></progress><p data-packing-message role="status" hidden></p></section><div class="packing-groups">${groups.map(group => `<section class="packing-group" aria-labelledby="packing-${group.id}"><header><h2 id="packing-${group.id}">${group.title}</h2><span data-packing-group="${group.id}"></span></header>${group.items.map(([id,label]) => `<label class="packing-item${checked[id]?' is-packed':''}"><input type="checkbox" data-packing-id="${id}"${checked[id]?' checked':''}><span>${label}</span></label>`).join('')}</section>`).join('')}</div></div>`;
     updateProgress();
   };
   document.addEventListener('change', event => {
