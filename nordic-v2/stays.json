@@ -1,0 +1,405 @@
+[
+  {
+    "id": "helsinki",
+    "days": [
+      1
+    ],
+    "country": "finland",
+    "location": "赫尔辛基",
+    "dates": "2.6–2.7",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Ultra Central - Best Location!",
+        "features": "中央车站步行约4分钟 · 一卧室 · 洗烘机",
+        "description": "翻修后的市中心一卧室公寓，中央车站约270米，Esplanadi约700米。配厨房、洗衣机及烘干机，适合短住和建筑、设计店散步。",
+        "url": "https://www.airbnb.cn/rooms/1352071930046861422",
+        "total": 1354.44,
+        "photos": [
+          {
+            "src": "assets/stays/helsinki-1.jpg",
+            "label": "Ultra Central - Best Location! · 房源实景 1"
+          },
+          {
+            "src": "assets/stays/helsinki-2.jpg",
+            "label": "Ultra Central - Best Location! · 房源实景 2"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月6日15:00后入住，2月7日12:00前退房；次晨07:35航班，提前安排清晨去机场。",
+          "订单总费用¥1,354.44，2人1晚。"
+        ]
+      },
+      {
+        "name": "Radisson RED Helsinki",
+        "features": "中央车站／Töölönlahti · 设计酒店",
+        "description": "文档提供的对比酒店，适合短住与市中心建筑散步；文档没有提供指定日期成交价。",
+        "url": "https://www.booking.com/hotel/fi/radisson-red-helsinki.zh-cn.html",
+        "total": null,
+        "photos": [
+          {
+            "src": "assets/stays/radisson.jpg",
+            "label": "Radisson RED Helsinki · 建筑外观"
+          }
+        ],
+        "status": "对比住宿",
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "tromso-fjord",
+    "days": [
+      2,
+      3
+    ],
+    "country": "norway",
+    "location": "特罗姆瑟周边",
+    "dates": "2.7–2.9",
+    "nights": 2,
+    "options": [
+      {
+        "name": "EIRA Fjord Stay",
+        "features": "2卧室 · 私人桑拿 · 峡湾火塘 · 秋千",
+        "description": "两卧室整租公寓，含厨房、洗衣机、私人浴室与桑拿；文档另备注有秋千。免费私人停车。实际为特罗姆瑟周边峡湾住宿，并非市中心步行范围。",
+        "url": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
+        "total": 5581,
+        "photos": [
+          {
+            "src": "assets/stays/eira.jpg",
+            "label": "EIRA Fjord Stay · 峡湾住宿"
+          },
+          {
+            "src": "assets/stays/eira-room.jpg",
+            "label": "EIRA Fjord Stay · 卧室"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月7日入住、2月9日退房，2位成人、2晚。",
+          "订单总额 NOK 7,900，含清洁费；页面折算约¥5,581，汇率会影响人民币结算。",
+          "房源页面显示距机场约30公里、缆车约25公里；市区活动后需自驾回住处。"
+        ]
+      },
+      {
+        "name": "Arctic View Apartment",
+        "features": "大窗海山景 · 1卧室 · 厨房 · 免费停车",
+        "description": "约70㎡一卧室公寓，配有起居室、厨房与庭院。文档备注“大窗户，但早出晚归看不到景色”；景观型郊外基地，仍需自驾进城。",
+        "url": "https://www.booking.com/hotel/no/arctic-view-apartment-country-retreat-near-tromso.zh-cn.html",
+        "total": null,
+        "photos": [
+          {
+            "src": "assets/stays/arctic-view.jpg",
+            "label": "Arctic View Apartment · 房源景观"
+          }
+        ],
+        "status": "对比住宿",
+        "notes": [
+          "房源页面显示距机场约30公里。",
+          "文档没有提供可确认的2月7–9日含税总价。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "senja",
+    "days": [
+      4,
+      5
+    ],
+    "country": "norway",
+    "location": "塞尼亚 · Botnhamn",
+    "dates": "2.9–2.11",
+    "nights": 2,
+    "options": [
+      {
+        "name": "Senja, Botnhamn",
+        "features": "Botnhamn海边整屋 · 2卧室 · 船屋火塘 · 免费停车",
+        "description": "Botnhamn一带的海边老屋，带厨房、洗衣机及免费停车位。可使用海边船屋，坐着生火看峡湾；两卧室，连住两晚，往返Hesten／Segla。",
+        "url": "https://www.airbnb.cn/rooms/1197235632451861936",
+        "total": 2780.12,
+        "photos": [
+          {
+            "src": "assets/stays/senja-1.jpg",
+            "label": "Senja, Botnhamn · 房源实景 1"
+          },
+          {
+            "src": "assets/stays/senja-2.jpg",
+            "label": "Senja, Botnhamn · 房源实景 2"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月9日15:00后入住，2月11日11:00前退房；2人2晚总费用¥2,780.12。",
+          "位置在Botnhamn一带，首日晚到需确认自助入住；徒步集合点以向导通知为准。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fredvang",
+    "days": [
+      6
+    ],
+    "country": "norway",
+    "location": "Fredvang · 罗弗敦南部",
+    "dates": "2.11–2.12",
+    "nights": 1,
+    "options": [
+      {
+        "name": "The Chess House Lofoten",
+        "features": "5卧室别墅 · 好看的客厅 · 适合室内拍摄",
+        "description": "Fredvang 的整栋五卧室度假屋。文档备注客厅好看、适合室内拍摄；2月11日从塞尼亚直接开到南部入住。",
+        "url": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
+        "total": 2472,
+        "photos": [
+          {
+            "src": "assets/stays/chess.jpg",
+            "label": "The Chess House Lofoten · 别墅"
+          },
+          {
+            "src": "assets/stays/chess-room.jpg",
+            "label": "The Chess House Lofoten · 室内"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月11日入住、2月12日退房，订单总价 NOK 3,500，页面折算约¥2,472。",
+          "长途转场日提前确认晚入住；次日从Fredvang出发游览南部再北上。"
+        ]
+      },
+      {
+        "name": "Arctic Resort Lofoten",
+        "features": "临水小屋 · 厨房 · 免费停车",
+        "description": "原链接名为Lofoten Cabins Kåkern，现页面显示Arctic Resort Lofoten。文档备注“外面不错，里面一般”；适合比较临水景观与小屋空间。",
+        "url": "https://www.booking.com/hotel/no/lofoten-cabins-kakeren.zh-cn.html",
+        "total": null,
+        "photos": [
+          {
+            "src": "assets/stays/kakern.jpg",
+            "label": "Arctic Resort Lofoten · 临水小屋"
+          }
+        ],
+        "status": "对比住宿",
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "svolvaer",
+    "days": [
+      7
+    ],
+    "country": "norway",
+    "location": "斯沃尔维尔",
+    "dates": "2.12–2.13",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Lofoten Rorbuer · 海景套房",
+        "features": "渔民套房 · 海景与渔船 · 露台",
+        "description": "文档已订的罗弗敦渔民公寓海景套房，窗外是海景与渔船，有露台。2月12日游览南部后北上入住，次日游览北部后直接返特罗姆瑟。",
+        "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
+        "total": 1895,
+        "photos": [
+          {
+            "src": "assets/stays/rorbuer.jpg",
+            "label": "Lofoten Rorbuer · 港口景观"
+          },
+          {
+            "src": "assets/stays/rorbuer-room.jpg",
+            "label": "Lofoten Rorbuer · 卧室参考"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月12日入住、2月13日退房，海景套房。",
+          "订单总额 NOK 2,682.90，页面折算约¥1,895；含订单列出的停车服务。"
+        ]
+      },
+      {
+        "name": "Rorbuene Svolvær Havn",
+        "features": "4卧室 · 小红房景观 · 露台",
+        "description": "文档备注窗外小红房、风景不错，但四间卧室偏奢侈。保留为对比房源。",
+        "url": "https://www.booking.com/hotel/no/rorbuanlegget-svolvaer-havn.zh-cn.html",
+        "total": 4300,
+        "photos": [
+          {
+            "src": "assets/stays/svolvaer-havn.jpg",
+            "label": "Rorbuene Svolvær Havn · 港口渔屋"
+          }
+        ],
+        "status": "对比住宿",
+        "notes": [
+          "¥4,300是文档中的参考价，并非已确认的2月12–13日报价。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tromso-airport",
+    "days": [
+      8
+    ],
+    "country": "norway",
+    "location": "特罗姆瑟机场附近",
+    "dates": "2.13–2.14",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Langnes 机场侧住宿",
+        "features": "早航班方便 · 停车／清晨还车",
+        "description": "尚未预订。继续按文档推荐Langnes机场一侧，次日07:50飞冰岛。",
+        "url": null,
+        "total": null,
+        "photos": [],
+        "status": "待预订",
+        "notes": [
+          "预算仍按¥1,000／人／晚。",
+          "清晨还车和机场接驳按最终车行安排。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reykjavik",
+    "days": [
+      9
+    ],
+    "country": "iceland",
+    "location": "雷克雅未克东侧",
+    "dates": "2.14–2.15",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Laugardalur／市区东侧住宿",
+        "features": "停车方便 · 可晚入住",
+        "description": "尚未预订。蓝湖后进入雷克雅未克，优先有停车位、接受晚到的酒店或公寓；Kópavogur可比价。",
+        "url": null,
+        "total": null,
+        "photos": [],
+        "status": "待预订",
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "vik",
+    "days": [
+      10
+    ],
+    "country": "iceland",
+    "location": "维克",
+    "dates": "2.15–2.16",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Vík 镇内住宿",
+        "features": "餐饮补给方便 · 次日黑沙滩",
+        "description": "尚未预订。镇内优先；Reyni／Reynishverfi可比较景观住宿与车程。",
+        "url": null,
+        "total": null,
+        "photos": [],
+        "status": "待预订",
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "hof",
+    "days": [
+      11,
+      12
+    ],
+    "country": "iceland",
+    "location": "Hof／Freysnes",
+    "dates": "2.16–2.18",
+    "nights": 2,
+    "options": [
+      {
+        "name": "Hof／Freysnes 连住住宿",
+        "features": "近冰洞集合点 · 连住2晚",
+        "description": "尚未预订。首查Adventure Hotel Hof及附近客房；Freysnes的Hotel Skaftafell可比价。2月17日08:40到Hof的Tröll基地集合。",
+        "url": null,
+        "total": null,
+        "photos": [],
+        "status": "待预订",
+        "notes": [
+          "集合点为Tröll Expeditions Skaftafell（Hof），不是国家公园游客中心。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kef",
+    "days": [
+      13
+    ],
+    "country": "iceland",
+    "location": "KEF 机场附近",
+    "dates": "2.18–2.19",
+    "nights": 1,
+    "options": [
+      {
+        "name": "KEF 航站楼附近住宿",
+        "features": "晚到方便 · 清晨还车",
+        "description": "尚未预订。2月18日蝙蝠山后西返，优先机场酒店；2月19日约04:00还车、05:00到航站楼。",
+        "url": null,
+        "total": null,
+        "photos": [],
+        "status": "待预订",
+        "notes": []
+      }
+    ]
+  },
+  {
+    "id": "copenhagen",
+    "days": [
+      14
+    ],
+    "country": "denmark",
+    "location": "哥本哈根市中心",
+    "dates": "2.19–2.20",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Aperon · One-Bedroom Apartment for 4",
+        "features": "市中心步行街 · 一卧室 · 共用庭院与圆塔景露台",
+        "description": "1875年建筑内的设计公寓，配独立卧室、起居区及厨房。步行可逛小店、咖啡馆和圆塔；庭院、露台及洗衣房共用，露台可看圆塔。",
+        "url": "https://www.airbnb.cn/rooms/42501574",
+        "total": 2674.24,
+        "photos": [
+          {
+            "src": "assets/stays/copenhagen-1.jpg",
+            "label": "Aperon · One-Bedroom Apartment for 4 · 房源实景 1"
+          },
+          {
+            "src": "assets/stays/copenhagen-2.jpg",
+            "label": "Aperon · One-Bedroom Apartment for 4 · 房源实景 2"
+          }
+        ],
+        "status": "已预订",
+        "notes": [
+          "2月19日入住、2月20日退房，2人1晚已付¥2,674.24。",
+          "历史建筑没有电梯；房型可能位于不同楼层，布局以订单为准。"
+        ]
+      },
+      {
+        "name": "Hotel Bethel",
+        "features": "新港位置 · 酒店房间较小",
+        "description": "文档提供的对比酒店，位于新港一带，适合港口与建筑步行；文档备注房间小。",
+        "url": "https://www.booking.com/hotel/dk/b.zh-cn.html",
+        "total": null,
+        "photos": [
+          {
+            "src": "assets/stays/bethel.jpg",
+            "label": "Hotel Bethel · 新港建筑"
+          }
+        ],
+        "status": "对比住宿",
+        "notes": []
+      }
+    ]
+  }
+]

@@ -110,24 +110,11 @@
               {
                 "t": "晚餐后休息，推荐住中央车站、Kluuvi或Kamppi，次日看建筑与去机场都方便。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "helsinki"
       }
     ],
     "notes": []
@@ -331,29 +318,16 @@
               "17:00后"
             ],
             "emoji": "🍽️",
-            "title": "老港口／Skansen · 晚餐与入住",
+            "title": "老港口／Skansen · 晚餐后入住 EIRA Fjord Stay",
             "body": [
               {
-                "t": "港口短逛30–45分钟，看码头倒影和老木屋，再回酒店休息。",
+                "t": "港口短逛30–45分钟，晚餐后自驾返回峡湾民宿；提前确认入住时间。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · 特罗姆瑟市区连住2晚",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "tromso-fjord"
       },
       {
         "num": 3,
@@ -478,10 +452,15 @@
               {
                 "t": "提前预约；桑拿费用暂未计入预算。",
                 "links": []
+              },
+              {
+                "t": "桑拿后自驾回EIRA Fjord Stay；次日退房进城参加游船。",
+                "links": []
               }
             ]
           }
-        ]
+        ],
+        "stayId": "tromso-fjord"
       },
       {
         "num": 4,
@@ -561,7 +540,7 @@
               "约15:30出发"
             ],
             "emoji": "🚗",
-            "title": "特罗姆瑟 → 塞尼亚 · 入住Mefjordvær／Fjordgård",
+            "title": "特罗姆瑟 → 塞尼亚 · 入住Botnhamn",
             "body": [
               {
                 "t": "返港后直接取车，经Finnsnes陆路去塞尼亚；预计19:30–21:00入住。如选择181轮渡（Brensholmen → Botnhamn），游船15:00返港、约15:30取车出发，赶17:00班次偏紧，19:00比较从容（出行前再核对班次）。",
@@ -575,24 +554,11 @@
                     "links": []
                   }
                 ]
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · 塞尼亚北部连住2晚，确认晚入住／自助取钥匙",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "senja"
       },
       {
         "num": 5,
@@ -658,40 +624,27 @@
           },
           {
             "time": [
-              "下午至晚上"
+              "下午"
             ],
             "emoji": "🏨",
-            "title": "Fjordgård／Mefjordvær · 渔村休息",
+            "title": "徒步后回 Botnhamn · 休息",
             "body": [
               {
-                "t": "徒步后只在村内轻松散步，不追加Husfjellet等另一段登山。向导取消高山路线时，可替换为安全海岸低地步行。",
+                "t": "按天气在Fjordgård村内短走，再自驾回Botnhamn海边民宿；晚上在船屋火塘休息。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · 塞尼亚北部第2晚",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "senja"
       },
       {
         "num": 6,
         "id": "v2-revised-6",
-        "title": "塞尼亚 · 环岛自驾 → 晚上前往斯沃尔维尔",
-        "date": "2月11日（周四） · 白天看海岸与峡湾，下午陆路转场罗弗敦",
+        "title": "塞尼亚海岸自驾 → 罗弗敦南部 Fredvang",
+        "date": "2月11日（周四） · 上午短停海岸，尽早转场南部民宿",
         "tags": [
-          "约7–9h（430–500km）"
+          "约10–12h（约600–700km）"
         ],
         "photos": [
           {
@@ -713,75 +666,113 @@
         "activities": [
           {
             "time": [
-              "白天",
-              "08:30–12:00"
+              "上午",
+              "08:00–10:00"
             ],
-            "emoji": "🚗",
-            "title": "塞尼亚海岸自驾 · 三个核心观景点",
+            "emoji": "🏔️",
+            "title": "塞尼亚海岸 · 观景短停",
             "body": [
               {
-                "t": "Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn。今天优先这三个路边点，按风雪和停车条件取舍；Hesten已放在昨天，不重复安排徒步，也不绕Husøy或Hamn。 非完整绕岛；上午游览约3–3.5h，给转场留余量",
-                "links": []
-              },
-              {
-                "t": "Ersfjordstranda拍雪山与白沙海滩；Tungeneset看恶魔之牙雪峰；Bergsbotn俯瞰峡湾。只在开放的指定停车区停留。",
+                "t": "Ersfjordstranda → Tungeneset → Bergsbotn，按路况选1–2处短停；不重复Hesten徒步。",
                 "links": []
               }
             ]
           },
           {
             "time": [
-              "下午至晚上",
-              "约12:00–19:00"
+              "白天",
+              "10:00出发"
             ],
             "emoji": "🚗",
-            "title": "自驾前往罗弗敦岛，入住斯沃尔维尔",
+            "title": "塞尼亚 → Fredvang · 入住 The Chess House",
             "body": [
               {
-                "t": "经Finnsnes、Bjerkvik走主干道，驾驶约5–6小时，另留补给与冬季路况缓冲；不要等到15:00才开始这段长途。",
+                "t": "经Finnsnes、Bjerkvik沿主干道和E10直接前往罗弗敦南部；中途午餐、加油与休息。当天以转场为主，提前确认晚入住，风雪时减少上午停留。",
                 "links": []
-              },
-              {
-                "t": "经陆路主干道前往罗弗敦",
-                "links": []
-              },
-              {
-                "name": "Background",
-                "id": "281:4743",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4744",
-                    "c": [
-                      {
-                        "t": "住宿未预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "name": "交通胶囊",
-                "id": "279:2983",
-                "c": [
-                  {
-                    "t": "🚗 Bergsbotn → 斯沃尔维尔 约6h",
-                    "links": []
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "fredvang"
       },
       {
         "num": 7,
         "id": "262:612",
-        "title": "罗弗敦岛 · 斯沃尔维尔 → 亨宁斯维尔 → 雷纳",
-        "date": "2月12日（周五） · 港湾、渔村与海滩，白天沿E10南下",
+        "title": "罗弗敦南部 · 雷纳／渔村海岸 → 斯沃尔维尔",
+        "date": "2月12日（周五） · 从Fredvang游览南部，傍晚北上住海景套房",
         "tags": [
-          "约4–5h（约180–210km）"
+          "约4–5h（约200–240km）"
+        ],
+        "photos": [
+          {
+            "label": "Hamnøy · 雪山红屋",
+            "src": "../nordic/assets/day-09-0.jpg",
+            "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
+          },
+          {
+            "label": "Sakrisøy 黄色渔屋",
+            "src": "../nordic/assets/day-09-1.jpg",
+            "source": "https://www.lonelyplanet.com/articles/what-is-friluftsliv"
+          },
+          {
+            "label": "Reine 雷讷海湾",
+            "src": "../nordic/assets/day-09-2.jpg",
+            "source": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/"
+          }
+        ],
+        "activities": [
+          {
+            "time": [
+              "上午",
+              "09:00–12:00"
+            ],
+            "emoji": "🏘️",
+            "title": "Fredvang → Hamnøy → Sakrisøy → Reine",
+            "body": [
+              {
+                "t": "桥梁、红色渔屋、黄色渔屋与雷纳海湾。只在指定停车点短走；Reinebringen冬季登山不安排。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "12:00–14:30"
+            ],
+            "emoji": "🏖️",
+            "title": "北返海岸 · Ramberg／Skagsanden",
+            "body": [
+              {
+                "t": "午餐后沿E10北上，在Ramberg或Skagsanden海滩择一拍雪山海湾；时间和支路条件允许再加Nusfjord。",
+                "links": []
+              }
+            ]
+          },
+          {
+            "time": [
+              "下午",
+              "14:30出发"
+            ],
+            "emoji": "🚗",
+            "title": "沿E10北上 · 入住 Lofoten Rorbuer",
+            "body": [
+              {
+                "t": "前往斯沃尔维尔，晚餐后入住海景套房，窗外看渔船与港口。Henningsvær和Kabelvåg留给次日上午。",
+                "links": []
+              }
+            ]
+          }
+        ],
+        "stayId": "svolvaer"
+      },
+      {
+        "num": 8,
+        "id": "262:645",
+        "title": "罗弗敦北部 · 亨宁斯维尔／港口 → 特罗姆瑟",
+        "date": "2月13日（周六） · 上午看北部渔村，午前出发返回特罗姆瑟",
+        "tags": [
+          "约7–9h（约450–500km）"
         ],
         "photos": [
           {
@@ -804,233 +795,61 @@
           {
             "time": [
               "上午",
-              "09:00–10:00"
+              "08:30–10:00"
             ],
             "emoji": "🏘️",
-            "title": "Kabelvåg 卡贝尔沃格 · 港口散步",
+            "title": "Henningsvær · 海港与桥梁",
             "body": [
               {
-                "t": "传统渔港与彩色木屋，以海湾、码头和雪山为前景；停车后沿港口短走，不安排登山。",
+                "t": "从斯沃尔维尔出发，沿港湾短走拍渔屋与雪山；不额外叠加远处海滩支线。",
                 "links": []
-              },
-              {
-                "name": "交通胶囊",
-                "c": [
-                  {
-                    "t": "🚗 斯沃尔维尔 → 卡贝尔沃格约10–15分钟",
-                    "links": []
-                  }
-                ]
               }
             ]
           },
           {
             "time": [
               "上午",
-              "10:30–11:45"
+              "10:30–11:00"
             ],
             "emoji": "🏘️",
-            "title": "Henningsvær 亨宁斯维尔 · 渔村与海港",
+            "title": "Kabelvåg · 渔港短停",
             "body": [
               {
-                "t": "沿港湾与小街散步，拍桥梁、渔屋倒影和远处雪峰；在村内简餐后继续南下。",
+                "t": "北返途中在传统港口短停；天气差或前一段延误时直接跳过，优先留出返程时间。",
                 "links": []
-              },
-              {
-                "name": "交通胶囊",
-                "c": [
-                  {
-                    "t": "🚗 卡贝尔沃格 → 亨宁斯维尔约30分钟",
-                    "links": []
-                  }
-                ]
               }
             ]
           },
-          {
-            "time": [
-              "下午",
-              "13:15–14:00"
-            ],
-            "emoji": "🏖️",
-            "title": "Haukland 海滩 · 雪山与白沙湾",
-            "body": [
-              {
-                "t": "在海滩与停车区附近拍白沙、海水和雪峰，不走Mannen山路；支路积雪或风大时跳过，沿E10继续南下。",
-                "links": []
-              },
-              {
-                "name": "交通胶囊",
-                "c": [
-                  {
-                    "t": "🚗 亨宁斯维尔 → Haukland约1–1.5h；离开E10支线往返多留约30–40分钟",
-                    "links": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "time": [
-              "下午",
-              "14:00–17:00"
-            ],
-            "emoji": "🚗",
-            "title": "沿E10南下 · Ramberg → Hamnøy／雷纳",
-            "body": [
-              {
-                "t": "有日光时在Ramberg或Skagsanden海滩择一短停，拍海岸与雪山；随后前往住宿。Hamnøy红屋和Sakrisøy黄屋留到次日上午。",
-                "links": []
-              },
-              {
-                "name": "交通胶囊",
-                "c": [
-                  {
-                    "t": "🚗 Haukland → Ramberg约1h → Hamnøy／雷纳约40–50分钟；另留停车与休息时间",
-                    "links": []
-                  }
-                ]
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · 推荐Ramberg／Fredvang；也可住Hamnøy／雷纳",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "num": 8,
-        "id": "262:645",
-        "title": "罗弗敦 · 南部自驾 → 晚上返回特罗姆瑟",
-        "date": "2月13日（周六） · 短暂停留南部渔村，随后长途返回特罗姆瑟",
-        "tags": [
-          "约8–10h（550–620km）"
-        ],
-        "photos": [
-          {
-            "label": "Hamnøy · 雪山红屋",
-            "src": "../nordic/assets/day-09-0.jpg",
-            "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
-          },
-          {
-            "label": "Sakrisøy 黄色渔屋",
-            "src": "../nordic/assets/day-09-1.jpg",
-            "source": "https://www.lonelyplanet.com/articles/what-is-friluftsliv"
-          },
-          {
-            "label": "Reine 雷讷海湾",
-            "src": "../nordic/assets/day-09-2.jpg",
-            "source": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/"
-          }
-        ],
-        "activities": [
           {
             "time": [
               "白天",
-              "9:00"
+              "11:00出发"
             ],
             "emoji": "🚗",
-            "title": "罗弗敦南部环线自驾",
+            "title": "斯沃尔维尔 → 特罗姆瑟",
             "body": [
               {
-                "t": "Nusfjord Fishing Village： 保存完好的传统挪威渔村，红黄色渔屋沿狭窄海湾排列，背后是陡峭雪山，具有浓厚的北极渔业文化氛围；从停车场步行约 5–10 分钟，进入村落可能收费\nFredvang Bridges： 两座弧形桥梁跨越碧蓝海峡，背后是连绵的尖锐雪山，公路、桥梁与峡湾构成极具辨识度的罗弗敦摄影画面；可在桥梁附近安全停车点拍摄，步行约 5–10 分钟\nHamnøy Viewpoint： 罗弗敦最经典的明信片机位，红色渔屋坐落在海边礁石上，背后是陡峭的 Olstinden 雪山，红屋、海水和雪峰形成标志性构图；从附近停车点步行约 3–5 分钟\nSakrisøy Fishing Village： 明黄色传统渔屋散落在小岛海岸，背后是尖锐雪峰与宁静海湾，与 Hamnøy 的红色渔屋形成鲜明对比；可自驾抵达，停车后步行约 2–5 分钟\nReinehalsen Viewpoint： 俯瞰雷讷渔村、海湾和周围陡峭雪山的经典路边观景点，红色渔屋、岛屿与峡湾交错，是不登山也能拍到的罗弗敦代表性全景；停车后步行约 2–5 分钟\nÅ Fishing Village： 位于 E10 公路尽头的传统渔村，红色木屋、鳕鱼晾晒架、古老码头与雪山共同构成北挪威渔村风貌；停车后步行约 5–10 分钟\nReinebringen Viewpoint： 罗弗敦最著名的高山全景机位，从山脊俯瞰雷讷、蜿蜒峡湾和密集的刀锋状雪峰，视觉冲击力极强；需陡峭登山，2 月积雪结冰且存在雪崩风险，不建议安排普通自助徒步。 游玩约 3h",
+                "t": "经E10、Bjerkvik走陆路返回；含补给和休息按7–9小时留量，冬季路况另留缓冲。当天不再返回雷纳。",
                 "links": []
-              },
-              {
-                "name": "拍照点 · 光线与景色",
-                "id": "295:571",
-                "c": [
-                  {
-                    "name": "拍照点标签",
-                    "id": "295:572",
-                    "c": [
-                      {
-                        "t": "📸",
-                        "links": []
-                      },
-                      {
-                        "t": "拍照点",
-                        "links": []
-                      }
-                    ]
-                  },
-                  {
-                    "t": "早晨优先 Hamnøy 红屋、Sakrisøy 黄屋与雪峰；只选 1–2 个路边点，为长途返程留时间。",
-                    "links": []
-                  }
-                ]
               }
             ]
           },
           {
             "time": [
-              "下午",
-              "11:00 -\n19:00"
-            ],
-            "emoji": "🚗",
-            "title": "自驾前往特罗姆瑟",
-            "body": [
-              {
-                "t": "斯沃尔维尔到特罗姆瑟约6h；冬季加上休息，整段按8h准备",
-                "links": []
-              },
-              {
-                "name": "交通胶囊",
-                "id": "279:3183",
-                "c": [
-                  {
-                    "t": "🚗 约8h",
-                    "links": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "time": [
-              "晚上"
+              "晚上",
+              "约19:00–21:00"
             ],
             "emoji": "🏨",
-            "title": "入住特罗姆瑟机场附近 · 次日07:50飞冰岛",
+            "title": "入住特罗姆瑟机场附近",
             "body": [
               {
-                "t": "次日清晨还车",
-                "links": []
-              },
-              {
-                "name": "Background",
-                "id": "281:4755",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4756",
-                    "c": [
-                      {
-                        "t": "住宿未预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "t": "官网／详情 ↗",
+                "t": "次日07:50飞冰岛，提前确认清晨还车与航站楼接驳。",
                 "links": []
               }
             ]
           }
-        ]
+        ],
+        "stayId": "tromso-airport"
       }
     ],
     "notes": []
@@ -1194,24 +1013,11 @@
                     "links": []
                   }
                 ]
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · 雷克雅未克市区",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "reykjavik"
       },
       {
         "num": 10,
@@ -1372,28 +1178,13 @@
                 ]
               },
               {
-                "name": "Background",
-                "id": "281:4820",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4821",
-                    "c": [
-                      {
-                        "t": "住宿未预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "t": "官网／详情 ↗",
                 "links": []
               }
             ]
           }
-        ]
+        ],
+        "stayId": "vik"
       },
       {
         "num": 11,
@@ -1530,22 +1321,6 @@
                 ]
               },
               {
-                "name": "Background",
-                "id": "281:4816",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4817",
-                    "c": [
-                      {
-                        "t": "住宿未预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "name": "交通胶囊",
                 "id": "279:3533",
                 "c": [
@@ -1557,7 +1332,8 @@
               }
             ]
           }
-        ]
+        ],
+        "stayId": "hof"
       },
       {
         "num": 12,
@@ -1712,26 +1488,11 @@
                     "links": []
                   }
                 ]
-              },
-              {
-                "name": "Background",
-                "id": "281:4824",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4825",
-                    "c": [
-                      {
-                        "t": "住宿未预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "hof"
       },
       {
         "num": 13,
@@ -1843,24 +1604,11 @@
               {
                 "t": "优先住靠近还车点的机场酒店，早点休息；次日约04:00还车、05:00到航站楼。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · KEF机场附近；租车延期费用及清晨还车／接驳待车行确认",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "kef"
       }
     ],
     "notes": []
@@ -2036,24 +1784,11 @@
               {
                 "t": "晚餐后就近看港口夜色，次日集中购物与现代建筑。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "住宿未预订 · 推荐市中心／中央车站附近",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }
-        ]
+        ],
+        "stayId": "copenhagen"
       },
       {
         "num": 15,

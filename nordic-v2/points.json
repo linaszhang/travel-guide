@@ -657,7 +657,7 @@
     "query": "Henningsvær Norway",
     "name": "Henningsvær 亨宁斯维尔",
     "days": [
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -676,8 +676,7 @@
     "query": "Hamnøy Norway",
     "name": "Hamnøy 红色渔屋",
     "days": [
-      7,
-      8
+      7
     ],
     "kind": "sight",
     "coord": [
@@ -697,8 +696,7 @@
     "query": "Reine Norway",
     "name": "Reine 雷纳",
     "days": [
-      7,
-      8
+      7
     ],
     "kind": "sight",
     "coord": [
@@ -756,7 +754,7 @@
     "query": "Sakrisøy Norway",
     "name": "Sakrisøy 黄色渔屋",
     "days": [
-      8
+      7
     ],
     "kind": "sight",
     "coord": [
@@ -1706,7 +1704,7 @@
       68.21032
     ],
     "days": [
-      7
+      8
     ],
     "countryName": "挪威",
     "countryId": "norway",
@@ -1725,9 +1723,7 @@
       13.5321373,
       68.1994244
     ],
-    "days": [
-      7
-    ],
+    "days": [],
     "countryName": "挪威",
     "countryId": "norway",
     "kind": "nature",
@@ -1735,6 +1731,27 @@
     "imageLabel": "罗弗敦渔村 · 当日行程参考图",
     "imageReference": true,
     "description": "2月12日13:15–14:00海滩拍照；从E10绕行，支路积雪或强风时跳过，不安排Mannen登山。",
+    "rating": null
+  },
+  {
+    "query": "Fredvang Lofoten Norway",
+    "name": "Fredvang · 南部住宿",
+    "days": [
+      6,
+      7
+    ],
+    "kind": "stay",
+    "coord": [
+      13.174,
+      68.091
+    ],
+    "id": "p-fredvang",
+    "countryName": "挪威",
+    "countryId": "norway",
+    "image": "../nordic/assets/day-08-0.jpg",
+    "imageLabel": "Svolvær · 渔船海钓",
+    "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
+    "description": "2月11日南部住宿区域；实际入住The Chess House Lofoten。",
     "rating": null
   }
 ]
