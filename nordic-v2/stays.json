@@ -17,100 +17,148 @@
         "total": 1354.44,
         "photos": [
           {
-            "src": "assets/stays/helsinki-gallery-1.jpg",
-            "thumb": "assets/stays/helsinki-gallery-1-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-1-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-1-240.webp",
             "label": "Ultra Central - Best Location! · 起居与睡眠区",
             "category": "起居与睡眠区",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "起居与睡眠区"
+            "caption": "起居与睡眠区",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/helsinki-gallery-1-640.webp",
+            "medium": "assets/stays/helsinki-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-2.jpg",
-            "thumb": "assets/stays/helsinki-gallery-2-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-2-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-2-240.webp",
             "label": "Ultra Central - Best Location! · 起居与睡眠区",
             "category": "起居与睡眠区",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "起居与睡眠区"
+            "caption": "起居与睡眠区",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/helsinki-gallery-2-640.webp",
+            "medium": "assets/stays/helsinki-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-3.jpg",
-            "thumb": "assets/stays/helsinki-gallery-3-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-3-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-3-240.webp",
             "label": "Ultra Central - Best Location! · 临窗休息区",
             "category": "临窗休息区",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "临窗休息区"
+            "caption": "临窗休息区",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/helsinki-gallery-3-640.webp",
+            "medium": "assets/stays/helsinki-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-4.jpg",
-            "thumb": "assets/stays/helsinki-gallery-4-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-4-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-4-240.webp",
             "label": "Ultra Central - Best Location! · 室内全景",
             "category": "室内全景",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "室内全景"
+            "caption": "室内全景",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-4-640.webp",
+            "medium": "assets/stays/helsinki-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-5.jpg",
-            "thumb": "assets/stays/helsinki-gallery-5-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-5-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-5-240.webp",
             "label": "Ultra Central - Best Location! · 用餐区",
             "category": "用餐区",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "用餐区"
+            "caption": "用餐区",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-5-640.webp",
+            "medium": "assets/stays/helsinki-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-6.jpg",
-            "thumb": "assets/stays/helsinki-gallery-6-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-6-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-6-240.webp",
             "label": "Ultra Central - Best Location! · 厨房",
             "category": "厨房",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "厨房"
+            "caption": "厨房",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-6-640.webp",
+            "medium": "assets/stays/helsinki-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-7.jpg",
-            "thumb": "assets/stays/helsinki-gallery-7-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-7-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-7-240.webp",
             "label": "Ultra Central - Best Location! · 厨房 · 操作台",
             "category": "厨房",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "厨房 · 操作台"
+            "caption": "厨房 · 操作台",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-7-640.webp",
+            "medium": "assets/stays/helsinki-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-8.jpg",
-            "thumb": "assets/stays/helsinki-gallery-8-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-8-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-8-240.webp",
             "label": "Ultra Central - Best Location! · 浴室 · 洗漱与洗烘机",
             "category": "浴室",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "浴室 · 洗漱与洗烘机"
+            "caption": "浴室 · 洗漱与洗烘机",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-8-640.webp",
+            "medium": "assets/stays/helsinki-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-9.jpg",
-            "thumb": "assets/stays/helsinki-gallery-9-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-9-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-9-240.webp",
             "label": "Ultra Central - Best Location! · 浴室 · 淋浴与厕所",
             "category": "浴室",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "浴室 · 淋浴与厕所"
+            "caption": "浴室 · 淋浴与厕所",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-9-640.webp",
+            "medium": "assets/stays/helsinki-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-10.jpg",
-            "thumb": "assets/stays/helsinki-gallery-10-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-10-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-10-240.webp",
             "label": "Ultra Central - Best Location! · 入口门厅",
             "category": "入口门厅",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "入口门厅"
+            "caption": "入口门厅",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/helsinki-gallery-10-640.webp",
+            "medium": "assets/stays/helsinki-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-11.jpg",
-            "thumb": "assets/stays/helsinki-gallery-11-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-11-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-11-240.webp",
             "label": "Ultra Central - Best Location! · 建筑外观",
             "category": "建筑外观",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "建筑外观"
+            "caption": "建筑外观",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/helsinki-gallery-11-640.webp",
+            "medium": "assets/stays/helsinki-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/helsinki-gallery-12.jpg",
-            "thumb": "assets/stays/helsinki-gallery-12-thumb.jpg",
+            "src": "assets/stays/helsinki-gallery-12-960.webp",
+            "thumb": "assets/stays/helsinki-gallery-12-240.webp",
             "label": "Ultra Central - Best Location! · 窗外街景",
             "category": "窗外街景",
             "source": "https://www.airbnb.cn/rooms/1352071930046861422",
-            "caption": "窗外街景"
+            "caption": "窗外街景",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/helsinki-gallery-12-640.webp",
+            "medium": "assets/stays/helsinki-gallery-12-480.webp"
           }
         ],
         "status": "已预订",
@@ -143,108 +191,160 @@
         "total": 5581,
         "photos": [
           {
-            "src": "assets/stays/tromso-fjord-gallery-1.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-1-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-1-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-1-240.webp",
             "label": "EIRA Fjord Stay · 客厅",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "客厅"
+            "caption": "客厅",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-1-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-2.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-2-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-2-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-2-240.webp",
             "label": "EIRA Fjord Stay · 客厅 · 沙发",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "客厅 · 沙发"
+            "caption": "客厅 · 沙发",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-2-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-3.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-3-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-3-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-3-240.webp",
             "label": "EIRA Fjord Stay · 客厅 · 休息角",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "客厅 · 休息角"
+            "caption": "客厅 · 休息角",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-3-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-4.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-4-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-4-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-4-240.webp",
             "label": "EIRA Fjord Stay · 客厅 · 电视区",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "客厅 · 电视区"
+            "caption": "客厅 · 电视区",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-4-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-5.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-5-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-5-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-5-240.webp",
             "label": "EIRA Fjord Stay · 卧室 1",
             "category": "卧室 1",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "卧室 1"
+            "caption": "卧室 1",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-5-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-6.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-6-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-6-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-6-240.webp",
             "label": "EIRA Fjord Stay · 卧室 2",
             "category": "卧室 2",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "卧室 2"
+            "caption": "卧室 2",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-6-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-7.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-7-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-7-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-7-240.webp",
             "label": "EIRA Fjord Stay · 厨房与客厅",
             "category": "厨房与客厅",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "厨房与客厅"
+            "caption": "厨房与客厅",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-7-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-8.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-8-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-8-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-8-240.webp",
             "label": "EIRA Fjord Stay · 厨房",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "厨房"
+            "caption": "厨房",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-8-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-9.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-9-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-9-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-9-240.webp",
             "label": "EIRA Fjord Stay · 浴室 · 淋浴与厕所",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "浴室 · 淋浴与厕所"
+            "caption": "浴室 · 淋浴与厕所",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-9-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-10.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-10-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-10-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-10-240.webp",
             "label": "EIRA Fjord Stay · 桑拿 · 更衣区",
             "category": "桑拿",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "桑拿 · 更衣区"
+            "caption": "桑拿 · 更衣区",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-10-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-11.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-11-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-11-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-11-240.webp",
             "label": "EIRA Fjord Stay · 桑拿 · 燃木炉",
             "category": "桑拿",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "桑拿 · 燃木炉"
+            "caption": "桑拿 · 燃木炉",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-11-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-12.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-12-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-12-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-12-240.webp",
             "label": "EIRA Fjord Stay · 室外露台",
             "category": "室外露台",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "室外露台"
+            "caption": "室外露台",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-12-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-12-480.webp"
           },
           {
-            "src": "assets/stays/tromso-fjord-gallery-13.jpg",
-            "thumb": "assets/stays/tromso-fjord-gallery-13-thumb.jpg",
+            "src": "assets/stays/tromso-fjord-gallery-13-960.webp",
+            "thumb": "assets/stays/tromso-fjord-gallery-13-240.webp",
             "label": "EIRA Fjord Stay · 建筑入口",
             "category": "建筑入口",
             "source": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-            "caption": "建筑入口"
+            "caption": "建筑入口",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/tromso-fjord-gallery-13-640.webp",
+            "medium": "assets/stays/tromso-fjord-gallery-13-480.webp"
           }
         ],
         "status": "已预订",
@@ -278,84 +378,124 @@
         "total": 2780.12,
         "photos": [
           {
-            "src": "assets/stays/senja-gallery-1.jpg",
-            "thumb": "assets/stays/senja-gallery-1-thumb.jpg",
+            "src": "assets/stays/senja-gallery-1-960.webp",
+            "thumb": "assets/stays/senja-gallery-1-240.webp",
             "label": "Senja, Botnhamn · 客厅",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "客厅"
+            "caption": "客厅",
+            "width": 824,
+            "height": 1100,
+            "mobile": "assets/stays/senja-gallery-1-640.webp",
+            "medium": "assets/stays/senja-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-2.jpg",
-            "thumb": "assets/stays/senja-gallery-2-thumb.jpg",
+            "src": "assets/stays/senja-gallery-2-960.webp",
+            "thumb": "assets/stays/senja-gallery-2-240.webp",
             "label": "Senja, Botnhamn · 客厅 · 沙发与电视",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "客厅 · 沙发与电视"
+            "caption": "客厅 · 沙发与电视",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/senja-gallery-2-640.webp",
+            "medium": "assets/stays/senja-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-3.jpg",
-            "thumb": "assets/stays/senja-gallery-3-thumb.jpg",
+            "src": "assets/stays/senja-gallery-3-960.webp",
+            "thumb": "assets/stays/senja-gallery-3-240.webp",
             "label": "Senja, Botnhamn · 客厅 · 用餐区",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "客厅 · 用餐区"
+            "caption": "客厅 · 用餐区",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/senja-gallery-3-640.webp",
+            "medium": "assets/stays/senja-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-4.jpg",
-            "thumb": "assets/stays/senja-gallery-4-thumb.jpg",
+            "src": "assets/stays/senja-gallery-4-960.webp",
+            "thumb": "assets/stays/senja-gallery-4-240.webp",
             "label": "Senja, Botnhamn · 卧室 1",
             "category": "卧室 1",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "卧室 1"
+            "caption": "卧室 1",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/senja-gallery-4-640.webp",
+            "medium": "assets/stays/senja-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-5.jpg",
-            "thumb": "assets/stays/senja-gallery-5-thumb.jpg",
+            "src": "assets/stays/senja-gallery-5-960.webp",
+            "thumb": "assets/stays/senja-gallery-5-240.webp",
             "label": "Senja, Botnhamn · 卧室 2",
             "category": "卧室 2",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "卧室 2"
+            "caption": "卧室 2",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/senja-gallery-5-640.webp",
+            "medium": "assets/stays/senja-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-6.jpg",
-            "thumb": "assets/stays/senja-gallery-6-thumb.jpg",
+            "src": "assets/stays/senja-gallery-6-960.webp",
+            "thumb": "assets/stays/senja-gallery-6-240.webp",
             "label": "Senja, Botnhamn · 厨房",
             "category": "厨房",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "厨房"
+            "caption": "厨房",
+            "width": 824,
+            "height": 1100,
+            "mobile": "assets/stays/senja-gallery-6-640.webp",
+            "medium": "assets/stays/senja-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-7.jpg",
-            "thumb": "assets/stays/senja-gallery-7-thumb.jpg",
+            "src": "assets/stays/senja-gallery-7-960.webp",
+            "thumb": "assets/stays/senja-gallery-7-240.webp",
             "label": "Senja, Botnhamn · 浴室 · 淋浴与厕所",
             "category": "浴室",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "浴室 · 淋浴与厕所"
+            "caption": "浴室 · 淋浴与厕所",
+            "width": 824,
+            "height": 1100,
+            "mobile": "assets/stays/senja-gallery-7-640.webp",
+            "medium": "assets/stays/senja-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-8.jpg",
-            "thumb": "assets/stays/senja-gallery-8-thumb.jpg",
+            "src": "assets/stays/senja-gallery-8-960.webp",
+            "thumb": "assets/stays/senja-gallery-8-240.webp",
             "label": "Senja, Botnhamn · 室外 · 峡湾全景",
             "category": "室外",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "室外 · 峡湾全景"
+            "caption": "室外 · 峡湾全景",
+            "width": 960,
+            "height": 490,
+            "mobile": "assets/stays/senja-gallery-8-640.webp",
+            "medium": "assets/stays/senja-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-9.jpg",
-            "thumb": "assets/stays/senja-gallery-9-thumb.jpg",
+            "src": "assets/stays/senja-gallery-9-960.webp",
+            "thumb": "assets/stays/senja-gallery-9-240.webp",
             "label": "Senja, Botnhamn · 建筑外观 · 夜景",
             "category": "建筑外观",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "建筑外观 · 夜景"
+            "caption": "建筑外观 · 夜景",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/senja-gallery-9-640.webp",
+            "medium": "assets/stays/senja-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/senja-gallery-10.jpg",
-            "thumb": "assets/stays/senja-gallery-10-thumb.jpg",
+            "src": "assets/stays/senja-gallery-10-960.webp",
+            "thumb": "assets/stays/senja-gallery-10-240.webp",
             "label": "Senja, Botnhamn · 建筑外观 · 极光",
             "category": "建筑外观",
             "source": "https://www.airbnb.cn/rooms/1197235632451861936",
-            "caption": "建筑外观 · 极光"
+            "caption": "建筑外观 · 极光",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/senja-gallery-10-640.webp",
+            "medium": "assets/stays/senja-gallery-10-480.webp"
           }
         ],
         "status": "已预订",
@@ -387,148 +527,220 @@
         "total": 2472,
         "photos": [
           {
-            "src": "assets/stays/fredvang-gallery-1.jpg",
-            "thumb": "assets/stays/fredvang-gallery-1-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-1-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-1-240.webp",
             "label": "The Chess House Lofoten · 客厅",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "客厅"
+            "caption": "客厅",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-1-640.webp",
+            "medium": "assets/stays/fredvang-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-2.jpg",
-            "thumb": "assets/stays/fredvang-gallery-2-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-2-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-2-240.webp",
             "label": "The Chess House Lofoten · 客厅 · 全景",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "客厅 · 全景"
+            "caption": "客厅 · 全景",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-2-640.webp",
+            "medium": "assets/stays/fredvang-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-3.jpg",
-            "thumb": "assets/stays/fredvang-gallery-3-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-3-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-3-240.webp",
             "label": "The Chess House Lofoten · 客厅 · 电视区",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "客厅 · 电视区"
+            "caption": "客厅 · 电视区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-3-640.webp",
+            "medium": "assets/stays/fredvang-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-4.jpg",
-            "thumb": "assets/stays/fredvang-gallery-4-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-4-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-4-240.webp",
             "label": "The Chess House Lofoten · 用餐区",
             "category": "用餐区",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "用餐区"
+            "caption": "用餐区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-4-640.webp",
+            "medium": "assets/stays/fredvang-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-5.jpg",
-            "thumb": "assets/stays/fredvang-gallery-5-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-5-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-5-240.webp",
             "label": "The Chess House Lofoten · 卧室",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "卧室"
+            "caption": "卧室",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-5-640.webp",
+            "medium": "assets/stays/fredvang-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-6.jpg",
-            "thumb": "assets/stays/fredvang-gallery-6-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-6-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-6-240.webp",
             "label": "The Chess House Lofoten · 卧室 · 木屋内饰",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "卧室 · 木屋内饰"
+            "caption": "卧室 · 木屋内饰",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-6-640.webp",
+            "medium": "assets/stays/fredvang-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-7.jpg",
-            "thumb": "assets/stays/fredvang-gallery-7-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-7-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-7-240.webp",
             "label": "The Chess House Lofoten · 卧室 · 临窗",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "卧室 · 临窗"
+            "caption": "卧室 · 临窗",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-7-640.webp",
+            "medium": "assets/stays/fredvang-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-8.jpg",
-            "thumb": "assets/stays/fredvang-gallery-8-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-8-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-8-240.webp",
             "label": "The Chess House Lofoten · 卧室 · 床与书桌",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "卧室 · 床与书桌"
+            "caption": "卧室 · 床与书桌",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-8-640.webp",
+            "medium": "assets/stays/fredvang-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-9.jpg",
-            "thumb": "assets/stays/fredvang-gallery-9-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-9-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-9-240.webp",
             "label": "The Chess House Lofoten · 厨房 · 全景",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "厨房 · 全景"
+            "caption": "厨房 · 全景",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-9-640.webp",
+            "medium": "assets/stays/fredvang-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-10.jpg",
-            "thumb": "assets/stays/fredvang-gallery-10-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-10-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-10-240.webp",
             "label": "The Chess House Lofoten · 厨房 · 操作台",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "厨房 · 操作台"
+            "caption": "厨房 · 操作台",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-10-640.webp",
+            "medium": "assets/stays/fredvang-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-11.jpg",
-            "thumb": "assets/stays/fredvang-gallery-11-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-11-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-11-240.webp",
             "label": "The Chess House Lofoten · 厨房 · 窗景",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "厨房 · 窗景"
+            "caption": "厨房 · 窗景",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-11-640.webp",
+            "medium": "assets/stays/fredvang-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-12.jpg",
-            "thumb": "assets/stays/fredvang-gallery-12-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-12-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-12-240.webp",
             "label": "The Chess House Lofoten · 浴室 · 淋浴与厕所",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "浴室 · 淋浴与厕所"
+            "caption": "浴室 · 淋浴与厕所",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-12-640.webp",
+            "medium": "assets/stays/fredvang-gallery-12-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-13.jpg",
-            "thumb": "assets/stays/fredvang-gallery-13-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-13-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-13-240.webp",
             "label": "The Chess House Lofoten · 浴室 · 洗衣区",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "浴室 · 洗衣区"
+            "caption": "浴室 · 洗衣区",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-13-640.webp",
+            "medium": "assets/stays/fredvang-gallery-13-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-14.jpg",
-            "thumb": "assets/stays/fredvang-gallery-14-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-14-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-14-240.webp",
             "label": "The Chess House Lofoten · 浴室 · 第二卫浴",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "浴室 · 第二卫浴"
+            "caption": "浴室 · 第二卫浴",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-14-640.webp",
+            "medium": "assets/stays/fredvang-gallery-14-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-15.jpg",
-            "thumb": "assets/stays/fredvang-gallery-15-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-15-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-15-240.webp",
             "label": "The Chess House Lofoten · 阳光房",
             "category": "阳光房",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "阳光房"
+            "caption": "阳光房",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-15-640.webp",
+            "medium": "assets/stays/fredvang-gallery-15-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-16.jpg",
-            "thumb": "assets/stays/fredvang-gallery-16-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-16-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-16-240.webp",
             "label": "The Chess House Lofoten · 阳光房 · 窗景",
             "category": "阳光房",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "阳光房 · 窗景"
+            "caption": "阳光房 · 窗景",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/fredvang-gallery-16-640.webp",
+            "medium": "assets/stays/fredvang-gallery-16-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-17.jpg",
-            "thumb": "assets/stays/fredvang-gallery-17-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-17-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-17-240.webp",
             "label": "The Chess House Lofoten · 建筑外观 · 山海全景",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "建筑外观 · 山海全景"
+            "caption": "建筑外观 · 山海全景",
+            "width": 879,
+            "height": 1100,
+            "mobile": "assets/stays/fredvang-gallery-17-640.webp",
+            "medium": "assets/stays/fredvang-gallery-17-480.webp"
           },
           {
-            "src": "assets/stays/fredvang-gallery-18.jpg",
-            "thumb": "assets/stays/fredvang-gallery-18-thumb.jpg",
+            "src": "assets/stays/fredvang-gallery-18-960.webp",
+            "thumb": "assets/stays/fredvang-gallery-18-240.webp",
             "label": "The Chess House Lofoten · 建筑外观",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/no/fredvang-feriehus-lofoten.zh-cn.html",
-            "caption": "建筑外观"
+            "caption": "建筑外观",
+            "width": 960,
+            "height": 730,
+            "mobile": "assets/stays/fredvang-gallery-18-640.webp",
+            "medium": "assets/stays/fredvang-gallery-18-480.webp"
           }
         ],
         "status": "已预订",
@@ -561,84 +773,124 @@
         "total": 1895,
         "photos": [
           {
-            "src": "assets/stays/svolvaer-gallery-1.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-1-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-1-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-1-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 客厅 · 海景公寓房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "客厅 · 海景公寓房型参考"
+            "caption": "客厅 · 海景公寓房型参考",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/svolvaer-gallery-1-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-2.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-2-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-2-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-2-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 客餐厅 · 海景公寓房型参考",
             "category": "客餐厅",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "客餐厅 · 海景公寓房型参考"
+            "caption": "客餐厅 · 海景公寓房型参考",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/svolvaer-gallery-2-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-3.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-3-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-3-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-3-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 临窗休息区 · 房型参考",
             "category": "临窗休息区",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "临窗休息区 · 房型参考"
+            "caption": "临窗休息区 · 房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/svolvaer-gallery-3-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-4.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-4-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-4-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-4-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "卧室 · 房型参考"
+            "caption": "卧室 · 房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/svolvaer-gallery-4-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-5.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-5-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-5-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-5-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 卧室 · 双层床房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "卧室 · 双层床房型参考"
+            "caption": "卧室 · 双层床房型参考",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/svolvaer-gallery-5-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-6.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-6-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-6-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-6-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 厨房 · 海景公寓房型参考",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "厨房 · 海景公寓房型参考"
+            "caption": "厨房 · 海景公寓房型参考",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/svolvaer-gallery-6-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-7.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-7-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-7-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-7-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 浴室 · 淋浴与厕所房型参考",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "浴室 · 淋浴与厕所房型参考"
+            "caption": "浴室 · 淋浴与厕所房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/svolvaer-gallery-7-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-8.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-8-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-8-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-8-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 窗外海景 · 房型参考",
             "category": "窗外海景",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "窗外海景 · 房型参考"
+            "caption": "窗外海景 · 房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/svolvaer-gallery-8-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-9.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-9-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-9-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-9-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 室外露台",
             "category": "室外露台",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "室外露台"
+            "caption": "室外露台",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/svolvaer-gallery-9-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/svolvaer-gallery-10.jpg",
-            "thumb": "assets/stays/svolvaer-gallery-10-thumb.jpg",
+            "src": "assets/stays/svolvaer-gallery-10-960.webp",
+            "thumb": "assets/stays/svolvaer-gallery-10-240.webp",
             "label": "Lofoten Rorbuer · 海景套房 · 建筑与港口",
             "category": "建筑与港口",
             "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "caption": "建筑与港口"
+            "caption": "建筑与港口",
+            "width": 960,
+            "height": 737,
+            "mobile": "assets/stays/svolvaer-gallery-10-640.webp",
+            "medium": "assets/stays/svolvaer-gallery-10-480.webp"
           }
         ],
         "status": "已预订",
@@ -672,100 +924,148 @@
         "currency": "NOK",
         "photos": [
           {
-            "src": "assets/stays/tromso-airport-gallery-1.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-1-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-1-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-1-240.webp",
             "label": "Super central studio apartment · 起居与睡眠区",
             "category": "起居与睡眠区",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "起居与睡眠区"
+            "caption": "起居与睡眠区",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-1-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-2.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-2-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-2-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-2-240.webp",
             "label": "Super central studio apartment · 用餐区",
             "category": "用餐区",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "用餐区"
+            "caption": "用餐区",
+            "width": 618,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-2-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-3.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-3-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-3-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-3-240.webp",
             "label": "Super central studio apartment · 卧室",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "卧室"
+            "caption": "卧室",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-3-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-4.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-4-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-4-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-4-240.webp",
             "label": "Super central studio apartment · 卧室 · 全景",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "卧室 · 全景"
+            "caption": "卧室 · 全景",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-4-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-5.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-5-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-5-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-5-240.webp",
             "label": "Super central studio apartment · 厨房与睡眠区",
             "category": "厨房与睡眠区",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "厨房与睡眠区"
+            "caption": "厨房与睡眠区",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-5-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-6.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-6-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-6-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-6-240.webp",
             "label": "Super central studio apartment · 厨房",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "厨房"
+            "caption": "厨房",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-6-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-7.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-7-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-7-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-7-240.webp",
             "label": "Super central studio apartment · 厨房 · 操作台",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "厨房 · 操作台"
+            "caption": "厨房 · 操作台",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-7-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-8.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-8-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-8-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-8-240.webp",
             "label": "Super central studio apartment · 浴室 · 洗漱与厕所",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "浴室 · 洗漱与厕所"
+            "caption": "浴室 · 洗漱与厕所",
+            "width": 753,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-8-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-9.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-9-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-9-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-9-240.webp",
             "label": "Super central studio apartment · 浴室 · 淋浴",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "浴室 · 淋浴"
+            "caption": "浴室 · 淋浴",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-9-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-10.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-10-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-10-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-10-240.webp",
             "label": "Super central studio apartment · 浴室 · 另一视角",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "浴室 · 另一视角"
+            "caption": "浴室 · 另一视角",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-10-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-11.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-11-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-11-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-11-240.webp",
             "label": "Super central studio apartment · 建筑入口",
             "category": "建筑入口",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "建筑入口"
+            "caption": "建筑入口",
+            "width": 752,
+            "height": 1100,
+            "mobile": "assets/stays/tromso-airport-gallery-11-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/tromso-airport-gallery-12.jpg",
-            "thumb": "assets/stays/tromso-airport-gallery-12-thumb.jpg",
+            "src": "assets/stays/tromso-airport-gallery-12-960.webp",
+            "thumb": "assets/stays/tromso-airport-gallery-12-240.webp",
             "label": "Super central studio apartment · 周边街景",
             "category": "周边街景",
             "source": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-            "caption": "周边街景"
+            "caption": "周边街景",
+            "width": 960,
+            "height": 618,
+            "mobile": "assets/stays/tromso-airport-gallery-12-640.webp",
+            "medium": "assets/stays/tromso-airport-gallery-12-480.webp"
           }
         ],
         "status": "已预订",
@@ -802,84 +1102,124 @@
         "estimated": true,
         "photos": [
           {
-            "src": "assets/stays/reykjavik-gallery-1.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-1-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-1-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-1-240.webp",
             "label": "Apartments Reykjavik · 客厅 · 一卧室公寓房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "客厅 · 一卧室公寓房型参考"
+            "caption": "客厅 · 一卧室公寓房型参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-1-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-2.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-2-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-2-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-2-240.webp",
             "label": "Apartments Reykjavik · 卧室 · 一卧室公寓房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 一卧室公寓房型参考"
+            "caption": "卧室 · 一卧室公寓房型参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-2-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-3.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-3-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-3-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-3-240.webp",
             "label": "Apartments Reykjavik · 卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 房型参考"
+            "caption": "卧室 · 房型参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-3-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-4.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-4-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-4-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-4-240.webp",
             "label": "Apartments Reykjavik · 卧室 · 储物空间参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 储物空间参考"
+            "caption": "卧室 · 储物空间参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-4-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-5.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-5-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-5-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-5-240.webp",
             "label": "Apartments Reykjavik · 厨房与用餐区 · 房型参考",
             "category": "厨房与用餐区",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "厨房与用餐区 · 房型参考"
+            "caption": "厨房与用餐区 · 房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-5-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-6.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-6-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-6-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-6-240.webp",
             "label": "Apartments Reykjavik · 浴室 · 淋浴与厕所房型参考",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "浴室 · 淋浴与厕所房型参考"
+            "caption": "浴室 · 淋浴与厕所房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-6-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-7.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-7-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-7-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-7-240.webp",
             "label": "Apartments Reykjavik · 公共门厅",
             "category": "公共门厅",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "公共门厅"
+            "caption": "公共门厅",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/reykjavik-gallery-7-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-8.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-8-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-8-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-8-240.webp",
             "label": "Apartments Reykjavik · 公共走廊",
             "category": "公共走廊",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "公共走廊"
+            "caption": "公共走廊",
+            "width": 689,
+            "height": 1100,
+            "mobile": "assets/stays/reykjavik-gallery-8-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-9.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-9-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-9-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-9-240.webp",
             "label": "Apartments Reykjavik · 室外露台 · 房型参考",
             "category": "室外露台",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "室外露台 · 房型参考"
+            "caption": "室外露台 · 房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-9-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/reykjavik-gallery-10.jpg",
-            "thumb": "assets/stays/reykjavik-gallery-10-thumb.jpg",
+            "src": "assets/stays/reykjavik-gallery-10-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-10-240.webp",
             "label": "Apartments Reykjavik · 建筑外观",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "建筑外观"
+            "caption": "建筑外观",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-10-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-10-480.webp"
           }
         ],
         "status": "已预订",
@@ -915,108 +1255,160 @@
         "estimated": true,
         "photos": [
           {
-            "src": "assets/stays/vik-gallery-1.jpg",
-            "thumb": "assets/stays/vik-gallery-1-thumb.jpg",
+            "src": "assets/stays/vik-gallery-1-960.webp",
+            "thumb": "assets/stays/vik-gallery-1-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 客厅 · 落地窗房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "客厅 · 落地窗房型参考"
+            "caption": "客厅 · 落地窗房型参考",
+            "width": 960,
+            "height": 646,
+            "mobile": "assets/stays/vik-gallery-1-640.webp",
+            "medium": "assets/stays/vik-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-2.jpg",
-            "thumb": "assets/stays/vik-gallery-2-thumb.jpg",
+            "src": "assets/stays/vik-gallery-2-960.webp",
+            "thumb": "assets/stays/vik-gallery-2-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 客厅 · 沙发房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "客厅 · 沙发房型参考"
+            "caption": "客厅 · 沙发房型参考",
+            "width": 960,
+            "height": 699,
+            "mobile": "assets/stays/vik-gallery-2-640.webp",
+            "medium": "assets/stays/vik-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-3.jpg",
-            "thumb": "assets/stays/vik-gallery-3-thumb.jpg",
+            "src": "assets/stays/vik-gallery-3-960.webp",
+            "thumb": "assets/stays/vik-gallery-3-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 起居区 · 窗景房型参考",
             "category": "起居区",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "起居区 · 窗景房型参考"
+            "caption": "起居区 · 窗景房型参考",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/vik-gallery-3-640.webp",
+            "medium": "assets/stays/vik-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-4.jpg",
-            "thumb": "assets/stays/vik-gallery-4-thumb.jpg",
+            "src": "assets/stays/vik-gallery-4-960.webp",
+            "thumb": "assets/stays/vik-gallery-4-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 睡眠区 · 房型参考",
             "category": "睡眠区",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "睡眠区 · 房型参考"
+            "caption": "睡眠区 · 房型参考",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/vik-gallery-4-640.webp",
+            "medium": "assets/stays/vik-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-5.jpg",
-            "thumb": "assets/stays/vik-gallery-5-thumb.jpg",
+            "src": "assets/stays/vik-gallery-5-960.webp",
+            "thumb": "assets/stays/vik-gallery-5-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 睡眠区与厨房 · 房型参考",
             "category": "睡眠区与厨房",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "睡眠区与厨房 · 房型参考"
+            "caption": "睡眠区与厨房 · 房型参考",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/vik-gallery-5-640.webp",
+            "medium": "assets/stays/vik-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-6.jpg",
-            "thumb": "assets/stays/vik-gallery-6-thumb.jpg",
+            "src": "assets/stays/vik-gallery-6-960.webp",
+            "thumb": "assets/stays/vik-gallery-6-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 厨房与用餐区 · 房型参考",
             "category": "厨房与用餐区",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "厨房与用餐区 · 房型参考"
+            "caption": "厨房与用餐区 · 房型参考",
+            "width": 960,
+            "height": 726,
+            "mobile": "assets/stays/vik-gallery-6-640.webp",
+            "medium": "assets/stays/vik-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-7.jpg",
-            "thumb": "assets/stays/vik-gallery-7-thumb.jpg",
+            "src": "assets/stays/vik-gallery-7-960.webp",
+            "thumb": "assets/stays/vik-gallery-7-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 用餐区 · 房型参考",
             "category": "用餐区",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "用餐区 · 房型参考"
+            "caption": "用餐区 · 房型参考",
+            "width": 960,
+            "height": 672,
+            "mobile": "assets/stays/vik-gallery-7-640.webp",
+            "medium": "assets/stays/vik-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-8.jpg",
-            "thumb": "assets/stays/vik-gallery-8-thumb.jpg",
+            "src": "assets/stays/vik-gallery-8-960.webp",
+            "thumb": "assets/stays/vik-gallery-8-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 厨房 · 操作台房型参考",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "厨房 · 操作台房型参考"
+            "caption": "厨房 · 操作台房型参考",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/vik-gallery-8-640.webp",
+            "medium": "assets/stays/vik-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-bathroom.jpg",
-            "thumb": "assets/stays/vik-gallery-bathroom-thumb.jpg",
+            "src": "assets/stays/vik-gallery-bathroom-960.webp",
+            "thumb": "assets/stays/vik-gallery-bathroom-240.webp",
             "label": "Black Beach Suites · 浴室 · 淋浴与厕所（房型参考）",
             "caption": "浴室 · 淋浴与厕所（房型参考）",
             "category": "浴室",
-            "source": "https://www.kimkim.com/h/black-beach-suites-vik-i-myrdal-iceland"
+            "source": "https://www.kimkim.com/h/black-beach-suites-vik-i-myrdal-iceland",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/vik-gallery-bathroom-640.webp",
+            "medium": "assets/stays/vik-gallery-bathroom-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-9.jpg",
-            "thumb": "assets/stays/vik-gallery-9-thumb.jpg",
+            "src": "assets/stays/vik-gallery-9-960.webp",
+            "thumb": "assets/stays/vik-gallery-9-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 建筑外观",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "建筑外观"
+            "caption": "建筑外观",
+            "width": 960,
+            "height": 746,
+            "mobile": "assets/stays/vik-gallery-9-640.webp",
+            "medium": "assets/stays/vik-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-10.jpg",
-            "thumb": "assets/stays/vik-gallery-10-thumb.jpg",
+            "src": "assets/stays/vik-gallery-10-960.webp",
+            "thumb": "assets/stays/vik-gallery-10-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 室外走廊",
             "category": "室外走廊",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "室外走廊"
+            "caption": "室外走廊",
+            "width": 803,
+            "height": 1100,
+            "mobile": "assets/stays/vik-gallery-10-640.webp",
+            "medium": "assets/stays/vik-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-11.jpg",
-            "thumb": "assets/stays/vik-gallery-11-thumb.jpg",
+            "src": "assets/stays/vik-gallery-11-960.webp",
+            "thumb": "assets/stays/vik-gallery-11-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 室外露台",
             "category": "室外露台",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "室外露台"
+            "caption": "室外露台",
+            "width": 717,
+            "height": 1100,
+            "mobile": "assets/stays/vik-gallery-11-640.webp",
+            "medium": "assets/stays/vik-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/vik-gallery-12.jpg",
-            "thumb": "assets/stays/vik-gallery-12-thumb.jpg",
+            "src": "assets/stays/vik-gallery-12-960.webp",
+            "thumb": "assets/stays/vik-gallery-12-240.webp",
             "label": "Black Beach Suites · 黑色海滩套房 · 建筑外观 · 极光",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-            "caption": "建筑外观 · 极光"
+            "caption": "建筑外观 · 极光",
+            "width": 960,
+            "height": 635,
+            "mobile": "assets/stays/vik-gallery-12-640.webp",
+            "medium": "assets/stays/vik-gallery-12-480.webp"
           }
         ],
         "status": "已预订",
@@ -1056,124 +1448,184 @@
         "estimated": true,
         "photos": [
           {
-            "src": "assets/stays/hof-gallery-1.jpg",
-            "thumb": "assets/stays/hof-gallery-1-thumb.jpg",
+            "src": "assets/stays/hof-gallery-1-960.webp",
+            "thumb": "assets/stays/hof-gallery-1-240.webp",
             "label": "REY Stays - House · 客餐厅 · 落地窗",
             "category": "客餐厅",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "客餐厅 · 落地窗"
+            "caption": "客餐厅 · 落地窗",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-1-640.webp",
+            "medium": "assets/stays/hof-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-2.jpg",
-            "thumb": "assets/stays/hof-gallery-2-thumb.jpg",
+            "src": "assets/stays/hof-gallery-2-960.webp",
+            "thumb": "assets/stays/hof-gallery-2-240.webp",
             "label": "REY Stays - House · 客餐厅 · 窗景",
             "category": "客餐厅",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "客餐厅 · 窗景"
+            "caption": "客餐厅 · 窗景",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-2-640.webp",
+            "medium": "assets/stays/hof-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-3.jpg",
-            "thumb": "assets/stays/hof-gallery-3-thumb.jpg",
+            "src": "assets/stays/hof-gallery-3-960.webp",
+            "thumb": "assets/stays/hof-gallery-3-240.webp",
             "label": "REY Stays - House · 客餐厅 · 用餐区",
             "category": "客餐厅",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "客餐厅 · 用餐区"
+            "caption": "客餐厅 · 用餐区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-3-640.webp",
+            "medium": "assets/stays/hof-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-4.jpg",
-            "thumb": "assets/stays/hof-gallery-4-thumb.jpg",
+            "src": "assets/stays/hof-gallery-4-960.webp",
+            "thumb": "assets/stays/hof-gallery-4-240.webp",
             "label": "REY Stays - House · 卧室 1",
             "category": "卧室 1",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "卧室 1"
+            "caption": "卧室 1",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-4-640.webp",
+            "medium": "assets/stays/hof-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-5.jpg",
-            "thumb": "assets/stays/hof-gallery-5-thumb.jpg",
+            "src": "assets/stays/hof-gallery-5-960.webp",
+            "thumb": "assets/stays/hof-gallery-5-240.webp",
             "label": "REY Stays - House · 卧室 1 · 全景",
             "category": "卧室 1",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "卧室 1 · 全景"
+            "caption": "卧室 1 · 全景",
+            "width": 960,
+            "height": 719,
+            "mobile": "assets/stays/hof-gallery-5-640.webp",
+            "medium": "assets/stays/hof-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-6.jpg",
-            "thumb": "assets/stays/hof-gallery-6-thumb.jpg",
+            "src": "assets/stays/hof-gallery-6-960.webp",
+            "thumb": "assets/stays/hof-gallery-6-240.webp",
             "label": "REY Stays - House · 卧室 2",
             "category": "卧室 2",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "卧室 2"
+            "caption": "卧室 2",
+            "width": 960,
+            "height": 709,
+            "mobile": "assets/stays/hof-gallery-6-640.webp",
+            "medium": "assets/stays/hof-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-7.jpg",
-            "thumb": "assets/stays/hof-gallery-7-thumb.jpg",
+            "src": "assets/stays/hof-gallery-7-960.webp",
+            "thumb": "assets/stays/hof-gallery-7-240.webp",
             "label": "REY Stays - House · 卧室 2 · 另一视角",
             "category": "卧室 2",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "卧室 2 · 另一视角"
+            "caption": "卧室 2 · 另一视角",
+            "width": 960,
+            "height": 716,
+            "mobile": "assets/stays/hof-gallery-7-640.webp",
+            "medium": "assets/stays/hof-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-8.jpg",
-            "thumb": "assets/stays/hof-gallery-8-thumb.jpg",
+            "src": "assets/stays/hof-gallery-8-960.webp",
+            "thumb": "assets/stays/hof-gallery-8-240.webp",
             "label": "REY Stays - House · 厨房",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "厨房"
+            "caption": "厨房",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-8-640.webp",
+            "medium": "assets/stays/hof-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-9.jpg",
-            "thumb": "assets/stays/hof-gallery-9-thumb.jpg",
+            "src": "assets/stays/hof-gallery-9-960.webp",
+            "thumb": "assets/stays/hof-gallery-9-240.webp",
             "label": "REY Stays - House · 厨房 · 入口视角",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "厨房 · 入口视角"
+            "caption": "厨房 · 入口视角",
+            "width": 960,
+            "height": 719,
+            "mobile": "assets/stays/hof-gallery-9-640.webp",
+            "medium": "assets/stays/hof-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-10.jpg",
-            "thumb": "assets/stays/hof-gallery-10-thumb.jpg",
+            "src": "assets/stays/hof-gallery-10-960.webp",
+            "thumb": "assets/stays/hof-gallery-10-240.webp",
             "label": "REY Stays - House · 厨房 · 操作台",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "厨房 · 操作台"
+            "caption": "厨房 · 操作台",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-10-640.webp",
+            "medium": "assets/stays/hof-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-11.jpg",
-            "thumb": "assets/stays/hof-gallery-11-thumb.jpg",
+            "src": "assets/stays/hof-gallery-11-960.webp",
+            "thumb": "assets/stays/hof-gallery-11-240.webp",
             "label": "REY Stays - House · 浴室 · 淋浴",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "浴室 · 淋浴"
+            "caption": "浴室 · 淋浴",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/hof-gallery-11-640.webp",
+            "medium": "assets/stays/hof-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-12.jpg",
-            "thumb": "assets/stays/hof-gallery-12-thumb.jpg",
+            "src": "assets/stays/hof-gallery-12-960.webp",
+            "thumb": "assets/stays/hof-gallery-12-240.webp",
             "label": "REY Stays - House · 浴室 · 厕所与洗漱区",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "浴室 · 厕所与洗漱区"
+            "caption": "浴室 · 厕所与洗漱区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/hof-gallery-12-640.webp",
+            "medium": "assets/stays/hof-gallery-12-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-13.jpg",
-            "thumb": "assets/stays/hof-gallery-13-thumb.jpg",
+            "src": "assets/stays/hof-gallery-13-960.webp",
+            "thumb": "assets/stays/hof-gallery-13-240.webp",
             "label": "REY Stays - House · 建筑与露台",
             "category": "建筑与露台",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "建筑与露台"
+            "caption": "建筑与露台",
+            "width": 763,
+            "height": 1100,
+            "mobile": "assets/stays/hof-gallery-13-640.webp",
+            "medium": "assets/stays/hof-gallery-13-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-14.jpg",
-            "thumb": "assets/stays/hof-gallery-14-thumb.jpg",
+            "src": "assets/stays/hof-gallery-14-960.webp",
+            "thumb": "assets/stays/hof-gallery-14-240.webp",
             "label": "REY Stays - House · 建筑外观 · 夜景",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "建筑外观 · 夜景"
+            "caption": "建筑外观 · 夜景",
+            "width": 960,
+            "height": 631,
+            "mobile": "assets/stays/hof-gallery-14-640.webp",
+            "medium": "assets/stays/hof-gallery-14-480.webp"
           },
           {
-            "src": "assets/stays/hof-gallery-15.jpg",
-            "thumb": "assets/stays/hof-gallery-15-thumb.jpg",
+            "src": "assets/stays/hof-gallery-15-960.webp",
+            "thumb": "assets/stays/hof-gallery-15-240.webp",
             "label": "REY Stays - House · 室外山景",
             "category": "室外山景",
             "source": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-            "caption": "室外山景"
+            "caption": "室外山景",
+            "width": 960,
+            "height": 1091,
+            "mobile": "assets/stays/hof-gallery-15-640.webp",
+            "medium": "assets/stays/hof-gallery-15-480.webp"
           }
         ],
         "status": "已预订",
@@ -1209,84 +1661,124 @@
         "currency": "EUR",
         "photos": [
           {
-            "src": "assets/stays/kef-gallery-1.jpg",
-            "thumb": "assets/stays/kef-gallery-1-thumb.jpg",
+            "src": "assets/stays/kef-gallery-1-960.webp",
+            "thumb": "assets/stays/kef-gallery-1-240.webp",
             "label": "Ray of Sunshine Hafnargata · 客厅与沙发床 · 一室公寓房型参考",
             "category": "客厅与沙发床",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "客厅与沙发床 · 一室公寓房型参考"
+            "caption": "客厅与沙发床 · 一室公寓房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-1-640.webp",
+            "medium": "assets/stays/kef-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-2.jpg",
-            "thumb": "assets/stays/kef-gallery-2-thumb.jpg",
+            "src": "assets/stays/kef-gallery-2-960.webp",
+            "thumb": "assets/stays/kef-gallery-2-240.webp",
             "label": "Ray of Sunshine Hafnargata · 客厅 · 全景房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "客厅 · 全景房型参考"
+            "caption": "客厅 · 全景房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-2-640.webp",
+            "medium": "assets/stays/kef-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-3.jpg",
-            "thumb": "assets/stays/kef-gallery-3-thumb.jpg",
+            "src": "assets/stays/kef-gallery-3-960.webp",
+            "thumb": "assets/stays/kef-gallery-3-240.webp",
             "label": "Ray of Sunshine Hafnargata · 睡眠区 · 沙发床房型参考",
             "category": "睡眠区",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "睡眠区 · 沙发床房型参考"
+            "caption": "睡眠区 · 沙发床房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-3-640.webp",
+            "medium": "assets/stays/kef-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-4.jpg",
-            "thumb": "assets/stays/kef-gallery-4-thumb.jpg",
+            "src": "assets/stays/kef-gallery-4-960.webp",
+            "thumb": "assets/stays/kef-gallery-4-240.webp",
             "label": "Ray of Sunshine Hafnargata · 睡眠区 · 展开沙发床参考",
             "category": "睡眠区",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "睡眠区 · 展开沙发床参考"
+            "caption": "睡眠区 · 展开沙发床参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-4-640.webp",
+            "medium": "assets/stays/kef-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-5.jpg",
-            "thumb": "assets/stays/kef-gallery-5-thumb.jpg",
+            "src": "assets/stays/kef-gallery-5-960.webp",
+            "thumb": "assets/stays/kef-gallery-5-240.webp",
             "label": "Ray of Sunshine Hafnargata · 起居区 · 储物空间参考",
             "category": "起居区",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "起居区 · 储物空间参考"
+            "caption": "起居区 · 储物空间参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-5-640.webp",
+            "medium": "assets/stays/kef-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-6.jpg",
-            "thumb": "assets/stays/kef-gallery-6-thumb.jpg",
+            "src": "assets/stays/kef-gallery-6-960.webp",
+            "thumb": "assets/stays/kef-gallery-6-240.webp",
             "label": "Ray of Sunshine Hafnargata · 厨房 · 一室公寓房型参考",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "厨房 · 一室公寓房型参考"
+            "caption": "厨房 · 一室公寓房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-6-640.webp",
+            "medium": "assets/stays/kef-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-7.jpg",
-            "thumb": "assets/stays/kef-gallery-7-thumb.jpg",
+            "src": "assets/stays/kef-gallery-7-960.webp",
+            "thumb": "assets/stays/kef-gallery-7-240.webp",
             "label": "Ray of Sunshine Hafnargata · 浴室 · 厕所与洗漱区房型参考",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "浴室 · 厕所与洗漱区房型参考"
+            "caption": "浴室 · 厕所与洗漱区房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-7-640.webp",
+            "medium": "assets/stays/kef-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-8.jpg",
-            "thumb": "assets/stays/kef-gallery-8-thumb.jpg",
+            "src": "assets/stays/kef-gallery-8-960.webp",
+            "thumb": "assets/stays/kef-gallery-8-240.webp",
             "label": "Ray of Sunshine Hafnargata · 浴室 · 淋浴房型参考",
             "category": "浴室",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "浴室 · 淋浴房型参考"
+            "caption": "浴室 · 淋浴房型参考",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-8-640.webp",
+            "medium": "assets/stays/kef-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-9.jpg",
-            "thumb": "assets/stays/kef-gallery-9-thumb.jpg",
+            "src": "assets/stays/kef-gallery-9-960.webp",
+            "thumb": "assets/stays/kef-gallery-9-240.webp",
             "label": "Ray of Sunshine Hafnargata · 房间入口",
             "category": "房间入口",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "房间入口"
+            "caption": "房间入口",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-9-640.webp",
+            "medium": "assets/stays/kef-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/kef-gallery-10.jpg",
-            "thumb": "assets/stays/kef-gallery-10-thumb.jpg",
+            "src": "assets/stays/kef-gallery-10-960.webp",
+            "thumb": "assets/stays/kef-gallery-10-240.webp",
             "label": "Ray of Sunshine Hafnargata · 建筑外观",
             "category": "建筑外观",
             "source": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
-            "caption": "建筑外观"
+            "caption": "建筑外观",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/kef-gallery-10-640.webp",
+            "medium": "assets/stays/kef-gallery-10-480.webp"
           }
         ],
         "status": "已预订",
@@ -1319,164 +1811,244 @@
         "total": 2674.24,
         "photos": [
           {
-            "src": "assets/stays/copenhagen-gallery-1.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-1-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-1-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-1-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 客厅",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "客厅"
+            "caption": "客厅",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-1-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-1-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-2.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-2-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-2-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-2-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 客厅 · 全景",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "客厅 · 全景"
+            "caption": "客厅 · 全景",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-2-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-2-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-3.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-3-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-3-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-3-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 客厅 · 沙发床",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "客厅 · 沙发床"
+            "caption": "客厅 · 沙发床",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-3-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-3-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-4.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-4-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-4-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-4-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 客厅 · 休息角",
             "category": "客厅",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "客厅 · 休息角"
+            "caption": "客厅 · 休息角",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-4-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-4-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-5.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-5-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-5-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-5-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 卧室",
             "category": "卧室",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "卧室"
+            "caption": "卧室",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-5-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-5-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-6.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-6-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-6-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-6-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 卧室 · 床头",
             "category": "卧室",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "卧室 · 床头"
+            "caption": "卧室 · 床头",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-6-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-6-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-7.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-7-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-7-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-7-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 卧室与客厅",
             "category": "卧室与客厅",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "卧室与客厅"
+            "caption": "卧室与客厅",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-7-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-7-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-8.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-8-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-8-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-8-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 厨房",
             "category": "厨房",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "厨房"
+            "caption": "厨房",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-8-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-8-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-9.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-9-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-9-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-9-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 厨房与起居区",
             "category": "厨房与起居区",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "厨房与起居区"
+            "caption": "厨房与起居区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-9-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-9-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-10.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-10-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-10-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-10-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 厨房 · 操作台",
             "category": "厨房",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "厨房 · 操作台"
+            "caption": "厨房 · 操作台",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-10-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-10-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-11.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-11-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-11-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-11-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 用餐区",
             "category": "用餐区",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "用餐区"
+            "caption": "用餐区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-11-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-11-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-12.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-12-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-12-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-12-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 用餐区 · 玻璃隔断",
             "category": "用餐区",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "用餐区 · 玻璃隔断"
+            "caption": "用餐区 · 玻璃隔断",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-12-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-12-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-13.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-13-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-13-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-13-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 浴室 · 洗漱区",
             "category": "浴室",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "浴室 · 洗漱区"
+            "caption": "浴室 · 洗漱区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-13-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-13-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-14.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-14-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-14-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-14-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 浴室 · 淋浴与厕所",
             "category": "浴室",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "浴室 · 淋浴与厕所"
+            "caption": "浴室 · 淋浴与厕所",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-14-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-14-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-15.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-15-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-15-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-15-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 浴室 · 另一视角",
             "category": "浴室",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "浴室 · 另一视角"
+            "caption": "浴室 · 另一视角",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-15-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-15-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-16.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-16-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-16-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-16-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 公共庭院",
             "category": "公共庭院",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "公共庭院"
+            "caption": "公共庭院",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-16-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-16-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-17.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-17-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-17-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-17-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 公共庭院 · 入口",
             "category": "公共庭院",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "公共庭院 · 入口"
+            "caption": "公共庭院 · 入口",
+            "width": 825,
+            "height": 1100,
+            "mobile": "assets/stays/copenhagen-gallery-17-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-17-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-18.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-18-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-18-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-18-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 公共屋顶露台",
             "category": "公共屋顶露台",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "公共屋顶露台"
+            "caption": "公共屋顶露台",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-18-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-18-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-19.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-19-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-19-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-19-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 公共屋顶露台 · 休息区",
             "category": "公共屋顶露台",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "公共屋顶露台 · 休息区"
+            "caption": "公共屋顶露台 · 休息区",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/copenhagen-gallery-19-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-19-480.webp"
           },
           {
-            "src": "assets/stays/copenhagen-gallery-20.jpg",
-            "thumb": "assets/stays/copenhagen-gallery-20-thumb.jpg",
+            "src": "assets/stays/copenhagen-gallery-20-960.webp",
+            "thumb": "assets/stays/copenhagen-gallery-20-240.webp",
             "label": "Aperon · One-Bedroom Apartment for 4 · 建筑外观",
             "category": "建筑外观",
             "source": "https://www.airbnb.cn/rooms/42501574",
-            "caption": "建筑外观"
+            "caption": "建筑外观",
+            "width": 960,
+            "height": 641,
+            "mobile": "assets/stays/copenhagen-gallery-20-640.webp",
+            "medium": "assets/stays/copenhagen-gallery-20-480.webp"
           }
         ],
         "status": "已预订",
