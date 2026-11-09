@@ -1544,7 +1544,7 @@
       69.6493
     ],
     "days": [
-      2
+      4
     ],
     "kind": "optional",
     "countryId": "norway",
@@ -1552,7 +1552,7 @@
     "image": "../nordic/assets/experiences/cross-country-ski.jpg",
     "imageLabel": "越野滑雪 · 入门课程（二选一）",
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
-    "description": "2月7日13:30自主滑雪的备选租赁点，须约12:30前回城；不是雪道入口，费用另询。",
+    "description": "2月9日与驯鹿雪橇二选一的自主越野滑雪方案；租还雪具及雪道入口需提前确认。Charlottenlund仅作区域示意。",
     "rating": null,
     "imageReference": false
   },
@@ -1649,7 +1649,7 @@
       69.66508
     ],
     "days": [
-      2
+      4
     ],
     "kind": "optional",
     "countryId": "norway",
@@ -1658,7 +1658,24 @@
     "imageLabel": "Tromsøya越野滑雪 · 区域景观参考",
     "imageReference": true,
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
-    "description": "自驾提前回城才前往。地图为Charlottenlund区域示意；实际平缓压雪道入口及当日压雪状况向租赁店核实，按体力折返。",
+    "description": "2月9日与驯鹿雪橇二选一的自主越野滑雪方案；租还雪具及雪道入口需提前确认。Charlottenlund仅作区域示意。",
     "rating": null
+  },
+  {
+    "id": "p-fjellheisen",
+    "name": "Fjellheisen 缆车下站",
+    "query": "Fjellheisen Solliveien 12 Tromsdalen Norway",
+    "coord": [
+      18.9872,
+      69.6413
+    ],
+    "days": [
+      2
+    ],
+    "kind": "attraction",
+    "countryId": "norway",
+    "countryName": "挪威",
+    "rating": null,
+    "description": "2月7日晚乘缆车上下，在山顶拍城市、海峡和大桥夜景。此点为下站位置示意；运营与停车按当日官网确认。"
   }
 ]
