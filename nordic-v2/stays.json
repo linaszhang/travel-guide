@@ -43,7 +43,8 @@
           "订单总费用¥1,354.44，2人1晚。"
         ],
         "roomLayout": "1卧室 · 1张床",
-        "cancellation": "2027.2.5 15:00前免费取消"
+        "cancellation": "2027.2.5 15:00前免费取消",
+        "userNote": "中央车站附近，个人比较过的房源中评分最高。"
       },
       {
         "name": "Radisson RED Helsinki",
@@ -114,7 +115,8 @@
           "房源页面显示距机场约30公里、缆车约25公里；市区活动后需自驾回住处。"
         ],
         "roomLayout": "2卧室 · 2张双人床",
-        "cancellation": "2026.12.8 23:59前免费取消"
+        "cancellation": "2026.12.8 23:59前免费取消",
+        "userNote": "2间卧室，带桑拿房和秋千。"
       },
       {
         "name": "Arctic View Apartment",
@@ -133,7 +135,8 @@
         "notes": [
           "房源页面显示距机场约30公里。",
           "文档没有提供可确认的2月7–9日含税总价。"
-        ]
+        ],
+        "userNote": "大窗景观不错，但这两天早出晚归，留在房内看景的时间有限。"
       }
     ]
   },
@@ -187,7 +190,8 @@
           "位置在Botnhamn一带，首日晚到需确认自助入住；徒步集合点以向导通知为准。"
         ],
         "roomLayout": "2卧室 · 3张床",
-        "cancellation": "2027.2.8 15:00前免费取消"
+        "cancellation": "2027.2.8 15:00前免费取消",
+        "userNote": "装修合心意，门口可以生火。"
       }
     ]
   },
@@ -236,7 +240,8 @@
           "公开房源资料：5间卧室，5张单人床与1张双人床；入住时以房东分配为准。"
         ],
         "roomLayout": "5卧室 · 6张床",
-        "cancellation": "2027.2.5 23:59前免费取消"
+        "cancellation": "2027.2.5 23:59前免费取消",
+        "userNote": "5卧室整屋，客厅好看，很适合室内拍摄。"
       },
       {
         "name": "Arctic Resort Lofoten",
@@ -252,7 +257,8 @@
           }
         ],
         "status": "对比住宿",
-        "notes": []
+        "notes": [],
+        "userNote": "外部景观不错，室内装修相对普通。"
       }
     ]
   },
@@ -300,7 +306,8 @@
           "订单总额 NOK 2,682.90，页面折算约¥1,895；含订单列出的停车服务。"
         ],
         "roomLayout": "海景套房 · 卧室与床数待核实",
-        "cancellation": "2027.2.6 23:59前免费取消"
+        "cancellation": "2027.2.6 23:59前免费取消",
+        "userNote": "渔民套房，窗外能看海景和渔船，另有露台。"
       },
       {
         "name": "Rorbuene Svolvær Havn",
@@ -318,7 +325,8 @@
         "status": "对比住宿",
         "notes": [
           "¥4,300是文档中的参考价，并非已确认的2月12–13日报价。"
-        ]
+        ],
+        "userNote": "窗外小红房景观也不错，但4间卧室对两人来说偏大；参考总价¥4,300，配置有些奢侈。"
       }
     ]
   },
@@ -328,23 +336,49 @@
       8
     ],
     "country": "norway",
-    "location": "特罗姆瑟机场附近",
+    "location": "特罗姆瑟市中心",
     "dates": "2.13–2.14",
     "nights": 1,
     "options": [
       {
-        "name": "车上过夜",
-        "features": "2月13日晚 · 次晨早班机 · 住宿费¥0",
-        "description": "按飞书最新安排，这晚住车上，不再预留机场酒店房费。次晨07:50起飞，清晨还车后前往航站楼。",
-        "url": null,
-        "total": 0,
-        "photos": [],
-        "status": "车上过夜",
-        "notes": [
-          "提前确认允许过夜停车的地点及车辆保暖条件；条件不满足时改订机场附近酒店。"
+        "name": "Super central studio apartment",
+        "features": "市中心小公寓 · 厨房 · 适合中转",
+        "description": "特罗姆瑟市中心的一卧室小公寓，适合罗弗敦返程后短住一晚，次晨自驾去机场还车。",
+        "url": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
+        "total": 1695,
+        "originalTotal": 2399,
+        "currency": "NOK",
+        "photos": [
+          {
+            "src": "assets/stays/tromso-studio-1.jpg",
+            "thumb": "assets/stays/tromso-studio-1-thumb.jpg",
+            "label": "卧室与厨房"
+          },
+          {
+            "src": "assets/stays/tromso-studio-2.jpg",
+            "thumb": "assets/stays/tromso-studio-2-thumb.jpg",
+            "label": "卧室空间"
+          },
+          {
+            "src": "assets/stays/tromso-studio-3.jpg",
+            "thumb": "assets/stays/tromso-studio-3-thumb.jpg",
+            "label": "浴室"
+          },
+          {
+            "src": "assets/stays/tromso-studio-4.jpg",
+            "thumb": "assets/stays/tromso-studio-4-thumb.jpg",
+            "label": "周边街区"
+          }
         ],
-        "roomLayout": "车上过夜",
-        "cancellation": "不适用取消政策"
+        "status": "已预订",
+        "roomLayout": "1卧室 · 1张双人床",
+        "cancellation": "2027.2.11 23:59前免费取消",
+        "notes": [
+          "2月13日15:00后入住，2月14日11:00前退房；2位成人1晚。",
+          "订单应付NOK 2,399，页面人民币总价约¥1,695。",
+          "次晨07:50起飞，提前确认清晨还车和机场接驳，目标约05:30抵达航站楼。"
+        ],
+        "userNote": "市区小房间，作为一晚中转，简单住住即可。"
       }
     ]
   },
@@ -396,7 +430,8 @@
           "蓝湖后前往公寓；预计晚到须提前确认入住。"
         ],
         "roomLayout": "1卧室 · 床数待核实",
-        "cancellation": "2027.2.8 23:59前免费取消"
+        "cancellation": "2027.2.8 23:59前免费取消",
+        "userNote": "作为中转落脚点，住宿以简单实用为主。"
       }
     ]
   },
@@ -454,7 +489,8 @@
           "当晚在维克补给后再回公寓，次晨直接前往黑沙滩。"
         ],
         "roomLayout": "开放式一室 · 1张特大床＋1张沙发床",
-        "cancellation": "入住前7天可免费取消"
+        "cancellation": "入住前7天可免费取消",
+        "userNote": "这次比较中最喜欢的当地房源，暂时没有看中更合适的替代。"
       }
     ]
   },
@@ -509,7 +545,8 @@
           "2月17日下午游冰河湖与钻石沙滩后回霍芬；2月18日先去Stokksnes，再长途西返。"
         ],
         "roomLayout": "2卧室 · 1张双人床＋2张单人床＋1张沙发床",
-        "cancellation": "2027.2.8 23:59前免费取消"
+        "cancellation": "2027.2.8 23:59前免费取消",
+        "userNote": "当地房源整体吸引力一般，这家的窗景相对更合心意。"
       },
       {
         "name": "Aurora Cabins · 极光度假屋",
@@ -533,7 +570,8 @@
         "notes": [
           "同样位于霍芬一带，不能替代Hof村附近住宿的交通便利。",
           "未提供2月16–18日可确认的订单金额，不计入预算。"
-        ]
+        ],
+        "userNote": "室内和外部景观都比主选稍逊一些。"
       }
     ]
   },
@@ -543,61 +581,49 @@
       13
     ],
     "country": "iceland",
-    "location": "KEF机场附近",
+    "location": "Keflavík · Hafnargata",
     "dates": "2.18–2.19",
     "nights": 1,
     "options": [
       {
-        "name": "KEF机场附近住宿 · 待预订",
-        "features": "次晨早班机 · 方便还车",
-        "description": "2月18日的 Apartments Reykjavik 原订单已取消，新的住宿尚待确认。优先选择机场附近、可晚到的住宿，方便次日还车及搭乘07:30航班。",
-        "url": "",
-        "photos": [],
-        "status": "待预订",
-        "roomLayout": "卧室与床数待选房后确认",
-        "cancellation": "未预订 · 取消期限待确认",
-        "notes": [
-          "暂留每人¥1,000的1晚住宿预算。"
-        ]
-      },
-      {
-        "name": "Apartments Reykjavik",
-        "features": "一卧室公寓 · 厨房 · 城市短住",
-        "description": "雷克雅未克市区的一卧室公寓，适合作为南岸行程前后中转。配厨房，具体布局以已订房型为准；并非KEF机场酒店。",
-        "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-        "total": 1059.83,
-        "originalTotal": 141.31,
+        "name": "Ray of Sunshine Hafnargata",
+        "features": "近机场 · 海景一室公寓 · 免费停车",
+        "description": "位于Keflavík市区Hafnargata街，距KEF机场约4公里，适合南岸返程后的机场前夜住宿。已订一室公寓；其他公开房型照片仅供了解房源空间。",
+        "url": "https://www.booking.com/hotel/is/ray-of-sunshine-hafnargata.zh-cn.html",
+        "total": 1617,
+        "originalTotal": 217.42,
         "currency": "EUR",
-        "conversionRate": 7.5,
-        "estimated": true,
         "photos": [
           {
-            "src": "assets/stays/reykjavik-kitchen.jpg",
-            "label": "Apartments Reykjavik · 厨房房型参考",
-            "thumb": "assets/stays/reykjavik-kitchen-thumb.jpg"
+            "src": "assets/stays/kef-sunshine-1.jpg",
+            "thumb": "assets/stays/kef-sunshine-1-thumb.jpg",
+            "label": "用餐空间"
           },
           {
-            "src": "assets/stays/reykjavik-exterior.jpg",
-            "label": "Apartments Reykjavik · 建筑外观",
-            "thumb": "assets/stays/reykjavik-exterior-thumb.jpg"
+            "src": "assets/stays/kef-sunshine-2.jpg",
+            "thumb": "assets/stays/kef-sunshine-2-thumb.jpg",
+            "label": "房源卧室参考"
           },
           {
-            "src": "assets/stays/reykjavik-bedroom.jpg",
-            "label": "Apartments Reykjavik · 卧室房型参考",
-            "thumb": "assets/stays/reykjavik-bedroom-thumb.jpg"
+            "src": "assets/stays/kef-sunshine-3.jpg",
+            "thumb": "assets/stays/kef-sunshine-3-thumb.jpg",
+            "label": "起居空间参考"
           },
           {
-            "src": "assets/stays/reykjavik-living.jpg",
-            "label": "Apartments Reykjavik · 起居空间参考",
-            "thumb": "assets/stays/reykjavik-living-thumb.jpg"
+            "src": "assets/stays/kef-sunshine-4.jpg",
+            "thumb": "assets/stays/kef-sunshine-4-thumb.jpg",
+            "label": "建筑外观"
           }
         ],
-        "status": "已取消",
+        "status": "已预订",
+        "roomLayout": "开放式一室 · 1张沙发床",
+        "cancellation": "2027.2.14 23:59前免费取消",
         "notes": [
-          "2月18日入住的原订单已取消，不计入住宿预算。"
+          "2月18日16:00–00:00入住，2月19日00:00–12:00退房；2位成人1晚。",
+          "订单应付€217.42，包含€110清洁费；页面人民币总价约¥1,617。",
+          "次晨07:30起飞；约03:40出发、04:00还车，预留接驳时间，目标05:00到航站楼。"
         ],
-        "cancellation": "订单已取消",
-        "roomLayout": "1卧室 · 床数待核实"
+        "userNote": "机场附近的公寓，楼下有超市，周边街区方便补给。"
       }
     ]
   },
@@ -645,7 +671,8 @@
           "历史建筑没有电梯；房型可能位于不同楼层，布局以订单为准。"
         ],
         "roomLayout": "1卧室 · 1张双人床＋1张沙发床",
-        "cancellation": "2027.2.14 15:00前免费取消"
+        "cancellation": "2027.2.14 15:00前免费取消",
+        "userNote": "市中心一居室，有户外露台，离购物街很近。"
       },
       {
         "name": "Hotel Bethel",
@@ -661,7 +688,8 @@
           }
         ],
         "status": "对比住宿",
-        "notes": []
+        "notes": [],
+        "userNote": "酒店房间偏小。"
       }
     ]
   }
