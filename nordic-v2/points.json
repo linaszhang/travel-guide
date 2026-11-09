@@ -1695,5 +1695,26 @@
     "countryName": "挪威",
     "rating": null,
     "description": "2月8日晚海港桑拿，建议18:00–19:30参考；提前预约，150 NOK起，费用暂未计入预算。"
+  },
+  {
+    "id": "p-vestrahorn",
+    "query": "Vestrahorn Stokksnes Iceland",
+    "name": "Vestrahorn 蝙蝠山 · Stokksnes",
+    "days": [
+      13
+    ],
+    "kind": "nature",
+    "coord": [
+      -14.9644867,
+      64.2408125
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic/assets/day-14-0.jpg",
+    "imageLabel": "冰岛南岸 · 冰川平原参考图",
+    "imageSource": "https://cromwell-intl.com/travel/iceland/vik-hali/",
+    "imageReference": true,
+    "description": "2月18日上午在山脚黑沙丘与海滩拍山峰、倒影和雪景，约1小时；不登山。门票另计，强风、结冰或封路时取消，之后直接西返KEF机场附近。",
+    "rating": null
   }
 ]
