@@ -6,7 +6,7 @@
     "title": "Hesten／Segla 雪山徒步",
     "location": "塞尼亚岛 · Fjordgård／Hesten",
     "duration": "运营方参考约2.5–3h；冬季以确认方案为准",
-    "price": 1330,
+    "price": 0,
     "intro": "跟随当地向导在塞尼亚岛雪山徒步，优先选择Hesten方向的观景路线，欣赏Segla刀锋般的山体、峡湾与周围雪峰。Hesten观景和登顶Segla是不同路线，本项目以Hesten看Segla为目标，不默认安排攀登Segla顶峰。",
     "meeting": "2月10日计划安排；Fjordgård方向集合，准确时间和接送需向向导确认，当前未预订。",
     "includes": [
@@ -19,7 +19,7 @@
       "准备保暖防水高帮徒步鞋、防风外层、手套帽子、水与食物；是否需要额外防滑装备听从向导。",
       "冬季山地存在结冰和雪崩风险，应由当地合格向导评估；情况不适合时改线或取消。"
     ],
-    "priceNote": "Storm Adventure Senja官网Hesten／Segla参考报价1,900 NOK／人，最低团费3,000 NOK；2人按人头合计3,800 NOK。沿用预算汇率1 NOK≈0.7 RMB，暂列¥1,330／人。2月报价、接送与装备费用另向运营方核实。",
+    "priceNote": "按当前计划预算暂列¥0；不代表向导项目免费。是否报名、向导及装备费用，以最终安排为准。",
     "url": "https://www.senjastormadventure.com/snowshoe-walk-hiking-to-segla/hesten/riven",
     "operator": "Storm Adventure Senja",
     "imageCredit": "Senja by Heart（Hesten／Segla冬季景观参考，非所列运营方的实拍团次）",
@@ -58,7 +58,7 @@
       "甲板风大，带帽子、手套和防风衣物。",
       "返港后约15:30自驾出发，晚上入住塞尼亚北部。"
     ],
-    "priceNote": "已确认2位成人订单总价¥2,716，折合¥1,358／人。",
+    "priceNote": "已预订，¥1,358／人。",
     "url": "https://www.getyourguide.com/tromso-l32375/tromso-s-top-rated-fjord-fishing-cruise-lunch-included-t102233/",
     "operator": "Polar Adventures",
     "photos": [
@@ -92,7 +92,7 @@
       "已订25–30分钟雪橇选项；全团约4小时，包含接送时间。",
       "穿保暖防水衣物、手套帽子与冬季鞋。"
     ],
-    "priceNote": "已确认2位成人订单总价¥3,068.40，折合¥1,534.20／人。",
+    "priceNote": "已预订，¥1,534.2／人。",
     "url": "https://www.getyourguide.com/tromso-l32375/tromso-reindeer-sledding-and-feeding-with-sami-culture-t180764?date_from=2027-02-08",
     "operator": "Tromsø Arctic Reindeer",
     "photos": [
@@ -196,11 +196,11 @@
       "冰爪、头盔、安全带及鞋码需在集合时确认"
     ],
     "notes": [
-      "已预订，与同日Katla冰洞待二选一，不重复计入预算。",
+      "已预订，本次保留Skaftafell方案。",
       "当前南岸住宿与冰河湖路线按本方案保留。",
       "天然冰洞和路线由向导按当天冰况决定。"
     ],
-    "priceNote": "已确认2位成人订单总价¥2,166，折合¥1,083／人。与Katla方案二选一；总预算显示两种方案的范围。",
+    "priceNote": "已预订，¥1,083／人。",
     "url": "https://www.getyourguide.com/vik-l32622/ice-caveglacier-hike-on-falljokull-skaftafell-national-park-t166280/",
     "operator": "Tröll Expeditions",
     "photos": [
@@ -217,8 +217,7 @@
         "label": "Skaftafell 冰川徒步参考"
       }
     ],
-    "booked": true,
-    "choiceGroup": "ice-cave"
+    "booked": true
   },
   {
     "id": "blue-lagoon",
@@ -239,7 +238,7 @@
       "带泳衣；额外餐饮与升级项目另计。",
       "14:20落地后直接取车前往蓝湖；航班延误时按订单联系运营方。"
     ],
-    "priceNote": "已确认2位成人Comfort订单总价¥2,119.60，折合¥1,059.80／人。停留2–2.5小时为行程建议，并非票券时限。",
+    "priceNote": "已预订，¥1,059.8／人。",
     "url": "https://www.getyourguide.com/reykjavik-l30/blue-lagoon-admission-package-with-drink-towel-and-mask-t393203/",
     "operator": "Blue Lagoon",
     "photos": [
@@ -262,7 +261,7 @@
     "location": "冰岛 · 维克 Vík",
     "duration": "约3h · 2.17 08:30–11:30",
     "price": 1616.8,
-    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。与Skaftafell冰川徒步团待二选一。",
+    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。本次行程已排除，保留Skaftafell方案。",
     "meeting": "2月17日08:15在维克Icewear Magasin后方面海的巴士停车场集合（Austurvegur 20），08:30出发并返回原处。",
     "includes": [
       "维克往返超级吉普车接送",
@@ -270,11 +269,11 @@
       "冰爪与头盔"
     ],
     "notes": [
-      "已预订，待与Skaftafell冰洞二选一，不同时参加。",
-      "集合地在维克；现有2.16–2.17 Hof住宿与冰河湖路线需在选定后调整。",
+      "已从行程及预算排除；订单状态以预订平台为准。",
+      "集合地在维克，与本次Hof住宿及冰河湖路线不衔接。",
       "洞穴形态随冰况变化，穿保暖防水衣物和结实徒步鞋。"
     ],
-    "priceNote": "已确认2位成人订单总价¥3,233.60，折合¥1,616.80／人；比Skaftafell方案每人增加¥533.80。",
+    "priceNote": "原预订参考价格¥1,616.80／人，当前不计入预算。",
     "url": "https://www.getyourguide.com/vik-l32622/from-vik-katla-ice-cave-and-super-jeep-tour-t135519/",
     "operator": "Arctic Adventures",
     "photos": [
@@ -288,8 +287,7 @@
       }
     ],
     "booked": true,
-    "choiceGroup": "ice-cave",
-    "budgetAlternative": true
+    "excluded": true
   },
   {
     "id": "husky-sledding",

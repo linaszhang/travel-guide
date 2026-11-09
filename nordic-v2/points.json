@@ -636,6 +636,7 @@
     "name": "Svolvær 斯沃尔维尔",
     "days": [
       6,
+      7,
       8
     ],
     "kind": "sight",
@@ -650,27 +651,6 @@
     "imageLabel": "Svolvær · 渔船海钓",
     "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
     "description": "自驾路线：Mefjordvær → Ersfjordstranda → Tungeneset → Bergsbotn → Finnsnes → Bjerkvik → Svolvær",
-    "rating": null
-  },
-  {
-    "query": "J E Paulsens gate 9 Svolvær",
-    "name": "海钓集合点 · J.E. Paulsens gate 9",
-    "days": [
-      7
-    ],
-    "kind": "transport",
-    "id": "p41",
-    "coord": [
-      14.5658836,
-      68.2333303
-    ],
-    "countryName": "挪威",
-    "countryId": "norway",
-    "imageReference": true,
-    "image": "../nordic/assets/day-08-0.jpg",
-    "imageLabel": "Svolvær · 渔船海钓",
-    "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
-    "description": "参考XXLofoten传统渔船MS Symra，集合地址J.E. Paulsens gate 9；官网要求发船前30分钟到。",
     "rating": null
   },
   {
@@ -710,7 +690,7 @@
     "image": "../nordic/assets/day-08-2.jpg",
     "imageLabel": "Hamnøy 红色渔屋",
     "imageSource": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/",
-    "description": "为了次日返程，建议今天就住到南端；路上只保留必要补给和休息，黄昏到达。",
+    "description": "2月12日南下入住，主要红屋拍摄留到2月13日上午；白天只在安全合法停车点短停。",
     "rating": null
   },
   {
@@ -1715,6 +1695,46 @@
     "imageSource": "https://cromwell-intl.com/travel/iceland/vik-hali/",
     "imageReference": true,
     "description": "2月18日上午在山脚黑沙丘与海滩拍山峰、倒影和雪景，约1小时；不登山。门票另计，强风、结冰或封路时取消，之后直接西返KEF机场附近。",
+    "rating": null
+  },
+  {
+    "id": "p-kabelvag",
+    "name": "Kabelvåg 卡贝尔沃格港口",
+    "query": "Kabelvåg harbour Norway",
+    "coord": [
+      14.47916,
+      68.21032
+    ],
+    "days": [
+      7
+    ],
+    "countryName": "挪威",
+    "countryId": "norway",
+    "kind": "sight",
+    "image": "../nordic/assets/day-08-1.jpg",
+    "imageLabel": "罗弗敦渔村 · 当日行程参考图",
+    "imageReference": true,
+    "description": "2月12日09:00–10:00港口短逛，拍彩色木屋、码头和雪山；之后前往亨宁斯维尔。",
+    "rating": null
+  },
+  {
+    "id": "p-haukland",
+    "name": "Haukland 海滩",
+    "query": "Hauklandstranda Norway",
+    "coord": [
+      13.5321373,
+      68.1994244
+    ],
+    "days": [
+      7
+    ],
+    "countryName": "挪威",
+    "countryId": "norway",
+    "kind": "nature",
+    "image": "../nordic/assets/day-08-1.jpg",
+    "imageLabel": "罗弗敦渔村 · 当日行程参考图",
+    "imageReference": true,
+    "description": "2月12日13:15–14:00海滩拍照；从E10绕行，支路积雪或强风时跳过，不安排Mannen登山。",
     "rating": null
   }
 ]
