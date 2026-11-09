@@ -102,3 +102,11 @@ a.budget-project{color:inherit;text-decoration:none;transition:background .15s}a
 /* Lodging titles remain clickable without an underline. */
 .budget-project.budget-stay strong{border-bottom:0;text-decoration:none;padding-bottom:0}
 .stay-policy-note{font-size:12px;color:var(--muted)}
+
+/* Keep room information and cancellation terms on a shared row. */
+.budget-stay{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:12px;row-gap:4px}
+.budget-stay>.stay-budget-main{min-width:0}
+.budget-stay>.stay-budget-meta{grid-column:1/-1;display:flex;align-items:baseline;justify-content:space-between;gap:12px;min-width:0}
+.budget-stay>.stay-budget-meta small{margin:0;line-height:1.7;white-space:nowrap}
+.budget-stay .stay-budget-cancellation{margin-left:auto;text-align:right}
+@media(max-width:380px){.budget-stay>.stay-budget-meta{gap:6px}.budget-stay>.stay-budget-meta small{font-size:9px}}
