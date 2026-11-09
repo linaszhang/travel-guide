@@ -21,3 +21,29 @@
 .media-day.home-day .overview-meta:not(:has(.flight-text)){grid-template-columns:minmax(0,1fr)}
 .media-day.home-day .overview-meta .driving-text{display:block;min-width:0;max-width:100%;white-space:nowrap;overflow-wrap:normal;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}
 @media(max-width:600px){.media-day.home-day{gap:12px}.stay-summary th:first-child,.stay-summary td:first-child{width:76px;min-width:76px}.stay-summary th:nth-child(2),.stay-summary td:nth-child(2){width:155px;min-width:155px}}
+
+/* Preserve Figma's information row: label / schedule / trailing price. */
+.info-box .info-row{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 16px}
+.info-box .info-row:has(>.info-cell.schedule):has(>.info-cell.price){display:flex;gap:8px 16px}
+.info-box .info-row>.info-cell{min-width:0;flex:0 1 auto;max-width:100%;width:auto;text-align:left;overflow-wrap:break-word}
+.info-box .info-row>.info-label{font-weight:600;color:#333}
+.info-box .info-row>.info-cell.schedule{color:#185fa5}
+.info-box .info-row>.info-cell.price{flex:0 1 auto;width:auto;margin-left:auto;text-align:right;color:#d85a30;font-weight:600;overflow-wrap:break-word}
+.info-box .info-end{display:flex;flex:1 1 auto;align-items:baseline;justify-content:flex-end;gap:6px 8px;margin-left:auto;min-width:0}
+.info-box .info-end .price{margin-left:0}
+.flight-box .info-row>.info-cell{white-space:nowrap}
+.day-heading .heading-info{display:contents}
+.day-heading .heading-info>h1{grid-column:2;grid-row:1;min-width:0}
+.day-heading .heading-info>p{grid-column:2/-1;grid-row:2;min-width:0;max-width:100%;white-space:nowrap;overflow-x:auto;overflow-y:hidden;scrollbar-width:thin;margin-top:0}
+.day-heading .heading-info>p.day-drive-meta{grid-row:3}
+.day-heading .tagline{grid-column:3;grid-row:1;min-width:0;max-width:220px}
+.day-heading .day-num{grid-column:1;grid-row:1}
+.day-heading:not(:has(.tag.flight)) .heading-info>h1{grid-column:2/-1}
+@media(max-width:680px){
+ .day-heading{grid-template-columns:36px minmax(0,1fr);gap:6px 12px}
+ .day-heading .heading-info>h1{grid-column:2/-1;grid-row:1}
+ .day-heading .tagline{grid-column:2/-1;grid-row:4;justify-self:end;max-width:100%}
+ .day-heading .heading-info>p{font-size:11px}
+ .info-box .info-row,.info-box .info-row:has(>.info-cell.schedule):has(>.info-cell.price){gap:8px 12px}
+}
+@media(max-width:420px){.flight-box .info-row>.info-label{flex-basis:100%}.flight-box .info-row>.info-cell.price{margin-left:auto}.flight-box .info-row{row-gap:6px}}
