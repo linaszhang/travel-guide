@@ -75,35 +75,70 @@
     "id": "reindeer-or-cross-country",
     "country": "norway",
     "day": 4,
-    "title": "驯鹿雪橇／越野滑雪（二选一）",
-    "location": "特罗姆瑟 · 营地或Tromsøya雪道",
-    "duration": "驯鹿约4h（雪橇10–15分钟）；滑雪约3h",
+    "title": "驯鹿雪橇 · 喂食与萨米文化",
+    "location": "特罗姆瑟 · 驯鹿营地",
+    "duration": "总行程约4h；雪橇约10–15分钟",
     "price": 1323,
-    "intro": "2月9日上午二选一。驯鹿方案结合短雪橇、喂食、热餐和萨米文化；想更主动运动，可替换为Tromsø Outdoor越野滑雪入门课。下午转场塞尼亚。",
-    "meeting": "驯鹿参考10:00出发，集合点按订单；越野滑雪可选09:00场，Fredrik Langes gate 14提前10分钟集合。",
+    "intro": "2月9日上午的驯鹿体验，结合短程雪橇、喂食、热餐与萨米文化。下午返回市区后取行李，前往塞尼亚。",
+    "meeting": "参考10:00出发，市区集合地点与准确到场时间按订单确认。",
     "includes": [
-      "驯鹿：市区往返接送、热餐与营地活动",
-      "越野滑雪替换：向导、雪板雪鞋雪杖、接送、热饮与点心"
+      "短程驯鹿雪橇与喂食体验",
+      "热餐、热饮与萨米文化介绍",
+      "市区往返接送"
     ],
     "notes": [
-      "两项不叠加，滑雪替换价格待确认，不重复计入预算。",
-      "驯鹿项目参考当天14:00返城后再取车和行李，轮渡不衔接时走陆路。",
-      "2月团位、天气及准确返回时间需预订前确认。"
+      "2月团位、天气及准确返回时间需预订前确认。",
+      "参考14:00返城后取车和行李，轮渡不衔接时走陆路。"
     ],
-    "priceNote": "预算按短程驯鹿项目1,890 NOK起／人、1 NOK≈0.7 RMB暂计¥1,323。滑雪项目尚未核到报价，选择后替换这一笔。",
+    "priceNote": "短程驯鹿项目参考1,890 NOK起／人，按预算汇率1 NOK≈0.7 RMB计¥1,323／人。自主滑雪装备已另列预算。",
     "url": "https://tromsoarcticreindeer.com/short-reindeer-sledding",
-    "operator": "Tromsø Arctic Reindeer／Tromsø Outdoor（二选一）",
+    "operator": "Tromsø Arctic Reindeer",
     "photos": [
       {
         "src": "../nordic/assets/experiences/reindeer-sledding.jpg",
         "label": "驯鹿雪橇 · 短程体验"
       },
       {
-        "src": "../nordic/assets/experiences/cross-country-ski.jpg",
-        "label": "越野滑雪 · 入门课程（二选一）"
+        "src": "../nordic/assets/day-05-2.jpg",
+        "label": "特罗姆瑟港口 · 集合城市景观参考"
       }
     ],
-    "imageCredit": "Tromsø Arctic Reindeer／Tromsø Outdoor（各自项目参考图）",
+    "imageCredit": "Tromsø Arctic Reindeer及原行程城市景观参考",
+    "imageSource": "https://tromsoarcticreindeer.com/short-reindeer-sledding"
+  },
+  {
+    "id": "independent-ski-rental",
+    "country": "norway",
+    "day": 2,
+    "title": "自主越野滑雪 · 雪具租赁",
+    "location": "Tromsøya · Charlottenlund附近压雪道",
+    "duration": "滑雪约1–1.5h；雪具租赁按1天／最长24h",
+    "price": 325.5,
+    "intro": "2月7日13:30的备选自主滑雪：峡湾自驾提前结束、约12:30前回城且雪道适合时前往。自行租用装备到平缓压雪道练习，按体力折返。",
+    "meeting": "Tromsø Outdoor，Fredrik Langes gate 14。约12:30回城后取装备和试鞋，目标13:30开滑；冬季营业参考10:00–17:00，15:15–15:45回店归还。",
+    "includes": [
+      "入门越野雪板、雪鞋和雪杖一套",
+      "单人装备租赁1天，最长24小时"
+    ],
+    "notes": [
+      "只含雪具租赁，不含教练、课程、接送或服装。",
+      "12:30仍未回城或雪道不适合时跳过；提前确认租赁库存与退改规则。",
+      "取还装备需在门店营业时间内，雪道入口和当日压雪情况向店员确认。"
+    ],
+    "priceNote": "Tromsø Outdoor官网Beginner Cross Country Ski Package当前参考465 NOK／套／天，含雪板、雪鞋和雪杖。按1 NOK≈0.7 RMB折合¥325.5／人，两人¥651。按1天租赁计费，短时使用也不按小时折算；2027年实际报价以预订页为准。",
+    "url": "https://rental.tromsooutdoor.no/en/products/1649/beginner-cross-country-ski-package",
+    "operator": "Tromsø Outdoor",
+    "photos": [
+      {
+        "src": "../nordic/assets/experiences/cross-country-ski.jpg",
+        "label": "Tromsøya越野滑雪 · 雪道景观参考"
+      },
+      {
+        "src": "../nordic/assets/day-04-1.jpg",
+        "label": "特罗姆瑟 · 租赁所在城市参考"
+      }
+    ],
+    "imageCredit": "Tromsø Outdoor及原旅行计划的城市景观参考",
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor"
   },
   {
