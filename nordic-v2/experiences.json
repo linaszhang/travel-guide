@@ -43,33 +43,34 @@
     "id": "arctic-fjord-cruise",
     "country": "norway",
     "day": 4,
-    "title": "Brim 冬季峡湾游船",
+    "title": "峡湾游船与海钓 · All-inclusive",
     "location": "特罗姆瑟 · Arctic Fjord Cruise",
-    "duration": "约4h",
-    "price": 1000,
-    "intro": "在有暖舱的船上欣赏北极冬季峡湾，从海上看雪山、海岸与渔村。可在甲板拍摄，也可以回到室内休息。",
-    "meeting": "原行程集合点：Skarven旁码头，Kaigata 6；提前核对船名与登船时间。",
+    "duration": "约5h · 2.9 10:00–15:00",
+    "price": 1358,
+    "intro": "已预订Polar Adventures峡湾游船与海钓，乘船欣赏雪山峡湾并体验海钓，结束后自驾前往塞尼亚。",
+    "meeting": "2月9日09:45前到Killengreens gate 7–11前方码头集合；10:00出发，约15:00返回同一地点。",
     "includes": [
-      "冬季峡湾观景航程",
-      "船上室内观景空间与甲板"
+      "All-inclusive Fjord and Fishing Cruise已订套餐",
+      "峡湾航程与海钓体验；具体餐饮按所订套餐"
     ],
     "notes": [
-      "甲板风大，准备帽子、手套与防风衣物。",
-      "原计划发船时段约11:00／11:30／12:00，依所选日期确认。"
+      "甲板风大，带帽子、手套和防风衣物。",
+      "返港后约15:30自驾出发，晚上入住塞尼亚北部。"
     ],
-    "priceNote": "预算¥1,000／人；原行程参考约¥913／人。餐饮与具体航线以所选产品为准。",
-    "url": "https://brimexplorer.com/tours/arctic-fjord-cruise",
-    "operator": "Brim Explorer",
+    "priceNote": "已确认2位成人订单总价¥2,716，折合¥1,358／人。",
+    "url": "https://www.getyourguide.com/tromso-l32375/tromso-s-top-rated-fjord-fishing-cruise-lunch-included-t102233/",
+    "operator": "Polar Adventures",
     "photos": [
       {
-        "src": "../nordic/assets/day-05-1.jpg",
-        "label": "Brim Explorer 峡湾游船"
+        "label": "冬季峡湾与海钓 · 景观参考",
+        "src": "../nordic/assets/experiences/cruise-1.jpg"
       },
       {
         "src": "../nordic/assets/experiences/cruise-1.jpg",
         "label": "冬季峡湾 · 海上视角"
       }
-    ]
+    ],
+    "booked": true
   },
   {
     "id": "reindeer-or-cross-country",
@@ -79,19 +80,18 @@
     "location": "特罗姆瑟 · 驯鹿营地",
     "duration": "总行程约4h；雪橇25–30分钟",
     "price": 1534.2,
-    "intro": "移至2月8日下午，上午自主滑雪，晚上Pust桑拿；选择25–30分钟雪橇。",
-    "meeting": "2月8日13:00场次待查询；原截图只证明2月9日可选，集合接送按订单确认。",
+    "intro": "上午自主滑雪，下午参加已预订的25–30分钟驯鹿雪橇，包含喂食、萨米文化和热餐。",
+    "meeting": "2月8日12:40到Prostneset巴士总站集合；13:00出发，总行程约4小时，约17:00返回同一地点。",
     "includes": [
       "短程驯鹿雪橇与喂食体验",
       "热餐、热饮与萨米文化介绍",
       "市区往返接送"
     ],
     "notes": [
-      "总行程约4小时，非3小时。",
-      "计划13:00–约17:00，2月8日场次待确认。",
-      "自行到营地须平台运营商确认，不自动套用官网到场规则。"
+      "已订25–30分钟雪橇选项；全团约4小时，包含接送时间。",
+      "穿保暖防水衣物、手套帽子与冬季鞋。"
     ],
-    "priceNote": "预算参考用户提供的2月9日25–30分钟选项¥1,534.20／人；移至2月8日后场次和价格需重新查询，未预订。",
+    "priceNote": "已确认2位成人订单总价¥3,068.40，折合¥1,534.20／人。",
     "url": "https://www.getyourguide.com/tromso-l32375/tromso-reindeer-sledding-and-feeding-with-sami-culture-t180764?date_from=2027-02-08",
     "operator": "Tromsø Arctic Reindeer",
     "photos": [
@@ -105,7 +105,8 @@
       }
     ],
     "imageCredit": "Tromsø Arctic Reindeer及原行程城市景观参考",
-    "imageSource": "https://tromsoarcticreindeer.com/short-reindeer-sledding"
+    "imageSource": "https://tromsoarcticreindeer.com/short-reindeer-sledding",
+    "booked": true
   },
   {
     "id": "independent-ski-rental",
@@ -182,22 +183,23 @@
     "id": "vatnajokull-ice-cave",
     "country": "iceland",
     "day": 12,
-    "title": "瓦特纳冰川蓝冰洞体验",
+    "title": "Skaftafell 蓝冰洞＋冰川徒步",
     "location": "冰岛 · Skaftafell／Falljökull",
-    "duration": "约4h · 冰上约2h",
-    "price": 1500,
+    "duration": "约4h · 2.17 09:00–13:00",
+    "price": 1083,
     "intro": "跟随向导探索冰面与当天开放的天然冰洞，观察蓝色冰层、冰壁纹理与冰川地貌。冰洞形态及可达路线随天气、冰况变化。",
-    "meeting": "原行程按Skaftafell／Falljökull区域安排，要求提前20分钟到场；准确集合点以选定产品为准。",
+    "meeting": "2月17日08:40到Tröll Expeditions Skaftafell（West of Hofgardur, Hof）集合，09:00出发。",
     "includes": [
       "原行程包含冰洞与冰川徒步",
       "冰爪、头盔、安全带及鞋码需在集合时确认"
     ],
     "notes": [
-      "预算单原名为“蓝冰洞超级吉普”，Day 13目前写的是“冰洞＋冰川徒步”。这两种产品的交通方式和集合点可能不同，预订前需核对。",
-      "原计划为冬季体验；当天开放的天然冰洞由向导依冰况决定。"
+      "已预订，与同日Katla冰洞待二选一，不重复计入预算。",
+      "当前南岸住宿与冰河湖路线按本方案保留。",
+      "天然冰洞和路线由向导按当天冰况决定。"
     ],
-    "priceNote": "预算¥1,500／人；原行程参考¥1,200–1,800／人。图片为冰洞与冰川体验参考，并非已确认场次。",
-    "url": "https://troll.is/",
+    "priceNote": "已确认2位成人订单总价¥2,166，折合¥1,083／人。与Katla方案二选一；总预算显示两种方案的范围。",
+    "url": "https://www.getyourguide.com/vik-l32622/ice-caveglacier-hike-on-falljokull-skaftafell-national-park-t166280/",
     "operator": "Tröll Expeditions",
     "photos": [
       {
@@ -212,28 +214,31 @@
         "src": "../nordic/assets/experiences/ice-2.webp",
         "label": "Skaftafell 冰川徒步参考"
       }
-    ]
+    ],
+    "booked": true,
+    "choiceGroup": "ice-cave"
   },
   {
     "id": "blue-lagoon",
     "country": "iceland",
-    "day": 13,
-    "title": "Blue Lagoon 蓝湖温泉",
+    "day": 9,
+    "title": "Blue Lagoon 蓝湖 · Comfort",
     "location": "冰岛 · 雷克雅内斯半岛",
-    "duration": "建议预留2–3h",
-    "price": 700,
-    "intro": "在黑色熔岩地貌包围的乳蓝色温泉中放松，作为南岸自驾返程后的休息安排。当天需同时为返回住宿地及机场方向的交通留出时间。",
-    "meeting": "Blue Lagoon 接待处；按所选入场时段到场。",
+    "duration": "2.14 16:00入场 · 建议预留2–2.5h",
+    "price": 1059.8,
+    "intro": "抵达冰岛取车后先去蓝湖，在熔岩地貌与乳蓝色温泉中放松，再前往雷克雅未克入住。",
+    "meeting": "2月14日16:00在Blue Lagoon接待处入场，订单允许预订时刻起1小时内入场。",
     "includes": [
-      "原计划参考Comfort入场产品",
-      "毛巾、面膜、饮品等权益以所选票种为准"
+      "Comfort入场、毛巾、硅泥面膜",
+      "池畔吧1杯指定无酒精饮品",
+      "桑拿、蒸汽浴及电子储物柜手环"
     ],
     "notes": [
-      "带泳衣，提前选择入场时段；额外餐饮及升级项目另计。",
-      "开放安排受当地条件影响，出发前核对官网通知与道路信息。"
+      "带泳衣；额外餐饮与升级项目另计。",
+      "14:20落地后直接取车前往蓝湖；航班延误时按订单联系运营方。"
     ],
-    "priceNote": "预算¥700／人；原行程参考约¥707／人。建议停留时间是行程安排，不是固定产品时长。",
-    "url": "https://www.bluelagoon.com/en/day-visit/the-blue-lagoon",
+    "priceNote": "已确认2位成人Comfort订单总价¥2,119.60，折合¥1,059.80／人。停留2–2.5小时为行程建议，并非票券时限。",
+    "url": "https://www.getyourguide.com/reykjavik-l30/blue-lagoon-admission-package-with-drink-towel-and-mask-t393203/",
     "operator": "Blue Lagoon",
     "photos": [
       {
@@ -244,7 +249,45 @@
         "src": "../nordic/assets/experiences/blue-1.jpg",
         "label": "蓝湖与熔岩地貌"
       }
-    ]
+    ],
+    "booked": true
+  },
+  {
+    "id": "katla-ice-cave",
+    "country": "iceland",
+    "day": 12,
+    "title": "Katla 冰洞＋超级吉普车",
+    "location": "冰岛 · 维克 Vík",
+    "duration": "约3h · 2.17 08:30–11:30",
+    "price": 1616.8,
+    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。与Skaftafell冰川徒步团待二选一。",
+    "meeting": "2月17日08:15在维克Icewear Magasin后方面海的巴士停车场集合（Austurvegur 20），08:30出发并返回原处。",
+    "includes": [
+      "维克往返超级吉普车接送",
+      "导游带领参观Katla冰洞",
+      "冰爪与头盔"
+    ],
+    "notes": [
+      "已预订，待与Skaftafell冰洞二选一，不同时参加。",
+      "集合地在维克；现有2.16–2.17 Hof住宿与冰河湖路线需在选定后调整。",
+      "洞穴形态随冰况变化，穿保暖防水衣物和结实徒步鞋。"
+    ],
+    "priceNote": "已确认2位成人订单总价¥3,233.60，折合¥1,616.80／人；比Skaftafell方案每人增加¥533.80。",
+    "url": "https://www.getyourguide.com/vik-l32622/from-vik-katla-ice-cave-and-super-jeep-tour-t135519/",
+    "operator": "Arctic Adventures",
+    "photos": [
+      {
+        "src": "../nordic/assets/day-13-0.jpg",
+        "label": "冰洞内部 · 景观参考，非已订洞穴实拍"
+      },
+      {
+        "src": "../nordic/assets/experiences/ice-1.webp",
+        "label": "蓝色冰层 · 景观参考，非已订洞穴实拍"
+      }
+    ],
+    "booked": true,
+    "choiceGroup": "ice-cave",
+    "budgetAlternative": true
   },
   {
     "id": "husky-sledding",
