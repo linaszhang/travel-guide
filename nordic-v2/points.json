@@ -24,8 +24,7 @@
     "query": "Helsinki Central railway station",
     "name": "赫尔辛基中央车站",
     "days": [
-      1,
-      2
+      1
     ],
     "kind": "transport",
     "coord": [
@@ -83,9 +82,7 @@
   {
     "query": "Market Square Helsinki",
     "name": "赫尔辛基南港",
-    "days": [
-      1
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       24.953265,
@@ -144,9 +141,7 @@
   {
     "query": "Kämp Galleria Helsinki",
     "name": "Kämp Galleria",
-    "days": [
-      1
-    ],
+    "days": [],
     "kind": "shopping",
     "coord": [
       24.9463724,
@@ -186,9 +181,7 @@
   {
     "query": "Design District Helsinki",
     "name": "Design District 设计街区",
-    "days": [
-      2
-    ],
+    "days": [],
     "kind": "shopping",
     "coord": [
       24.9472875,
@@ -208,7 +201,7 @@
     "query": "Oodi Helsinki",
     "name": "Oodi 中央图书馆",
     "days": [
-      2
+      1
     ],
     "kind": "sight",
     "coord": [
@@ -227,9 +220,7 @@
   {
     "query": "Temppeliaukio Helsinki",
     "name": "岩石教堂 Temppeliaukio",
-    "days": [
-      2
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       24.9258894,
@@ -249,8 +240,6 @@
     "name": "特罗姆瑟机场",
     "days": [
       2,
-      3,
-      7,
       8
     ],
     "kind": "airport",
@@ -271,8 +260,7 @@
     "query": "Ersfjordbotn Norway",
     "name": "Ersfjordbotn 峡湾",
     "days": [
-      2,
-      3
+      2
     ],
     "kind": "optional",
     "coord": [
@@ -292,8 +280,7 @@
     "query": "Polar Museum Tromsø",
     "name": "极地博物馆",
     "days": [
-      2,
-      3
+      2
     ],
     "kind": "sight",
     "id": "p22",
@@ -334,8 +321,7 @@
     "name": "特罗姆瑟港口",
     "days": [
       2,
-      3,
-      4
+      3
     ],
     "kind": "sight",
     "coord": [
@@ -354,9 +340,7 @@
   {
     "query": "Radisson Blu Tromsø",
     "name": "Radisson Blu 集合点",
-    "days": [
-      3
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       18.9606995,
@@ -375,10 +359,7 @@
   {
     "query": "Kvaløya Tromsø Norway",
     "name": "Kvaløya 鲸岛",
-    "days": [
-      2,
-      4
-    ],
+    "days": [],
     "kind": "nature",
     "coord": [
       18.791863,
@@ -396,9 +377,7 @@
   {
     "query": "Fredrik Langes gate 14 Tromsø",
     "name": "雪鞋团集合点",
-    "days": [
-      4
-    ],
+    "days": [],
     "kind": "transport",
     "coord": [
       18.957924,
@@ -457,7 +436,8 @@
     "name": "Mefjordvær 渔村",
     "days": [
       4,
-      5
+      5,
+      6
     ],
     "kind": "sight",
     "coord": [
@@ -477,7 +457,7 @@
     "query": "Ersfjordstranda Senja",
     "name": "Ersfjordstranda 海滩",
     "days": [
-      5
+      6
     ],
     "kind": "nature",
     "coord": [
@@ -497,7 +477,7 @@
     "query": "Tungeneset Senja",
     "name": "Tungeneset 恶魔之牙",
     "days": [
-      5
+      6
     ],
     "kind": "nature",
     "coord": [
@@ -517,7 +497,7 @@
     "query": "Bergsbotn Norway",
     "name": "Bergsbotn 观景台",
     "days": [
-      5
+      6
     ],
     "kind": "nature",
     "coord": [
@@ -536,9 +516,7 @@
   {
     "query": "Husfjellet Senja Norway",
     "name": "Husfjellet（冬季需向导）",
-    "days": [
-      5
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       17.2730764,
@@ -556,9 +534,7 @@
   {
     "query": "Husøy Senja Norway",
     "name": "Husøy 渔村",
-    "days": [
-      5
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       17.6636993,
@@ -577,9 +553,7 @@
   {
     "query": "Hamn i Senja Norway",
     "name": "Hamn i Senja",
-    "days": [
-      5
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       17.2129307,
@@ -598,9 +572,7 @@
   {
     "query": "Segla Senja Norway",
     "name": "Segla／Hesten（冬季不建议自助）",
-    "days": [
-      5
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       17.5957204,
@@ -620,7 +592,7 @@
     "query": "Finnsnes Norway",
     "name": "Finnsnes",
     "days": [
-      5
+      6
     ],
     "kind": "transport",
     "coord": [
@@ -641,8 +613,8 @@
     "query": "Bjerkvik Norway",
     "name": "Bjerkvik",
     "days": [
-      5,
-      7
+      6,
+      8
     ],
     "kind": "transport",
     "coord": [
@@ -663,9 +635,8 @@
     "query": "Svolvær Norway",
     "name": "Svolvær 斯沃尔维尔",
     "days": [
-      5,
       6,
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -685,7 +656,7 @@
     "query": "J E Paulsens gate 9 Svolvær",
     "name": "海钓集合点 · J.E. Paulsens gate 9",
     "days": [
-      6
+      7
     ],
     "kind": "transport",
     "id": "p41",
@@ -706,7 +677,7 @@
     "query": "Henningsvær Norway",
     "name": "Henningsvær 亨宁斯维尔",
     "days": [
-      6
+      7
     ],
     "kind": "sight",
     "coord": [
@@ -725,8 +696,8 @@
     "query": "Hamnøy Norway",
     "name": "Hamnøy 红色渔屋",
     "days": [
-      6,
-      7
+      7,
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -746,8 +717,8 @@
     "query": "Reine Norway",
     "name": "Reine 雷纳",
     "days": [
-      6,
-      7
+      7,
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -766,9 +737,7 @@
   {
     "query": "Nusfjord Norway",
     "name": "Nusfjord 渔村",
-    "days": [
-      7
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       13.3477048,
@@ -787,9 +756,7 @@
   {
     "query": "Fredvang Norway",
     "name": "Fredvang 桥梁",
-    "days": [
-      7
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       13.1666862,
@@ -809,7 +776,7 @@
     "query": "Sakrisøy Norway",
     "name": "Sakrisøy 黄色渔屋",
     "days": [
-      7
+      8
     ],
     "kind": "sight",
     "coord": [
@@ -828,9 +795,7 @@
   {
     "query": "Reinehalsen Norway",
     "name": "Reinehalsen 观景点",
-    "days": [
-      7
-    ],
+    "days": [],
     "kind": "nature",
     "coord": [
       13.0858333,
@@ -849,9 +814,7 @@
   {
     "query": "Å Lofoten Norway",
     "name": "Å 渔村",
-    "days": [
-      7
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       12.9534616,
@@ -868,9 +831,7 @@
   {
     "query": "Reinebringen Norway",
     "name": "Reinebringen（冬季不建议徒步）",
-    "days": [
-      7
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       13.0714019,
@@ -889,8 +850,7 @@
     "query": "Keflavik Airport Iceland",
     "name": "凯夫拉维克机场 KEF",
     "days": [
-      8,
-      12,
+      9,
       13
     ],
     "kind": "airport",
@@ -911,8 +871,8 @@
     "query": "Reykjavik Iceland",
     "name": "雷克雅未克市区",
     "days": [
-      8,
-      9
+      9,
+      10
     ],
     "kind": "sight",
     "coord": [
@@ -932,9 +892,7 @@
   {
     "query": "Hallgrimskirkja Reykjavik",
     "name": "哈尔格林姆斯教堂",
-    "days": [
-      8
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       -21.9267103,
@@ -952,9 +910,7 @@
   {
     "query": "Harpa Reykjavik",
     "name": "Harpa 音乐厅",
-    "days": [
-      8
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       -21.9328535,
@@ -972,7 +928,7 @@
     "query": "Seljalandsfoss Iceland",
     "name": "塞里雅兰瀑布",
     "days": [
-      9
+      10
     ],
     "kind": "nature",
     "coord": [
@@ -992,7 +948,7 @@
     "query": "Skogafoss Iceland",
     "name": "Skógafoss 斯科加瀑布",
     "days": [
-      9
+      10
     ],
     "kind": "nature",
     "coord": [
@@ -1011,9 +967,7 @@
   {
     "query": "Solheimajokull Iceland",
     "name": "Sólheimajökull 索尔黑马冰川",
-    "days": [
-      9
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       -19.2955016,
@@ -1032,8 +986,8 @@
     "query": "Vik Iceland",
     "name": "Vík 维克",
     "days": [
-      9,
-      10
+      10,
+      11
     ],
     "kind": "sight",
     "coord": [
@@ -1053,7 +1007,7 @@
     "query": "Reynisfjara Iceland",
     "name": "Reynisfjara 黑沙滩",
     "days": [
-      10
+      11
     ],
     "kind": "nature",
     "coord": [
@@ -1072,9 +1026,7 @@
   {
     "query": "Eldhraun Iceland",
     "name": "Eldhraun 埃尔德熔岩原",
-    "days": [
-      10
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       -18.2050033,
@@ -1093,9 +1045,7 @@
   {
     "query": "Fjaðrárgljúfur Iceland",
     "name": "Fjaðrárgljúfur 羽毛峡谷",
-    "days": [
-      10
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       -18.1737214,
@@ -1113,9 +1063,7 @@
   {
     "query": "Stjórnarfoss Iceland",
     "name": "Stjórnarfoss 阶梯瀑布",
-    "days": [
-      10
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       -18.0620001,
@@ -1135,7 +1083,6 @@
     "query": "Skaftafell Iceland",
     "name": "Skaftafell 斯卡夫塔山",
     "days": [
-      10,
       11
     ],
     "kind": "nature",
@@ -1156,9 +1103,7 @@
   {
     "query": "Hofskirkja Iceland",
     "name": "Hofskirkja 草皮教堂",
-    "days": [
-      10
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       -16.7067323,
@@ -1177,9 +1122,9 @@
     "query": "Hof Öræfi Iceland",
     "name": "Hof 村住宿区域",
     "days": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "kind": "stay",
     "id": "p65",
@@ -1199,7 +1144,7 @@
     "query": "Falljökull Iceland",
     "name": "Falljökull 冰川徒步区域",
     "days": [
-      11
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -1219,9 +1164,7 @@
   {
     "query": "Fjallsárlón Iceland",
     "name": "Fjallsárlón 菲亚尔冰川湖",
-    "days": [
-      11
-    ],
+    "days": [],
     "kind": "optional",
     "coord": [
       -16.3977875,
@@ -1241,7 +1184,7 @@
     "query": "Jökulsárlón Iceland",
     "name": "Jökulsárlón 杰古沙龙冰河湖",
     "days": [
-      11
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -1261,7 +1204,7 @@
     "query": "Diamond Beach Iceland",
     "name": "Fellsfjara 钻石沙滩",
     "days": [
-      11
+      12
     ],
     "kind": "nature",
     "coord": [
@@ -1281,7 +1224,7 @@
     "query": "Skeiðarársandur Iceland",
     "name": "Skeiðarársandur 冰川平原",
     "days": [
-      12
+      13
     ],
     "kind": "nature",
     "coord": [
@@ -1301,7 +1244,7 @@
     "query": "Blue Lagoon Iceland",
     "name": "蓝湖温泉",
     "days": [
-      12
+      13
     ],
     "kind": "spa",
     "coord": [
@@ -1320,7 +1263,7 @@
     "query": "Copenhagen Airport",
     "name": "哥本哈根机场 CPH",
     "days": [
-      13,
+      14,
       15
     ],
     "kind": "airport",
@@ -1341,7 +1284,7 @@
     "query": "Nyhavn Copenhagen",
     "name": "Nyhavn 新港",
     "days": [
-      13
+      14
     ],
     "kind": "sight",
     "coord": [
@@ -1361,7 +1304,7 @@
     "query": "Amalienborg Copenhagen",
     "name": "Amalienborg 阿美琳堡宫",
     "days": [
-      13
+      14
     ],
     "kind": "sight",
     "coord": [
@@ -1381,7 +1324,7 @@
     "query": "Kongens Nytorv Copenhagen",
     "name": "Kongens Nytorv 地铁站",
     "days": [
-      13
+      14
     ],
     "kind": "transport",
     "coord": [
@@ -1401,9 +1344,7 @@
   {
     "query": "Copenhagen Central Station",
     "name": "哥本哈根中央火车站",
-    "days": [
-      13
-    ],
+    "days": [],
     "kind": "transport",
     "coord": [
       12.5646789,
@@ -1422,7 +1363,7 @@
     "query": "Designmuseum Danmark Copenhagen",
     "name": "Designmuseum Danmark 丹麦设计博物馆",
     "days": [
-      14
+      15
     ],
     "kind": "sight",
     "coord": [
@@ -1442,7 +1383,7 @@
     "query": "Strøget Copenhagen",
     "name": "Strøget 购物街",
     "days": [
-      14
+      15
     ],
     "kind": "shopping",
     "coord": [
@@ -1461,9 +1402,7 @@
   {
     "query": "Louisiana Museum Humlebæk Denmark",
     "name": "Louisiana 路易斯安那现代艺术博物馆",
-    "days": [
-      15
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       12.5431572,
@@ -1481,9 +1420,7 @@
   {
     "query": "Torvehallerne Copenhagen",
     "name": "Torvehallerne 美食市场",
-    "days": [
-      15
-    ],
+    "days": [],
     "kind": "food",
     "coord": [
       12.5695512,
@@ -1501,9 +1438,7 @@
   {
     "query": "Rosenborg Castle Copenhagen",
     "name": "Rosenborg 罗森堡城堡",
-    "days": [
-      15
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       12.5774199,
@@ -1526,9 +1461,7 @@
       12.5439523,
       55.6927065
     ],
-    "days": [
-      14
-    ],
+    "days": [],
     "kind": "shopping",
     "countryName": "丹麦",
     "countryId": "denmark",
@@ -1548,9 +1481,7 @@
       12.5569031,
       55.6702561
     ],
-    "days": [
-      15
-    ],
+    "days": [],
     "kind": "shopping",
     "countryName": "丹麦",
     "countryId": "denmark",
@@ -1561,5 +1492,150 @@
     "image": "../nordic/assets/day-17-1.jpg",
     "imageLabel": "Torvehallerne 美食市场",
     "imageSource": "https://www.cntraveler.com/stories/2012-06-02/torvehallerne-copenhagen-scandinavian-food-market-photos"
+  },
+  {
+    "id": "p-hesten",
+    "name": "Hesten 徒步集合区域 · Fjordgård",
+    "query": "Hesten trailhead Fjordgard Senja",
+    "coord": [
+      17.159,
+      69.508
+    ],
+    "days": [
+      5
+    ],
+    "kind": "attraction",
+    "countryId": "norway",
+    "countryName": "挪威",
+    "image": "../nordic/assets/experiences/hesten-segla-0.jpg",
+    "imageLabel": "Hesten 徒步集合区域 · Fjordgård",
+    "imageSource": "https://senjabyheart.no/en/product/snowshoe-hike-to-hesten-with-segla-view/",
+    "description": "向导确认集合点后前往；地图为Fjordgård起点区域示意，不是雪山导航。",
+    "rating": null,
+    "imageReference": true
+  },
+  {
+    "id": "p-reindeer",
+    "name": "驯鹿雪橇 · 市区集合参考",
+    "query": "Samuel Arnesens gate 5 Tromso",
+    "coord": [
+      18.9585,
+      69.6464
+    ],
+    "days": [
+      4
+    ],
+    "kind": "attraction",
+    "countryId": "norway",
+    "countryName": "挪威",
+    "image": "../nordic/assets/experiences/reindeer-sledding.jpg",
+    "imageLabel": "驯鹿雪橇 · 短程体验",
+    "imageSource": "https://tromsoarcticreindeer.com/short-reindeer-sledding",
+    "description": "与越野滑雪二选一；此处为市区集合参考，实际按订单确认，非营地位置。",
+    "rating": null,
+    "imageReference": false
+  },
+  {
+    "id": "p-ski",
+    "name": "Tromsø Outdoor 越野滑雪集合点",
+    "query": "Fredrik Langes gate 14 Tromso",
+    "coord": [
+      18.9553,
+      69.6493
+    ],
+    "days": [],
+    "kind": "attraction",
+    "countryId": "norway",
+    "countryName": "挪威",
+    "image": "../nordic/assets/experiences/cross-country-ski.jpg",
+    "imageLabel": "越野滑雪 · 入门课程（二选一）",
+    "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor",
+    "description": "驯鹿项目的替换方案，09:00场集合参考，非实际滑雪线路。",
+    "rating": null,
+    "imageReference": false
+  },
+  {
+    "id": "p-frama",
+    "name": "FRAMA Studio Store",
+    "query": "FRAMA Fredericiagade 57 Copenhagen",
+    "coord": [
+      12.5861,
+      55.6868
+    ],
+    "days": [
+      14
+    ],
+    "kind": "attraction",
+    "countryId": "denmark",
+    "countryName": "丹麦",
+    "image": "../nordic/assets/day-16-0.jpg",
+    "imageLabel": "FRAMA Studio Store",
+    "imageSource": "https://us.framacph.com/blogs/stores/frama-studio-store",
+    "description": "历史药房里的家具、灯具、香氛与生活设计店。",
+    "rating": null,
+    "imageReference": true
+  },
+  {
+    "id": "p-frederik",
+    "name": "Frederik’s Church 腓特列教堂",
+    "query": "Frederiks Church Copenhagen",
+    "coord": [
+      12.5895,
+      55.6853
+    ],
+    "days": [
+      14
+    ],
+    "kind": "attraction",
+    "countryId": "denmark",
+    "countryName": "丹麦",
+    "image": "../nordic/assets/day-15-1.jpg",
+    "imageLabel": "Frederik’s Church 腓特列教堂",
+    "imageSource": "https://www.visitcopenhagen.com",
+    "description": "阿美琳堡宫附近的穹顶教堂，主行程安排外观。",
+    "rating": null,
+    "imageReference": true
+  },
+  {
+    "id": "p-illums",
+    "name": "Illums Bolighus 设计家居店",
+    "query": "Illums Bolighus Amagertorv 10 Copenhagen",
+    "coord": [
+      12.5784,
+      55.6785
+    ],
+    "days": [
+      15
+    ],
+    "kind": "attraction",
+    "countryId": "denmark",
+    "countryName": "丹麦",
+    "image": "../nordic/assets/day-16-0.jpg",
+    "imageLabel": "Illums Bolighus 设计家居店",
+    "imageSource": "https://www.illumsbolighus.dk",
+    "description": "丹麦设计家具、灯具与家居购物重点。",
+    "rating": null,
+    "imageReference": true
+  },
+  {
+    "id": "p-diamond",
+    "name": "Black Diamond 黑钻图书馆",
+    "query": "The Black Diamond Copenhagen",
+    "coord": [
+      12.58255,
+      55.67345
+    ],
+    "days": [
+      15
+    ],
+    "kind": "attraction",
+    "countryId": "denmark",
+    "countryName": "丹麦",
+    "image": "../nordic/assets/day-15-0.jpg",
+    "imageLabel": "Black Diamond 黑钻图书馆",
+    "imageSource": "https://www.kb.dk/en/visit-us/black-diamond-copenhagen",
+    "description": "临水黑色建筑与通透中庭，公共区域免费。",
+    "rating": null,
+    "imageReference": true
   }
 ]

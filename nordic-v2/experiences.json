@@ -2,13 +2,13 @@
   {
     "id": "hesten-segla-snowshoe",
     "country": "norway",
-    "day": null,
+    "day": 5,
     "title": "Hesten／Segla 雪山徒步",
     "location": "塞尼亚岛 · Fjordgård／Hesten",
     "duration": "运营方参考约2.5–3h；冬季以确认方案为准",
     "price": 1330,
     "intro": "跟随当地向导在塞尼亚岛雪山徒步，优先选择Hesten方向的观景路线，欣赏Segla刀锋般的山体、峡湾与周围雪峰。Hesten观景和登顶Segla是不同路线，本项目以Hesten看Segla为目标，不默认安排攀登Segla顶峰。",
-    "meeting": "日期暂未安排，不与原每日行程绑定。向Storm Adventure Senja询问2月Hesten观景雪鞋路线，集合地点与时间需邮件确认；自行前往塞尼亚岛的交通另计。",
+    "meeting": "2月10日计划安排；Fjordgård方向集合，准确时间和接送需向向导确认，当前未预订。",
     "includes": [
       "当地向导带队，英文或挪威文讲解",
       "运营方列有雪鞋；其他装备与接送是否包含须预订前确认",
@@ -72,9 +72,44 @@
     ]
   },
   {
+    "id": "reindeer-or-cross-country",
+    "country": "norway",
+    "day": 4,
+    "title": "驯鹿雪橇／越野滑雪（二选一）",
+    "location": "特罗姆瑟 · 营地或Tromsøya雪道",
+    "duration": "驯鹿约4h（雪橇10–15分钟）；滑雪约3h",
+    "price": 1323,
+    "intro": "2月9日上午二选一。驯鹿方案结合短雪橇、喂食、热餐和萨米文化；想更主动运动，可替换为Tromsø Outdoor越野滑雪入门课。下午转场塞尼亚。",
+    "meeting": "驯鹿参考10:00出发，集合点按订单；越野滑雪可选09:00场，Fredrik Langes gate 14提前10分钟集合。",
+    "includes": [
+      "驯鹿：市区往返接送、热餐与营地活动",
+      "越野滑雪替换：向导、雪板雪鞋雪杖、接送、热饮与点心"
+    ],
+    "notes": [
+      "两项不叠加，滑雪替换价格待确认，不重复计入预算。",
+      "驯鹿项目参考当天14:00返城后再取车和行李，轮渡不衔接时走陆路。",
+      "2月团位、天气及准确返回时间需预订前确认。"
+    ],
+    "priceNote": "预算按短程驯鹿项目1,890 NOK起／人、1 NOK≈0.7 RMB暂计¥1,323。滑雪项目尚未核到报价，选择后替换这一笔。",
+    "url": "https://tromsoarcticreindeer.com/short-reindeer-sledding",
+    "operator": "Tromsø Arctic Reindeer／Tromsø Outdoor（二选一）",
+    "photos": [
+      {
+        "src": "../nordic/assets/experiences/reindeer-sledding.jpg",
+        "label": "驯鹿雪橇 · 短程体验"
+      },
+      {
+        "src": "../nordic/assets/experiences/cross-country-ski.jpg",
+        "label": "越野滑雪 · 入门课程（二选一）"
+      }
+    ],
+    "imageCredit": "Tromsø Arctic Reindeer／Tromsø Outdoor（各自项目参考图）",
+    "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor"
+  },
+  {
     "id": "lofoten-fishing",
     "country": "norway",
-    "day": 6,
+    "day": 7,
     "title": "传统渔船冬季海钓",
     "location": "罗弗敦 · 斯沃尔维尔",
     "duration": "约4h（原行程参考）",
@@ -87,7 +122,7 @@
     ],
     "notes": [
       "穿保暖防风衣物与防滑鞋，提前考虑个人晕船情况。",
-      "计划日期为2月11日；原计划记录冬季场次2月15日起，需向运营方确认2月11日是否有合适场次。"
+      "计划日期为2月12日；原计划记录冬季场次2月15日起，需向运营方确认2月12日是否有合适场次。"
     ],
     "priceNote": "预算¥900／人；原行程参考约¥916／人。尚未按已预订项目处理。",
     "url": "https://xxlofoten.no/en/experiences/fishing-trip-svolvaer/",
@@ -110,7 +145,7 @@
   {
     "id": "vatnajokull-ice-cave",
     "country": "iceland",
-    "day": 11,
+    "day": 12,
     "title": "瓦特纳冰川蓝冰洞体验",
     "location": "冰岛 · Skaftafell／Falljökull",
     "duration": "约4h · 冰上约2h",
@@ -146,7 +181,7 @@
   {
     "id": "blue-lagoon",
     "country": "iceland",
-    "day": 12,
+    "day": 13,
     "title": "Blue Lagoon 蓝湖温泉",
     "location": "冰岛 · 雷克雅内斯半岛",
     "duration": "建议预留2–3h",
@@ -216,7 +251,7 @@
   {
     "id": "trollfjord-rib",
     "country": "norway",
-    "day": 6,
+    "day": 7,
     "excluded": true,
     "title": "海鹰 RIB 与 Trollfjord",
     "location": "罗弗敦 · Svolvær／Trollfjorden",
@@ -254,7 +289,7 @@
   {
     "id": "kvaloya-snowshoe",
     "country": "norway",
-    "day": 4,
+    "day": null,
     "title": "Kvaløya 雪鞋登高徒步",
     "location": "特罗姆瑟 · 鲸岛",
     "duration": "全程最多约5h",
