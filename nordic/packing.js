@@ -2,13 +2,209 @@
 (() => {
   const storageKey = 'nordic-journey:packing:v1';
   const groups = [
-    {id:'documents',title:'证件与预订',items:[['passport','护照与签证'],['insurance','旅行保险与紧急联系方式'],['bookings','机票、酒店和活动预订凭证'],['licence','驾照原件与车行要求的翻译件'],['payment','信用卡与少量现金']]},
-    {id:'clothing',title:'冬季衣物',items:[['base-layer','保暖内衣与打底裤'],['mid-layer','抓绒或羊毛中层'],['down-jacket','保暖羽绒服'],['shell','防风防水外套与裤子'],['boots','防水保暖鞋'],['socks','羊毛袜与备用袜'],['gloves','保暖手套'],['hat','帽子与围脖'],['daily-clothes','换洗衣物与睡衣']]},
-    {id:'activities',title:'徒步、滑雪与温泉',items:[['daypack','轻便双肩包'],['traction','城市步行防滑鞋套'],['sunglasses','太阳镜'],['swimwear','泳衣'],['sandals','拖鞋与防水收纳袋'],['thermos','保温水杯']]},
-    {id:'electronics',title:'电子与摄影',items:[['phone','手机与充电线'],['adapter','欧标转换插头'],['charger','多口充电器'],['power-bank','充电宝'],['camera','相机、镜头与存储卡'],['battery','备用电池'],['tripod','三脚架']]},
-    {id:'personal',title:'洗漱与随身用品',items:[['toiletries','牙刷、牙膏与洗漱包'],['skin-care','保湿面霜与润唇膏'],['sunscreen','防晒用品'],['medication','个人常用药'],['tissues','纸巾与湿巾'],['laundry','脏衣袋与密封袋']]},
-    {id:'driving',title:'自驾随车',items:[['rental','租车凭证与车行联系电话'],['car-charger','车载充电器与手机支架'],['offline-maps','离线地图'],['snacks','饮水与路上简餐']]}
-  ];
+  {
+    "id": "documents",
+    "title": "证件与预订",
+    "items": [
+      [
+        "passport",
+        "护照与签证"
+      ],
+      [
+        "insurance",
+        "旅行保险"
+      ],
+      [
+        "licence",
+        "驾照原件与车行要求的翻译件"
+      ],
+      [
+        "payment",
+        "信用卡与少量现金"
+      ]
+    ]
+  },
+  {
+    "id": "clothing",
+    "title": "冬季衣物",
+    "items": [
+      [
+        "base-layer",
+        "保暖内衣"
+      ],
+      [
+        "mid-layer",
+        "抓绒或羊毛中层"
+      ],
+      [
+        "down-jacket",
+        "保暖羽绒服"
+      ],
+      [
+        "gloves",
+        "手套"
+      ],
+      [
+        "hat",
+        "帽子与围脖"
+      ],
+      [
+        "daily-clothes",
+        "换洗衣物与睡衣"
+      ]
+    ]
+  },
+  {
+    "id": "activities",
+    "title": "徒步、滑雪与温泉",
+    "items": [
+      [
+        "daypack",
+        "轻便双肩包"
+      ],
+      [
+        "sunglasses",
+        "太阳镜"
+      ],
+      [
+        "swimwear",
+        "泳衣"
+      ],
+      [
+        "sandals",
+        "拖鞋"
+      ],
+      [
+        "thermos",
+        "保温水杯"
+      ],
+      [
+        "shell",
+        "冲锋衣与裤子"
+      ],
+      [
+        "boots",
+        "靴子（进雪地）"
+      ],
+      [
+        "crampons",
+        "冰爪"
+      ]
+    ]
+  },
+  {
+    "id": "personal",
+    "title": "洗漱与随身用品",
+    "items": [
+      [
+        "toiletries",
+        "牙刷、牙膏与洗漱包"
+      ],
+      [
+        "skin-care",
+        "保湿面霜与润唇膏"
+      ],
+      [
+        "sunscreen",
+        "防晒用品"
+      ],
+      [
+        "medication",
+        "个人常用药"
+      ],
+      [
+        "tissues",
+        "纸巾与湿巾"
+      ],
+      [
+        "laundry",
+        "脏衣袋与密封袋"
+      ]
+    ]
+  },
+  {
+    "id": "electronics",
+    "title": "电子",
+    "items": [
+      [
+        "phone",
+        "手机与充电线"
+      ],
+      [
+        "adapter",
+        "欧标转换插头"
+      ],
+      [
+        "charger",
+        "多口充电器"
+      ],
+      [
+        "power-bank",
+        "充电宝"
+      ]
+    ]
+  },
+  {
+    "id": "photography",
+    "title": "摄影 @Linas",
+    "items": [
+      [
+        "camera",
+        "相机*2+镜头*2+备用电池"
+      ],
+      [
+        "pocket3",
+        "Pocket3"
+      ],
+      [
+        "action-camera",
+        "运动相机"
+      ],
+      [
+        "drone",
+        "无人机"
+      ],
+      [
+        "microphone",
+        "麦克风"
+      ],
+      [
+        "lighting",
+        "补光灯、手电筒、闪光灯"
+      ],
+      [
+        "tripod",
+        "三脚架"
+      ],
+      [
+        "computer",
+        "电脑"
+      ],
+      [
+        "shooting-script",
+        "拍摄脚本"
+      ]
+    ]
+  },
+  {
+    "id": "driving",
+    "title": "自驾随车 @Linas",
+    "items": [
+      [
+        "rental",
+        "租车凭证"
+      ],
+      [
+        "car-charger",
+        "车载手机支架"
+      ],
+      [
+        "offline-maps",
+        "离线地图"
+      ]
+    ]
+  }
+];
   const ids = new Set(groups.flatMap(group => group.items.map(([id]) => id)));
   let checked = {}, storageAvailable = true;
   function readState() {
@@ -64,3 +260,4 @@
     }
   });
 })();
+
