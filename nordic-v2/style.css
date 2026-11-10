@@ -166,3 +166,13 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .activity-info-card .info-row>.info-cell.price{flex:0 1 auto;width:auto;margin-left:auto;text-align:right}
 .activity-info-card .info-detail{font-size:11px;line-height:1.7;color:var(--muted);margin:0;padding-left:0}
 .activity-info-card .info-detail:before{content:none}
+
+.stay-facilities dl{margin:14px 0;display:grid;gap:0}
+.stay-facilities dl>div{display:grid;grid-template-columns:65px minmax(0,1fr);gap:12px;padding:10px 0;border-bottom:1px solid #eeece6}
+.stay-facilities dt{font-weight:600;color:var(--ink)}
+.stay-facilities dd{margin:0;display:flex;gap:6px 10px;flex-wrap:wrap;min-width:0}
+.stay-facilities dd strong{font-weight:600;color:var(--ink)}
+.stay-facilities dd span{color:var(--muted);overflow-wrap:anywhere}
+.stay-facilities .stay-facility-note{font-size:12px;line-height:1.8;margin:6px 0;color:var(--muted)}
+.stay-facilities .stay-facility-source{font-size:10px;line-height:1.8;color:var(--muted);margin:10px 0 0}
+.stay-facility-source a{color:inherit;text-decoration:underline;text-underline-offset:3px}
