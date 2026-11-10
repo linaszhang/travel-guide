@@ -152,7 +152,14 @@ async function renderFlightMonitor(){
   const people=Number.isFinite(data.passengers)&&data.passengers>0?data.passengers:2;
   const priceNote=text=>String(text??'').replace(/两人|2人|2位成人|每人|单人/g,'');
   const quote=q=>q&&Number.isFinite(q.baseCny)?{...q,cny:q.baseCny/people,provider:'携程国内站',fare:q.fare||'经济舱 · 含税起价',seats:q.seats??null}:null;
-  const ctripSearch=f=>{const url=new URL('https://m.ctrip.com/html5/flight/taro/interFirst');url.search=new URLSearchParams({dcode:f.origin,acode:f.destination,ddate:f.date,nop:people+'-0-0',seat:'5'});return url.href;};
+  const ctripSearch=f=>{
+   // Ctrip's mobile route uses city codes; airport filters are separate parameters.
+   const cities={PVG:{code:'SHA',name:'上海'},KEF:{code:'REK',name:'雷克雅未克'},HEL:{code:'HEL',name:'赫尔辛基'},TOS:{code:'TOS',name:'特罗姆瑟'},CPH:{code:'CPH',name:'哥本哈根'}};
+   const from=cities[f.origin]||{code:f.origin,name:f.origin},to=cities[f.destination]||{code:f.destination,name:f.destination};
+   const params=new URLSearchParams({dcode:from.code,acode:to.code,ddate:f.date,nop:people+'-0-0',seat:'5',dcityName:from.name,acityName:to.name});
+   if(f.origin==='PVG')params.set('dfilter','dport:PVG');
+   const url=new URL('https://m.ctrip.com/html5/flight/taro/interFirst');url.search=params;return url.href;
+  };
   const ctripTitle=f=>{const url=ctripSearch(f),app='ctrip://wireless/h5?type=2&url='+encodeURIComponent(btoa(url));return `<a class="monitor-flight-link" href="${esc(url)}" data-ctrip-search data-app-href="${esc(app)}">${esc(f.title)}</a>`;};
   const flights=data.flights.map(f=>({...f,budgetCny:f.budgetCny/people,latest:quote(f.ctrip),history:(f.ctripHistory||[]).map(quote).filter(Boolean),ctrip:f.ctrip?{...f.ctrip,baseCny:f.ctrip.baseCny/people}:null,google:{...f.google,baseCny:f.google.baseCny==null?null:f.google.baseCny/people,typicalRange:f.google.typicalRange?.map(n=>n/people)}})), total=flights.reduce((s,f)=>s+(f.latest?.cny||0),0),baseline=flights.reduce((s,f)=>s+f.budgetCny,0),complete=flights.every(f=>Number.isFinite(f.latest?.cny));
   const delta=n=>`${n>0?'+':n<0?'−':''}${money(Math.abs(n))}`;
