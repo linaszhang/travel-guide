@@ -1175,6 +1175,66 @@
         "total": 1735.65,
         "photos": [
           {
+            "src": "assets/stays/inni-bedroom-960.webp",
+            "thumb": "assets/stays/inni-bedroom-240.webp",
+            "mobile": "assets/stays/inni-bedroom-640.webp",
+            "medium": "assets/stays/inni-bedroom-480.webp",
+            "label": "INNI · 卧室 · 一卧室公寓房型参考",
+            "category": "卧室",
+            "caption": "卧室 · 一卧室公寓房型参考",
+            "source": "https://www.is-southerniceland.com/data/Photos/700x500w/10767/1076713/1076713360/photo-inni-boutique-apartments-hveragerdi-15.JPEG",
+            "width": 700,
+            "height": 500
+          },
+          {
+            "src": "assets/stays/inni-living-960.webp",
+            "thumb": "assets/stays/inni-living-240.webp",
+            "mobile": "assets/stays/inni-living-640.webp",
+            "medium": "assets/stays/inni-living-480.webp",
+            "label": "INNI · 客厅 · 标准公寓房型参考",
+            "category": "客厅",
+            "caption": "客厅 · 标准公寓房型参考",
+            "source": "https://webbox.imgix.net/images/zadpmgmrmujaieqt/58835a07-d92f-49a3-ac3c-2005a849f5ab.jpg?auto=format,compress&fit=crop&crop=entropy",
+            "width": 960,
+            "height": 686
+          },
+          {
+            "src": "assets/stays/inni-kitchen-960.webp",
+            "thumb": "assets/stays/inni-kitchen-240.webp",
+            "mobile": "assets/stays/inni-kitchen-640.webp",
+            "medium": "assets/stays/inni-kitchen-480.webp",
+            "label": "INNI · 厨房 · 标准公寓房型参考",
+            "category": "厨房",
+            "caption": "厨房 · 标准公寓房型参考",
+            "source": "https://webbox.imgix.net/images/zadpmgmrmujaieqt/c31fb5cc-50fc-4dbf-ba95-6ff99f694197.jpg?auto=format,compress&fit=crop&crop=entropy",
+            "width": 960,
+            "height": 1186
+          },
+          {
+            "src": "assets/stays/inni-bathroom-960.webp",
+            "thumb": "assets/stays/inni-bathroom-240.webp",
+            "mobile": "assets/stays/inni-bathroom-640.webp",
+            "medium": "assets/stays/inni-bathroom-480.webp",
+            "label": "INNI · 卫生间与淋浴 · 房源设施参考",
+            "category": "卫生间",
+            "caption": "卫生间与淋浴 · 房源设施参考",
+            "source": "https://www.is-southerniceland.com/data/Photos/700x500w/13643/1364310/1364310077/photo-inni-boutique-apartments-hveragerdi-72.JPEG",
+            "width": 700,
+            "height": 500
+          },
+          {
+            "src": "assets/stays/inni-dining-960.webp",
+            "thumb": "assets/stays/inni-dining-240.webp",
+            "mobile": "assets/stays/inni-dining-640.webp",
+            "medium": "assets/stays/inni-dining-480.webp",
+            "label": "INNI · 用餐区 · 标准公寓房型参考",
+            "category": "用餐区",
+            "caption": "用餐区 · 标准公寓房型参考",
+            "source": "https://www.is-southerniceland.com/data/Photos/700x500w/10767/1076711/1076711497/photo-inni-boutique-apartments-hveragerdi-33.JPEG",
+            "width": 700,
+            "height": 500
+          },
+          {
             "src": "assets/stays/inni-room-960.webp",
             "thumb": "assets/stays/inni-room-240.webp",
             "mobile": "assets/stays/inni-room-640.webp",
@@ -1185,6 +1245,18 @@
             "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
             "width": 960,
             "height": 686
+          },
+          {
+            "src": "assets/stays/inni-floorplan-960.webp",
+            "thumb": "assets/stays/inni-floorplan-240.webp",
+            "mobile": "assets/stays/inni-floorplan-640.webp",
+            "medium": "assets/stays/inni-floorplan-480.webp",
+            "label": "INNI · 标准公寓布局 · 40㎡房型参考",
+            "category": "房型图",
+            "caption": "标准公寓布局 · 40㎡房型参考",
+            "source": "https://webbox.imgix.net/images/zadpmgmrmujaieqt/d7f8234c-4a79-475c-ba84-0430c15b1a07.jpg?auto=format,compress&fit=crop&crop=entropy",
+            "width": 960,
+            "height": 679
           },
           {
             "src": "assets/stays/inni-spa-960.webp",
@@ -1199,16 +1271,28 @@
             "height": 843
           },
           {
-            "src": "assets/stays/inni-sauna-960.webp",
-            "thumb": "assets/stays/inni-sauna-240.webp",
-            "mobile": "assets/stays/inni-sauna-640.webp",
-            "medium": "assets/stays/inni-sauna-480.webp",
-            "label": "INNI · 住客共用 · 户外Spa区",
+            "src": "assets/stays/inni-sauna-interior-960.webp",
+            "thumb": "assets/stays/inni-sauna-interior-240.webp",
+            "mobile": "assets/stays/inni-sauna-interior-640.webp",
+            "medium": "assets/stays/inni-sauna-interior-480.webp",
+            "label": "INNI · 住客共用 · 桑拿内部",
+            "category": "桑拿",
+            "caption": "住客共用 · 桑拿内部",
+            "source": "https://www.is-southerniceland.com/data/Photos/700x500w/16786/1678699/1678699442/photo-inni-boutique-apartments-hveragerdi-5.JPEG",
+            "width": 700,
+            "height": 500
+          },
+          {
+            "src": "assets/stays/inni-spa-area-960.webp",
+            "thumb": "assets/stays/inni-spa-area-240.webp",
+            "mobile": "assets/stays/inni-spa-area-640.webp",
+            "medium": "assets/stays/inni-spa-area-480.webp",
+            "label": "INNI · 住客共用 · 户外Spa设施",
             "category": "户外Spa",
-            "caption": "住客共用 · 户外Spa区",
-            "source": "https://www.inniapartments.is/outdoor-spa.html",
+            "caption": "住客共用 · 户外Spa设施",
+            "source": "https://webbox.imgix.net/images/zadpmgmrmujaieqt/5702f53d-281f-4ebb-a871-919c74687afa.jpg?auto=format,compress&fit=crop&crop=entropy",
             "width": 960,
-            "height": 913
+            "height": 1440
           }
         ],
         "status": "已预订",
