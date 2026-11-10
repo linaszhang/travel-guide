@@ -63,15 +63,24 @@
     "operator": "Polar Adventures",
     "photos": [
       {
-        "label": "冬季峡湾与海钓 · 景观参考",
-        "src": "../nordic/assets/experiences/cruise-1.jpg"
+        "src": "../nordic-v2/assets/experiences/polar-7.webp",
+        "label": "Polar Adventures · 海钓渔获",
+        "source": "https://cdn.prod.website-files.com/645a4f080a3c07fdde46e392/6ad0b87c0262bdde5d73046f_WhatsApp%20Image%202026-03-10%20at%2012.14.50.jpeg"
       },
       {
-        "src": "../nordic/assets/experiences/cruise-1.jpg",
-        "label": "冬季峡湾 · 海上视角"
+        "src": "../nordic-v2/assets/experiences/polar-4.webp",
+        "label": "Polar Adventures · 峡湾游船",
+        "source": "https://cdn.prod.website-files.com/645a4f080a3c07fdde46e392/6ad0b81a7e7b79a9d091bd9b_fisketurb%C3%A5t.png"
+      },
+      {
+        "src": "../nordic-v2/assets/experiences/polar-8.webp",
+        "label": "冬季雪山峡湾 · 游船沿途景观",
+        "source": "https://cdn.prod.website-files.com/645a4f080a3c07fdde46e392/647f3b32459c9dd15a772181_received_544409876237698_52945073125_o.jpg"
       }
     ],
-    "booked": true
+    "booked": true,
+    "imageCredit": "Polar Adventures 对应峡湾与海钓项目",
+    "imageSource": "https://www.polaradventures.no/tours/fjordtour-by-boat"
   },
   {
     "id": "reindeer-or-cross-country",
@@ -101,11 +110,17 @@
         "label": "驯鹿雪橇 · 短程体验"
       },
       {
-        "src": "../nordic/assets/day-05-2.jpg",
-        "label": "特罗姆瑟港口 · 集合城市景观参考"
+        "src": "../nordic-v2/assets/experiences/reindeer-3.webp",
+        "label": "驯鹿营地 · 喂食体验",
+        "source": "https://static.wixstatic.com/media/572c50_ccc6bcd87f8746bcbfdcf47ecd7ea7ff~mv2.jpg/v1/fill/w_800,h_560,al_c,q_80,enc_avif,quality_auto/photo.jpg"
+      },
+      {
+        "src": "../nordic-v2/assets/experiences/reindeer-4.webp",
+        "label": "萨米文化 · 帐篷与炉火",
+        "source": "https://static.wixstatic.com/media/572c50_c40115f02de847e3992089a57fd0e9e2~mv2.jpg/v1/fill/w_800,h_560,al_c,q_80,enc_avif,quality_auto/photo.jpg"
       }
     ],
-    "imageCredit": "Tromsø Arctic Reindeer及原行程城市景观参考",
+    "imageCredit": "Tromsø Arctic Reindeer 活动场景",
     "imageSource": "https://tromsoarcticreindeer.com/short-reindeer-sledding",
     "booked": true
   },
@@ -133,15 +148,16 @@
     "operator": "Tromsø Outdoor",
     "photos": [
       {
-        "src": "../nordic/assets/experiences/cross-country-ski.jpg",
-        "label": "Tromsøya越野滑雪 · 雪道景观参考"
+        "src": "../nordic-v2/assets/experiences/ski-9.webp",
+        "label": "越野滑雪 · 林间平缓雪道参考",
+        "source": "https://cdn.prod.website-files.com/629491782628c6ea7bd13b58/66389ecf2a557b6e87bff055_IMG_2327-.jpg"
       },
       {
-        "src": "../nordic/assets/day-04-1.jpg",
-        "label": "特罗姆瑟 · 租赁所在城市参考"
+        "src": "../nordic/assets/experiences/cross-country-ski.jpg",
+        "label": "Tromsøya越野滑雪 · 雪道景观参考"
       }
     ],
-    "imageCredit": "Tromsø Outdoor及原旅行计划的城市景观参考",
+    "imageCredit": "Tromsø Outdoor 越野滑雪场景参考",
     "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor"
   },
   {
@@ -167,19 +183,23 @@
     "operator": "XXLofoten",
     "photos": [
       {
-        "src": "../nordic/assets/day-08-0.jpg",
-        "label": "罗弗敦 · 传统渔船海钓"
-      },
-      {
         "src": "../nordic/assets/experiences/fishing-1.jpg",
         "label": "冬季出海捕鱼"
       },
       {
-        "src": "../nordic/assets/experiences/fishing-2.jpg",
-        "label": "海钓体验 · 渔获参考"
+        "src": "../nordic-v2/assets/experiences/fishing-10.webp",
+        "label": "XXLofoten · 传统渔船手线海钓",
+        "source": "https://xxlofoten.no/en/img/asset/YXNzZXRzL3Byb2R1Y3RzL3ByaXZhdC1maXNrZXR1ci1tZWQtbXMtc3ltcmEvbG9mb3Rlbi1maXNoaW5nLXRyaXAtc3VtbWVyLXh4bG9mb3Rlbi0yMDIwLTMuanBlZw/lofoten-fishing-trip-summer-xxlofoten-2020-3.jpeg?w=1024&h=700.8&fit=crop&q=95&s=adc316c1256578f9110d5c7e05886420"
+      },
+      {
+        "src": "../nordic-v2/assets/experiences/fishing-7.webp",
+        "label": "XXLofoten · 鳕鱼渔获参考",
+        "source": "https://xxlofoten.no/en/img/http/aHR0cHM6Ly93ZWJpdW0tbm8uYi1jZG4ubmV0L3h4bG9mb3Rlbi9wcm9kdWN0cy9maXNrZXR1ci1pLWxvZm90ZW4vZ2lybC1sYXJnZS1jb2QtbG9mb3Rlbi1maXNoaW5nLXRyaXAtc3VtbWVyLXh4bG9mb3Rlbi0yMDIwLTIuanBlZw/girl-large-cod-lofoten-fishing-trip-summer-xxlofoten-2020-2.jpeg?h=384&fit=crop&s=3e536a9f938c8f0186b786b32495d9ff"
       }
     ],
-    "excluded": true
+    "excluded": true,
+    "imageCredit": "XXLofoten 对应传统渔船海钓项目",
+    "imageSource": "https://xxlofoten.no/en/experiences/fishing-trip-svolvaer/"
   },
   {
     "id": "vatnajokull-ice-cave",
@@ -205,19 +225,24 @@
     "operator": "Tröll Expeditions",
     "photos": [
       {
-        "src": "../nordic/assets/day-13-0.jpg",
-        "label": "天然蓝冰洞 · 景观参考"
+        "src": "../nordic-v2/assets/experiences/skaftafell-125.webp",
+        "label": "Skaftafell · 蓝冰洞内部",
+        "source": "https://images.troll.is/v1/troll/aVeYNnNYClf9ouoX_Skaftafell-Glacier-hike-599-copia-1024x683-1.jpg?auto=format,compress&w=700&h=600"
       },
       {
-        "src": "../nordic/assets/experiences/ice-1.webp",
-        "label": "蓝色冰层 · 冰洞参考"
+        "src": "../nordic-v2/assets/experiences/skaftafell-129.webp",
+        "label": "Skaftafell · 向导带队冰川徒步",
+        "source": "https://images.troll.is/v1/troll/ZiZbe_Pdc1huKrMh_Troll_Skaftafell_Glacier_Tour-57.jpg?auto=format,compress&w=400&h=300"
       },
       {
-        "src": "../nordic/assets/experiences/ice-2.webp",
-        "label": "Skaftafell 冰川徒步参考"
+        "src": "../nordic-v2/assets/experiences/skaftafell-127.webp",
+        "label": "Skaftafell · 天然冰洞入口参考",
+        "source": "https://images.troll.is/v1/troll/aVeYS3NYClf9ouoZ_Skaftafell-Ice-Cave-WInter-2019-2020-1.jpg?auto=format,compress&w=400&h=300"
       }
     ],
-    "booked": true
+    "booked": true,
+    "imageCredit": "Tröll Expeditions 对应 Skaftafell 蓝冰洞与冰川徒步项目",
+    "imageSource": "https://troll.is/tour/skaftafell-blue-ice-cave-glacier-hike/"
   },
   {
     "id": "blue-lagoon",
@@ -278,16 +303,20 @@
     "operator": "Arctic Adventures",
     "photos": [
       {
-        "src": "../nordic/assets/day-13-0.jpg",
-        "label": "冰洞内部 · 景观参考，非已订洞穴实拍"
+        "src": "../nordic-v2/assets/experiences/katla-cave.webp",
+        "label": "Katla · 蓝黑冰层洞穴参考",
+        "source": "https://adventures.is/media/240969/inside-katla-ice-cave-kotlujokull-outlet-glacier.jpg?anchor=center&format=jpg&mode=crop&quality=80&rnd=134122537100000000&width=900"
       },
       {
-        "src": "../nordic/assets/experiences/ice-1.webp",
-        "label": "蓝色冰层 · 景观参考，非已订洞穴实拍"
+        "src": "../nordic-v2/assets/experiences/katla-jeep.webp",
+        "label": "Katla · 超级吉普车与冰川",
+        "source": "https://adventures.is/media/241358/super-jeep-driving-near-snowy-glacier.jpg?anchor=center&format=jpg&mode=crop&quality=80&rnd=134364395720000000&width=900"
       }
     ],
     "booked": true,
-    "excluded": true
+    "excluded": true,
+    "imageCredit": "Arctic Adventures 对应 Katla 冰洞与超级吉普项目",
+    "imageSource": "https://adventures.is/iceland/day-tours/ice-caves/katla-ice-cave-tour-under-the-volcano/"
   },
   {
     "id": "husky-sledding",
