@@ -137,3 +137,5 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .budget-stay>.stay-budget-description{grid-column:1/-1;min-width:0;margin:0;white-space:normal}
 
 .budget-section>.stay-budget-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.stay-budget-heading .stay-recommendation-legend{margin:0;text-align:right;white-space:nowrap}
+
+@media(max-width:860px){.budget-page a.budget-project{transition:none;-webkit-tap-highlight-color:transparent}.budget-page a.budget-project:hover,.budget-page a.budget-project:focus,.budget-page a.budget-project:focus-visible,.budget-page a.budget-project:active{background:transparent;outline:none;box-shadow:none;color:inherit}}
