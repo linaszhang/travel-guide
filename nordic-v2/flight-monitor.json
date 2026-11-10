@@ -255,7 +255,7 @@
           2400,
           8600
         ],
-        "note": "判断对应Economy Light基础票价，非上方含托运Standard票档。"
+        "note": "判断对应Economy Light基础票价，托运行李另付。"
       },
       "strategy": {
         "action": "先确认托运行李",
