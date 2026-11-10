@@ -151,24 +151,25 @@ async function renderFlightMonitor(){
   // Storage retains the verified booking total; all displayed prices use the same per-person basis.
   const people=Number.isFinite(data.passengers)&&data.passengers>0?data.passengers:2;
   const priceNote=text=>String(text??'').replace(/两人|2人|2位成人|每人|单人/g,'');
-  const quote=q=>q?{...q,cny:q.cny/people,amount:q.amount/people,baggage:priceNote(q.baggage)}:q;
-  const flights=data.flights.map(f=>({...f,budgetCny:f.budgetCny/people,latest:quote(f.latest),history:f.history.map(quote),ctrip:f.ctrip?{...f.ctrip,baseCny:f.ctrip.baseCny/people}:null,google:{...f.google,baseCny:f.google.baseCny==null?null:f.google.baseCny/people,typicalRange:f.google.typicalRange?.map(n=>n/people)}})), total=flights.reduce((s,f)=>s+(f.latest?.cny||0),0),baseline=flights.reduce((s,f)=>s+f.budgetCny,0),complete=flights.every(f=>Number.isFinite(f.latest?.cny));
+  const quote=q=>q&&Number.isFinite(q.baseCny)?{...q,cny:q.baseCny/people,provider:'携程国内站',fare:q.fare||'经济舱 · 含税起价',seats:q.seats??null}:null;
+  const ctripSearch=f=>{const url=new URL('https://m.ctrip.com/html5/flight/taro/interFirst');url.search=new URLSearchParams({dcode:f.origin,acode:f.destination,ddate:f.date,nop:people+'-0-0',seat:'5'});return url.href;};
+  const ctripTitle=f=>{const url=ctripSearch(f),app='ctrip://wireless/h5?type=2&url='+encodeURIComponent(btoa(url));return `<a class="monitor-flight-link" href="${esc(url)}" data-ctrip-search data-app-href="${esc(app)}">${esc(f.title)}</a>`;};
+  const flights=data.flights.map(f=>({...f,budgetCny:f.budgetCny/people,latest:quote(f.ctrip),history:(f.ctripHistory||[]).map(quote).filter(Boolean),ctrip:f.ctrip?{...f.ctrip,baseCny:f.ctrip.baseCny/people}:null,google:{...f.google,baseCny:f.google.baseCny==null?null:f.google.baseCny/people,typicalRange:f.google.typicalRange?.map(n=>n/people)}})), total=flights.reduce((s,f)=>s+(f.latest?.cny||0),0),baseline=flights.reduce((s,f)=>s+f.budgetCny,0),complete=flights.every(f=>Number.isFinite(f.latest?.cny));
   const delta=n=>`${n>0?'+':n<0?'−':''}${money(Math.abs(n))}`;
   const chart=f=>{
    const history=f.history.filter(q=>Number.isFinite(q.cny)).slice(-30);
    if(history.length<2)return '';
    const values=history.map(q=>q.cny),lo=Math.min(f.budgetCny,...values)*.97,hi=Math.max(f.budgetCny,...values)*1.03;
    const y=v=>110-(v-lo)/(hi-lo||1)*90,x=i=>20+i/(history.length-1)*460;
-   return `<svg class="monitor-chart" viewBox="0 0 500 140" role="img" aria-label="${esc(f.title)}最近${history.length}次含托运报价，最低${money(Math.min(...values))}，最高${money(Math.max(...values))}"><line x1="20" x2="480" y1="${y(f.budgetCny)}" y2="${y(f.budgetCny)}" stroke="#9ba6a0" stroke-dasharray="4 4"/><polyline points="${values.map((v,i)=>x(i)+','+y(v)).join(' ')}" fill="none" stroke="#386451" stroke-width="3"/>${values.map((v,i)=>`<circle cx="${x(i)}" cy="${y(v)}" r="3" fill="#386451"><title>${esc(fmt(history[i].checkedAt))} ${money(v)}</title></circle>`).join('')}<text x="20" y="135">${esc(fmt(history[0].checkedAt))}</text><text x="480" y="135" text-anchor="end">${esc(fmt(history.at(-1).checkedAt))}</text></svg><small>虚线为预算；不同平台与汇率变化也可能影响走势。</small>`;
+   return `<svg class="monitor-chart" viewBox="0 0 500 140" role="img" aria-label="${esc(f.title)}最近${history.length}次携程报价，最低${money(Math.min(...values))}，最高${money(Math.max(...values))}"><line x1="20" x2="480" y1="${y(f.budgetCny)}" y2="${y(f.budgetCny)}" stroke="#9ba6a0" stroke-dasharray="4 4"/><polyline points="${values.map((v,i)=>x(i)+','+y(v)).join(' ')}" fill="none" stroke="#386451" stroke-width="3"/>${values.map((v,i)=>`<circle cx="${x(i)}" cy="${y(v)}" r="3" fill="#386451"><title>${esc(fmt(history[i].checkedAt))} ${money(v)}</title></circle>`).join('')}<text x="20" y="135">${esc(fmt(history[0].checkedAt))}</text><text x="480" y="135" text-anchor="end">${esc(fmt(history.at(-1).checkedAt))}</text></svg><small>虚线为预算，实线为携程报价。</small>`;
   };
   main.innerHTML=`<div class="page-wrap flight-monitor">
    <header class="monitor-heading"><div class="monitor-title"><a class="monitor-back" href="#budget" aria-label="返回预算单"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h14"/></svg></a><h1>机票价格监测</h1></div><span class="monitor-schedule">${data.schedule.active?'每天10:00检查':'每日检查待启用'} · 北京时间</span></header>
    <div class="monitor-summary"><div><small>${complete?'最近核实合计':'已核实项目合计'}</small><strong>${money(total)}</strong></div><div><small>原预算</small><strong>${money(baseline)}</strong><span>与预算 ${delta(total-baseline)}</span></div></div>
    ${flights.map(f=>{
     const q=f.latest,g=f.google,history=f.history.filter(h=>Number.isFinite(h.cny)),diff=q?q.cny-f.budgetCny:null,low=history.length?Math.min(...history.map(h=>h.cny)):null;
-    const quoteStale=q&&Date.now()-new Date(q.checkedAt).getTime()>36*60*60*1000;
     return `<article class="monitor-card">
-     <header><div><p class="monitor-eyebrow">${esc(f.date)} · ${esc(f.flight)}</p><h2>${esc(f.title)}</h2><p class="monitor-time">${esc(f.time)}</p></div><div class="monitor-quote"><strong>${q?money(q.cny):'待核实'}</strong><small>含托运${q?' · 参考折算':''}${quoteStale?' · 旧报价':''}</small></div></header>
+     <header><p class="monitor-eyebrow">${esc(f.date)} · ${esc(f.flight)}</p><h2>${ctripTitle(f)}</h2><div class="monitor-quote"><strong>${q?money(q.cny):'待核实'}</strong></div><p class="monitor-time">${esc(f.time)}</p></header>
      <div class="monitor-metrics"><div><small>对比预算 ${money(f.budgetCny)}</small><b>${q?`${delta(diff)} · ${diff>0?'+':diff<0?'−':''}${Math.abs(diff/f.budgetCny*100)<.1?'<0.1':Math.abs(diff/f.budgetCny*100).toFixed(1)}%`:'待核实'}</b></div><div><small>票档余票</small><b>${q?.seats!=null?esc(q.seats)+'席':'未公开'}</b></div><div><small>监测期最低</small><b>${low!=null?money(low):'待积累'}</b></div></div>
      <div class="monitor-comparison">
       <div class="monitor-ctrip"><div class="monitor-row"><b>携程国内站</b><span>${f.ctrip?`含税起价 <strong>${money(f.ctrip.baseCny)}</strong>`:'待核实'}</span>${f.ctrip?link(f.ctrip.url,'查看'):''}</div><small>${f.ctrip?`托运待核实 · ${esc(fmt(f.ctrip.checkedAt))}`:esc(priceNote(f.ctripStatus))}</small></div>
@@ -176,10 +177,25 @@ async function renderFlightMonitor(){
       <div class="monitor-strategy"><b>${esc(f.strategy.action)}</b><p>${esc(f.strategy.reason)}</p></div>
      </div>
      ${f.lastError?`<p class="monitor-error">检查未完成：${esc(f.lastError)}。保留最近记录。</p>`:''}${chart(f)}
-     <details class="monitor-history"><summary>报价记录 · ${f.history.length}次${q?' · '+esc(fmt(q.checkedAt)):''}</summary><div class="monitor-table-wrap"><table><thead><tr><th>核实时间</th><th>来源 / 票档</th><th>含托运</th><th>票档余票</th></tr></thead><tbody>${[...f.history].reverse().map(h=>`<tr><td>${esc(fmt(h.checkedAt))}</td><td>${link(h.url,h.provider)}<small>${esc(h.fare)}</small></td><td>${money(h.cny)}<small>${esc(h.currency)} ${Number(h.amount).toLocaleString('en-US')}</small></td><td>${h.seats==null?'未公开':esc(h.seats)+'席'}</td></tr>`).join('')}</tbody></table></div></details>
+     <details class="monitor-history"><summary>报价记录 · ${f.history.length}次${q?' · '+esc(fmt(q.checkedAt)):''}</summary><div class="monitor-table-wrap"><table><thead><tr><th>核实时间</th><th>来源 / 票档</th><th>携程报价</th><th>票档余票</th></tr></thead><tbody>${[...f.history].reverse().map(h=>`<tr><td>${esc(fmt(h.checkedAt))}</td><td class="monitor-fare-source">${link(h.url,h.provider)} · <span>${esc(h.fare)}</span></td><td>${money(h.cny)}</td><td>${h.seats==null?'未公开':esc(h.seats)+'席'}</td></tr>`).join('')}</tbody></table></div></details>
     </article>`;
    }).join('')}
    <footer class="monitor-footer"><p>价格与余票会变动，以购买时的支付页为准。基础票价的Google高低价区间不能直接套用于含托运票档；仅在平台公开时记录其判断，不推算未来最低价。</p><p>参考汇率：${esc(data.fx.date)} · ${link(data.fx.url,data.fx.source)}。每日任务需要电脑开机且Codex保持运行；检查失败时保留旧记录并标注。</p></footer>
   </div>`;
  }catch(error){if(view.type==='flights')main.innerHTML='<div class="page-wrap flight-monitor"><header class="monitor-heading"><div class="monitor-title"><a class="monitor-back" href="#budget" aria-label="返回预算单"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h14"/></svg></a><h1>机票价格监测</h1></div></header><p role="alert">监测记录暂时无法读取，请稍后刷新。</p></div>';}
 }
+
+// A user gesture attempts the app on mobile; unsupported devices retain the real H5 search link.
+document.addEventListener('click',event=>{
+ const anchor=event.target.closest('a[data-ctrip-search]');
+ if(!anchor||event.defaultPrevented||event.button>0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+ const mobile=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+ if(!mobile)return;
+ event.preventDefault();
+ let timer;
+ const stop=()=>{clearTimeout(timer);window.removeEventListener('pagehide',stop);document.removeEventListener('visibilitychange',hidden);};
+ const hidden=()=>{if(document.visibilityState==='hidden')stop();};
+ window.addEventListener('pagehide',stop,{once:true});document.addEventListener('visibilitychange',hidden);
+ timer=setTimeout(()=>{stop();if(document.visibilityState==='visible')location.assign(anchor.href);},2200);
+ location.assign(anchor.dataset.appHref);
+});

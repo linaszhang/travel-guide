@@ -17,5 +17,11 @@ for f in d['flights']:
   assert q['url'].startswith('https://') and all(q.get(k) for k in ['provider','fare','baggage','seatsNote'])
   assert all(k not in q['url'].lower() for k in ['shoppingid','sid=','token=','cookie','sessionid'])
  if f.get('latest'): assert f['latest'] in f['history'], 'Latest must be preserved in history'
+ for q in ([f['ctrip']] if f.get('ctrip') else [])+f.get('ctripHistory',[]):
+  assert datetime.fromisoformat(q['checkedAt']).tzinfo
+  assert q['baseCny']>0 and math.isfinite(q['baseCny'])
+  assert abs(q['baseCny']/d['passengers']-q['perPersonCny'])<.01
+  assert q.get('seats') is None or type(q['seats']) is int and q['seats']>=0
+  assert q['url'].startswith('https://flights.ctrip.com/')
  assert f['google']['judgment'] in [None,'低','正常','高']
 print('Validated 5 routes: prices, budgets, timestamps, baggage, inventory, and source links.')
