@@ -160,3 +160,9 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .drive-tag{max-width:100%;background:#f1eee7;color:#75716a;white-space:normal;text-decoration:none}
 
 .day-heading-flow .heading-info>.drive-estimate-note{font-size:10px;line-height:1.7;margin-top:3px;color:var(--muted);white-space:normal}
+
+.activity-info-card .info-row{display:flex;justify-content:space-between;align-items:baseline;gap:8px 16px}
+.activity-info-card .schedule{flex:1 1 140px;color:var(--ink)}
+.activity-info-card .info-row>.info-cell.price{flex:0 1 auto;width:auto;margin-left:auto;text-align:right}
+.activity-info-card .info-detail{font-size:11px;line-height:1.7;color:var(--muted);margin:0;padding-left:0}
+.activity-info-card .info-detail:before{content:none}

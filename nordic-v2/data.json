@@ -136,6 +136,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "下午 · 约15:00–17:30",
+              "price": "门票／购物另计"
             }
           },
           {
@@ -162,6 +166,11 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "晚上 · 时间待确认",
+              "price": "stay",
+              "stayId": "helsinki"
             }
           }
         ],
@@ -886,6 +895,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "上午 · 08:35–10:15",
+              "price": "租车见预算"
             }
           },
           {
@@ -950,7 +963,11 @@
                 "routeDistanceKm": 14.5,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "白天 · 10:15–13:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -1000,7 +1017,12 @@
                 "routeDistanceKm": 23.1,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 13:00–13:40",
+              "price": "465 NOK／人 · 1天",
+              "note": "雪具按最长24小时租赁计费，参考约¥325.5／人；与次日滑雪为同一笔租赁。"
+            }
           },
           {
             "time": [
@@ -1067,7 +1089,13 @@
                 "routeDistanceKm": 11.2,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 14:00–16:30",
+              "price": "645 NOK／人 · 往返",
+              "note": "官网成人往返参考价，约¥451.5／人；尚未计入现有预算。",
+              "source": "https://www.fjellheisen.no/"
+            }
           },
           {
             "time": [
@@ -1123,7 +1151,12 @@
                 "routeDistanceKm": 34.7,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "傍晚 · 17:00后",
+              "price": "stay",
+              "stayId": "tromso-fjord"
+            }
           }
         ],
         "stayId": "tromso-fjord"
@@ -1230,7 +1263,12 @@
                 "routeDistanceKm": 2.4,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 09:00–11:15",
+              "price": "465 NOK／人 · 1天",
+              "note": "参考约¥325.5／人；与前日下午取具为同一笔租赁。"
+            }
           },
           {
             "time": [
@@ -1290,6 +1328,10 @@
               ],
               "note": "市区停车后步行到Samuel Arnesens gate 5一楼巴士总站；营地段乘运营方巴士，不自行开往营地。",
               "description": "将车停在Fjellet P-hus后，步行到Prostneset巴士总站候车，营地段乘运营方巴士。"
+            },
+            "infoCard": {
+              "time": "下午 · 13:00–17:00",
+              "price": "¥1,534.20／人 · 已预订"
             }
           },
           {
@@ -1362,7 +1404,12 @@
                 "routeDistanceKm": 35.2,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "晚上 · 18:00–19:30",
+              "price": "150 NOK／人起",
+              "note": "现有参考约¥105／人；实际场次价格待确认，晚餐另计。"
+            }
           }
         ],
         "stayId": "tromso-fjord"
@@ -1433,7 +1480,11 @@
                 "routeDistanceKm": 35.8,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 09:00–09:45",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -1501,6 +1552,10 @@
               ],
               "note": "集合以订单中的Front Pier为准，不前往其他游船码头。",
               "description": "市区停车可选Fjellet P-hus，步行到Front Pier登船，以订单中的集合码头为准。"
+            },
+            "infoCard": {
+              "time": "白天 · 10:00–15:00",
+              "price": "¥1,358／人 · 已预订"
             }
           },
           {
@@ -1540,7 +1595,11 @@
                   "Finnsnes Norway"
                 ]
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 约15:30出发",
+              "price": "租车／油费见预算"
+            }
           }
         ],
         "stayId": "senja"
@@ -1637,7 +1696,12 @@
                 "routeDistanceKm": 18.3,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "白天 · 按向导确认",
+              "price": "费用待确认",
+              "note": "向导团期、冬季时长及装备费用均以确认方案为准，不代表免费。"
+            }
           },
           {
             "time": [
@@ -1675,7 +1739,11 @@
                 "routeDistanceKm": 18.2,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 时间待确认",
+              "price": "已含连住住宿"
+            }
           }
         ],
         "stayId": "senja"
@@ -1786,7 +1854,11 @@
                 "routeDistanceKm": 14.2,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 08:00–10:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -1834,7 +1906,12 @@
                   "Bjerkvik Norway"
                 ]
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "白天 · 10:00出发",
+              "price": "stay",
+              "stayId": "fredvang"
+            }
           }
         ],
         "stayId": "fredvang"
@@ -1944,7 +2021,11 @@
                 "routeDistanceKm": 4.0,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 09:00–12:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -2025,7 +2106,11 @@
                 "routeDistanceKm": 12.4,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 12:00–14:30",
+              "price": "门票／停车费另计"
+            }
           },
           {
             "time": [
@@ -2071,7 +2156,12 @@
                 "routeDistanceKm": 91.5,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 14:30出发",
+              "price": "stay",
+              "stayId": "svolvaer"
+            }
           }
         ],
         "stayId": "svolvaer"
@@ -2145,7 +2235,11 @@
                 "routeDistanceKm": 24.5,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 08:30–10:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -2187,7 +2281,11 @@
                 "routeDistanceKm": 19.3,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 10:30–11:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -2229,7 +2327,11 @@
                   "Bjerkvik Norway"
                 ]
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "白天 · 11:00出发",
+              "price": "租车／油费见预算"
+            }
           },
           {
             "time": [
@@ -2259,6 +2361,11 @@
               ],
               "note": "公寓停车是否包含在订单内需核对；不含时可用市区公共停车库。",
               "description": "若公寓订单不含停车，可使用Fjellet P-hus，再步行前往住处。"
+            },
+            "infoCard": {
+              "time": "晚上 · 约19:00–21:00",
+              "price": "stay",
+              "stayId": "tromso-airport"
             }
           }
         ],
@@ -2389,6 +2496,10 @@
               ],
               "note": "Blikavöllur 3，按Zero Car／Blue Car Rental交付指引找办公室。",
               "description": "导航到Blikavöllur 3的Zero Car取还车点，按Zero Car／Blue Car Rental标识找交付办公室。"
+            },
+            "infoCard": {
+              "time": "下午 · 14:20–15:30",
+              "price": "租车见预算"
             }
           },
           {
@@ -2443,7 +2554,12 @@
                 "routeDistanceKm": 85.8,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午／晚上 · 取车后",
+              "price": "stay",
+              "stayId": "reykjavik"
+            }
           }
         ],
         "stayId": "reykjavik"
@@ -2530,7 +2646,11 @@
                 "routeDistanceKm": 83.4,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 9:30–12:30",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -2596,7 +2716,11 @@
                 "routeDistanceKm": 30.4,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 13:00–14:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -2614,7 +2738,11 @@
                 "t": "官网／详情 ↗",
                 "links": []
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 14:00–15:00",
+              "price": "餐费自理"
+            }
           },
           {
             "time": [
@@ -2706,7 +2834,12 @@
                 "routeDistanceKm": 7.5,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 15:00–16:30",
+              "price": "stay",
+              "stayId": "vik"
+            }
           }
         ],
         "stayId": "vik"
@@ -2793,7 +2926,11 @@
                 "routeDistanceKm": 4.0,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 9:30–10:30",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -2832,7 +2969,11 @@
                 "routeDistanceKm": 10.9,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 10:45–11:30",
+              "price": "餐费／加油另计"
+            }
           },
           {
             "time": [
@@ -2914,7 +3055,12 @@
                 "routeDistanceKm": 186.0,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "白天 · 11:30–17:30",
+              "price": "stay",
+              "stayId": "hof"
+            }
           }
         ],
         "stayId": "hof"
@@ -2985,7 +3131,11 @@
                 "routeDistanceKm": 103.0,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "清晨 · 约06:00出发",
+              "price": "租车／油费见预算"
+            }
           },
           {
             "time": [
@@ -3045,6 +3195,10 @@
               ],
               "note": "基地有停车场与洗手间，按订单提前20分钟到场。",
               "description": "在Tröll基地停车，按订单提前20分钟到场；现场有洗手间。"
+            },
+            "infoCard": {
+              "time": "上午 · 09:00–13:00",
+              "price": "¥1,083／人 · 已预订"
             }
           },
           {
@@ -3146,7 +3300,11 @@
                 "routeDistanceKm": 9.0,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 13:00–15:00",
+              "price": "停车费另计"
+            }
           },
           {
             "time": [
@@ -3233,7 +3391,11 @@
                 "routeDistanceKm": 64.9,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "下午 · 15:10–17:30",
+              "price": "停车费另计"
+            }
           }
         ],
         "stayId": "hof"
@@ -3307,7 +3469,11 @@
                 "routeDistanceKm": 15.3,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "上午 · 08:30–09:00",
+              "price": "门票在下项列示"
+            }
           },
           {
             "time": [
@@ -3358,6 +3524,12 @@
                 "https://www.vestrahorn.is/map"
               ],
               "description": "使用Stokksnes园内停车区，再步行到黑沙丘与海滩。"
+            },
+            "infoCard": {
+              "time": "上午 · 09:00–10:00",
+              "price": "门票价格待确认",
+              "note": "官网票价信息不一致，以购票时显示为准。",
+              "source": "https://www.vestrahorn.is/map"
             }
           },
           {
@@ -3400,7 +3572,11 @@
                 "routeDistanceKm": 494.0,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "白天 · 10:00出发",
+              "price": "租车／油费见预算"
+            }
           },
           {
             "time": [
@@ -3429,6 +3605,11 @@
               ],
               "note": "酒店提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。",
               "description": "Hotel Berg提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。"
+            },
+            "infoCard": {
+              "time": "晚上 · 时间待确认",
+              "price": "stay",
+              "stayId": "kef"
             }
           }
         ],
@@ -3524,7 +3705,11 @@
                 "routeDistanceKm": 5.6,
                 "checkedAt": "2026-11-10"
               }
-            ]
+            ],
+            "infoCard": {
+              "time": "清晨 · 03:40–05:00",
+              "price": "租车见预算"
+            }
           },
           {
             "time": [
@@ -3626,6 +3811,11 @@
                 }
               ],
               "description": "前往Aperon寄存行李后，再轻装出门。"
+            },
+            "infoCard": {
+              "time": "落地后 · 约1h",
+              "price": "约¥30／人",
+              "note": "机场3区票现有参考；进城市区段约13–15分钟。"
             }
           },
           {
@@ -3657,6 +3847,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "下午 · 14:00–15:15",
+              "price": "室内参观另计"
             }
           },
           {
@@ -3680,6 +3874,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "下午 · 15:30–16:30",
+              "price": "购物自理"
             }
           },
           {
@@ -3702,6 +3900,11 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "晚上 · 时间待确认",
+              "price": "stay",
+              "stayId": "copenhagen"
             }
           }
         ],
@@ -3767,6 +3970,12 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "上午 · 10:00–11:30",
+              "price": "140 DKK／人",
+              "note": "官网成人票参考，约¥140／人；尚未计入现有预算。",
+              "source": "https://designmuseum.dk/en/besog-os/opening-hours-admission-2/"
             }
           },
           {
@@ -3814,6 +4023,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "中午至下午 · 12:00–14:30",
+              "price": "购物／餐费自理"
             }
           },
           {
@@ -3837,6 +4050,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "下午 · 15:00–16:00",
+              "price": "公共区域免费"
             }
           },
           {
@@ -3864,6 +4081,10 @@
                 }
               ],
               "description": ""
+            },
+            "infoCard": {
+              "time": "傍晚 · 约16:30–18:00",
+              "price": "交通费另计"
             }
           },
           {
