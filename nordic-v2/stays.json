@@ -186,8 +186,8 @@
     "options": [
       {
         "name": "EIRA Fjord Stay",
-        "features": "2卧室 · 私人桑拿 · 峡湾火塘 · 秋千",
-        "description": "两卧室整租公寓，含厨房、洗衣机、私人浴室与桑拿；文档另备注有秋千。免费私人停车。实际为特罗姆瑟周边峡湾住宿，并非市中心步行范围。",
+        "features": "2卧室 · 私人桑拿 · 峡湾户外火塘 · 秋千 · 电车充电",
+        "description": "两卧室整租公寓，含厨房、洗衣机、私人浴室与桑拿；文档另备注有秋千。免费私人停车。实际为特罗姆瑟周边峡湾住宿，并非市中心步行范围。 道路对面的峡湾边设户外火塘；房源内可为电车充电，房东标价80 NOK／次。",
         "url": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
         "total": 5581,
         "photos": [
@@ -226,6 +226,30 @@
             "height": 640,
             "mobile": "assets/stays/tromso-fjord-gallery-3-640.webp",
             "medium": "assets/stays/tromso-fjord-gallery-3-480.webp"
+          },
+          {
+            "src": "assets/stays/eira-firepit-46-960.webp",
+            "thumb": "assets/stays/eira-firepit-46-240.webp",
+            "mobile": "assets/stays/eira-firepit-46-640.webp",
+            "medium": "assets/stays/eira-firepit-46-480.webp",
+            "label": "EIRA Fjord Stay · 冬季户外火塘 · 悬挂式火盆",
+            "caption": "冬季户外火塘 · 悬挂式火盆",
+            "category": "户外火塘",
+            "source": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497876212.jpg?k=6ef7496fe99b5140ad9d4417daadac434209c8bdf78d2c7197ae5dcbeda68064&o=",
+            "width": 960,
+            "height": 640
+          },
+          {
+            "src": "assets/stays/eira-firepit-35-960.webp",
+            "thumb": "assets/stays/eira-firepit-35-240.webp",
+            "mobile": "assets/stays/eira-firepit-35-640.webp",
+            "medium": "assets/stays/eira-firepit-35-480.webp",
+            "label": "EIRA Fjord Stay · 峡湾边户外火塘",
+            "caption": "峡湾边户外火塘",
+            "category": "户外火塘",
+            "source": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/791730866.jpg?k=45f7450ad6d0eef6954ca5ae40c7bc7216324f8e446ac32162e6d6dfee120dc8&o=",
+            "width": 512,
+            "height": 768
           },
           {
             "src": "assets/stays/tromso-fjord-gallery-4-960.webp",
@@ -352,12 +376,20 @@
         "notes": [
           "2月7日入住、2月9日退房，2位成人、2晚。",
           "订单总额 NOK 7,900，含清洁费；页面折算约¥5,581，汇率会影响人民币结算。",
-          "房源页面显示距机场约30公里、缆车约25公里；市区活动后需自驾回住处。"
+          "房源页面显示距机场约30公里、缆车约25公里；市区活动后需自驾回住处。",
+          "峡湾生火设施为道路对面的户外火塘，配座椅；并非公寓内壁炉。",
+          "房东标注房源内提供电车充电，80 NOK／次；接口、功率和使用安排请入住前确认。"
         ],
         "roomLayout": "2卧室 · 2张双人床",
         "cancellation": "2026.12.8 23:59前免费取消",
         "userNote": "桑拿房、秋千",
-        "budgetSummary": "两卧室峡湾住宿，带私人桑拿、火塘和秋千。"
+        "budgetSummary": "两卧室峡湾住宿，带私人桑拿、户外火塘和秋千；可电车充电（80 NOK／次）。",
+        "facilitySources": [
+          {
+            "url": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
+            "checked": "2026-11-10"
+          }
+        ]
       }
     ]
   },
@@ -374,8 +406,8 @@
     "options": [
       {
         "name": "Senja, Botnhamn",
-        "features": "Botnhamn海边整屋 · 2卧室 · 船屋火塘 · 免费停车",
-        "description": "Botnhamn一带的海边老屋，带厨房、洗衣机及免费停车位。可使用海边船屋，坐着生火看峡湾；两卧室，连住两晚，往返Hesten／Segla。",
+        "features": "Botnhamn海边整屋 · 2卧室 · 船屋门口户外火塘 · 免费停车",
+        "description": "Botnhamn一带的海边老屋，带厨房、洗衣机及免费停车位。可使用海边船屋，在船屋门口户外火塘生火看峡湾；两卧室，连住两晚，往返Hesten／Segla。",
         "url": "https://www.airbnb.cn/rooms/1197235632451861936",
         "total": 2780.12,
         "photos": [
@@ -414,6 +446,30 @@
             "height": 1100,
             "mobile": "assets/stays/senja-gallery-3-640.webp",
             "medium": "assets/stays/senja-gallery-3-480.webp"
+          },
+          {
+            "src": "assets/stays/senja-firepit-8-960.webp",
+            "thumb": "assets/stays/senja-firepit-8-240.webp",
+            "mobile": "assets/stays/senja-firepit-8-640.webp",
+            "medium": "assets/stays/senja-firepit-8-480.webp",
+            "label": "Senja, Botnhamn · 海边户外火塘 · 峡湾景观",
+            "caption": "海边户外火塘 · 峡湾景观",
+            "category": "户外火塘",
+            "source": "https://a0.muscache.com/im/pictures/hosting/Hosting-1197235632451861936/original/67a72965-0ddf-4bdc-91ff-b7c1e68d15f4.jpeg?im_w=720",
+            "width": 720,
+            "height": 540
+          },
+          {
+            "src": "assets/stays/senja-firepit-3-960.webp",
+            "thumb": "assets/stays/senja-firepit-3-240.webp",
+            "mobile": "assets/stays/senja-firepit-3-640.webp",
+            "medium": "assets/stays/senja-firepit-3-480.webp",
+            "label": "Senja, Botnhamn · 海边船屋门口 · 户外火塘",
+            "caption": "海边船屋门口 · 户外火塘",
+            "category": "户外火塘",
+            "source": "https://a0.muscache.com/im/pictures/hosting/Hosting-1197235632451861936/original/f192f6c9-2b82-4d39-b284-a5652d030b4b.jpeg?im_w=1200",
+            "width": 960,
+            "height": 720
           },
           {
             "src": "assets/stays/senja-gallery-4-960.webp",
@@ -503,12 +559,19 @@
         "status": "已预订",
         "notes": [
           "2月9日15:00后入住，2月11日11:00前退房；2人2晚总费用¥2,780.12。",
-          "位置在Botnhamn一带，首日晚到需确认自助入住；徒步集合点以向导通知为准。"
+          "位置在Botnhamn一带，首日晚到需确认自助入住；徒步集合点以向导通知为准。",
+          "生火区域在海边船屋门口，为户外火塘，非客厅室内壁炉；房东允许使用船屋和海边生火区域。"
         ],
         "roomLayout": "2卧室 · 3张床",
         "cancellation": "2027.2.8 15:00前免费取消",
         "userNote": "装修不错、门口能生火",
-        "budgetSummary": "Botnhamn海边两卧室整屋，装修还ok，带船屋火塘，门口可生火并免费停车。"
+        "budgetSummary": "Botnhamn海边两卧室整屋，装修还ok，可使用海边船屋及门口户外火塘，免费停车。",
+        "facilitySources": [
+          {
+            "url": "https://www.airbnb.cn/rooms/1197235632451861936",
+            "checked": "2026-11-10"
+          }
+        ]
       }
     ]
   },
@@ -771,8 +834,8 @@
     "options": [
       {
         "name": "Lofoten Rorbuer · 海景套房",
-        "features": "渔民套房 · 海景与渔船 · 露台",
-        "description": "罗弗敦渔民公寓的约40㎡海景套房，设客厅、两间独立卧室、私人厨房和浴室，带海景露台。卧室1配两张单人床，卧室2为上下铺，共4个床位。2月12日游览南部后北上入住，次日游览北部后直接返特罗姆瑟。",
+        "features": "渔民套房 · 海景与渔船 · 露台 · 公共户外火塘 · 电车充电",
+        "description": "罗弗敦渔民公寓的约40㎡海景套房，设客厅、两间独立卧室、私人厨房和浴室，带海景露台。卧室1配两张单人床，卧室2为上下铺，共4个床位。2月12日游览南部后北上入住，次日游览北部后直接返特罗姆瑟。 住宿设公共户外火塘及电车充电设施，非套房内私人壁炉。",
         "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
         "total": 1895,
         "photos": [
@@ -900,13 +963,20 @@
         "status": "已预订",
         "notes": [
           "2月12日入住、2月13日退房，海景套房；卧室1为2张单人床，卧室2为上下铺的2个床位。",
-          "订单总额 NOK 2,682.90，页面折算约¥1,895；含订单列出的停车服务。"
+          "订单总额 NOK 2,682.90，页面折算约¥1,895；含订单列出的停车服务。",
+          "房源公共区域设户外火塘，并提供电车充电设施；充电收费、接口、功率及可用车位需向前台确认。"
         ],
         "roomLayout": "2卧室 · 2张单人床＋1张双层床（共4床位）",
         "cancellation": "2027.2.6 23:59前免费取消",
         "userNote": "渔民套房，窗外是海景+渔船，有露台",
-        "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船。",
-        "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707"
+        "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船；住宿有公共户外火塘，可电车充电。",
+        "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707",
+        "facilitySources": [
+          {
+            "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
+            "checked": "2026-11-10"
+          }
+        ]
       }
     ]
   },
@@ -1254,8 +1324,8 @@
     "options": [
       {
         "name": "Black Beach Suites · 黑色海滩套房",
-        "features": "豪华特大床一室公寓 · 大窗景观 · 厨房 · 露台",
-        "description": "已订豪华特大号床一室公寓，带私人浴室、厨房与露台；含一辆车的停车位。位于维克镇外黑沙滩一侧，适合次晨去Reynisfjara。",
+        "features": "豪华特大床一室公寓 · 大窗景观 · 厨房 · 露台 · 电车充电",
+        "description": "已订豪华特大号床一室公寓，带私人浴室、厨房与露台；含一辆车的停车位。位于维克镇外黑沙滩一侧，适合次晨去Reynisfjara。 住宿提供电车充电设施。",
         "url": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
         "total": 2521.88,
         "originalTotal": 336.25,
@@ -1424,14 +1494,21 @@
         "notes": [
           "2月15日15:00–00:00入住，2月16日12:00前退房；2位成人1晚。",
           "优惠后应付€336.25；不是优惠前€369。人民币按1 EUR≈7.5 RMB估算，最终以扣款为准。",
-          "当晚在维克补给后再回公寓，次晨直接前往黑沙滩。"
+          "当晚在维克补给后再回公寓，次晨直接前往黑沙滩。",
+          "住宿设施列有电车充电站，使用位置、收费和接口需向前台确认。"
         ],
         "roomLayout": "开放式一室 · 1张特大床＋1张沙发床",
         "cancellation": "入住前7天可免费取消",
         "userNote": "当地最佳，没有竞品",
         "imageCredit": "Kimkim",
         "imageSource": "https://www.kimkim.com/h/black-beach-suites-vik-i-myrdal-iceland",
-        "budgetSummary": "带厨房、露台和大窗景观的豪华特大床一室公寓，是这次最喜欢的当地房源，暂无更合适的替代。"
+        "budgetSummary": "带厨房、露台和大窗景观的豪华特大床一室公寓，是这次最喜欢的当地房源，暂无更合适的替代。 住宿可电车充电。",
+        "facilitySources": [
+          {
+            "url": "https://guide.michelin.com/ie/en/hotels-stays/vik/black-beach-suites-16445",
+            "checked": "2026-11-10"
+          }
+        ]
       }
     ]
   },
