@@ -1163,10 +1163,31 @@
       9
     ],
     "country": "iceland",
-    "location": "雷克雅未克市区",
+    "location": "Hveragerði · 惠拉盖尔济",
     "dates": "2.14–2.15",
     "nights": 1,
     "options": [
+      {
+        "name": "INNI · Boutique Apartments 精品公寓",
+        "features": "已预订 · 厨房 · 住客共用温泉泡池、桑拿及蒸汽房",
+        "description": "位于Hveragerði镇内的精品公寓，设厨房和私人浴室，住客共用两个户外地热泡池、桑拿与蒸汽房。附近有餐厅和超市，适合抵达冰岛后休息，次日直接沿南岸向维克出发。",
+        "url": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
+        "total": null,
+        "photos": [],
+        "status": "已预订",
+        "roomLayout": "公寓 · 厨房与私人浴室；具体房型以已订订单为准",
+        "cancellation": "取消条件以INNI实际预订订单为准",
+        "notes": [
+          "2027年2月14日入住、2月15日退房，2位成人1晚；已预订INNI。",
+          "实际成交金额待补充；预算暂按¥1,000／人／晚计算，不沿用旧公寓房价。",
+          "地址：Frumskógar 3, 810 Hveragerði。泡池为住客共用，并非私人泡池。",
+          "附近可在Ölverk、Matkráin及The Greenhouse用晚餐；可步行前往，冬季按路况选择开车。",
+          "若保留当天蓝湖活动，泡汤后前往Hveragerði入住；冬季车程先预留约1–1.5小时，晚到提前与公寓确认。",
+          "2月15日从Hveragerði出发前往塞里雅兰瀑布、斯科加瀑布和维克。"
+        ],
+        "userNote": "已订INNI：可以泡汤，镇内吃饭方便。",
+        "budgetSummary": "Hveragerði镇内已订精品公寓，带厨房与住客共用泡池，方便晚餐及次日南岸出发。"
+      },
       {
         "name": "Apartments Reykjavik",
         "features": "一卧室公寓 · 厨房 · 城市短住",
@@ -1299,7 +1320,7 @@
             "medium": "assets/stays/reykjavik-gallery-10-480.webp"
           }
         ],
-        "status": "已预订",
+        "status": "备选（已预订）",
         "notes": [
           "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
           "蓝湖后前往公寓；预计晚到须提前确认入住。"
