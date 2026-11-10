@@ -564,18 +564,6 @@
         "query": "Stokksnes parking Iceland"
       },
       {
-        "label": "丽柏酒店",
-        "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
-      },
-      {
-        "label": "Park Inn",
-        "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
-      },
-      {
-        "label": "Hafnargata 57",
-        "query": "Hafnargata 57 Keflavik Iceland"
-      },
-      {
         "label": "哥本哈根机场",
         "query": "Copenhagen Airport"
       },
@@ -740,14 +728,6 @@
         "query": "Troll Expeditions Skaftafell Hof Iceland"
       },
       {
-        "label": "雷克雅未克机场丽柏酒店",
-        "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
-      },
-      {
-        "label": "Keflavík丽柏酒店",
-        "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
-      },
-      {
         "label": "Illums Bolighus（Amagertorv 10）",
         "query": "Illums Bolighus Amagertorv 10 Copenhagen"
       },
@@ -774,6 +754,18 @@
       {
         "label": "Jökulsárlón Glacier Lagoon Parking",
         "query": "Jökulsárlón Glacier Lagoon Parking Iceland"
+      },
+      {
+        "label": "Hotel Berg",
+        "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
+      },
+      {
+        "label": "Berg酒店",
+        "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
+      },
+      {
+        "label": "Bakkavegur 17",
+        "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
       }
     ]
   },
@@ -3343,27 +3335,27 @@
             "navigation": {
               "locations": [
                 {
-                  "label": "丽柏酒店",
-                  "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
+                  "label": "Hotel Berg",
+                  "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
                 }
               ],
               "parking": [
                 {
-                  "label": "丽柏酒店",
-                  "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
+                  "label": "Hotel Berg",
+                  "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
                 }
               ],
-              "note": "长途西返的终点为Keflavík的Hafnargata 57，不是雷克雅未克市中心。"
+              "note": "长途西返的终点为凯夫拉维克港口旁的Hotel Berg，地址Bakkavegur 17；使用酒店停车位。"
             },
             "drives": [
               {
                 "from": "Stokksnes",
-                "to": "丽柏酒店",
-                "distance": "491km",
+                "to": "Hotel Berg",
+                "distance": "494km",
                 "duration": "7–8小时（不含休息）",
                 "origin": "Stokksnes Iceland",
-                "destination": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland",
-                "routeDistanceKm": 491.0,
+                "destination": "Hotel Berg Bakkavegur 17 Keflavik Iceland",
+                "routeDistanceKm": 494.0,
                 "checkedAt": "2026-11-10"
               }
             ]
@@ -3373,27 +3365,27 @@
               "晚上"
             ],
             "emoji": "🏨",
-            "title": "入住雷克雅未克机场丽柏酒店 · Park Inn",
+            "title": "入住 Hotel Berg · 屋顶泡池与港口",
             "body": [
               {
-                "t": "入住Keflavík市中心Hafnargata 57的丽柏酒店，14:00后可办理入住，免费停车；当晚提前加满油、早点休息，次日约03:40出发去KEF还车。",
+                "t": "入住Keflavík港口旁Bakkavegur 17的Hotel Berg，15:00后可办理入住，免费停车；有空可使用屋顶共用热水池或在公共壁炉休息区放松。当晚提前加满油、早点休息，次日约03:40出发去KEF还车。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
                 {
-                  "label": "丽柏酒店",
-                  "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
+                  "label": "Hotel Berg",
+                  "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
                 }
               ],
               "parking": [
                 {
-                  "label": "丽柏酒店",
-                  "query": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland"
+                  "label": "Hotel Berg",
+                  "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
                 }
               ],
-              "note": "使用酒店免费停车位。"
+              "note": "酒店提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。"
             }
           }
         ],
@@ -3457,10 +3449,10 @@
               "03:40–05:00"
             ],
             "emoji": "🚗",
-            "title": "丽柏酒店 → KEF还车 → 航站楼",
+            "title": "Hotel Berg → KEF还车 → 航站楼",
             "body": [
               {
-                "t": "约03:40从Keflavík丽柏酒店出发，约04:00还车，预留接驳时间，目标05:00到航站楼。清晨还车流程提前向车行确认。",
+                "t": "约03:40从Hotel Berg出发，约04:00到Zero Car还车，预留交钥匙和前往航站楼的时间，目标05:00到航站楼。酒店至还车点约6公里，清晨车程预留10–15分钟；还车流程提前向车行确认。",
                 "links": []
               }
             ],
@@ -3479,13 +3471,13 @@
             },
             "drives": [
               {
-                "from": "丽柏酒店",
+                "from": "Hotel Berg",
                 "to": "Zero Car取还车点",
-                "distance": "5km",
+                "distance": "6km",
                 "duration": "10–15分钟",
-                "origin": "Park Inn by Radisson Reykjavik Keflavik Airport Hafnargata 57 Iceland",
+                "origin": "Hotel Berg Bakkavegur 17 Keflavik Iceland",
                 "destination": "Blue Car Rental Blikavollur 3 Keflavik Iceland",
-                "routeDistanceKm": 5.0,
+                "routeDistanceKm": 5.6,
                 "checkedAt": "2026-11-10"
               }
             ]
