@@ -1,0 +1,30 @@
+# 北欧机票每日监测
+
+本页数据：`nordic-v2/flight-monitor.json`；网页入口：`nordic/#flights`。
+每日北京时间10:00由当前聊天的Codex定时任务读取浏览器报价并更新JSON。此任务在本机执行，需要电脑开机、Codex运行和网络可用。不是GitHub Actions后台爬虫，访问网页不会发起抓价。
+
+## 固定口径
+
+2成人，经济舱，含税，每人1件23kg托运。比较完全相同日期、机场、航班号及时间；TOS–KEF为WF621+FI335经BGO。不得替换为其他时刻或其他中转的最低起价。已过出发日期的航段不再询价，保留历史；2027-02-20之后暂停任务。
+
+先查询携程国内站指定航线（浏览器公开搜索，可使用下列模式），核对2成人和日期，再展开对应航班票档及行李规则：
+`https://flights.ctrip.com/online/list/oneway-pvg-hel?depdate=2027-02-06&cabin=y&adult=2&child=0&infant=0`
+其余依次hel-tos/2027-02-07、tos-kef/2027-02-14、kef-cph/2027-02-19、cph-pvg/2027-02-20。列表的含税价通常为每人，只有确认后乘2。保留原币、单人或总价依据、票档、托运、更新时间、来源链接、明确余票。仅起价而未核实行李时写ctripStatus，须保存ctrip对象（checkedAt、baseCny两人、perPersonCny单人、url、note、seats）并追加ctripHistory（每日保留一条），不得当含托运报价。首次加载可能仅有页头页脚，须等结果渲染后再读；不要把加载中当作无票。
+
+国内站无法取得完整票档时，允许查询Trip.com（携程国际版）或航司官网补充，必须注明真实来源，不能冒充国内站。已有latest.url为可用入口。进入票档选择属于只读询价，不创建订单、不付款、不提交乘客资料。登录/验证码或风控导致阻碍时记录失败，不绕过安全措施。
+
+Google Flights使用google.url进入，对同航班记录平台原始“低/正常/高”、baseCny和typicalRange（两人）、所依据行李与票档及checkedAt。Google航线总体判断只能标明航线总体，不写成单航班判断。未返回原组合时judgment=null。基础票不含托运的区间必须注明，不能直接套用含托运价格；不同路线不得混用。无法核实的字段设null并说明，不能把旧结果刷新为今天。
+
+## 写入规则
+
+- `latest`只收已核实含托运报价。优先携程国内同口径票档；否则明确补充来源。成功记录带checkedAt、amount、currency、cny、provider、fare、url、baggage、seats、seatsNote。
+- `seats`只有平台明确显示对应票档余票才填整数；否则null。不能用座位图、搜索结果数或预订人数推测。不同渠道余票不可移植。例如吉祥官网Q舱4席不能写成携程剩4席或全机4席。
+- 追加到`history`，同日同provider+fare成功记录以最新一次更新，其他日期/渠道保留。价格不变也保留每日记录。每条记录保留实际核实时间与汇率，走势包含汇率和渠道变化。
+- 全部查询失败时保留latest、history、updatedAt；仅更新lastAttemptAt和该航段lastError。部分成功时updatedAt=max(实际成功checkedAt)，各航段日期独立显示。切勿把旧报价标为实时。
+- 更新fx时用可靠来源，明确日期；CNY直价汇率为1；外币四舍五入至人民币整数，仅参考折算。
+- 更新strategy.action/reason基于真实新结果、预算差额、历史走势、Google原始判断、衔接与退改；不得保证未来低价。不修改原budget.flights。
+- 前端只读JSON；每日数据更新无需改缓存版本。运行`python3 scripts/check-flight-monitor.py`验证。
+
+## 发布
+
+只提交本次监测JSON变更，不提交无关文件。先确认当前分支及未提交改动，SSH拉取rebase后push到main：`git@github.com:linaszhang/travel-guide.git`。不要覆盖其他修改。验证公开JSON与网页已是本次记录；发布失败明确报告，不声称已上线。原始浏览器证据只保存在工作目录，公开JSON不得包含订单、账号、cookie、票务会话token或购物ID。
