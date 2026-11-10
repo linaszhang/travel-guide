@@ -1168,25 +1168,69 @@
     "nights": 1,
     "options": [
       {
-        "name": "INNI · Boutique Apartments 精品公寓",
-        "features": "已预订 · 厨房 · 住客共用温泉泡池、桑拿及蒸汽房",
+        "name": "INNI · Boutique Apartments · 一卧室公寓",
+        "features": "一卧室公寓 · 厨房 · 免费停车 · 住客共用地热泡池与桑拿",
         "description": "位于Hveragerði镇内的精品公寓，设厨房和私人浴室，住客共用两个户外地热泡池、桑拿与蒸汽房。附近有餐厅和超市，适合抵达冰岛后休息，次日直接沿南岸向维克出发。",
         "url": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-        "total": null,
-        "photos": [],
+        "total": 1735.65,
+        "photos": [
+          {
+            "src": "assets/stays/inni-room-960.webp",
+            "thumb": "assets/stays/inni-room-240.webp",
+            "mobile": "assets/stays/inni-room-640.webp",
+            "medium": "assets/stays/inni-room-480.webp",
+            "label": "INNI · 一卧室公寓 · 订单房型参考",
+            "category": "客厅",
+            "caption": "一卧室公寓 · 订单房型参考",
+            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
+            "width": 960,
+            "height": 686
+          },
+          {
+            "src": "assets/stays/inni-spa-960.webp",
+            "thumb": "assets/stays/inni-spa-240.webp",
+            "mobile": "assets/stays/inni-spa-640.webp",
+            "medium": "assets/stays/inni-spa-480.webp",
+            "label": "INNI · 住客共用 · 户外地热泡池",
+            "category": "地热泡池",
+            "caption": "住客共用 · 户外地热泡池",
+            "source": "https://www.inniapartments.is/outdoor-spa.html",
+            "width": 960,
+            "height": 843
+          },
+          {
+            "src": "assets/stays/inni-sauna-960.webp",
+            "thumb": "assets/stays/inni-sauna-240.webp",
+            "mobile": "assets/stays/inni-sauna-640.webp",
+            "medium": "assets/stays/inni-sauna-480.webp",
+            "label": "INNI · 住客共用 · 桑拿设施",
+            "category": "桑拿",
+            "caption": "住客共用 · 桑拿设施",
+            "source": "https://www.inniapartments.is/outdoor-spa.html",
+            "width": 960,
+            "height": 913
+          }
+        ],
         "status": "已预订",
-        "roomLayout": "公寓 · 厨房与私人浴室；具体房型以已订订单为准",
-        "cancellation": "取消条件以INNI实际预订订单为准",
+        "roomLayout": "1卧室 · 厨房与私人浴室",
+        "cancellation": "2027.2.8 23:59前免费取消",
         "notes": [
-          "2027年2月14日入住、2月15日退房，2位成人1晚；已预订INNI。",
-          "实际成交金额待补充；预算暂按¥1,000／人／晚计算，不沿用旧公寓房价。",
-          "地址：Frumskógar 3, 810 Hveragerði。泡池为住客共用，并非私人泡池。",
+          "2027年2月14日入住、2月15日退房；2位成人、1套一卧室公寓、1晚，不含餐食。",
+          "入住15:00–22:00，退房08:00–11:00；晚到请提前联系住宿。",
+          "订单原价€250.38，扣除Booking.com补贴€18.96后应付€231.42，含税费及清洁费；尚未付款，按订单安排自动扣款。人民币按€1≈¥7.5参考折算，最终以实际扣款为准。",
+          "2027年2月8日23:59前可免费取消（住宿当地时间）；2月9日00:00起取消费用€215.38，且不能更改入住日期。",
+          "地址：Frumskógar 3, 810 Hveragerði。每次预订含1辆车免费自助停车。",
+          "房价含每位成人每日Spa使用：两个住客共用户外地热泡池、桑拿与蒸汽房，并非公寓私人泡池。泡池与桑拿16:00–23:30开放，蒸汽房09:00–23:30开放，提供浴袍和拖鞋。",
           "附近可在Ölverk、Matkráin及The Greenhouse用晚餐；可步行前往，冬季按路况选择开车。",
           "2月14日取车后直接前往Hveragerði入住INNI；KEF机场出发冬季先预留约1.5–2小时，按当天路况调整。",
           "2月15日从Hveragerði出发前往塞里雅兰瀑布、斯科加瀑布和维克。"
         ],
-        "userNote": "已订INNI：可以泡汤，镇内吃饭方便。",
-        "budgetSummary": "Hveragerði镇内已订精品公寓，带厨房与住客共用泡池，方便晚餐及次日南岸出发。"
+        "userNote": "酒店公寓，可以泡汤",
+        "budgetSummary": "Hveragerði镇内的一卧室公寓，带厨房与免费停车，含住客共用地热泡池、桑拿和蒸汽房。",
+        "originalTotal": 231.42,
+        "currency": "EUR",
+        "conversionRate": 7.5,
+        "estimated": true
       },
       {
         "name": "Apartments Reykjavik",
