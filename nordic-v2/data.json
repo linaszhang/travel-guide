@@ -26,19 +26,19 @@
         ],
         "photos": [
           {
+            "label": "岩石教堂 · 岩壁与铜穹顶",
+            "src": "../nordic/assets/day-02-2.jpg",
+            "source": "https://temppeliaukionkirkko.fi/sv/index/forarrangorer.html"
+          },
+          {
+            "label": "Oodi中央图书馆 · 阅读大厅",
+            "src": "../nordic/assets/day-02-1.jpg",
+            "source": "https://www.dangerous-business.com/things-to-do-in-helsinki/"
+          },
+          {
             "label": "赫尔辛基大教堂",
             "src": "../nordic/assets/day-01-0.jpg",
             "source": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/"
-          },
-          {
-            "label": "赫尔辛基 · 南港",
-            "src": "../nordic/assets/day-01-1.jpg",
-            "source": "https://www.momondo.dk/flybilletter/helsinki"
-          },
-          {
-            "label": "赫尔辛基中央车站",
-            "src": "../nordic/assets/day-01-2.jpg",
-            "source": "https://www.rbc.ru/society/24/05/2023/646db5c89a7947776e18b70a"
           }
         ],
         "activities": [
@@ -1637,19 +1637,25 @@
         ],
         "photos": [
           {
-            "label": "Nyhavn 新港",
-            "src": "../nordic/assets/day-15-0.jpg",
-            "source": "https://foreverkaren.com/travel/copenhagen-cruise-port/"
-          },
-          {
             "label": "Amalienborg 阿美琳堡宫",
             "src": "../nordic/assets/day-15-1.jpg",
             "source": "https://www.ad-magazin.de/artikel/schloesser-der-daenischen-koenigsfamilie"
           },
           {
-            "label": "新港 · 水岸夜景",
-            "src": "../nordic/assets/day-15-2.jpg",
-            "source": "https://www.hellotickets.co.in/denmark/copenhagen/copenhagen-in-may/sc-202-4477"
+            "label": "腓特列教堂 · 室内建筑参考",
+            "src": "../nordic-v2/assets/architecture/frederiks-church-960.webp",
+            "thumb": "../nordic-v2/assets/architecture/frederiks-church-240.webp",
+            "srcset": "../nordic-v2/assets/architecture/frederiks-church-480.webp 480w, ../nordic-v2/assets/architecture/frederiks-church-640.webp 640w, ../nordic-v2/assets/architecture/frederiks-church-960.webp 960w",
+            "source": "https://www.marmorkirken.dk/",
+            "credit": "Marmorkirken / Mads Grønbeck, Tom Misiak m.fl."
+          },
+          {
+            "label": "FRAMA · 历史药房设计空间",
+            "src": "../nordic-v2/assets/architecture/frama-studio-960.webp",
+            "thumb": "../nordic-v2/assets/architecture/frama-studio-240.webp",
+            "srcset": "../nordic-v2/assets/architecture/frama-studio-480.webp 480w, ../nordic-v2/assets/architecture/frama-studio-640.webp 640w, ../nordic-v2/assets/architecture/frama-studio-960.webp 960w",
+            "source": "https://www.visitcopenhagen.com/copenhagen/planning/frama-gdk1106176",
+            "credit": "Frama Studio / PR photo / VisitCopenhagen"
           }
         ],
         "activities": [
@@ -1797,19 +1803,28 @@
         ],
         "photos": [
           {
-            "label": "Designmuseum Danmark",
-            "src": "../nordic/assets/day-16-0.jpg",
-            "source": "https://danishdesignreview.com/blog/2017/10/19/chairs-at-designmuseum-danmark"
+            "label": "黑钻图书馆 · 临水立面",
+            "src": "../nordic-v2/assets/architecture/black-diamond-exterior-960.webp",
+            "thumb": "../nordic-v2/assets/architecture/black-diamond-exterior-240.webp",
+            "srcset": "../nordic-v2/assets/architecture/black-diamond-exterior-480.webp 480w, ../nordic-v2/assets/architecture/black-diamond-exterior-640.webp 640w, ../nordic-v2/assets/architecture/black-diamond-exterior-960.webp 960w",
+            "source": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond",
+            "credit": "Laura Stamer / Royal Danish Library"
           },
           {
-            "label": "Strøget 步行街",
-            "src": "../nordic/assets/day-16-1.jpg",
-            "source": "https://lex.dk/hvid_jul"
+            "label": "黑钻图书馆 · 中庭曲线",
+            "src": "../nordic-v2/assets/architecture/black-diamond-atrium-960.webp",
+            "thumb": "../nordic-v2/assets/architecture/black-diamond-atrium-240.webp",
+            "srcset": "../nordic-v2/assets/architecture/black-diamond-atrium-480.webp 480w, ../nordic-v2/assets/architecture/black-diamond-atrium-640.webp 640w, ../nordic-v2/assets/architecture/black-diamond-atrium-960.webp 960w",
+            "source": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond",
+            "credit": "Laura Stamer / Royal Danish Library"
           },
           {
-            "label": "哥本哈根 · 夜色港湾",
-            "src": "../nordic/assets/day-16-2.jpg",
-            "source": "https://viajesviatamundo.com/tour/tour-por-dinamarca-y-noruega/?srsltid=AfmBOorvqddkdbxtM7t3JZhZ5CLBxUwiRNjwgzQg-TO4GLvpaZA2g82y"
+            "label": "丹麦设计博物馆 · 建筑庭院",
+            "src": "../nordic-v2/assets/architecture/designmuseum-courtyard-960.webp",
+            "thumb": "../nordic-v2/assets/architecture/designmuseum-courtyard-240.webp",
+            "srcset": "../nordic-v2/assets/architecture/designmuseum-courtyard-480.webp 480w, ../nordic-v2/assets/architecture/designmuseum-courtyard-640.webp 640w, ../nordic-v2/assets/architecture/designmuseum-courtyard-960.webp 960w",
+            "source": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
+            "credit": "Designmuseum Danmark"
           }
         ],
         "activities": [

@@ -1548,12 +1548,12 @@
     "kind": "attraction",
     "countryId": "denmark",
     "countryName": "丹麦",
-    "image": "../nordic/assets/day-16-0.jpg",
-    "imageLabel": "FRAMA Studio Store",
-    "imageSource": "https://us.framacph.com/blogs/stores/frama-studio-store",
+    "image": "../nordic-v2/assets/architecture/frama-studio-960.webp",
+    "imageLabel": "FRAMA · 历史药房设计空间",
+    "imageSource": "https://www.visitcopenhagen.com/copenhagen/planning/frama-gdk1106176",
     "description": "历史药房里的家具、灯具、香氛与生活设计店。",
     "rating": null,
-    "imageReference": true
+    "imageCredit": "Frama Studio / PR photo / VisitCopenhagen"
   },
   {
     "id": "p-frederik",
@@ -1569,12 +1569,12 @@
     "kind": "attraction",
     "countryId": "denmark",
     "countryName": "丹麦",
-    "image": "../nordic/assets/day-15-1.jpg",
-    "imageLabel": "Frederik’s Church 腓特列教堂",
-    "imageSource": "https://www.visitcopenhagen.com",
+    "image": "../nordic-v2/assets/architecture/frederiks-church-960.webp",
+    "imageLabel": "腓特列教堂 · 室内建筑参考",
+    "imageSource": "https://www.marmorkirken.dk/",
     "description": "阿美琳堡宫附近的穹顶教堂，主行程安排外观。",
     "rating": null,
-    "imageReference": true
+    "imageCredit": "Marmorkirken / Mads Grønbeck, Tom Misiak m.fl."
   },
   {
     "id": "p-illums",
@@ -1611,12 +1611,12 @@
     "kind": "attraction",
     "countryId": "denmark",
     "countryName": "丹麦",
-    "image": "../nordic/assets/day-15-0.jpg",
-    "imageLabel": "Black Diamond 黑钻图书馆",
-    "imageSource": "https://www.kb.dk/en/visit-us/black-diamond-copenhagen",
+    "image": "../nordic-v2/assets/architecture/black-diamond-exterior-960.webp",
+    "imageLabel": "黑钻图书馆 · 临水立面",
+    "imageSource": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond",
     "description": "临水黑色建筑与通透中庭，公共区域免费。",
     "rating": null,
-    "imageReference": true
+    "imageCredit": "Laura Stamer / Royal Danish Library"
   },
   {
     "id": "p-charlottenlund",
