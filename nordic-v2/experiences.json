@@ -250,20 +250,20 @@
     "day": 9,
     "title": "Blue Lagoon 蓝湖 · Comfort",
     "location": "冰岛 · 雷克雅内斯半岛",
-    "duration": "2.14 16:00入场 · 建议预留2–2.5h",
+    "duration": "原预约2.14 16:00 · 已从行程排除",
     "price": 1059.8,
-    "intro": "抵达冰岛取车后先去蓝湖，在熔岩地貌与乳蓝色温泉中放松，再前往雷克雅未克入住。",
-    "meeting": "2月14日16:00在Blue Lagoon接待处入场，订单允许预订时刻起1小时内入场。",
+    "intro": "本次行程已排除蓝湖温泉，抵达冰岛后直接前往Hveragerði的INNI精品公寓休息、泡汤。保留原Comfort票种及订单参考资料。",
+    "meeting": "原预约：2月14日16:00在Blue Lagoon接待处入场，允许预约时刻起1小时内入场；当前不安排前往。",
     "includes": [
       "Comfort入场、毛巾、硅泥面膜",
       "池畔吧1杯指定无酒精饮品",
       "桑拿、蒸汽浴及电子储物柜手环"
     ],
     "notes": [
-      "带泳衣；额外餐饮与升级项目另计。",
-      "14:20落地后直接取车前往蓝湖；航班延误时按订单联系运营方。"
+      "已从本次行程及预算排除；保留原预订资料，取消及退款状态以平台订单为准。",
+      "2月14日取车后直接前往Hveragerði的INNI精品公寓，使用公寓住客共用泡池。"
     ],
-    "priceNote": "已预订，¥1,059.8／人。",
+    "priceNote": "原预订金额¥1,059.80／人；当前不计入游玩项目小计及总预算。排除行程不代表已取消订单或已收到退款，订单状态以预订平台为准。",
     "url": "https://www.getyourguide.com/reykjavik-l30/blue-lagoon-admission-package-with-drink-towel-and-mask-t393203/",
     "operator": "Blue Lagoon",
     "photos": [
@@ -276,7 +276,8 @@
         "label": "蓝湖与熔岩地貌"
       }
     ],
-    "booked": true
+    "booked": true,
+    "excluded": true
   },
   {
     "id": "katla-ice-cave",

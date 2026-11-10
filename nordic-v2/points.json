@@ -1220,9 +1220,7 @@
   {
     "query": "Blue Lagoon Iceland",
     "name": "蓝湖温泉",
-    "days": [
-      9
-    ],
+    "days": [],
     "kind": "spa",
     "coord": [
       -22.4443196,
