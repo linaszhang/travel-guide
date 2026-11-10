@@ -133,3 +133,5 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .day-lodging{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;row-gap:14px}.day-lodging>div{grid-column:1/-1;min-width:0}.day-lodging .stay-card-photo,.day-lodging .stay-icon{grid-column:1;grid-row:2;justify-self:start}.day-lodging .stay-card-price{grid-column:2;grid-row:2;justify-self:end}.day-lodging .stay-icon{display:block}
 
 .stay-recommendation-legend{margin:6px 0 0;color:var(--muted);font-size:11px;line-height:1.6}
+
+.budget-stay>.stay-budget-description{grid-column:1/-1;min-width:0;margin:0;white-space:normal}
