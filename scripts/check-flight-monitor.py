@@ -23,5 +23,12 @@ for f in d['flights']:
   assert abs(q['baseCny']/d['passengers']-q['perPersonCny'])<.01
   assert q.get('seats') is None or type(q['seats']) is int and q['seats']>=0
   assert q['url'].startswith('https://flights.ctrip.com/')
- assert f['google']['judgment'] in [None,'低','正常','高']
+ g=f['google']
+ assert g['judgment'] in [None,'低','正常','高']
+ assert datetime.fromisoformat(g['checkedAt']).tzinfo
+ assert g.get('judgmentScope') in [None,'route','flight']
+ assert g['baseCny'] is None or math.isfinite(g['baseCny']) and g['baseCny']>0
+ if g.get('typicalRange') is not None: assert len(g['typicalRange'])==2 and 0<g['typicalRange'][0]<g['typicalRange'][1]
+ if g.get('status')=='no_matching_itinerary': assert g['baseCny'] is None and g['judgment'] is None
+ if g.get('judgmentScope')=='route': assert g.get('insightUrl','').startswith('https://www.google.com/travel/flights/')
 print('Validated 5 routes: prices, budgets, timestamps, baggage, inventory, and source links.')

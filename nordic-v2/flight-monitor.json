@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T18:00:00+08:00",
-  "lastAttemptAt": "2026-11-10T18:12:00+08:00",
+  "updatedAt": "2026-11-10T19:11:30+08:00",
+  "lastAttemptAt": "2026-11-10T19:11:30+08:00",
   "schedule": {
     "time": "10:00",
     "timezone": "Asia/Shanghai",
@@ -43,12 +43,21 @@
       },
       "ctripStatus": "含税起价已查到；托运与票档余票待核实",
       "google": {
-        "checkedAt": "2026-11-10T18:00:00+08:00",
+        "checkedAt": "2026-11-10T19:11:30+08:00",
         "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpAEgoyMDI3LTAyLTA2IiAKA1BWRxIKMjAyNy0wMi0wNhoDSEVMKgJITzIEMTYwN2oHCAESA1BWR3IHCAESA0hFTEABQAFIAXABggELCP___________wGYAQI&tfu=ClhDalJJWDFjemNYa3lSRFk0UjNkQlJXTktSR2RDUnkwdExTMHRMWE50ZFhZeE9TMXVNVUZCUVVGQlIzSjVOVGxSUWxSek16SkJFZ1pJVHpFMk1EYzRIQT09EgIIACIDCgEw&hl=zh-CN&curr=CNY&gl=HK",
         "judgment": "正常",
-        "baseCny": null,
-        "typicalRange": null,
-        "note": "航线搜索页整体判断；未核实为该票档的含托运判断。"
+        "baseCny": 12491,
+        "typicalRange": [
+          7200,
+          9900
+        ],
+        "note": "报价为HO1607；区间与判断针对航线市场低价，非该航班专属判断；托运未核实。",
+        "judgmentScope": "route",
+        "provider": "Alitrip",
+        "status": "verified",
+        "currency": "CNY",
+        "passengers": 2,
+        "insightUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTA2agcIARIDUFZHcgcIARIDSEVMQAFAAUgBcAGCAQsI____________AZgBAg&tfu=EgIIACIA&hl=zh-CN&gl=HK&curr=CNY"
       },
       "strategy": {
         "action": "先确认托运行李",
@@ -110,15 +119,20 @@
       },
       "ctripStatus": "含税起价已查到；托运与票档余票待核实",
       "google": {
-        "checkedAt": "2026-11-10T18:00:00+08:00",
+        "checkedAt": "2026-11-10T19:11:30+08:00",
         "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTA3Ih8KA0hFTBIKMjAyNy0wMi0wNxoDVE9TKgJBWTIDOTM1agcIARIDSEVMcgcIARIDVE9TQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJVjFWS01GQlVRbXhCYUVsQlJXVkliV2RDUnkwdExTMHRMUzB0YzJWaVluTXlORUZCUVVGQlIzSjVOa2QzVGxSWmVGRkJFZ1ZCV1Rrek5Sb0tDSTBjRUFBYUEwTk9XVGdjY0pHbEF3PT0SAggAIgA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": "正常",
-        "baseCny": 3597,
+        "baseCny": 3594,
         "typicalRange": [
           1650,
           4750
         ],
-        "note": "两人基础票价，托运行李另付；不能直接与含托运报价比较。"
+        "note": "AY935基础票价，不含托运行李。",
+        "judgmentScope": "flight",
+        "provider": "Finnair",
+        "status": "verified",
+        "currency": "CNY",
+        "passengers": 2
       },
       "strategy": {
         "action": "先确认托运行李",
@@ -180,12 +194,15 @@
       },
       "ctripStatus": "含税起价已查到；托运与票档余票待核实",
       "google": {
-        "checkedAt": "2026-11-10T18:00:00+08:00",
-        "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTE0agcIARIDVE9TcgcIARIDS0VGQAFAAUgBcAGCAQsI____________AZgBAg&tfu=IgA&hl=zh-CN&gl=HK&curr=CNY",
+        "checkedAt": "2026-11-10T19:11:30+08:00",
+        "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI3LTAyLTE0agcIARIDVE9TcgcIARIDS0VGegNCR09AAUABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAAiAA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": null,
         "baseCny": null,
         "typicalRange": null,
-        "note": "Google 未返回经卑尔根的原组合；不采用其他中转路线的判断。"
+        "note": "2.14仅筛选卑尔根后，Google未返回WF621＋FI335组合。",
+        "judgmentScope": null,
+        "provider": null,
+        "status": "no_matching_itinerary"
       },
       "strategy": {
         "action": "先确认托运行李",
@@ -247,15 +264,20 @@
       },
       "ctripStatus": "含税起价已查到；托运与票档余票待核实",
       "google": {
-        "checkedAt": "2026-11-10T18:00:00+08:00",
+        "checkedAt": "2026-11-10T19:11:30+08:00",
         "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTE5Ih8KA0tFRhIKMjAyNy0wMi0xORoDQ1BIKgJGSTIDMjA0agcIARIDS0VGcgcIARIDQ1BIQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJT0RsWGNqRjJValYzWlZsQlJWWnZkbmRDUnkwdExTMHRjMlZpZFc0eE5pMXVNVUZCUVVGQlIzSjVObWRCUkVGTFMwTkJFZ1ZHU1RJd05Cb0tDTDRhRUFBYUEwTk9XVGdjY1BPTUF3PT0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": "正常",
-        "baseCny": 3390,
+        "baseCny": 3268,
         "typicalRange": [
           2400,
           8600
         ],
-        "note": "判断对应Economy Light基础票价，托运行李另付。"
+        "note": "FI204基础票价，托运行李未核实。",
+        "judgmentScope": "flight",
+        "provider": "Alitrip",
+        "status": "verified",
+        "currency": "CNY",
+        "passengers": 2
       },
       "strategy": {
         "action": "先确认托运行李",
@@ -317,12 +339,21 @@
       },
       "ctripStatus": "含税起价已查到；托运与票档余票待核实",
       "google": {
-        "checkedAt": "2026-11-10T18:00:00+08:00",
+        "checkedAt": "2026-11-10T19:11:30+08:00",
         "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTIwIh8KA0NQSBIKMjAyNy0wMi0yMBoDUFZHKgJNVTIDNzA4agcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=ClRDalJJTlZsc2IwWlpSM290WTFWQlFYaDBTR2RDUnkwdExTMHRMUzB0TFhSc1ltVnVOa0ZCUVVGQlIzSjVObXN3U1ZGTVQxRkJFZ1ZOVlRjd09EZ2MSAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
-        "judgment": null,
-        "baseCny": null,
-        "typicalRange": null,
-        "note": "尚未取得同款航班的价格高低判断。"
+        "judgment": "低",
+        "baseCny": 8540,
+        "typicalRange": [
+          6700,
+          11000
+        ],
+        "note": "报价为MU708；航线低价判断含中转选项，不代表该直飞处于低位；托运未核实。",
+        "judgmentScope": "route",
+        "provider": "Alitrip",
+        "status": "verified",
+        "currency": "CNY",
+        "passengers": 2,
+        "insightUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTIwagcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=EgIIACIA&hl=zh-CN&gl=HK&curr=CNY"
       },
       "strategy": {
         "action": "先确认托运行李",

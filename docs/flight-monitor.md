@@ -35,6 +35,8 @@
 
 国内站无法取得完整票档时，允许查询Trip.com（携程国际版）或航司官网补充，必须注明真实来源，不能冒充国内站。已有latest.url为可用入口。进入票档选择属于只读询价，不创建订单、不付款、不提交乘客资料。登录/验证码或风控导致阻碍时记录失败，不绕过安全措施。
 
+Google Flights的报价与高低判断独立采集，不能因缺少判断而遗漏已查到的同款报价。先看同款booking页的最低总价、来源与价格分析；若booking页无判断，返回同日期搜索页，展开“价格分析”读取通常区间。搜索页航线最低价判断使用judgmentScope=route，并保留insightUrl、注明含中转等范围；booking页明确针对所选票价时使用judgmentScope=flight。无法匹配原组合时尝试中转机场筛选；确认无结果后使用status=no_matching_itinerary并说明，不能笼统标“待核实”。成功采集用status=verified，保留checkedAt和provider。
+
 Google Flights使用google.url进入，对同航班记录平台原始“低/正常/高”、baseCny和typicalRange（两人）、所依据行李与票档及checkedAt。Google航线总体判断只能标明航线总体，不写成单航班判断。未返回原组合时judgment=null。基础票不含托运的区间必须注明，不能直接套用含托运价格；不同路线不得混用。无法核实的字段设null并说明，不能把旧结果刷新为今天。
 
 ## 写入规则
