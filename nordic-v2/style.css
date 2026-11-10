@@ -155,12 +155,8 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .budget-stay:has(+.stay-country-heading){border-bottom:0}
 @media(max-width:860px){.budget-section>.stay-country-heading{margin:0 18px;font-size:11px}}
 
-.activity-navigation{margin:10px 0}
-.activity-navigation .copy{margin:5px 0;line-height:1.8}
-.activity-navigation .navigation-note{font-size:12px;color:var(--muted)}
 .drive-tags{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}
 .drive-tag,.photo-note .note-label{display:inline-flex;align-items:center;min-height:22px;padding:2px 8px;font-size:10px;line-height:18px;border-radius:20px}
 .drive-tag{max-width:100%;background:#f1eee7;color:#75716a;white-space:normal;text-decoration:none}
-@media(max-width:860px){.activity-navigation .navigation-note{font-size:11px}}
 
 .day-heading-flow .heading-info>.drive-estimate-note{font-size:10px;line-height:1.7;margin-top:3px;color:var(--muted);white-space:normal}

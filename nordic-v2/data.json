@@ -51,7 +51,7 @@
             "title": "浦东 → 赫尔辛基 · 直飞",
             "body": [
               {
-                "t": "2月6日出发，08:40从浦东起飞，当地12:55抵达赫尔辛基。按图中起降时刻与两地7小时时差计算，全程约11h15m；图片标注的“10h”为概数，实际以机票确认为准。",
+                "t": "2月6日出发，08:40从浦东机场起飞，当地12:55抵达赫尔辛基机场。按图中起降时刻与两地7小时时差计算，全程约11h15m；图片标注的“10h”为概数，实际以机票确认为准。",
                 "links": []
               },
               {
@@ -87,7 +87,8 @@
                   "label": "赫尔辛基机场",
                   "query": "Helsinki Airport"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -133,7 +134,8 @@
                   "label": "Oodi中央图书馆",
                   "query": "Oodi Helsinki"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -158,7 +160,8 @@
                   "label": "Kamppi",
                   "query": "Kamppi Helsinki"
                 }
-              ]
+              ],
+              "description": ""
             }
           }
         ],
@@ -822,7 +825,7 @@
             "title": "赫尔辛基 → 特罗姆瑟 · 飞行2h",
             "body": [
               {
-                "t": "07:35赫尔辛基起飞，08:35抵达特罗姆瑟；两地时差1小时，实际飞行2小时。",
+                "t": "07:35赫尔辛基机场起飞，08:35抵达特罗姆瑟机场；两地时差1小时，实际飞行2小时。",
                 "links": []
               },
               {
@@ -858,7 +861,8 @@
                   "label": "特罗姆瑟机场",
                   "query": "Tromsø Airport"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -870,7 +874,7 @@
             "title": "机场取车 · 早餐与补给",
             "body": [
               {
-                "t": "取行李、验车，确认冬胎与保险；买好水和简餐，约10:15出发。",
+                "t": "在特罗姆瑟机场取行李、验车，确认冬胎与保险；买好水和简餐，约10:15出发。",
                 "links": []
               }
             ],
@@ -880,7 +884,8 @@
                   "label": "特罗姆瑟机场",
                   "query": "Tromsø Airport"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -931,7 +936,8 @@
                   "query": "Ersfjordbotn viewpoint parking Norway"
                 }
               ],
-              "note": "到村口有标示的停车区后步行看峡湾；导航结果与现场标牌核对，勿停私人车道。"
+              "note": "到村口有标示的停车区后步行看峡湾；导航结果与现场标牌核对，勿停私人车道。",
+              "description": "到Ersfjordbotn观景停车区停车，再步行看峡湾；不占用村民车道。"
             },
             "drives": [
               {
@@ -980,7 +986,8 @@
               "sources": [
                 "https://www.tromsooutdoor.no/no/kontakt",
                 "https://www.visittromso.no/travel/getting-around/parking"
-              ]
+              ],
+              "description": "门店在Fredrik Langes gate 14，可将车停在Fjellet P-hus后步行取还雪具。"
             },
             "drives": [
               {
@@ -1004,7 +1011,7 @@
             "title": "Fjellheisen 缆车 · 日落与蓝调",
             "body": [
               {
-                "t": "14:00到下站，预留停车与排队；争取14:30上山、15:00前登顶，约16:30下山。 乘缆车上下；出发前确认运营与停车，低云或停运改港口散步。",
+                "t": "14:00前到Fjellheisen下站（Solliveien 12）。目前下站不可停车，将车停在Solstrandvegen 30临时停车场，步行约5分钟到站；争取14:30上山、15:00前登顶，约16:30下山。出发前确认运营与停车，低云或停运改港口散步。",
                 "links": []
               },
               {
@@ -1046,7 +1053,8 @@
               "note": "下站：Solliveien 12。官网目前提示下站不可停车，临时停车地址Solstrandvegen 30，步行约5分钟；出发前复核施工和停车调整。",
               "sources": [
                 "https://www.fjellheisen.no/"
-              ]
+              ],
+              "description": ""
             },
             "drives": [
               {
@@ -1070,7 +1078,7 @@
             "title": "老港口／Skansen · 晚餐后入住 EIRA Fjord Stay",
             "body": [
               {
-                "t": "港口短逛30–45分钟，晚餐后自驾返回峡湾民宿；提前确认入住时间。",
+                "t": "在Fjellet P-hus停车后，步行逛Skansen老港口30–45分钟；晚餐后自驾回EIRA Fjord Stay（Fagernesvegen 220），入住入口与时间按房东指引。",
                 "links": []
               }
             ],
@@ -1091,7 +1099,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "市区停车后步行逛港口；EIRA公开地址为Fagernesvegen 220，最终入口按房东指引，避免误选地图上的同名Eira宾馆。"
+              "note": "市区停车后步行逛港口；EIRA公开地址为Fagernesvegen 220，最终入口按房东指引，避免误选地图上的同名Eira宾馆。",
+              "description": ""
             },
             "drives": [
               {
@@ -1197,7 +1206,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "滑雪后开回租赁店还装备；公园只使用标示停车位。"
+              "note": "滑雪后开回租赁店还装备；公园只使用标示停车位。",
+              "description": "可在Charlottenlund停车区停好车后去雪道；还装备时停Fjellet P-hus，步行到Tromsø Outdoor。"
             },
             "drives": [
               {
@@ -1278,7 +1288,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "市区停车后步行到Samuel Arnesens gate 5一楼巴士总站；营地段乘运营方巴士，不自行开往营地。"
+              "note": "市区停车后步行到Samuel Arnesens gate 5一楼巴士总站；营地段乘运营方巴士，不自行开往营地。",
+              "description": "将车停在Fjellet P-hus后，步行到Prostneset巴士总站候车，营地段乘运营方巴士。"
             }
           },
           {
@@ -1337,7 +1348,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "桑拿位置Skippergata 1C；可沿用市区停车位，活动后取车回民宿。"
+              "note": "桑拿位置Skippergata 1C；可沿用市区停车位，活动后取车回民宿。",
+              "description": "Pust位于Skippergata 1C，可沿用Fjellet P-hus的停车位，桑拿后取车回民宿。"
             },
             "drives": [
               {
@@ -1407,7 +1419,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "码头在Killengreens gate 7–11前方，停车后步行到船外集合。"
+              "note": "码头在Killengreens gate 7–11前方，停车后步行到船外集合。",
+              "description": "将车停在Fjellet P-hus，步行到Front Pier，在Killengreens gate 7–11前方码头集合。"
             },
             "drives": [
               {
@@ -1486,7 +1499,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "集合以订单中的Front Pier为准，不前往其他游船码头。"
+              "note": "集合以订单中的Front Pier为准，不前往其他游船码头。",
+              "description": "市区停车可选Fjellet P-hus，步行到Front Pier登船，以订单中的集合码头为准。"
             }
           },
           {
@@ -1509,7 +1523,8 @@
                   "query": "Botnhamn Senja Norway"
                 }
               ],
-              "note": "房源最终入口按房东指引；陆路经Finnsnes，不把轮渡班次计入保底路线。"
+              "note": "房源最终入口按房东指引；陆路经Finnsnes，不把轮渡班次计入保底路线。",
+              "description": "入住Botnhamn民宿的最终入口按房东指引，陆路路线经Finnsnes。"
             },
             "drives": [
               {
@@ -1608,7 +1623,8 @@
                   "query": "Hesten trailhead parking Fjordgard Senja Norway"
                 }
               ],
-              "note": "停车及出发点先与冬季向导确认；导航到徒步起点，不导航到Segla山顶。"
+              "note": "停车及出发点先与冬季向导确认；导航到徒步起点，不导航到Segla山顶。",
+              "description": "导航到Fjordgård的Hesten徒步起点，在Fjordgård徒步停车区停车；实际集合位置先与冬季向导确认。"
             },
             "drives": [
               {
@@ -1645,7 +1661,8 @@
                   "label": "Botnhamn",
                   "query": "Botnhamn Senja Norway"
                 }
-              ]
+              ],
+              "description": ""
             },
             "drives": [
               {
@@ -1735,7 +1752,8 @@
               "sources": [
                 "https://www.nasjonaleturistveger.no/en/routes/senja/tungeneset/",
                 "https://www.nasjonaleturistveger.no/no/turistvegene/senja/ersfjordstranda/"
-              ]
+              ],
+              "description": "沿途分别使用Ersfjordstranda停车区、Tungeneset停车区和Bergsbotn停车区，停好车再步行到海滩或观景平台。"
             },
             "drives": [
               {
@@ -1798,7 +1816,8 @@
                   "query": "Bjerkvik Norway"
                 }
               ],
-              "note": "住宿入口与停车位置按房东指引；本段走陆路。"
+              "note": "住宿入口与停车位置按房东指引；本段走陆路。",
+              "description": "目的地为The Chess House，住宿入口和停车位置按房东指引。"
             },
             "drives": [
               {
@@ -1891,7 +1910,8 @@
               "note": "Reine推荐Ytre Havn外港停车后步行；Hamnøy和Sakrisøy仅停标示公共车位，不停桥上或私人渔屋车位。",
               "sources": [
                 "https://reinebringen.no/parking/"
-              ]
+              ],
+              "description": "Hamnøy和Sakrisøy只停标示公共车位，可分别查看Hamnøy观景停车区、Sakrisøy停车区；到Reine后推荐停Reine外港停车场，再步行逛村。"
             },
             "drives": [
               {
@@ -1971,7 +1991,8 @@
               "note": "海滩择一；Nusfjord为可选支线，先确认支路可通行。",
               "sources": [
                 "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/"
-              ]
+              ],
+              "description": "海滩停车可选Rambergstranda停车区或Skagsanden停车区；若加Nusfjord支线，使用Nusfjord游客停车区。"
             },
             "drives": [
               {
@@ -2026,7 +2047,8 @@
                   "query": "Lofoten Rorbuer Svolvaer Norway"
                 }
               ],
-              "note": "使用住宿确认的停车位，勿占用港口作业车道。"
+              "note": "使用住宿确认的停车位，勿占用港口作业车道。",
+              "description": "抵达Lofoten Rorbuer后使用住宿确认的车位，别占用港口作业车道。"
             },
             "drives": [
               {
@@ -2109,7 +2131,8 @@
               "note": "在村口大停车区停车，再步行逛港口与桥梁。",
               "sources": [
                 "https://visitlofoten.com/en/destination/henningsvaer/"
-              ]
+              ],
+              "description": "把车停在Henningsvær入口停车区，再步行逛港口与桥梁。"
             },
             "drives": [
               {
@@ -2150,7 +2173,8 @@
                   "query": "Kabelvag parking Norway"
                 }
               ],
-              "note": "使用镇内标示公共车位，步行到港口。"
+              "note": "使用镇内标示公共车位，步行到港口。",
+              "description": "可在Kabelvåg港口停车区停车，沿港口短走一圈。"
             },
             "drives": [
               {
@@ -2188,7 +2212,8 @@
                   "label": "Super central studio apartment",
                   "query": "Super central studio apartment Tromso Norway"
                 }
-              ]
+              ],
+              "description": "抵达后前往Super central studio apartment，最终入口按房东指引。"
             },
             "drives": [
               {
@@ -2232,7 +2257,8 @@
                   "query": "Fjellet P-hus Tromso"
                 }
               ],
-              "note": "公寓停车是否包含在订单内需核对；不含时可用市区公共停车库。"
+              "note": "公寓停车是否包含在订单内需核对；不含时可用市区公共停车库。",
+              "description": "若公寓订单不含停车，可使用Fjellet P-hus，再步行前往住处。"
             }
           }
         ],
@@ -2289,7 +2315,7 @@
             "title": "特罗姆瑟 → 卑尔根中转 → 雷克雅未克",
             "body": [
               {
-                "t": "07:50特罗姆瑟出发，经卑尔根中转2h50m，14:20抵达KEF机场。起降均为当地时间。",
+                "t": "07:50特罗姆瑟机场出发，经卑尔根中转2h50m，14:20抵达KEF机场。起降均为当地时间。",
                 "links": []
               },
               {
@@ -2325,7 +2351,8 @@
                   "label": "KEF机场",
                   "query": "Keflavik International Airport Iceland"
                 }
-              ]
+              ],
+              "description": ""
             },
             "drives": [
               {
@@ -2360,7 +2387,8 @@
                   "query": "Blue Car Rental Blikavollur 3 Keflavik Iceland"
                 }
               ],
-              "note": "Blikavöllur 3，按Zero Car／Blue Car Rental交付指引找办公室。"
+              "note": "Blikavöllur 3，按Zero Car／Blue Car Rental交付指引找办公室。",
+              "description": "导航到Blikavöllur 3的Zero Car取还车点，按Zero Car／Blue Car Rental标识找交付办公室。"
             }
           },
           {
@@ -2401,7 +2429,8 @@
                   "query": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland"
                 }
               ],
-              "note": "公寓地址Frumskógar 3，使用住宿车位；餐厅择一，可步行前往。"
+              "note": "公寓地址Frumskógar 3，使用住宿车位；餐厅择一，可步行前往。",
+              "description": "INNI精品公寓在Frumskógar 3，使用住宿车位；晚餐可步行去Ölverk、Matkráin或The Greenhouse，择一即可。"
             },
             "drives": [
               {
@@ -2487,7 +2516,8 @@
                   "query": "Seljalandsfoss parking Iceland"
                 }
               ],
-              "note": "导航到瀑布入口停车场，停车后步行到观景步道。"
+              "note": "导航到瀑布入口停车场，停车后步行到观景步道。",
+              "description": "导航到塞里雅兰停车场，停好车后步行到瀑布观景步道。"
             },
             "drives": [
               {
@@ -2552,7 +2582,8 @@
                   "query": "Skogafoss parking Iceland"
                 }
               ],
-              "note": "在瀑布入口配套停车场停车，步行至正面观景区。"
+              "note": "在瀑布入口配套停车场停车，步行至正面观景区。",
+              "description": "将车停在斯科加停车场，步行至瀑布正面观景区。"
             },
             "drives": [
               {
@@ -2631,7 +2662,8 @@
                   "query": "Black Beach Suites Iceland"
                 }
               ],
-              "note": "冰川为可选短停；需从停车场步行到观景处，不自行踏上冰面。"
+              "note": "冰川为可选短停；需从停车场步行到观景处，不自行踏上冰面。",
+              "description": "维克教堂可使用维克教堂停车区；若顺路看Sólheimajökull，导航到冰川步道停车场后步行观景。晚上回Black Beach Suites，使用住宿车位。"
             },
             "drives": [
               {
@@ -2747,7 +2779,8 @@
                   "query": "Reynisfjara parking Iceland"
                 }
               ],
-              "note": "使用Reynisfjara入口停车场，按现场通行范围进入海滩。"
+              "note": "使用Reynisfjara入口停车场，按现场通行范围进入海滩。",
+              "description": "将车停在黑沙滩停车场，再按现场通行范围进入Reynisfjara。"
             },
             "drives": [
               {
@@ -2785,7 +2818,8 @@
                   "label": "维克加油站",
                   "query": "N1 Vik Iceland"
                 }
-              ]
+              ],
+              "description": "可在维克加油站完成补给后继续东行。"
             },
             "drives": [
               {
@@ -2846,7 +2880,8 @@
                   "query": "REY Stays House Hofn Iceland"
                 }
               ],
-              "note": "可选短停只在开放、可识别的停车区进行，熔岩原不路边随停；住所导航按房东入口。"
+              "note": "可选短停只在开放、可识别的停车区进行，熔岩原不路边随停；住所导航按房东入口。",
+              "description": "教堂镇附近可在阶梯瀑布停车区或熔岩原观景停车区短停，支路未开放就跳过；抵达REY Stays后按房东指引停车。"
             },
             "drives": [
               {
@@ -2936,7 +2971,8 @@
                   "query": "Troll Expeditions Skaftafell Hof Iceland"
                 }
               ],
-              "note": "导航Tröll基地而非Skaftafell国家公园游客中心；West of Hofgarður，785 Hof。"
+              "note": "导航Tröll基地而非Skaftafell国家公园游客中心；West of Hofgarður，785 Hof。",
+              "description": "直接导航到Hof冰洞集合点的Tröll基地，地址为West of Hofgarður，785 Hof；使用基地停车场，不去Skaftafell游客中心。"
             },
             "drives": [
               {
@@ -3007,7 +3043,8 @@
                   "query": "Troll Expeditions Skaftafell Hof Iceland"
                 }
               ],
-              "note": "基地有停车场与洗手间，按订单提前20分钟到场。"
+              "note": "基地有停车场与洗手间，按订单提前20分钟到场。",
+              "description": "在Tröll基地停车，按订单提前20分钟到场；现场有洗手间。"
             }
           },
           {
@@ -3085,7 +3122,8 @@
               "note": "Fjallsárlón为可选短停；冰河湖选择Jökulsárlón Glacier Lagoon Parking主停车场，不选远处的Carpark to Jökulsárlón。",
               "sources": [
                 "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon/b4-fjallsarlon"
-              ]
+              ],
+              "description": "Fjallsárlón可在Fjallsárlón停车场短停；冰河湖使用Jökulsárlón Glacier Lagoon Parking主停车场，再步行到湖岸。"
             },
             "drives": [
               {
@@ -3171,7 +3209,8 @@
               "note": "使用Diamond Beach Parking South（Eystri-Fellsfjara东侧）停车；也可从湖边沿桥下访客通道步行，勿横穿1号公路。",
               "sources": [
                 "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon"
-              ]
+              ],
+              "description": "将车停在Diamond Beach Parking South，再步行到钻石沙滩；也可从湖边沿桥下访客通道走过来，不横穿1号公路。"
             },
             "drives": [
               {
@@ -3254,7 +3293,8 @@
               "note": "先到Viking Café入口购票，再按园区指引进入指定停车区。",
               "sources": [
                 "https://www.vestrahorn.is/map"
-              ]
+              ],
+              "description": "先到Viking Café入口购票，再按园区指引驶入Stokksnes园内停车区。"
             },
             "drives": [
               {
@@ -3316,7 +3356,8 @@
               "note": "仅在开放的园内停车点停车，再步行到黑沙丘和海滩。",
               "sources": [
                 "https://www.vestrahorn.is/map"
-              ]
+              ],
+              "description": "使用Stokksnes园内停车区，再步行到黑沙丘与海滩。"
             }
           },
           {
@@ -3345,7 +3386,8 @@
                   "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
                 }
               ],
-              "note": "长途西返的终点为凯夫拉维克港口旁的Hotel Berg，地址Bakkavegur 17；使用酒店停车位。"
+              "note": "长途西返的终点为凯夫拉维克港口旁的Hotel Berg，地址Bakkavegur 17；使用酒店停车位。",
+              "description": "终点为凯夫拉维克港口旁的Hotel Berg，地址Bakkavegur 17，抵达后使用酒店停车位。"
             },
             "drives": [
               {
@@ -3385,7 +3427,8 @@
                   "query": "Hotel Berg Bakkavegur 17 Keflavik Iceland"
                 }
               ],
-              "note": "酒店提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。"
+              "note": "酒店提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。",
+              "description": "Hotel Berg提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。"
             }
           }
         ],
@@ -3467,7 +3510,8 @@
                   "query": "Keflavik International Airport Iceland"
                 }
               ],
-              "note": "还车点Blikavöllur 3；清晨钥匙箱和航站楼接驳安排提前与车行确认。"
+              "note": "还车点Blikavöllur 3；清晨钥匙箱和航站楼接驳安排提前与车行确认。",
+              "description": "导航到Blikavöllur 3的Zero Car取还车点，提前与车行确认清晨钥匙箱和前往航站楼的安排。"
             },
             "drives": [
               {
@@ -3491,7 +3535,7 @@
             "title": "雷克雅未克 ✈️ 哥本哈根",
             "body": [
               {
-                "t": "2月19日雷克雅未克（凯夫拉维克机场）07:30起飞，哥本哈根11:45抵达，直飞3h15m，¥1,692／人；时刻均为当地时间。",
+                "t": "2月19日雷克雅未克（凯夫拉维克机场）07:30起飞，哥本哈根机场11:45抵达，直飞3h15m，¥1,692／人；时刻均为当地时间。",
                 "links": []
               },
               {
@@ -3527,7 +3571,8 @@
                   "label": "哥本哈根机场",
                   "query": "Copenhagen Airport"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3579,7 +3624,8 @@
                   "label": "Aperon",
                   "query": "Aperon Pustervig 8 Copenhagen"
                 }
-              ]
+              ],
+              "description": "前往Aperon寄存行李后，再轻装出门。"
             }
           },
           {
@@ -3609,7 +3655,8 @@
                   "label": "腓特列教堂",
                   "query": "Frederiks Church Copenhagen"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3631,7 +3678,8 @@
                   "label": "FRAMA",
                   "query": "FRAMA Fredericiagade 57 Copenhagen"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3652,7 +3700,8 @@
                   "label": "Aperon",
                   "query": "Aperon Pustervig 8 Copenhagen"
                 }
-              ]
+              ],
+              "description": ""
             }
           }
         ],
@@ -3716,7 +3765,8 @@
                   "label": "Jægersborggade",
                   "query": "Jaegersborggade Copenhagen"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3762,7 +3812,8 @@
                   "label": "Istedgade",
                   "query": "Istedgade Copenhagen"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3784,7 +3835,8 @@
                   "label": "黑钻图书馆",
                   "query": "The Black Diamond Soren Kierkegaards Plads 1 Copenhagen"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3810,7 +3862,8 @@
                   "label": "哥本哈根机场",
                   "query": "Copenhagen Airport"
                 }
-              ]
+              ],
+              "description": ""
             }
           },
           {
@@ -3870,7 +3923,8 @@
                   "label": "浦东机场",
                   "query": "Shanghai Pudong International Airport"
                 }
-              ]
+              ],
+              "description": ""
             }
           }
         ]
