@@ -1203,9 +1203,9 @@
             "thumb": "assets/stays/inni-sauna-240.webp",
             "mobile": "assets/stays/inni-sauna-640.webp",
             "medium": "assets/stays/inni-sauna-480.webp",
-            "label": "INNI · 住客共用 · 桑拿设施",
-            "category": "桑拿",
-            "caption": "住客共用 · 桑拿设施",
+            "label": "INNI · 住客共用 · 户外Spa区",
+            "category": "户外Spa",
+            "caption": "住客共用 · 户外Spa区",
             "source": "https://www.inniapartments.is/outdoor-spa.html",
             "width": 960,
             "height": 913
