@@ -181,7 +181,6 @@ async function renderFlightMonitor(){
      <div class="monitor-comparison">
       <div class="monitor-ctrip"><div class="monitor-row"><b>携程国内站</b><span>${f.ctrip?`含税起价 <strong>${money(f.ctrip.baseCny)}</strong>`:'待核实'}</span>${f.ctrip?link(f.ctrip.url,'查看'):''}</div><small>${f.ctrip?`托运待核实 · ${esc(fmt(f.ctrip.checkedAt))}`:esc(priceNote(f.ctripStatus))}</small></div>
       <div class="monitor-google"><div class="monitor-row"><b>Google Flights</b><span>${g.judgment?'价格'+esc(g.judgment):'同款判断待核实'}</span>${link(g.url,'查看')}</div><small>${g.baseCny?`基础票价 ${money(g.baseCny)} · `:''}${g.typicalRange?`通常 ${money(g.typicalRange[0])}–${money(g.typicalRange[1])} · `:''}${esc(priceNote(g.note))}</small></div>
-      <div class="monitor-strategy"><b>${esc(f.strategy.action)}</b><p>${esc(f.strategy.reason)}</p></div>
      </div>
      ${f.lastError?`<p class="monitor-error">检查未完成：${esc(f.lastError)}。保留最近记录。</p>`:''}${chart(f)}
      <details class="monitor-history"><summary>报价记录 · ${f.history.length}次${q?' · '+esc(fmt(q.checkedAt)):''}</summary><div class="monitor-table-wrap"><table><thead><tr><th>核实时间</th><th>来源 / 票档</th><th>携程报价</th><th>票档余票</th></tr></thead><tbody>${[...f.history].reverse().map(h=>`<tr><td>${esc(fmt(h.checkedAt))}</td><td class="monitor-fare-source">${link(h.url,h.provider)} · <span>${esc(h.fare)}</span></td><td>${money(h.cny)}</td><td>${h.seats==null?'未公开':esc(h.seats)+'席'}</td></tr>`).join('')}</tbody></table></div></details>
