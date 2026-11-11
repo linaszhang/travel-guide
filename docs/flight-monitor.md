@@ -52,3 +52,7 @@ Google Flights使用google.url进入，对同航班记录平台原始“低/正�
 ## 发布
 
 只提交本次监测JSON变更，不提交无关文件。先确认当前分支及未提交改动，SSH拉取rebase后push到main：`git@github.com:linaszhang/travel-guide.git`。不要覆盖其他修改。验证公开JSON与网页已是本次记录；发布失败明确报告，不声称已上线。原始浏览器证据只保存在工作目录，公开JSON不得包含订单、账号、cookie、票务会话token或购物ID。
+
+## Mobile title links
+
+Flight titles render a `ctrip://wireless/h5` app anchor for Android/iOS/HarmonyOS/mobile browser agents and touch-capable iPads using a desktop agent. Desktop devices retain the public Ctrip H5 search URL. Both targets carry the same date, city codes and passenger count; PVG remains the departure airport filter under Shanghai (SHA). A click refreshes the device-specific target synchronously, using the browser's normal anchor navigation. There is no delayed web redirect: an OS confirmation prompt must not be interrupted after 2.2 seconds. Installed-app opening and in-app routing still require phone verification; desktop responsive resizing is not a phone test.

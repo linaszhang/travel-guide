@@ -160,7 +160,7 @@ async function renderFlightMonitor(){
    if(f.origin==='PVG')params.set('dfilter','dport:PVG');
    const url=new URL('https://m.ctrip.com/html5/flight/taro/interFirst');url.search=params;return url.href;
   };
-  const ctripTitle=f=>{const url=ctripSearch(f),app='ctrip://wireless/h5?type=2&url='+encodeURIComponent(btoa(url));return `<a class="monitor-flight-link" href="${esc(url)}" data-ctrip-search data-app-href="${esc(app)}">${esc(f.title)}</a>`;};
+  const ctripTitle=f=>{const url=ctripSearch(f),app='ctrip://wireless/h5?type=2&url='+encodeURIComponent(btoa(url));return `<a class="monitor-flight-link" href="${esc(isCtripMobileDevice()?app:url)}" data-ctrip-search data-web-href="${esc(url)}" data-app-href="${esc(app)}">${esc(f.title)}</a>`;};
   const flights=data.flights.map(f=>({...f,budgetCny:f.budgetCny/people,latest:quote(f.ctrip),history:(f.ctripHistory||[]).map(quote).filter(Boolean),ctrip:f.ctrip?{...f.ctrip,baseCny:f.ctrip.baseCny/people}:null,google:{...f.google,baseCny:f.google.baseCny==null?null:f.google.baseCny/people,typicalRange:f.google.typicalRange?.map(n=>n/people)}})), total=flights.reduce((s,f)=>s+(f.latest?.cny||0),0),baseline=flights.reduce((s,f)=>s+f.budgetCny,0),complete=flights.every(f=>Number.isFinite(f.latest?.cny));
   const delta=n=>`${n>0?'+':n<0?'−':''}${money(Math.abs(n))}`;
   const chart=f=>{
@@ -191,19 +191,13 @@ async function renderFlightMonitor(){
  }catch(error){if(view.type==='flights')main.innerHTML='<div class="page-wrap flight-monitor"><header class="monitor-heading"><div class="monitor-title"><a class="monitor-back" href="#budget" aria-label="返回预算单"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h14"/></svg></a><h1>机票价格监测</h1></div></header><p role="alert">监测记录暂时无法读取，请稍后刷新。</p></div>';}
 }
 
-// A user gesture attempts the app on mobile; unsupported devices retain the real H5 search link.
+// Use a real app anchor on phones so the browser keeps the trusted user gesture.
+// Never redirect on a timer: the OS app-opening prompt can remain visible for seconds.
+function isCtripMobileDevice(){return /Android|iPhone|iPad|iPod|Mobile|HarmonyOS/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);}
 document.addEventListener('click',event=>{
  const anchor=event.target.closest('a[data-ctrip-search]');
  if(!anchor||event.defaultPrevented||event.button>0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
- const mobile=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
- if(!mobile)return;
- event.preventDefault();
- let timer;
- const stop=()=>{clearTimeout(timer);window.removeEventListener('pagehide',stop);document.removeEventListener('visibilitychange',hidden);};
- const hidden=()=>{if(document.visibilityState==='hidden')stop();};
- window.addEventListener('pagehide',stop,{once:true});document.addEventListener('visibilitychange',hidden);
- timer=setTimeout(()=>{stop();if(document.visibilityState==='visible')location.assign(anchor.href);},2200);
- location.assign(anchor.dataset.appHref);
+ anchor.href=isCtripMobileDevice()?anchor.dataset.appHref:anchor.dataset.webHref;
 });
 
 // Curated recommendations are kept separate from the actual daily itinerary.
