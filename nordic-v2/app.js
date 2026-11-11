@@ -266,14 +266,12 @@ function renderAttractionDetail(a,data){
  $('#main').innerHTML=`<div class="page-wrap attraction-detail-page" style="--theme:${c.color}">
   <nav class="attraction-breadcrumb"><a href="#attractions/${c.id}" aria-label="返回${esc(c.name)}景点列表">← ${esc(c.name)} · 经典景点</a></nav>
   <article class="attraction-detail">
-   ${a.photos.length?`<figure class="attraction-hero"><img src="${photoSrc(a.photos[0].src,960)}" alt="${esc(a.photos[0].label)}" style="object-position:${esc(a.photos[0].position||'50% 50%')}" width="960" height="540" fetchpriority="high"><figcaption>${esc(a.photos[0].label)}${a.photos[0].credit?`<a class="attraction-photo-credit" href="${esc(a.photos[0].credit.url)}" target="_blank" rel="noopener noreferrer">${esc(a.photos[0].credit.author)} · ${esc(a.photos[0].credit.license)} ↗</a>`:''}</figcaption></figure>`:''}
-   <div class="attraction-detail-body"><p class="attractions-eyebrow">${esc(a.group)}</p><header class="attraction-detail-title"><h1>${esc(a.name)}</h1>${attractionScoreHTML(a)}</header>
+   ${a.photos.length?`<figure class="attraction-hero"><img src="${photoSrc(a.photos[0].src,960)}" alt="${esc(a.photos[0].label)}" style="object-position:${esc(a.photos[0].position||'50% 50%')}" width="960" height="540" fetchpriority="high"></figure>`:''}
+   <div class="attraction-detail-body"><header class="attraction-detail-title"><h1>${esc(a.name)}</h1>${attractionScoreHTML(a)}</header>
     <div class="attraction-detail-meta">${attractionBadge(a)}<span>建议 ${esc(a.duration)}</span></div>
     <p class="attraction-lead">${esc(a.summary)}</p>
     <section class="attraction-plan"><h2>怎么顺路去</h2><p>${esc(a.route)}</p><a class="attraction-map-link" href="${mapsURL(a.query)}" target="_blank" rel="noopener noreferrer">${esc(a.name)} · Google Maps ↗</a></section>
     ${a.days.length?`<div class="attraction-day-links"><span>在每日行程中查看</span>${a.days.map(n=>`<a href="#day/${n}">DAY ${String(n).padStart(2,'0')} ↗</a>`).join('')}</div>`:'<p class="attraction-not-scheduled">未包含在当前每日行程中，可按上面的建议替换或调整。</p>'}
-    <p class="attraction-source"><a href="${esc(a.source.url)}" target="_blank" rel="noopener noreferrer">${esc(a.source.label)} ↗</a><span>开放与预约以官方当日安排为准</span></p>
-    <p class="attractions-rating-note">推荐分结合你们二月路线、摄影兴趣与绕路成本，为本攻略主观推荐，非平台评分。</p>
    </div>
   </article>
   <nav class="attraction-neighbours" aria-label="按路线浏览景点">${prev?`<a href="#attraction/${prev.id}"><small>上一站</small><span>← ${esc(prev.name)}</span></a>`:'<span></span>'}${next?`<a href="#attraction/${next.id}"><small>下一站</small><span>${esc(next.name)} →</span></a>`:'<span></span>'}</nav>
