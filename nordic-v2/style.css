@@ -261,3 +261,13 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .budget-flight-row .monitor-flight-link{border-bottom:1px dashed #6b8e7b;padding-bottom:2px}
 .budget-flight-row small{line-height:1.8;white-space:normal}
 .budget-flight-row>span{grid-column:2;grid-row:1}
+
+/* Keep the taxi address easy to find and copy on every screen size. */
+.stay-address{display:flex;align-items:flex-start;gap:12px;margin:18px 0 22px;padding:14px 16px;background:#f5f7f4;border-radius:12px}
+.stay-address-main{flex:1;min-width:0}.stay-address-label{display:block;color:var(--muted);font-size:12px;margin-bottom:3px}
+.stay-address address{font-style:normal;font-size:14px;line-height:1.7;overflow-wrap:anywhere;user-select:text;-webkit-user-select:text}
+.stay-address-copy{display:flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;margin:-2px -7px 0 0;background:transparent;color:var(--theme,var(--accent));border-radius:8px}
+.stay-address-copy svg{width:21px;height:21px}.stay-address-copy:disabled{cursor:wait}
+.stay-address .stay-address-note{font-size:12px;color:var(--muted);line-height:1.65;margin:5px 0 0}
+.stay-copy-status{display:block;font-size:12px;color:var(--theme,var(--accent));line-height:1.5}.stay-copy-status:not(:empty){margin-top:5px}
+@media(hover:hover){.stay-address-copy:hover{background:#e8eee8}}

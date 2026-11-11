@@ -193,7 +193,11 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00后",
-        "checkOutTime": "12:00前"
+        "checkOutTime": "12:00前",
+        "address": "Vuorikatu 22 B30, 00100 Helsinki, Finland",
+        "addressSource": "Airbnb 已预订行程",
+        "addressCheckedAt": "2026-11-11",
+        "addressNote": "入口在转角的 Puutarhakatu 一侧。"
       }
     ]
   },
@@ -437,7 +441,10 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "address": "Fagernesvegen 220, 9027 Tromsø, Norway",
+        "addressSource": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.html",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -643,7 +650,10 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00后",
-        "checkOutTime": "11:00前"
+        "checkOutTime": "11:00前",
+        "address": "Botnhamnveien 189, 9373 Senja, Norway",
+        "addressSource": "Airbnb 已预订行程",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -914,7 +924,10 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "address": "Fv808 48 Hovdanveien, 30, 8387 Fredvang, Norway",
+        "addressSource": "Booking.com 已预订确认单",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -1100,7 +1113,10 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "address": "Jektveien 10, 8300 Svolvær, Norway",
+        "addressSource": "https://lofoten-rorbuer.no/en/booking",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -1301,7 +1317,10 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00后",
-        "checkOutTime": "11:00前"
+        "checkOutTime": "11:00前",
+        "address": "Nordre Tollbodgate 5B, 9008 Tromsø, Norway",
+        "addressSource": "https://www.booking.com/hotel/no/super-central-studio-apartment.html",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -1492,7 +1511,10 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00–22:00",
-        "checkOutTime": "08:00–11:00"
+        "checkOutTime": "08:00–11:00",
+        "address": "Frumskógar 3, 810 Hveragerði, Iceland",
+        "addressSource": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
+        "addressCheckedAt": "2026-11-11"
       },
       {
         "name": "Apartments Reykjavik",
@@ -1882,7 +1904,10 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00–00:00",
-        "checkOutTime": "12:00前"
+        "checkOutTime": "12:00前",
+        "address": "Norður Foss, 871 Vík, Iceland",
+        "addressSource": "https://www.booking.com/hotel/is/black-beach-suites.html",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -2123,7 +2148,10 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00后",
-        "checkOutTime": "10:30前"
+        "checkOutTime": "10:30前",
+        "address": "Seljavellir 2e, 781 Höfn, Iceland",
+        "addressSource": "https://www.google.com/travel/hotels/entity/ChoIppvG7dCGz_mKARoNL2cvMTF2OWhnODJ0MxAB",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -2319,7 +2347,10 @@
           "checked": "2026-11-10"
         },
         "checkInTime": "15:00–23:00",
-        "checkOutTime": "03:00–11:00"
+        "checkOutTime": "03:00–11:00",
+        "address": "Bakkavegur 17, 230 Keflavík, Iceland",
+        "addressSource": "https://www.booking.com/hotel/is/berg.html",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   },
@@ -2611,7 +2642,10 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "address": "Pustervig 8, 1126 København, Denmark",
+        "addressSource": "Airbnb 已预订行程",
+        "addressCheckedAt": "2026-11-11"
       }
     ]
   }
