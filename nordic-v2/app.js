@@ -253,13 +253,24 @@ async function renderAttractions(countryId,attractionId){
   $('#main').innerHTML=`<div class="page-wrap attractions-page" style="--theme:${c.color}">
    <header class="attractions-heading"><div><p class="attractions-eyebrow">${esc(c.name)} · ${items.length} 个景点</p><h1>经典景点</h1></div><a class="attractions-route-link" href="#country/${c.id}">路线地图 ↗</a></header>
    <p class="attractions-intro">${esc(attractionCountryIntro[c.id])}</p>
-   <p class="attractions-rating-note">推荐分 / 10：结合你们二月路线、摄影兴趣与绕路成本；非平台评分。标记 D 的景点已在行程或备选中。</p>
-   <nav class="attractions-countries" aria-label="选择国家景点">${countries.map(x=>`<a href="#attractions/${x.id}" ${x.id===c.id?'aria-current="page"':''}>${esc(x.name)}</a>`).join('')}</nav>
+   <div class="attractions-sticky-bar"><nav class="attractions-countries" aria-label="选择国家景点">${countries.map(x=>`<a href="#attractions/${x.id}" ${x.id===c.id?'aria-current="page"':''}>${esc(x.name)}</a>`).join('')}</nav><span class="attractions-current-stage" title="${esc(attractionStage(items[0]))}">${esc(attractionStage(items[0]))}</span></div>
    <div class="attractions-list">${items.map((a,i)=>{const stage=attractionStage(a),heading=stage!==previousStage?`<h2 class="attraction-stage">${esc(stage)}</h2>`:'';previousStage=stage;return `${heading}<a class="attraction-row" href="#attraction/${a.id}"><div class="attraction-row-title"><h3><span class="attraction-title-number">${String(i+1).padStart(2,'0')}</span> ${esc(a.name)}</h3>${attractionScoreHTML(a)}</div><div class="attraction-row-bottom"><img class="attraction-thumbnail" src="${esc(a.photos[0]?.thumbnail||a.photos[0]?.thumb||photoSrc(a.photos[0]?.src||'',480))}" style="object-position:${esc(a.photos[0]?.position||'50% 50%')}" alt="" width="104" height="88" loading="${i<2?'eager':'lazy'}" decoding="async"><div class="attraction-row-content"><p>${esc(a.summary)}</p><div class="attraction-row-meta">${attractionBadge(a)}<span>${esc(a.duration)}</span></div></div></div></a>`;}).join('')}</div><details class="attraction-photo-credits"><summary>图片来源</summary>${items.filter(a=>a.photos[0]?.credit).map(a=>`<p><a href="${esc(a.photos[0].credit.url)}" target="_blank" rel="noopener noreferrer">${esc(a.name)} · ${esc(a.photos[0].credit.author)} · ${esc(a.photos[0].credit.license)} ↗</a></p>`).join('')}<p>图片经过缩放；列表缩略图可能裁切。其余图片沿用现有行程图库。</p></details>
   </div>`;
+  requestAnimationFrame(updateAttractionStickyStage);
   if(attractionListReturn?.hash===expectedHash){const saved=attractionListReturn;requestAnimationFrame(()=>{if(location.hash===expectedHash)window.scrollTo({top:saved.y,behavior:'instant'});});}
  }catch(error){if(location.hash===expectedHash)$('#main').innerHTML=`<div class="page-wrap"><div class="attraction-error"><h1>景点暂时无法加载</h1><p>请检查网络后重试。</p><a href="#country/${c.id}">返回路线</a><button type="button" data-retry-attractions>重试</button></div></div>`;}
 }
+function updateAttractionStickyStage(){
+ const bar=$('.attractions-sticky-bar');if(!bar)return;
+ const label=bar.querySelector('.attractions-current-stage'),stages=$$('.attractions-list>.attraction-stage');
+ const edge=bar.getBoundingClientRect().bottom+12;let current=stages[0];
+ for(const stage of stages){if(stage.getBoundingClientRect().top<=edge)current=stage;else break;}
+ if(current&&label.textContent!==current.textContent){label.textContent=current.textContent;label.title=current.textContent;}
+}
+let attractionScrollFrame=0;
+function scheduleAttractionStickyStage(){if(attractionScrollFrame||!$('.attractions-sticky-bar'))return;attractionScrollFrame=requestAnimationFrame(()=>{attractionScrollFrame=0;updateAttractionStickyStage();});}
+window.addEventListener('scroll',scheduleAttractionStickyStage,{passive:true});
+window.addEventListener('resize',scheduleAttractionStickyStage);
 function renderAttractionMissing(c){$('#main').innerHTML=`<div class="page-wrap"><div class="attraction-error"><h1>未找到这个景点</h1><a href="#attractions/${c.id}">返回景点列表</a></div></div>`;}
 function renderAttractionDetail(a,data){
  const c=countryById(a.country),siblings=data.items.filter(x=>x.country===a.country),index=siblings.indexOf(a),prev=siblings[index-1],next=siblings[index+1];

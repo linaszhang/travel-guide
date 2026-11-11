@@ -27,3 +27,7 @@ Do not manufacture snow or apply a winter label merely because a search result c
 ## Compact detail pages (2026-11-11)
 
 Detail pages omit the photograph caption, route-group eyebrow above the title, and the bottom official-source/subjective-score notes. Keep the hero image, title and score, visit duration, summary, routing advice, map link, daily itinerary links and previous/next navigation. Source and licence metadata remain in the catalogue; photo attributions remain available in each country list’s image-source disclosure.
+
+## Sticky country navigation (2026-11-11)
+
+The list omits the recommendation explanation paragraph. A single sticky row keeps country links on the left and the active route segment on the right, below the mobile header. The segment follows list section headings while scrolling; country changes and returning from a detail recompute it. Long segment names stay on one line and truncate rather than widening the viewport.
