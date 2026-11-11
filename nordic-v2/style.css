@@ -252,3 +252,12 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .opening-source a{color:var(--theme,var(--accent));border-bottom:1px dashed currentColor}
 .attraction-opening.is-closed{background:#fbefeb}.attraction-opening.is-closed h2{color:#bd4935}
 @media(max-width:600px){.attraction-opening{padding:15px 16px;margin-top:18px}.attraction-opening h2{font-size:15px}.attraction-opening p{font-size:13px}.attraction-opening .opening-note{font-size:11px}.opening-source{font-size:10px}}
+
+/* Budget flight titles share the monitor's destination link and show local schedule details. */
+.budget-flight-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px 12px}
+.budget-flight-row>div{display:contents}
+.budget-flight-row>div>strong{grid-column:1;grid-row:1;min-width:0}
+.budget-flight-row>div>small{grid-column:1/-1;grid-row:2;margin-top:0}
+.budget-flight-row .monitor-flight-link{border-bottom:1px dashed #6b8e7b;padding-bottom:2px}
+.budget-flight-row small{line-height:1.8;white-space:normal}
+.budget-flight-row>span{grid-column:2;grid-row:1}

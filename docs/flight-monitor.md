@@ -56,3 +56,7 @@ Google Flights使用google.url进入，对同航班记录平台原始“低/正�
 ## Mobile title links
 
 Flight titles render a `ctrip://wireless/h5` app anchor for Android/iOS/HarmonyOS/mobile browser agents and touch-capable iPads using a desktop agent. Desktop devices retain the public Ctrip H5 search URL. Both targets carry the same date, city codes and passenger count; PVG remains the departure airport filter under Shanghai (SHA). A click refreshes the device-specific target synchronously, using the browser's normal anchor navigation. There is no delayed web redirect: an OS confirmation prompt must not be interrupted after 2.2 seconds. Installed-app opening and in-app routing still require phone verification; desktop responsive resizing is not a phone test.
+
+## Budget flight summaries
+
+Budget flight rows hydrate date, local departure/arrival times and flight numbers from the monitor catalogue, matched by stable route IDs. The original budget prices/totals are retained. The five dated route titles and monitor titles use the same `ctripFlightLink` / `ctripSearch` functions, including mobile app and desktop H5 targets. The app target is an embedded-H5 route, **not a verified native flight results route**. Schedule details span the whole row below the title/price; next-day arrivals and Bergen transfers remain explicit. A failed catalogue fetch leaves the original budget rows intact.
