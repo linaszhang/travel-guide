@@ -1,0 +1,1402 @@
+{
+  "updatedAt": "2026-11-11",
+  "items": [
+    {
+      "id": "central-station",
+      "country": "finland",
+      "group": "中央车站 → Oodi",
+      "name": "赫尔辛基中央车站",
+      "score": 8.5,
+      "days": [
+        1
+      ],
+      "summary": "石雕人像与车站大厅，抵达市中心后的建筑第一站。",
+      "route": "从住宿附近步行出发，再向北去Oodi；不需要为车站单独绕路。",
+      "duration": "20–30分钟",
+      "query": "Helsinki Central Railway Station",
+      "source": {
+        "label": "赫尔辛基官方步行指南",
+        "url": "https://materialbank.myhelsinki.fi/deployedFiles/9dc1fd73bd6dd81511860317734d2a74.pdf"
+      },
+      "photos": []
+    },
+    {
+      "id": "oodi",
+      "country": "finland",
+      "group": "中央车站 → Oodi",
+      "name": "Oodi 中央图书馆",
+      "score": 9.5,
+      "days": [
+        1
+      ],
+      "summary": "木质外立面、通透阅读层，是这次建筑线的优先项。",
+      "route": "行程写明抵达顺利时优先来这里；建议先看室内，再去参议院广场。",
+      "duration": "45–60分钟",
+      "query": "Oodi Helsinki",
+      "source": {
+        "label": "Oodi 官网",
+        "url": "https://oodihelsinki.fi/en/"
+      },
+      "photos": [
+        {
+          "label": "Oodi中央图书馆 · 阅读大厅",
+          "src": "../nordic/assets/day-02-1.jpg",
+          "source": "https://www.dangerous-business.com/things-to-do-in-helsinki/"
+        }
+      ]
+    },
+    {
+      "id": "temppeliaukio",
+      "country": "finland",
+      "group": "Oodi 西侧支线",
+      "name": "Temppeliaukio 岩石教堂",
+      "score": 9.0,
+      "days": [],
+      "summary": "岩壁、天窗和铜穹顶，建筑摄影很值得补选。",
+      "route": "在Oodi之后向西绕行，再回市中心；抵达日下午时间紧，建议替换部分逛街，不与所有建筑叠加。",
+      "duration": "45–60分钟",
+      "query": "Temppeliaukio Church Lutherinkatu 3 Helsinki",
+      "source": {
+        "label": "岩石教堂官网",
+        "url": "https://www.temppeliaukionkirkko.fi/en/"
+      },
+      "photos": [
+        {
+          "label": "岩石教堂 · 岩壁与铜穹顶",
+          "src": "../nordic/assets/day-02-2.jpg",
+          "source": "https://temppeliaukionkirkko.fi/sv/index/forarrangorer.html"
+        }
+      ]
+    },
+    {
+      "id": "amos-rex",
+      "country": "finland",
+      "group": "Oodi 西侧支线",
+      "name": "Amos Rex／Lasipalatsi 广场",
+      "score": 8.0,
+      "days": [],
+      "summary": "起伏的广场与艺术空间，适合喜欢当代建筑的人。",
+      "route": "岩石教堂回市中心时可顺看广场；室内展览另留时间，和岩石教堂择一深入。",
+      "duration": "外观20分钟／展览1–1.5小时",
+      "query": "Amos Rex Helsinki",
+      "source": {
+        "label": "MyHelsinki · Amos Rex",
+        "url": "https://www.myhelsinki.fi/places/amos-rex/"
+      },
+      "photos": []
+    },
+    {
+      "id": "helsinki-cathedral",
+      "country": "finland",
+      "group": "参议院广场 → Esplanadi",
+      "name": "赫尔辛基大教堂与参议院广场",
+      "score": 9.0,
+      "days": [
+        1
+      ],
+      "summary": "白色教堂与开阔广场，是最经典的城市外观机位。",
+      "route": "接在Oodi之后，沿市中心向东走到广场，再南下Esplanadi；现有行程主要看外观。",
+      "duration": "30–45分钟",
+      "query": "Helsinki Cathedral Senate Square",
+      "source": {
+        "label": "赫尔辛基官方步行指南",
+        "url": "https://materialbank.myhelsinki.fi/deployedFiles/9dc1fd73bd6dd81511860317734d2a74.pdf"
+      },
+      "photos": [
+        {
+          "label": "赫尔辛基大教堂",
+          "src": "../nordic/assets/day-01-0.jpg",
+          "source": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/"
+        }
+      ]
+    },
+    {
+      "id": "esplanadi",
+      "country": "finland",
+      "group": "参议院广场 → Esplanadi",
+      "name": "Esplanadi 与设计街区",
+      "score": 8.5,
+      "days": [
+        1
+      ],
+      "summary": "街道尺度、橱窗和芬兰设计店，适合边走边拍。",
+      "route": "从大教堂南下进入Esplanadi；按喜好挑店，别为了打卡把整段商业街走完。",
+      "duration": "45–90分钟",
+      "query": "Esplanadi Helsinki",
+      "source": {
+        "label": "赫尔辛基官方步行指南",
+        "url": "https://materialbank.myhelsinki.fi/deployedFiles/9dc1fd73bd6dd81511860317734d2a74.pdf"
+      },
+      "photos": []
+    },
+    {
+      "id": "suomenlinna",
+      "country": "finland",
+      "group": "市中心码头支线",
+      "name": "Suomenlinna 芬兰堡",
+      "score": 7.5,
+      "days": [],
+      "summary": "海上堡垒与海岛步道，适合多住一天时慢逛。",
+      "route": "从市中心码头乘船往返；你们只有抵达日下午，二月不建议硬塞进当前路线。",
+      "duration": "至少半天，含船程",
+      "query": "Suomenlinna Helsinki",
+      "source": {
+        "label": "芬兰堡官网",
+        "url": "https://suomenlinna.fi/en/"
+      },
+      "photos": []
+    },
+    {
+      "id": "ersfjordbotn",
+      "country": "norway",
+      "group": "特罗姆瑟 · 峡湾 → 市区",
+      "name": "Ersfjordbotn 峡湾",
+      "score": 9.0,
+      "days": [
+        2
+      ],
+      "summary": "海湾尽头的雪峰与小渔村，适合开场拍峡湾。",
+      "route": "机场取车后的第一站，之后返城取雪具；到有标示的观景停车区后步行，不占私人车道。",
+      "duration": "45–60分钟",
+      "query": "Ersfjordbotn Norway",
+      "source": {
+        "label": "Visit Tromsø",
+        "url": "https://www.visittromso.no/winter"
+      },
+      "photos": [
+        {
+          "label": "Ersfjordbotn 峡湾",
+          "src": "../nordic/assets/day-04-0.jpg",
+          "source": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T"
+        }
+      ]
+    },
+    {
+      "id": "sommaroy",
+      "country": "norway",
+      "group": "特罗姆瑟 · 峡湾支线",
+      "name": "Sommarøy 夏日岛",
+      "score": 8.0,
+      "days": [],
+      "summary": "海岛、桥梁和白沙海湾，画面与深峡湾不同。",
+      "route": "在Ersfjordbotn这一段继续向西才会到，明显增加驾驶；建议替换当日市区活动，不能视为顺路短停。",
+      "duration": "至少半天，含绕行",
+      "query": "Sommaroy Norway",
+      "source": {
+        "label": "Visit Tromsø",
+        "url": "https://www.visittromso.no/winter"
+      },
+      "photos": []
+    },
+    {
+      "id": "fjellheisen",
+      "country": "norway",
+      "group": "特罗姆瑟 · 峡湾 → 市区",
+      "name": "Fjellheisen 缆车与 Storsteinen",
+      "score": 9.5,
+      "days": [
+        2
+      ],
+      "summary": "俯瞰海峡、城市与大桥，日落蓝调是重点。",
+      "route": "接在Tromsø Outdoor之后。下站Solliveien 12目前不可停车；使用Solstrandvegen 30临时停车场，出发前复核调整。",
+      "duration": "1.5–2.5小时",
+      "query": "Fjellheisen Solliveien 12 Tromsdalen",
+      "source": {
+        "label": "Fjellheisen 官网",
+        "url": "https://www.fjellheisen.no/"
+      },
+      "photos": []
+    },
+    {
+      "id": "arctic-cathedral",
+      "country": "norway",
+      "group": "特罗姆瑟 · 峡湾 → 市区",
+      "name": "北极大教堂 Ishavskatedralen",
+      "score": 8.0,
+      "days": [],
+      "summary": "三角形教堂轮廓，很适合和缆车组合看建筑。",
+      "route": "在缆车下山后、过桥返市区前补看外观即可；室内参观需要替换其他停留。",
+      "duration": "外观20–30分钟",
+      "query": "Ishavskatedralen Tromsdalen",
+      "source": {
+        "label": "Visit Tromsø · 市内景点交通",
+        "url": "https://www.visittromso.no/travel/getting-around/sights"
+      },
+      "photos": []
+    },
+    {
+      "id": "skansen",
+      "country": "norway",
+      "group": "特罗姆瑟 · 峡湾 → 市区",
+      "name": "Skansen 与老港口",
+      "score": 8.5,
+      "days": [
+        2
+      ],
+      "summary": "港湾、旧建筑与雪山背景，适合短走和晚餐前散步。",
+      "route": "缆车下山后返城，停Fjellet P-hus后步行；不把车开进狭窄港口找机位。",
+      "duration": "30–45分钟",
+      "query": "Skansen Tromso",
+      "source": {
+        "label": "Visit Tromsø",
+        "url": "https://www.visittromso.no/winter"
+      },
+      "photos": [
+        {
+          "label": "特罗姆瑟 · 港湾",
+          "src": "../nordic/assets/day-04-1.jpg",
+          "source": "https://www.bronwyntownsend.com/blog/3-day-tromso-itinerary"
+        }
+      ]
+    },
+    {
+      "id": "polar-museum",
+      "country": "norway",
+      "group": "特罗姆瑟 · 峡湾 → 市区",
+      "name": "Polarmuseet 极地博物馆",
+      "score": 7.5,
+      "days": [],
+      "summary": "用室内展览了解极地探险，是风雪天的替换项。",
+      "route": "就在Skansen一带，适合替换港口散步或低云时的缆车；不要额外压缩驯鹿团集合时间。",
+      "duration": "1–1.5小时",
+      "query": "Polarmuseet Tromso",
+      "source": {
+        "label": "Visit Tromsø",
+        "url": "https://www.visittromso.no/winter"
+      },
+      "photos": []
+    },
+    {
+      "id": "charlottenlund",
+      "country": "norway",
+      "group": "特罗姆瑟 · 雪地与海港",
+      "name": "Charlottenlund 雪地公园",
+      "score": 8.0,
+      "days": [
+        3
+      ],
+      "summary": "自主越野滑雪与雪林，适合不想跑远的雪地体验。",
+      "route": "按原行程上午滑雪，之后进城还装备和参加驯鹿团；使用公园标示停车位。",
+      "duration": "1.5–2小时",
+      "query": "Charlottenlund aktivitets og friluftspark Tromso",
+      "source": {
+        "label": "Visit Tromsø",
+        "url": "https://www.visittromso.no/winter"
+      },
+      "photos": [
+        {
+          "label": "自主越野滑雪 · 雪道参考",
+          "src": "../nordic/assets/experiences/cross-country-ski.jpg",
+          "source": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor"
+        }
+      ]
+    },
+    {
+      "id": "pust",
+      "country": "norway",
+      "group": "特罗姆瑟 · 雪地与海港",
+      "name": "Pust 海港桑拿",
+      "score": 8.5,
+      "days": [
+        3
+      ],
+      "summary": "在海港边泡桑拿，和白天雪地活动形成很好的收尾。",
+      "route": "驯鹿活动返城后去；现有行程有安排但不等于已经订位，时段需另确认。",
+      "duration": "1–1.5小时",
+      "query": "Pust Tromso",
+      "source": {
+        "label": "Visit Tromsø",
+        "url": "https://www.visittromso.no/winter"
+      },
+      "photos": []
+    },
+    {
+      "id": "hesten-segla",
+      "country": "norway",
+      "group": "塞尼亚 · Fjordgård → 海岸",
+      "name": "Hesten 看 Segla",
+      "score": 9.5,
+      "days": [
+        5
+      ],
+      "summary": "山峰与峡湾的层次，是塞尼亚最值得保留的摄影主题。",
+      "route": "从Fjordgård方向跟冬季向导走Hesten观景路线，不是攀登Segla；雪况不合适时由向导改线或取消。",
+      "duration": "含交通与装备预留4–6小时",
+      "query": "Hesten trailhead Fjordgard Norway",
+      "source": {
+        "label": "Visit Tromsø · Senja",
+        "url": "https://www.visittromso.no/region/senja"
+      },
+      "photos": [
+        {
+          "src": "../nordic/assets/experiences/hesten-segla-0.jpg",
+          "label": "Hesten方向看Segla · 冬季景观参考",
+          "source": "https://senjabyheart.no/en/product/snowshoe-hike-to-hesten-with-segla-view/"
+        }
+      ]
+    },
+    {
+      "id": "mefjordvaer",
+      "country": "norway",
+      "group": "塞尼亚 · 海岸支线",
+      "name": "Mefjordvær 渔村",
+      "score": 8.0,
+      "days": [],
+      "summary": "雪山下的渔港，适合不徒步时轻松看海。",
+      "route": "可放在Fjordgård之后或次日海岸线上，但属于支线；长途去Fredvang当天应减少其他停留。",
+      "duration": "30–45分钟，另加支线车程",
+      "query": "Mefjordvaer Senja Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Senja",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/senja/"
+      },
+      "photos": []
+    },
+    {
+      "id": "ersfjordstranda",
+      "country": "norway",
+      "group": "塞尼亚 · Fjordgård → 海岸",
+      "name": "Ersfjordstranda 海滩",
+      "score": 8.5,
+      "days": [
+        6
+      ],
+      "summary": "沙滩与雪山相接，适合从开阔海岸拍山体。",
+      "route": "按现有海岸线先到这里，再去Tungeneset、Bergsbotn；当天转场很长，只在路况允许时短停。",
+      "duration": "20–30分钟",
+      "query": "Ersfjordstranda Senja Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Senja",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/senja/"
+      },
+      "photos": [
+        {
+          "label": "Ersfjordstranda 海滩",
+          "src": "../nordic/assets/day-07-2.jpg",
+          "source": "https://nordnorge.com/en/artikkel/the-national-tourist-route-winds-around-senjas-outer-coast/"
+        }
+      ]
+    },
+    {
+      "id": "tungeneset",
+      "country": "norway",
+      "group": "塞尼亚 · Fjordgård → 海岸",
+      "name": "Tungeneset 恶魔之牙观景点",
+      "score": 9.5,
+      "days": [
+        6
+      ],
+      "summary": "海面与锯齿状山峰，是沿海公路的代表画面。",
+      "route": "接在Ersfjordstranda之后，从官方观景点看山；冬季只走开放且无结冰风险的区域。",
+      "duration": "20–40分钟",
+      "query": "Tungeneset Senja Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Senja",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/senja/"
+      },
+      "photos": [
+        {
+          "label": "Tungeneset 恶魔之牙",
+          "src": "../nordic/assets/day-07-0.jpg",
+          "source": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/"
+        }
+      ]
+    },
+    {
+      "id": "bergsbotn",
+      "country": "norway",
+      "group": "塞尼亚 · Fjordgård → 海岸",
+      "name": "Bergsbotn 观景台",
+      "score": 8.5,
+      "days": [
+        6
+      ],
+      "summary": "从高处看峡湾弯曲的岸线，适合很短的观景停留。",
+      "route": "海岸线最后一站，之后经主干道前往Fredvang；上午三站择1–2处，不全停也不影响主线。",
+      "duration": "15–25分钟",
+      "query": "Bergsbotn viewpoint Senja Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Senja",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/senja/"
+      },
+      "photos": [
+        {
+          "label": "Bergsbotn 峡湾",
+          "src": "../nordic/assets/day-07-1.jpg",
+          "source": "https://backiee.com/wallpaper/bergsbotn-viewpoint-at-wintertime-norway/121545"
+        }
+      ]
+    },
+    {
+      "id": "fredvang",
+      "country": "norway",
+      "group": "罗弗敦 · 南部渔村 → 北返",
+      "name": "Fredvang 与桥群",
+      "score": 8.5,
+      "days": [
+        7
+      ],
+      "summary": "桥梁连接海湾与村落，住在这里可以从容看晨光。",
+      "route": "前一晚抵达只办理入住；次日早上出发南下Hamnøy，不为了桥上照片临停行车道。",
+      "duration": "20–40分钟",
+      "query": "Fredvang bridges Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "hamnoy",
+      "country": "norway",
+      "group": "罗弗敦 · 南部渔村 → 北返",
+      "name": "Hamnøy 红色渔屋",
+      "score": 9.5,
+      "days": [
+        7
+      ],
+      "summary": "红屋、雪峰与海面，是罗弗敦最典型的画面之一。",
+      "route": "从Fredvang南下先到Hamnøy，再去Sakrisøy和Reine；使用指定停车处后步行找机位。",
+      "duration": "30–45分钟",
+      "query": "Hamnoy Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": [
+        {
+          "label": "Hamnøy · 雪山红屋",
+          "src": "../nordic/assets/day-09-0.jpg",
+          "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
+        }
+      ]
+    },
+    {
+      "id": "sakrisoy",
+      "country": "norway",
+      "group": "罗弗敦 · 南部渔村 → 北返",
+      "name": "Sakrisøy 黄色渔屋",
+      "score": 9.0,
+      "days": [
+        7
+      ],
+      "summary": "黄色木屋与山峰，色彩和Hamnøy很不一样。",
+      "route": "位于Hamnøy与Reine之间，适合沿同一条主线短停；别进入住客私人露台拍摄。",
+      "duration": "20–40分钟",
+      "query": "Sakrisoy Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": [
+        {
+          "label": "Sakrisøy 黄色渔屋",
+          "src": "../nordic/assets/day-09-1.jpg",
+          "source": "https://www.lonelyplanet.com/articles/what-is-friluftsliv"
+        }
+      ]
+    },
+    {
+      "id": "reine",
+      "country": "norway",
+      "group": "罗弗敦 · 南部渔村 → 北返",
+      "name": "Reine 雷讷海湾",
+      "score": 9.5,
+      "days": [
+        7
+      ],
+      "summary": "层叠山峰环绕海湾，村落散步已经很有画面感。",
+      "route": "南下段到这里后折返向北；当前不安排冬季攀登Reinebringen。",
+      "duration": "45–60分钟",
+      "query": "Reinehalsen Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": [
+        {
+          "label": "Reine 雷讷海湾",
+          "src": "../nordic/assets/day-09-2.jpg",
+          "source": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/"
+        }
+      ]
+    },
+    {
+      "id": "a-village",
+      "country": "norway",
+      "group": "罗弗敦 · 最南端支线",
+      "name": "Å 渔村",
+      "score": 8.0,
+      "days": [],
+      "summary": "传统渔村与海岸，适合想继续看最南端的人。",
+      "route": "从Reine继续往南，再原路北返；若增加这站，应删掉部分下午海滩，别影响斯沃尔维尔入住。",
+      "duration": "45–60分钟，另加往返车程",
+      "query": "A village Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "ramberg",
+      "country": "norway",
+      "group": "罗弗敦 · 北返海岸",
+      "name": "Ramberg 海滩",
+      "score": 9.0,
+      "days": [
+        7
+      ],
+      "summary": "白沙、雪山与海湾，和渔村照片形成变化。",
+      "route": "Reine折返后向北经过，按现有行程与Skagsanden择一；天气好可多停，差时直接北上。",
+      "duration": "20–40分钟",
+      "query": "Rambergstranda Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "skagsanden",
+      "country": "norway",
+      "group": "罗弗敦 · 北返海岸",
+      "name": "Skagsanden 海滩",
+      "score": 9.0,
+      "days": [
+        7
+      ],
+      "summary": "沙滩纹理与雪山倒影，适合低机位海岸摄影。",
+      "route": "沿E10北返时停留，与Ramberg同属海岸选择；只在远离浪线的区域构图。",
+      "duration": "30–45分钟",
+      "query": "Skagsanden beach Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "nusfjord",
+      "country": "norway",
+      "group": "罗弗敦 · 北返海岸",
+      "name": "Nusfjord 渔村",
+      "score": 8.5,
+      "days": [
+        7
+      ],
+      "summary": "完整的港湾聚落，适合喜欢木屋和渔村空间的人。",
+      "route": "现有行程已写为时间与支路条件允许时再加；需从E10拐入，别把它当零绕路停留。",
+      "duration": "1–1.5小时，另加支线车程",
+      "query": "Nusfjord Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "haukland",
+      "country": "norway",
+      "group": "罗弗敦 · 海滩支线",
+      "name": "Haukland／Uttakleiv 海滩",
+      "score": 8.5,
+      "days": [],
+      "summary": "开阔海湾与山体，适合专注海岸摄影。",
+      "route": "北返经过Leknes一带时另走支线；建议替换Ramberg或Skagsanden，而不是再叠加一组海滩。",
+      "duration": "1.5–2小时，含两处短停，不含绕行",
+      "query": "Hauklandstranda Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "svolvaer",
+      "country": "norway",
+      "group": "罗弗敦 · 次日海港 → 返程",
+      "name": "Svolvær 港口",
+      "score": 8.5,
+      "days": [
+        7,
+        8
+      ],
+      "summary": "渔船与港口灯光，适合住宿前后就近散步。",
+      "route": "第7晚住宿就在斯沃尔维尔；第8天经Henningsvær、Kabelvåg后回主线返程。",
+      "duration": "30–45分钟",
+      "query": "Svolvaer harbour Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": [
+        {
+          "label": "Svolvær · 渔船与港口",
+          "src": "../nordic/assets/day-08-0.jpg",
+          "source": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/"
+        }
+      ]
+    },
+    {
+      "id": "henningsvaer",
+      "country": "norway",
+      "group": "罗弗敦 · 次日海港 → 返程",
+      "name": "Henningsvær 渔村",
+      "score": 9.0,
+      "days": [
+        8
+      ],
+      "summary": "港湾、桥梁与临海木屋，是北部渔村的重点。",
+      "route": "按现有行程次日上午从斯沃尔维尔前往，再回到主线去Kabelvåg；不当天重返Reine。",
+      "duration": "45–75分钟",
+      "query": "Henningsvaer Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": [
+        {
+          "label": "Henningsvær 渔村",
+          "src": "../nordic/assets/day-08-1.jpg",
+          "source": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-mountain-in-the-background-MlBEc_7DemY"
+        }
+      ]
+    },
+    {
+      "id": "kabelvag",
+      "country": "norway",
+      "group": "罗弗敦 · 次日海港 → 返程",
+      "name": "Kabelvåg 老渔港",
+      "score": 8.0,
+      "days": [
+        8
+      ],
+      "summary": "传统港口的小尺度街景，适合返程前轻松短停。",
+      "route": "在Henningsvær之后北返短停；当天还要长途回特罗姆瑟，延误时优先跳过这一站。",
+      "duration": "20–30分钟",
+      "query": "Kabelvag Lofoten Norway",
+      "source": {
+        "label": "挪威国家风景公路 · Lofoten",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      },
+      "photos": []
+    },
+    {
+      "id": "reykjadalur",
+      "country": "iceland",
+      "group": "Hveragerði · 住宿周边支线",
+      "name": "Reykjadalur 热河谷",
+      "score": 7.0,
+      "days": [],
+      "summary": "地热山谷的户外体验，适合专门留出徒步时间。",
+      "route": "住宿在Hveragerði附近，但热河并不等于下车即到；二月不建议接在落地取车后硬赶，替换次日上午才考虑。",
+      "duration": "半天",
+      "query": "Reykjadalur trailhead Hveragerdi Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": []
+    },
+    {
+      "id": "seljalandsfoss",
+      "country": "iceland",
+      "group": "南岸 · 西向东至维克",
+      "name": "Seljalandsfoss 塞里雅兰瀑布",
+      "score": 9.0,
+      "days": [
+        10
+      ],
+      "summary": "细长瀑布与崖壁，南岸的第一组代表景观。",
+      "route": "从INNI出发东行先停这里；冬季以正面观景为主，不默认瀑布后方步道开放。",
+      "duration": "30–45分钟",
+      "query": "Seljalandsfoss parking Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": [
+        {
+          "label": "塞里雅兰瀑布",
+          "src": "../nordic/assets/day-11-0.jpg",
+          "source": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland"
+        }
+      ]
+    },
+    {
+      "id": "gljufrabui",
+      "country": "iceland",
+      "group": "南岸 · 西向东至维克",
+      "name": "Gljúfrabúi 秘境瀑布",
+      "score": 8.0,
+      "days": [],
+      "summary": "藏在岩隙内的瀑布，适合在第一站附近补选。",
+      "route": "与Seljalandsfoss同一区域，步行接上；若入口积冰、积水或封闭就看外侧，不为照片涉水钻入。",
+      "duration": "额外30–45分钟",
+      "query": "Gljufrabui Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": []
+    },
+    {
+      "id": "skogafoss",
+      "country": "iceland",
+      "group": "南岸 · 西向东至维克",
+      "name": "Skógafoss 斯科加瀑布",
+      "score": 9.5,
+      "days": [
+        10
+      ],
+      "summary": "宽阔瀑面很有力量，正面人物尺度尤其适合拍照。",
+      "route": "接在Seljalandsfoss之后沿1号公路向东；地面机位已足够，上方阶梯是否走按结冰情况决定。",
+      "duration": "45–60分钟",
+      "query": "Skogafoss parking Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": [
+        {
+          "label": "Skógafoss 斯科加瀑布",
+          "src": "../nordic/assets/day-11-1.jpg",
+          "source": "https://www.icelandair.com/it-it/blog/migliori-cascate-dell-islanda/"
+        }
+      ]
+    },
+    {
+      "id": "kvernufoss",
+      "country": "iceland",
+      "group": "南岸 · 瀑布支线",
+      "name": "Kvernufoss 瀑布",
+      "score": 8.5,
+      "days": [],
+      "summary": "峡谷包围的小瀑布，比主瀑布更适合安静构图。",
+      "route": "在Skógar一带补选，建议替换部分瀑布停留；需要步行，冬季按步道开放情况决定。",
+      "duration": "45–60分钟",
+      "query": "Kvernufoss Skogar Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": []
+    },
+    {
+      "id": "solheimajokull",
+      "country": "iceland",
+      "group": "南岸 · 西向东至维克",
+      "name": "Sólheimajökull 冰舌",
+      "score": 8.5,
+      "days": [
+        10
+      ],
+      "summary": "近距离看冰川边缘，是南岸景观的一种变化。",
+      "route": "现有行程已写为支路开放、时间允许时短停；这次只观景，不自行上冰，已订冰川活动在第12天。",
+      "duration": "45–60分钟，另加支线车程",
+      "query": "Solheimajokull parking Iceland",
+      "source": {
+        "label": "Visit South Iceland · 冰川",
+        "url": "https://www.south.is/en/glaciers-and-glacier-activities"
+      },
+      "photos": [
+        {
+          "label": "Sólheimajökull 冰川",
+          "src": "../nordic/assets/day-11-2.jpg",
+          "source": "https://cn.adventures.is/iceland/attractions/solheimajokull/"
+        }
+      ]
+    },
+    {
+      "id": "dyrholaey",
+      "country": "iceland",
+      "group": "南岸 · 海岬支线",
+      "name": "Dyrhólaey 迪霍拉里海岬",
+      "score": 8.5,
+      "days": [],
+      "summary": "海蚀拱门与长黑沙岸，适合从高处看海岸线。",
+      "route": "去维克前或次晨另走支线，建议替换其他海岸停留；二月不把看海鹦当作目标，上山道路按当日开放。",
+      "duration": "45–60分钟，另加支线车程",
+      "query": "Dyrholaey viewpoint Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": []
+    },
+    {
+      "id": "vik-church",
+      "country": "iceland",
+      "group": "南岸 · 西向东至维克",
+      "name": "Vík 教堂外观",
+      "score": 8.0,
+      "days": [
+        10
+      ],
+      "summary": "红顶教堂与小镇屋顶，适合简短的傍晚散步。",
+      "route": "按现有行程在维克补给时顺看，之后去Black Beach Suites；不要占用次晨黑沙滩时间。",
+      "duration": "20–30分钟",
+      "query": "Vik i Myrdal Church Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": []
+    },
+    {
+      "id": "reynisfjara",
+      "country": "iceland",
+      "group": "南岸 · 维克 → 霍芬",
+      "name": "Reynisfjara 黑沙滩",
+      "score": 9.5,
+      "days": [
+        11
+      ],
+      "summary": "玄武岩柱、黑沙与海蚀柱，南岸最鲜明的海岸主题。",
+      "route": "第11天上午先拍，再回维克吃饭加油后东行；远离浪线，遵守现场信号与封闭范围。",
+      "duration": "45–60分钟",
+      "query": "Reynisfjara beach parking Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": [
+        {
+          "label": "Reynisfjara 黑沙滩",
+          "src": "../nordic/assets/day-12-0.jpg",
+          "source": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/"
+        }
+      ]
+    },
+    {
+      "id": "fjadrargljufur",
+      "country": "iceland",
+      "group": "南岸 · 峡谷支线",
+      "name": "Fjaðrárgljúfur 羽毛峡谷",
+      "score": 8.5,
+      "days": [],
+      "summary": "曲折峡谷适合俯瞰构图，是东行途中可考虑的支线。",
+      "route": "在教堂镇附近从主路拐入；当前只有参考照片，没有排入活动，若增加需压缩其他停留。",
+      "duration": "45–75分钟，另加支线车程",
+      "query": "Fjadrargljufur parking Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": [
+        {
+          "label": "Fjaðrárgljúfur 羽毛峡谷",
+          "src": "../nordic/assets/day-12-1.jpg",
+          "source": "https://www.rexby.com/mattberthou/ttd/fjadrargljufur-is-one-of-the-deepest-canyons-in-iceland"
+        }
+      ]
+    },
+    {
+      "id": "stjornarfoss",
+      "country": "iceland",
+      "group": "南岸 · 维克 → 霍芬",
+      "name": "Stjórnarfoss 瀑布",
+      "score": 8.0,
+      "days": [
+        11
+      ],
+      "summary": "小型瀑布适合轻量短停，缓解长途驾驶。",
+      "route": "现有行程写为路过教堂镇时有开放停车点才停；不为了这一站耽误傍晚到霍芬。",
+      "duration": "15–25分钟",
+      "query": "Stjornarfoss Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": []
+    },
+    {
+      "id": "hofskirkja",
+      "country": "iceland",
+      "group": "冰川区 · Hof → 冰河湖",
+      "name": "Hofskirkja 草皮教堂",
+      "score": 8.0,
+      "days": [],
+      "summary": "草皮屋顶与小教堂轮廓，是南岸建筑题材的补充。",
+      "route": "第12天本就到Hof集合，可在活动结束后时间允许时看外观；不在08:40集合前临时加景点。",
+      "duration": "15–25分钟",
+      "query": "Hofskirkja Hof Iceland",
+      "source": {
+        "label": "Visit South Iceland · 南岸路线",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      },
+      "photos": [
+        {
+          "label": "Hofskirkja 草皮教堂",
+          "src": "../nordic/assets/day-12-2.jpg",
+          "source": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly"
+        }
+      ]
+    },
+    {
+      "id": "skaftafell-ice",
+      "country": "iceland",
+      "group": "冰川区 · Hof → 冰河湖",
+      "name": "Skaftafell 蓝冰洞与冰川徒步",
+      "score": 9.5,
+      "days": [
+        12
+      ],
+      "summary": "蓝冰与冰川纹理，是这次已订的冰上主题体验。",
+      "route": "按订单08:40到Tröll基地、09:00出发；洞形和进入路线由导游按当天冰况决定，不能自行前往照片里的冰洞。",
+      "duration": "约4小时",
+      "query": "Troll Expeditions Skaftafell Hof Iceland",
+      "source": {
+        "label": "Visit South Iceland · 冰川",
+        "url": "https://www.south.is/en/glaciers-and-glacier-activities"
+      },
+      "photos": [
+        {
+          "label": "瓦特纳冰川 · 蓝冰洞参考",
+          "src": "../nordic/assets/day-13-0.jpg",
+          "source": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/"
+        }
+      ]
+    },
+    {
+      "id": "fjallsarlon",
+      "country": "iceland",
+      "group": "冰川区 · Hof → 冰河湖",
+      "name": "Fjallsárlón 菲亚尔冰川湖",
+      "score": 8.5,
+      "days": [
+        12
+      ],
+      "summary": "湖面与冰舌相接，适合在大冰河湖之前短停。",
+      "route": "现有行程写为前往Jökulsárlón途中可短停；冰洞团结束延误时优先保留主冰河湖。",
+      "duration": "20–40分钟",
+      "query": "Fjallsarlon Iceland",
+      "source": {
+        "label": "Visit South Iceland · 冰川",
+        "url": "https://www.south.is/en/glaciers-and-glacier-activities"
+      },
+      "photos": []
+    },
+    {
+      "id": "jokulsarlon",
+      "country": "iceland",
+      "group": "冰川区 · Hof → 冰河湖",
+      "name": "Jökulsárlón 杰古沙龙冰河湖",
+      "score": 9.5,
+      "days": [
+        12
+      ],
+      "summary": "浮冰与远处冰川，是东段最值得留时间的岸边机位。",
+      "route": "冰洞活动后先简餐，再向东到这里；当前安排岸边观景，不默认有冬季游船。",
+      "duration": "45–60分钟",
+      "query": "Jokulsarlon glacier lagoon parking Iceland",
+      "source": {
+        "label": "Visit South Iceland · 冰川",
+        "url": "https://www.south.is/en/glaciers-and-glacier-activities"
+      },
+      "photos": [
+        {
+          "label": "Jökulsárlón 冰河湖",
+          "src": "../nordic/assets/day-13-1.jpg",
+          "source": "https://iceland-lovers.com/en/where-to-stay-iceland-winter-best-places-hotels/"
+        }
+      ]
+    },
+    {
+      "id": "diamond-beach",
+      "country": "iceland",
+      "group": "冰川区 · Hof → 冰河湖",
+      "name": "Fellsfjara 钻石沙滩",
+      "score": 9.0,
+      "days": [
+        12
+      ],
+      "summary": "黑沙上的冰块，适合拍透明质感与海岸对比。",
+      "route": "与Jökulsárlón相邻，接着去开放停车区后步行；从远离浪线的位置拍摄，再回霍芬住宿。",
+      "duration": "30–45分钟",
+      "query": "Diamond Beach Fellsfjara Iceland",
+      "source": {
+        "label": "Visit South Iceland · 冰川",
+        "url": "https://www.south.is/en/glaciers-and-glacier-activities"
+      },
+      "photos": [
+        {
+          "label": "Fellsfjara 钻石沙滩",
+          "src": "../nordic/assets/day-13-2.jpg",
+          "source": "https://www.kimkim.com/c/12-day-ring-road-including-westfjords"
+        }
+      ]
+    },
+    {
+      "id": "vestrahorn",
+      "country": "iceland",
+      "group": "霍芬 · 最东端 → 西返",
+      "name": "Stokksnes／Vestrahorn 蝙蝠山",
+      "score": 9.5,
+      "days": [
+        13
+      ],
+      "summary": "山体剪影与黑沙倒影，是这段路线的摄影重点。",
+      "route": "第13天早上去，约10:00开始长途西返；入口在Viking Café一带，按现场购票与停车指引进入。",
+      "duration": "1–1.5小时",
+      "query": "Viking Cafe Stokksnes Iceland",
+      "source": {
+        "label": "Vestrahorn 官网",
+        "url": "https://www.vestrahorn.is/"
+      },
+      "photos": []
+    },
+    {
+      "id": "hallgrimskirkja",
+      "country": "iceland",
+      "group": "西返备选 · 雷市支线",
+      "name": "Hallgrímskirkja 哈尔格林姆教堂",
+      "score": 8.5,
+      "days": [],
+      "summary": "高耸立面适合建筑外观摄影，和自然风景形成变化。",
+      "route": "你们第13天直接长途到凯夫拉维克，目前没有雷市观光；要进城需提前缩短东段，不能当成已安排。",
+      "duration": "30–45分钟，登塔另留时间",
+      "query": "Hallgrimskirkja Reykjavik Iceland",
+      "source": {
+        "label": "Visit Reykjavík · 经典景点",
+        "url": "https://visitreykjavik.is/sights-attractions"
+      },
+      "photos": [
+        {
+          "label": "雷克雅未克 · 大教堂",
+          "src": "../nordic/assets/day-10-0.jpg",
+          "source": "https://tanabotalog.com/iceland/"
+        }
+      ]
+    },
+    {
+      "id": "harpa",
+      "country": "iceland",
+      "group": "西返备选 · 雷市支线",
+      "name": "Harpa 音乐厅",
+      "score": 9.0,
+      "days": [],
+      "summary": "玻璃立面与室内光影，适合建筑摄影和坏天气备选。",
+      "route": "与教堂组成雷市建筑支线；当前无市区停留，若选它要重新留出进出城与停车时间。",
+      "duration": "45–60分钟",
+      "query": "Harpa concert hall Reykjavik Iceland",
+      "source": {
+        "label": "Visit Reykjavík · 经典景点",
+        "url": "https://visitreykjavik.is/sights-attractions"
+      },
+      "photos": []
+    },
+    {
+      "id": "blue-lagoon",
+      "country": "iceland",
+      "group": "西返备选 · 雷克雅内斯支线",
+      "name": "Blue Lagoon 蓝湖",
+      "score": 7.5,
+      "days": [],
+      "summary": "地热蓝色水面，适合把温泉体验作为专门目的。",
+      "route": "现有落地日已经改住INNI，不包含蓝湖；不要叠加在长途西返后的深夜，预约前核对当日营业与道路。",
+      "duration": "2–3小时，另加支线车程",
+      "query": "Blue Lagoon Iceland",
+      "source": {
+        "label": "Blue Lagoon 官网",
+        "url": "https://www.bluelagoon.com/"
+      },
+      "photos": []
+    },
+    {
+      "id": "nyhavn",
+      "country": "denmark",
+      "group": "第14天 · 新港 → 皇宫区",
+      "name": "Nyhavn 新港",
+      "score": 9.0,
+      "days": [
+        14
+      ],
+      "summary": "彩色立面与运河，第一次到哥本哈根很值得保留。",
+      "route": "从住宿寄存行李后开始，沿水边向阿美琳堡走；别为追求每个机位重复来回。",
+      "duration": "30–45分钟",
+      "query": "Nyhavn Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": []
+    },
+    {
+      "id": "amalienborg",
+      "country": "denmark",
+      "group": "第14天 · 新港 → 皇宫区",
+      "name": "Amalienborg 阿美琳堡",
+      "score": 8.5,
+      "days": [
+        14
+      ],
+      "summary": "广场与宫殿立面，适合看城市轴线和尺度。",
+      "route": "从新港向北步行过来，接腓特列教堂；现有行程只看外观，不代表包含宫内参观或换岗。",
+      "duration": "20–30分钟",
+      "query": "Amalienborg Palace Square Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": [
+        {
+          "label": "Amalienborg 阿美琳堡宫",
+          "src": "../nordic/assets/day-15-1.jpg",
+          "source": "https://www.ad-magazin.de/artikel/schloesser-der-daenischen-koenigsfamilie"
+        }
+      ]
+    },
+    {
+      "id": "frederiks-church",
+      "country": "denmark",
+      "group": "第14天 · 新港 → 皇宫区",
+      "name": "Frederiks Kirke 腓特列教堂",
+      "score": 9.0,
+      "days": [
+        14
+      ],
+      "summary": "穹顶与街道轴线，适合经典建筑摄影。",
+      "route": "从阿美琳堡走到教堂再去FRAMA；当前行程是外观，若想入内，先查当天礼拜与参观安排。",
+      "duration": "20–40分钟",
+      "query": "Frederiks Kirke Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": [
+        {
+          "label": "腓特列教堂 · 室内建筑参考",
+          "src": "../nordic-v2/assets/architecture/frederiks-church-960.webp",
+          "thumb": "../nordic-v2/assets/architecture/frederiks-church-240.webp",
+          "srcset": "../nordic-v2/assets/architecture/frederiks-church-480.webp 480w, ../nordic-v2/assets/architecture/frederiks-church-640.webp 640w, ../nordic-v2/assets/architecture/frederiks-church-960.webp 960w",
+          "source": "https://www.marmorkirken.dk/",
+          "credit": "Marmorkirken / Mads Grønbeck, Tom Misiak m.fl."
+        }
+      ]
+    },
+    {
+      "id": "frama",
+      "country": "denmark",
+      "group": "第14天 · 新港 → 皇宫区",
+      "name": "FRAMA Studio Store",
+      "score": 9.0,
+      "days": [
+        14
+      ],
+      "summary": "历史药房里的设计空间，适合你偏好的材质与家居。",
+      "route": "接在皇宫区之后，按原计划关店前去；它是设计店，不是大型博物馆。",
+      "duration": "45–60分钟",
+      "query": "FRAMA Fredericiagade 57 Copenhagen",
+      "source": {
+        "label": "FRAMA 官网",
+        "url": "https://framacph.com/"
+      },
+      "photos": [
+        {
+          "label": "FRAMA · 历史药房设计空间",
+          "src": "../nordic-v2/assets/architecture/frama-studio-960.webp",
+          "thumb": "../nordic-v2/assets/architecture/frama-studio-240.webp",
+          "srcset": "../nordic-v2/assets/architecture/frama-studio-480.webp 480w, ../nordic-v2/assets/architecture/frama-studio-640.webp 640w, ../nordic-v2/assets/architecture/frama-studio-960.webp 960w",
+          "source": "https://www.visitcopenhagen.com/copenhagen/planning/frama-gdk1106176",
+          "credit": "Frama Studio / PR photo / VisitCopenhagen"
+        }
+      ]
+    },
+    {
+      "id": "designmuseum",
+      "country": "denmark",
+      "group": "第15天 · 设计 → 市中心 → 河岸",
+      "name": "Designmuseum Danmark 丹麦设计博物馆",
+      "score": 9.5,
+      "days": [
+        15
+      ],
+      "summary": "家具与工艺主题，最贴合这次的设计兴趣。",
+      "route": "第15天上午优先，之后进入Strøget；想换成独立小店街区时，就替掉这段，不全部叠加。",
+      "duration": "1–1.5小时",
+      "query": "Designmuseum Danmark Bredgade 68 Copenhagen",
+      "source": {
+        "label": "丹麦设计博物馆官网",
+        "url": "https://designmuseum.dk/en/"
+      },
+      "photos": [
+        {
+          "label": "丹麦设计博物馆 · 建筑庭院",
+          "src": "../nordic-v2/assets/architecture/designmuseum-courtyard-960.webp",
+          "thumb": "../nordic-v2/assets/architecture/designmuseum-courtyard-240.webp",
+          "srcset": "../nordic-v2/assets/architecture/designmuseum-courtyard-480.webp 480w, ../nordic-v2/assets/architecture/designmuseum-courtyard-640.webp 640w, ../nordic-v2/assets/architecture/designmuseum-courtyard-960.webp 960w",
+          "source": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
+          "credit": "Designmuseum Danmark"
+        }
+      ]
+    },
+    {
+      "id": "rosenborg",
+      "country": "denmark",
+      "group": "第15天 · 城堡支线",
+      "name": "Rosenborg 罗森堡宫",
+      "score": 8.0,
+      "days": [],
+      "summary": "城堡与花园，是喜欢历史建筑时的补选。",
+      "route": "从设计博物馆去市中心时向西绕入；若参观宫内，建议替换博物馆，保留机场缓冲。",
+      "duration": "外观30分钟／室内1–1.5小时",
+      "query": "Rosenborg Castle Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": []
+    },
+    {
+      "id": "round-tower",
+      "country": "denmark",
+      "group": "第15天 · 市中心支线",
+      "name": "Rundetårn 圆塔",
+      "score": 8.0,
+      "days": [],
+      "summary": "老城高处视角，适合补一组城市屋顶照片。",
+      "route": "从罗森堡向购物街方向步行可接上；想登塔就缩短购物，不额外挤占16:30取行李时间。",
+      "duration": "45–60分钟",
+      "query": "Rundetaarn Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": []
+    },
+    {
+      "id": "illums",
+      "country": "denmark",
+      "group": "第15天 · 设计 → 市中心 → 河岸",
+      "name": "Strøget／Illums Bolighus",
+      "score": 8.5,
+      "days": [
+        15
+      ],
+      "summary": "丹麦家居与灯具，适合集中逛设计而不是漫无目的扫街。",
+      "route": "上午博物馆之后去Amagertorv 10的Illums Bolighus；与ILLUM百货不同，按实际购物兴趣控制时长。",
+      "duration": "1–2小时，含周边散步",
+      "query": "Illums Bolighus Amagertorv 10 Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": []
+    },
+    {
+      "id": "christiansborg",
+      "country": "denmark",
+      "group": "第15天 · 市中心 → 河岸",
+      "name": "Christiansborg 克里斯蒂安堡宫",
+      "score": 8.0,
+      "days": [],
+      "summary": "宫殿与岛上街景，适合去黑钻图书馆前看外观。",
+      "route": "从购物街向南到Slotsholmen，接着去黑钻；室内参观需另留时间，不建议临时增加完整宫殿游览。",
+      "duration": "外观20–30分钟",
+      "query": "Christiansborg Palace Copenhagen",
+      "source": {
+        "label": "Visit Copenhagen · 市中心景点",
+        "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
+      },
+      "photos": []
+    },
+    {
+      "id": "black-diamond",
+      "country": "denmark",
+      "group": "第15天 · 设计 → 市中心 → 河岸",
+      "name": "Black Diamond 黑钻图书馆",
+      "score": 9.5,
+      "days": [
+        15
+      ],
+      "summary": "黑色临水立面与中庭曲线，是建筑线的收尾重点。",
+      "route": "第15天下午到这里看公共区域；按原计划16:30前后结束并取行李，18:00到机场。",
+      "duration": "45–60分钟",
+      "query": "The Black Diamond Soren Kierkegaards Plads 1 Copenhagen",
+      "source": {
+        "label": "丹麦皇家图书馆官网",
+        "url": "https://www.kb.dk/en/visit-us/black-diamond-copenhagen"
+      },
+      "photos": [
+        {
+          "label": "黑钻图书馆 · 临水立面",
+          "src": "../nordic-v2/assets/architecture/black-diamond-exterior-960.webp",
+          "thumb": "../nordic-v2/assets/architecture/black-diamond-exterior-240.webp",
+          "srcset": "../nordic-v2/assets/architecture/black-diamond-exterior-480.webp 480w, ../nordic-v2/assets/architecture/black-diamond-exterior-640.webp 640w, ../nordic-v2/assets/architecture/black-diamond-exterior-960.webp 960w",
+          "source": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond",
+          "credit": "Laura Stamer / Royal Danish Library"
+        }
+      ]
+    },
+    {
+      "id": "louisiana",
+      "country": "denmark",
+      "group": "额外支线 · 城市北郊",
+      "name": "Louisiana 现代艺术博物馆",
+      "score": 8.5,
+      "days": [],
+      "summary": "艺术、建筑与海岸一起体验，适合专门留半天。",
+      "route": "位于Humlebæk，远离市中心步行线；原行程已明确不去，若想加入应替换大半天设计购物。",
+      "duration": "至少半天，含往返交通",
+      "query": "Louisiana Museum of Modern Art Humlebaek Denmark",
+      "source": {
+        "label": "Louisiana 官网",
+        "url": "https://louisiana.dk/en/"
+      },
+      "photos": []
+    },
+    {
+      "id": "thingvellir",
+      "country": "iceland",
+      "group": "额外支线 · 需替换半天至一天",
+      "name": "Þingvellir 辛格维利尔国家公园",
+      "score": 8.5,
+      "days": [],
+      "summary": "裂谷地形与湖岸，适合把地质景观作为主题。",
+      "route": "黄金圈支线的第一站，之后向东去盖歇尔；目前南岸行程没有这条内陆线，需要重新分配半天至一天。",
+      "duration": "45–60分钟；整条支线另留大半天至一天",
+      "query": "Thingvellir National Park Iceland",
+      "source": {
+        "label": "Visit South Iceland · 黄金圈",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      },
+      "photos": []
+    },
+    {
+      "id": "geysir",
+      "country": "iceland",
+      "group": "额外支线 · 需替换半天至一天",
+      "name": "Geysir／Strokkur 间歇泉",
+      "score": 8.5,
+      "days": [],
+      "summary": "观察地热喷泉，是与南岸瀑布不同的一组体验。",
+      "route": "从辛格维利尔向东，到间歇泉区后再去黄金瀑布；若走黄金圈，应替换现有行程，不能算成南岸顺路短停。",
+      "duration": "45–60分钟；整条支线另留大半天至一天",
+      "query": "Strokkur Geysir Iceland",
+      "source": {
+        "label": "Visit South Iceland · 黄金圈",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      },
+      "photos": []
+    },
+    {
+      "id": "gullfoss",
+      "country": "iceland",
+      "group": "额外支线 · 需替换半天至一天",
+      "name": "Gullfoss 黄金瀑布",
+      "score": 9.0,
+      "days": [],
+      "summary": "峡谷里的大瀑布，适合专门走黄金圈时作为重点。",
+      "route": "排在间歇泉之后，之后再向南回住宿方向；全线建议大半天至一天，二月步道开放范围以现场为准。",
+      "duration": "45–60分钟；整条支线另留大半天至一天",
+      "query": "Gullfoss waterfall Iceland",
+      "source": {
+        "label": "Visit South Iceland · 黄金圈",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      },
+      "photos": []
+    }
+  ]
+}
