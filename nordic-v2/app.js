@@ -240,7 +240,7 @@ function attractionScoreHTML(a){const tier=a.score>=9?'high':a.score>=8?'mid':'l
 function attractionBadge(a){return a.days.length?`<span class="attraction-included">D${a.days.join(' / D')}</span>`:'<span class="attraction-optional">未包含</span>';}
 async function loadAttractions(){
  if(attractionData)return attractionData;
- if(!attractionRequest)attractionRequest=fetch('../nordic-v2/attractions.json?v=5').then(r=>{if(!r.ok)throw Error('attractions');return r.json();}).then(data=>attractionData=data).catch(error=>{attractionRequest=null;throw error;});
+ if(!attractionRequest)attractionRequest=fetch('../nordic-v2/attractions.json?v=6').then(r=>{if(!r.ok)throw Error('attractions');return r.json();}).then(data=>attractionData=data).catch(error=>{attractionRequest=null;throw error;});
  return attractionRequest;
 }
 async function renderAttractions(countryId,attractionId){
@@ -254,7 +254,7 @@ async function renderAttractions(countryId,attractionId){
    <header class="attractions-heading"><div><p class="attractions-eyebrow">${esc(c.name)} · ${items.length} 个景点</p><h1>经典景点</h1></div><a class="attractions-route-link" href="#country/${c.id}">路线地图 ↗</a></header>
    <p class="attractions-intro">${esc(attractionCountryIntro[c.id])}</p>
    <div class="attractions-sticky-bar"><nav class="attractions-countries" aria-label="选择国家景点">${countries.map(x=>`<a href="#attractions/${x.id}" ${x.id===c.id?'aria-current="page"':''}>${esc(x.name)}</a>`).join('')}</nav><span class="attractions-current-stage" title="${esc(attractionStage(items[0]))}">${esc(attractionStage(items[0]))}</span></div>
-   <div class="attractions-list">${items.map((a,i)=>{const stage=attractionStage(a),heading=stage!==previousStage?`<h2 class="attraction-stage">${esc(stage)}</h2>`:'';previousStage=stage;return `${heading}<a class="attraction-row" href="#attraction/${a.id}"><div class="attraction-row-title"><h3><span class="attraction-title-number">${String(i+1).padStart(2,'0')}</span> ${esc(a.name)}</h3>${attractionScoreHTML(a)}</div><div class="attraction-row-bottom"><img class="attraction-thumbnail" src="${esc(a.photos[0]?.thumbnail||a.photos[0]?.thumb||photoSrc(a.photos[0]?.src||'',480))}" style="object-position:${esc(a.photos[0]?.position||'50% 50%')}" alt="" width="104" height="88" loading="${i<2?'eager':'lazy'}" decoding="async"><div class="attraction-row-content"><p>${esc(a.summary)}</p><div class="attraction-row-meta">${attractionBadge(a)}<span>${esc(a.duration)}</span></div></div></div></a>`;}).join('')}</div><details class="attraction-photo-credits"><summary>图片来源</summary>${items.filter(a=>a.photos[0]?.credit).map(a=>`<p><a href="${esc(a.photos[0].credit.url)}" target="_blank" rel="noopener noreferrer">${esc(a.name)} · ${esc(a.photos[0].credit.author)} · ${esc(a.photos[0].credit.license)} ↗</a></p>`).join('')}<p>图片经过缩放；列表缩略图可能裁切。其余图片沿用现有行程图库。</p></details>
+   <div class="attractions-list">${items.map((a,i)=>{const stage=attractionStage(a),heading=stage!==previousStage?`<h2 class="attraction-stage">${esc(stage)}</h2>`:'';previousStage=stage;return `${heading}<a class="attraction-row" href="#attraction/${a.id}"><div class="attraction-row-title"><h3><span class="attraction-title-number">${String(i+1).padStart(2,'0')}</span> ${esc(a.name)}</h3>${attractionScoreHTML(a)}</div><div class="attraction-row-bottom"><img class="attraction-thumbnail" src="${esc(a.photos[0]?.thumbnail||a.photos[0]?.thumb||photoSrc(a.photos[0]?.src||'',480))}" style="object-position:${esc(a.photos[0]?.position||'50% 50%')}" alt="" width="104" height="88" loading="${i<2?'eager':'lazy'}" decoding="async"><div class="attraction-row-content"><p>${esc(a.summary)}</p><div class="attraction-row-meta">${attractionBadge(a)}<span>${esc(a.duration)}</span></div></div></div></a>`;}).join('')}</div><details class="attraction-photo-credits"><summary>图片来源</summary>${items.flatMap(a=>a.photos.filter(p=>p.credit).map(p=>`<p><a href="${esc(p.credit.url)}" target="_blank" rel="noopener noreferrer">${esc(p.label)} · ${esc(p.credit.author)} · ${esc(p.credit.license)} ↗</a></p>`)).join('')}<p>图片经过缩放；列表缩略图可能裁切。其余图片沿用现有行程图库。</p></details>
   </div>`;
   requestAnimationFrame(updateAttractionStickyStage);
   if(attractionListReturn?.hash===expectedHash){const saved=attractionListReturn;requestAnimationFrame(()=>{if(location.hash===expectedHash)window.scrollTo({top:saved.y,behavior:'instant'});});}
@@ -272,13 +272,27 @@ function scheduleAttractionStickyStage(){if(attractionScrollFrame||!$('.attracti
 window.addEventListener('scroll',scheduleAttractionStickyStage,{passive:true});
 window.addEventListener('resize',scheduleAttractionStickyStage);
 function renderAttractionMissing(c){$('#main').innerHTML=`<div class="page-wrap"><div class="attraction-error"><h1>未找到这个景点</h1><a href="#attractions/${c.id}">返回景点列表</a></div></div>`;}
+function attractionGalleryHTML(a){
+ if(!a.photos.length)return '';
+ const multiple=a.photos.length>1;
+ return `<div class="attraction-gallery" data-attraction="${esc(a.id)}" data-photo-index="0"><div class="attraction-gallery-stage"><div class="attraction-track" tabindex="0" role="region" aria-label="${esc(a.name)}图片，左右滑动查看">${a.photos.map((p,i)=>`<figure class="attraction-hero"><img src="${esc(photoSrc(p.src,960))}" alt="${esc(p.label)}" style="object-position:${esc(p.position||'50% 50%')}" width="960" height="540" loading="${i===0?'eager':'lazy'}" decoding="async" fetchpriority="${i===0?'high':'auto'}"></figure>`).join('')}</div>${multiple?`<button class="gallery-arrow gallery-prev" data-attraction-step="-1" aria-label="上一张景点图片"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg></button><button class="gallery-arrow gallery-next" data-attraction-step="1" aria-label="下一张景点图片"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 6 6 6-6 6"/></svg></button><span class="gallery-count" aria-live="polite">1 / ${a.photos.length}</span>`:''}</div>${multiple?`<div class="experience-thumbnails attraction-thumbnails" aria-label="选择景点图片">${a.photos.map((p,i)=>`<button data-attraction-photo="${i}" aria-label="查看景点图片${i+1}：${esc(p.label)}" aria-pressed="${i===0}"><img src="${esc(p.thumbnail||p.thumb||photoSrc(p.src,480))}" alt="" loading="lazy" decoding="async"></button>`).join('')}</div>`:''}</div>`;
+}
+function selectAttractionPhoto(index){
+ const gallery=$('.attraction-gallery');if(!gallery)return;
+ const track=gallery.querySelector('.attraction-track'),count=track.children.length,next=(index%count+count)%count;
+ track.scrollTo({left:next*track.clientWidth,behavior:'instant'});
+ gallery.dataset.photoIndex=String(next);const counter=gallery.querySelector('.gallery-count');if(counter)counter.textContent=`${next+1} / ${count}`;gallery.querySelectorAll('[data-attraction-photo]').forEach((button,i)=>button.setAttribute('aria-pressed',String(i===next)));
+}
+document.addEventListener('click',event=>{const thumb=event.target.closest('[data-attraction-photo]'),arrow=event.target.closest('[data-attraction-step]');if(thumb)selectAttractionPhoto(Number(thumb.dataset.attractionPhoto));if(arrow)selectAttractionPhoto(Number(arrow.closest('.attraction-gallery').dataset.photoIndex)+Number(arrow.dataset.attractionStep));});
+document.addEventListener('keydown',event=>{if(event.target.closest?.('.attraction-gallery')&&['ArrowLeft','ArrowRight'].includes(event.key)){event.preventDefault();selectAttractionPhoto(Number($('.attraction-gallery').dataset.photoIndex)+(event.key==='ArrowRight'?1:-1));}});
+document.addEventListener('scroll',event=>{const track=event.target;if(!track.matches?.('.attraction-track'))return;const gallery=track.closest('.attraction-gallery'),index=Math.max(0,Math.min(track.children.length-1,Math.round(track.scrollLeft/track.clientWidth)));gallery.dataset.photoIndex=String(index);const counter=gallery.querySelector('.gallery-count');if(counter)counter.textContent=`${index+1} / ${track.children.length}`;gallery.querySelectorAll('[data-attraction-photo]').forEach((button,i)=>button.setAttribute('aria-pressed',String(i===index)));},true);
 function renderAttractionDetail(a,data){
  const c=countryById(a.country),siblings=data.items.filter(x=>x.country===a.country),index=siblings.indexOf(a),prev=siblings[index-1],next=siblings[index+1];
  currentCountry=a.country;sideRender();document.title=a.name+' — 北欧经典景点';
  $('#main').innerHTML=`<div class="page-wrap attraction-detail-page" style="--theme:${c.color}">
   <nav class="attraction-breadcrumb"><a href="#attractions/${c.id}" aria-label="返回${esc(c.name)}景点列表">← ${esc(c.name)} · 经典景点</a></nav>
   <article class="attraction-detail">
-   ${a.photos.length?`<figure class="attraction-hero"><img src="${photoSrc(a.photos[0].src,960)}" alt="${esc(a.photos[0].label)}" style="object-position:${esc(a.photos[0].position||'50% 50%')}" width="960" height="540" fetchpriority="high"></figure>`:''}
+   ${attractionGalleryHTML(a)}
    <div class="attraction-detail-body"><header class="attraction-detail-title"><h1>${esc(a.name)}</h1>${attractionScoreHTML(a)}</header>
     <div class="attraction-detail-meta">${attractionBadge(a)}<span>建议 ${esc(a.duration)}</span></div>
     <p class="attraction-lead">${esc(a.summary)}</p>

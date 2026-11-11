@@ -30,6 +30,32 @@
             "url": "https://unsplash.com/photos/aerial-photography-of-street-at-night-covered-with-snow-w6KSwwnQyaE",
             "licenseUrl": "https://unsplash.com/license"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/central-station-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/central-station-0-thumb.webp",
+          "label": "赫尔辛基中央车站 · 补充视角 1",
+          "credit": {
+            "author": "Ivan Frade from Helsinki",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Snow_removed_from_the_roof_of_Helsinki_railway_station.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/central-station-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/central-station-2-thumb.webp",
+          "label": "赫尔辛基中央车站 · 补充视角 3",
+          "credit": {
+            "author": "JIP",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Platform_at_Helsinki_Central_railway_station_in_snowfall_on_an_evening_in_January_2024.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic/assets/day-01-2.jpg",
+          "label": "赫尔辛基中央车站 · 另一视角"
         }
       ],
       "description": [
@@ -70,6 +96,33 @@
             "license": "CC BY-SA 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:Library_Oodi_2019.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/oodi-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/oodi-0-thumb.webp",
+          "label": "Oodi 中央图书馆 · 补充视角 1",
+          "credit": {
+            "author": "Sino Yu",
+            "license": "CC0",
+            "url": "https://commons.wikimedia.org/wiki/File:Helsinki_Central_Library_Oodi_20190602_203034.jpg",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/oodi-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/oodi-1-thumb.webp",
+          "label": "Oodi 中央图书馆 · 补充视角 2",
+          "credit": {
+            "author": "Alexignat",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Oodi_Helsinki.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "label": "Oodi 中央图书馆 · 另一视角",
+          "src": "../nordic/assets/day-02-1.jpg",
+          "source": "https://www.dangerous-business.com/things-to-do-in-helsinki/"
         }
       ],
       "description": [
@@ -101,6 +154,28 @@
           "label": "岩石教堂 · 岩壁与铜穹顶",
           "src": "../nordic/assets/day-02-2.jpg",
           "source": "https://temppeliaukionkirkko.fi/sv/index/forarrangorer.html"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/temppeliaukio-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/temppeliaukio-0-thumb.webp",
+          "label": "Temppeliaukio 岩石教堂 · 补充视角 1",
+          "credit": {
+            "author": "Pertsaboy",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Temppeliaukio_Church_3.jpg",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/temppeliaukio-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/temppeliaukio-1-thumb.webp",
+          "label": "Temppeliaukio 岩石教堂 · 补充视角 2",
+          "credit": {
+            "author": "Lauren Stevens",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Temppeliaukio_Church_on_28th_September_2014_1.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -139,6 +214,38 @@
             "url": "https://www.aalto.fi/en/aalto-university-summer-school/5-things-to-do-in-the-winter-or-early-spring-when-visiting-aalto-university",
             "licenseUrl": "https://materialbank.myhelsinki.fi/terms/"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/amos-rex-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/amos-rex-1-thumb.webp",
+          "label": "Amos Rex／Lasipalatsi 广场 · 补充视角 2",
+          "credit": {
+            "author": "Kulttuurinavigaattori",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Amos_Rex_aukio.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/amos-rex-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/amos-rex-2-thumb.webp",
+          "label": "Amos Rex／Lasipalatsi 广场 · 补充视角 3",
+          "credit": {
+            "author": "Suyash Dwivedi",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Amos_Rex_outside_001_(1).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/amos-rex-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/amos-rex-320.webp",
+          "credit": {
+            "author": "Sinikka Halme",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Glass_Palace_Square_and_Amos_Rex_Helsinki_Finland_02.jpg"
+          },
+          "label": "Amos Rex／Lasipalatsi 广场 · 另一视角"
         }
       ],
       "description": [
@@ -173,6 +280,17 @@
           "label": "赫尔辛基大教堂",
           "src": "../nordic/assets/day-01-0.jpg",
           "source": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/helsinki-cathedral-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/helsinki-cathedral-0-thumb.webp",
+          "label": "赫尔辛基大教堂与参议院广场 · 补充视角 1",
+          "credit": {
+            "author": "Sino Yu",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Lux_Helsinki_2020_Helsinki_Cathedral_2.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -214,6 +332,38 @@
             "url": "https://commons.wikimedia.org/wiki/File:Esplanade-helsinki-hiver.JPG"
           },
           "position": "50% 82%"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/esplanadi-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/esplanadi-0-thumb.webp",
+          "label": "Esplanadi 与设计街区 · 补充视角 1",
+          "credit": {
+            "author": "Ввласенко",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Johan_Ludvig_Runeberg_on_Esplanadi_in_Helsinki,_Finland.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/esplanadi-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/esplanadi-1-thumb.webp",
+          "label": "Esplanadi 与设计街区 · 补充视角 2",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Esplanadi,_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/esplanadi-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/esplanadi-320.webp",
+          "credit": {
+            "author": "Vadelmavene",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Esplanadin_puisto_2020.jpg"
+          },
+          "label": "Esplanadi 与设计街区 · 另一视角"
         }
       ],
       "description": [
@@ -251,6 +401,39 @@
             "license": "CC BY-SA 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_Sea_Fortress_in_Winter_%E2%80%93_Helsinki,_Finland_(2022).jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/suomenlinna-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/suomenlinna-0-thumb.webp",
+          "label": "Suomenlinna 芬兰堡 · 补充视角 1",
+          "credit": {
+            "author": "Upettere",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_Buildings_Winter_3.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/suomenlinna-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/suomenlinna-1-thumb.webp",
+          "label": "Suomenlinna 芬兰堡 · 补充视角 2",
+          "credit": {
+            "author": "Marit Henriksson",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_winter_-_Marit_Henriksson.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/suomenlinna-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/suomenlinna-2-thumb.webp",
+          "label": "Suomenlinna 芬兰堡 · 补充视角 3",
+          "credit": {
+            "author": "Upettere",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_Buildings_Winter_2.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -284,6 +467,29 @@
           "label": "Ersfjordbotn 峡湾",
           "src": "../nordic/assets/day-04-0.jpg",
           "source": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/ersfjordbotn-winter.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/ersfjordbotn-winter-thumb.webp",
+          "label": "Ersfjordbotn · 冬季峡湾与雪山",
+          "season": "winter",
+          "credit": {
+            "author": "L’Astorina",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Ersfjord_December_2012.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/ersfjordbotn-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/ersfjordbotn-0-thumb.webp",
+          "label": "Ersfjordbotn · 夏季村落全景参考",
+          "credit": {
+            "author": "Geanixx",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Ersfjordbotn_2012.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
         }
       ],
       "description": [
@@ -321,6 +527,38 @@
             "license": "CC BY-SA 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:Rorbuer_sommar%C3%B8y.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/sommaroy-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/sommaroy-0-thumb.webp",
+          "label": "Sommarøy 夏日岛 · 补充视角 1",
+          "credit": {
+            "author": "Petr Kraumann",
+            "license": "CC BY 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Sommaroy_Bridge,_Norway_-_panoramio.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/sommaroy-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/sommaroy-1-thumb.webp",
+          "label": "Sommarøy 夏日岛 · 补充视角 2",
+          "credit": {
+            "author": "Mfiskum – Marius Fiskum – www.fiskum.org",
+            "license": "CC BY 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Sommaroy_panorama.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/sommaroy-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/sommaroy-320.webp",
+          "credit": {
+            "author": "Harald Groven",
+            "license": "CC BY-SA 3.0 no",
+            "url": "https://commons.wikimedia.org/wiki/File:Hilles%C3%B8y_Sommar%C3%B8y.jpg"
+          },
+          "label": "Sommarøy 夏日岛 · 另一视角"
         }
       ],
       "description": [
@@ -360,6 +598,28 @@
             "license": "CC BY-SA 3.0",
             "url": "https://commons.wikimedia.org/wiki/File:Troms%C3%B8_from_Fjellheisen_in_Winter.JPG"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/fjellheisen-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/fjellheisen-1-thumb.webp",
+          "label": "Fjellheisen 缆车与 Storsteinen · 补充视角 2",
+          "credit": {
+            "author": "Olivier Bruchez",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fjellheisen,_Troms%C3%B8_2019.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/fjellheisen-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/fjellheisen-2-thumb.webp",
+          "label": "Fjellheisen 缆车与 Storsteinen · 补充视角 3",
+          "credit": {
+            "author": "Peter Fiskerstrand",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fjellheisen_Troms%C3%B8_003.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -396,6 +656,28 @@
             "url": "https://commons.wikimedia.org/wiki/File:Arctic_Cathedral_in_Tromsoe.jpg"
           },
           "label": "北极大教堂 Ishavskatedralen"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/arctic-cathedral-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/arctic-cathedral-1-thumb.webp",
+          "label": "北极大教堂 Ishavskatedralen · 补充视角 2",
+          "credit": {
+            "author": "Virtual-Pano",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:09516_Tromsdalen_church_and_eastern_half_of_Tromso_bridge_-_Tromso,_Norway_-_V-P.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/arctic-cathedral-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/arctic-cathedral-2-thumb.webp",
+          "label": "北极大教堂 Ishavskatedralen · 补充视角 3",
+          "credit": {
+            "author": "Godot13",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:NOR-2016-Troms%C3%B8-Arctic_Cathedral_(Ishavskatedralen)_01_front.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -429,6 +711,39 @@
           "label": "特罗姆瑟 · 港湾",
           "src": "../nordic/assets/day-04-1.jpg",
           "source": "https://www.bronwyntownsend.com/blog/3-day-tromso-itinerary"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/skansen-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/skansen-0-thumb.webp",
+          "label": "Skansen 与老港口 · 补充视角 1",
+          "credit": {
+            "author": "Anjana Subasinghe",
+            "license": "CC BY-SA 3.0 no",
+            "url": "https://commons.wikimedia.org/wiki/File:Skansen_i_Troms%C3%B8.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/no/deed.en"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/skansen-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/skansen-1-thumb.webp",
+          "label": "Skansen 与老港口 · 补充视角 2",
+          "credit": {
+            "author": "Bjoertvedt",
+            "license": "CC BY-SA 3.0 no",
+            "url": "https://commons.wikimedia.org/wiki/File:Tromso_Skansen_009_rk_87577.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/no/deed.en"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/skansen-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/skansen-2-thumb.webp",
+          "label": "Skansen 与老港口 · 补充视角 3",
+          "credit": {
+            "author": "Bjoertvedt",
+            "license": "CC BY-SA 3.0 no",
+            "url": "https://commons.wikimedia.org/wiki/File:Tromso_Skansen_010_rk_87577.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/no/deed.en"
+          }
         }
       ],
       "description": [
@@ -466,6 +781,38 @@
             "license": "CC BY 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:The_Polar_Museum.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/polar-museum-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/polar-museum-0-thumb.webp",
+          "label": "Polarmuseet 极地博物馆 · 补充视角 1",
+          "credit": {
+            "author": "Visem",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Polar_Museum_in_Troms%C3%B8_(Jul_2019)_1.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/polar-museum-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/polar-museum-2-thumb.webp",
+          "label": "Polarmuseet 极地博物馆 · 补充视角 3",
+          "credit": {
+            "author": "David Stanley from Nanaimo, Canada",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Polar_Museum_(52602951465).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/polar-museum-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/polar-museum-320.webp",
+          "credit": {
+            "author": "Lars Tiede",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Polarmuseet.jpg"
+          },
+          "label": "Polarmuseet 极地博物馆 · 另一视角"
         }
       ],
       "description": [
@@ -570,6 +917,10 @@
           "src": "../nordic/assets/experiences/hesten-segla-0.jpg",
           "label": "Hesten方向看Segla · 冬季景观参考",
           "source": "https://senjabyheart.no/en/product/snowshoe-hike-to-hesten-with-segla-view/"
+        },
+        {
+          "src": "../nordic/assets/experiences/hesten-segla-1.jpg",
+          "label": "Segla与峡湾 · 景观参考"
         }
       ],
       "description": [
@@ -607,6 +958,10 @@
             "license": "CC BY-SA 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:Mefjordv%C3%A6r_village_and_Kliftre_in_Senja,_Troms,_Norway,_2017_April.jpg"
           }
+        },
+        {
+          "src": "../nordic/assets/day-06-2.jpg",
+          "label": "Mefjordvær 渔村 · 另一视角"
         }
       ],
       "description": [
@@ -673,6 +1028,28 @@
           "label": "Tungeneset 恶魔之牙",
           "src": "../nordic/assets/day-07-0.jpg",
           "source": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/tungeneset-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/tungeneset-0-thumb.webp",
+          "label": "Tungeneset 恶魔之牙观景点 · 补充视角 1",
+          "credit": {
+            "author": "Ximonic (Simo Räsänen)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Okshornan_from_Tungeneset,_2015_September_-_3.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/tungeneset-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/tungeneset-2-thumb.webp",
+          "label": "Tungeneset 恶魔之牙观景点 · 补充视角 3",
+          "credit": {
+            "author": "Ximonic (Simo Räsänen)",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Coast_of_Tungeneset_and_Steinfjorden_in_Senja,_Troms,_Norway,_2017_April_-_2.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -745,6 +1122,16 @@
             "license": "CC BY 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:Fredvang_Bridges_Lofoten_Islands_(25040588031).jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/fredvang-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/fredvang-320.webp",
+          "credit": {
+            "author": "Petr Šmerkl, Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fredvang_Lofoten_2009_1.JPG"
+          },
+          "label": "Fredvang 与桥群 · 另一视角"
         }
       ],
       "description": [
@@ -778,6 +1165,28 @@
           "label": "Hamnøy · 雪山红屋",
           "src": "../nordic/assets/day-09-0.jpg",
           "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/hamnoy-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/hamnoy-0-thumb.webp",
+          "label": "Hamnøy 红色渔屋 · 补充视角 1",
+          "credit": {
+            "author": "Photographer: Mg-k.",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Lofoten_Hamnoy.jpg",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/hamnoy-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/hamnoy-1-thumb.webp",
+          "label": "Hamnøy 红色渔屋 · 补充视角 2",
+          "credit": {
+            "author": "Wikibphil",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Hamnoy_le_port.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -811,6 +1220,39 @@
           "label": "Sakrisøy 黄色渔屋",
           "src": "../nordic/assets/day-09-1.jpg",
           "source": "https://www.lonelyplanet.com/articles/what-is-friluftsliv"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/sakrisoy-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/sakrisoy-0-thumb.webp",
+          "label": "Sakrisøy 黄色渔屋 · 补充视角 1",
+          "credit": {
+            "author": "Svein-Magne Tunli - tunliweb.no",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Sakrisoy_Reine_Lofoten_Moskenes_tunliweb_01.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/sakrisoy-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/sakrisoy-1-thumb.webp",
+          "label": "Sakrisøy 黄色渔屋 · 补充视角 2",
+          "credit": {
+            "author": "Svein Magne Tunli",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Sakrisoy_Reine_Lofoten_tunliweb.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/sakrisoy-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/sakrisoy-2-thumb.webp",
+          "label": "Sakrisøy 黄色渔屋 · 补充视角 3",
+          "credit": {
+            "author": "Svein-Magne Tunli - tunliweb.no",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Sakrisoy_Reine_Lofoten_Moskenes_tunliweb_09.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -844,6 +1286,28 @@
           "label": "Reine 雷讷海湾",
           "src": "../nordic/assets/day-09-2.jpg",
           "source": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/reine-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/reine-0-thumb.webp",
+          "label": "Reine 雷讷海湾 · 补充视角 1",
+          "credit": {
+            "author": "Jörg Hempel",
+            "license": "CC BY-SA 2.0 de",
+            "url": "https://commons.wikimedia.org/wiki/File:Reine_i_Lofoten_LC0148.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/reine-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/reine-1-thumb.webp",
+          "label": "Reine 雷讷海湾 · 补充视角 2",
+          "credit": {
+            "author": "Ximonic (Simo Räsänen)",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Houses_of_Reine_by_Gravdalsbukta,_Moskenes,_Nordland,_Norway,_2022_June.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -881,6 +1345,27 @@
             "license": "CC BY 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:%C3%85_i_Lofoten_III_(perspective_corrected).jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/a-village-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/a-village-0-thumb.webp",
+          "label": "Å 渔村 · 补充视角 1",
+          "credit": {
+            "author": "Ximonic (Simo Räsänen)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Residential_in_%C3%85_i_Lofoten,_Moskenes%C3%B8ya,_Lofoten,_Norway,_2015_September.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/a-village-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/a-village-320.webp",
+          "credit": {
+            "author": "Petr Šmerkl, Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:A_view_2009.JPG"
+          },
+          "label": "Å 渔村 · 另一视角"
         }
       ],
       "description": [
@@ -919,6 +1404,28 @@
             "url": "https://commons.wikimedia.org/wiki/File:Ramberg_beach_Lofoten_2016_09.jpg"
           },
           "label": "Ramberg 海滩"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/ramberg-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/ramberg-0-thumb.webp",
+          "label": "Ramberg 海滩 · 补充视角 1",
+          "credit": {
+            "author": "Sberla_",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Ramberg_Beach,_Flakstad%C3%B8ya,_Lofoten.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/ramberg-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/ramberg-1-thumb.webp",
+          "label": "Ramberg 海滩 · 补充视角 2",
+          "credit": {
+            "author": "Eric Kilby",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Cabin_on_the_Shore_-_the_far_end_of_Ramberg_beach.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
         }
       ],
       "description": [
@@ -957,6 +1464,28 @@
             "url": "https://commons.wikimedia.org/wiki/File:Lofoten_Flakstad_Strand_9.JPG"
           },
           "label": "Skagsanden 海滩"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/skagsanden-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/skagsanden-0-thumb.webp",
+          "label": "Skagsanden 海滩 · 补充视角 1",
+          "credit": {
+            "author": "Hesse1309",
+            "license": "GFDL",
+            "url": "https://commons.wikimedia.org/wiki/File:Skagsanden_Lofoten_22.06.2012.jpg",
+            "licenseUrl": "http://www.gnu.org/copyleft/fdl.html"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/skagsanden-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/skagsanden-1-thumb.webp",
+          "label": "Skagsanden 海滩 · 补充视角 2",
+          "credit": {
+            "author": "Frokor",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Skagsanden.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -995,6 +1524,28 @@
             "url": "https://commons.wikimedia.org/wiki/File:Nusfjord_view_towards_Bottelvika_from_Sn%C3%B8sen,_Lofoten,_Norway,_2015_September.jpg"
           },
           "label": "Nusfjord 渔村"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/nusfjord-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/nusfjord-1-thumb.webp",
+          "label": "Nusfjord 渔村 · 补充视角 2",
+          "credit": {
+            "author": "Ximonic (Simo Räsänen)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Boats_in_Nusfjord,_Lofoten,_Norway,_2015_September.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/nusfjord-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/nusfjord-2-thumb.webp",
+          "label": "Nusfjord 渔村 · 补充视角 3",
+          "credit": {
+            "author": "Wikimedia Commons",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Nusfjord.jpg",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+          }
         }
       ],
       "description": [
@@ -1031,6 +1582,17 @@
             "url": "https://commons.wikimedia.org/wiki/File:Haukland_Beach_view.jpg"
           },
           "label": "Haukland／Uttakleiv 海滩"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/haukland-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/haukland-0-thumb.webp",
+          "label": "Haukland／Uttakleiv 海滩 · 补充视角 1",
+          "credit": {
+            "author": "Jon Olav Eikenes from Oslo, Norway",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Haukland_beach.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
         }
       ],
       "description": [
@@ -1099,6 +1661,28 @@
           "label": "Henningsvær 渔村",
           "src": "../nordic/assets/day-08-1.jpg",
           "source": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-mountain-in-the-background-MlBEc_7DemY"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/henningsvaer-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/henningsvaer-0-thumb.webp",
+          "label": "Henningsvær 渔村 · 补充视角 1",
+          "credit": {
+            "author": "Michael Haferkamp",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Henningsvaer-2.jpg",
+            "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/henningsvaer-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/henningsvaer-1-thumb.webp",
+          "label": "Henningsvær 渔村 · 补充视角 2",
+          "credit": {
+            "author": "Bjørn Christian Tørrissen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Henningsvaer-Lofoten-2020.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -1137,6 +1721,28 @@
             "url": "https://commons.wikimedia.org/wiki/File:Kabelv%C3%A5g,_Lofoten,_Noruega,_2019-09-05,_DD_30-35_PAN.jpg"
           },
           "label": "Kabelvåg 老渔港"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/kabelvag-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/kabelvag-0-thumb.webp",
+          "label": "Kabelvåg 老渔港 · 补充视角 1",
+          "credit": {
+            "author": "Henrik Dvergsdal",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kabelv%C3%A5g_fra_sj%C3%B8siden.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/kabelvag-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/kabelvag-1-thumb.webp",
+          "label": "Kabelvåg 老渔港 · 补充视角 2",
+          "credit": {
+            "author": "Lars Engerengen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Lofotkatedralen_i_Kabelv%C3%A5g.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -1174,6 +1780,16 @@
             "license": "CC BY 3.0",
             "url": "https://commons.wikimedia.org/wiki/File:Iceland_(181107753).jpeg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/reykjadalur-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/reykjadalur-320.webp",
+          "credit": {
+            "author": "VillageHero from Ulm, Germany",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Bathing_in_hot_mountain_river_%C3%96lfusdalur_(14602797348).jpg"
+          },
+          "label": "Reykjadalur 热河谷 · 另一视角"
         }
       ],
       "description": [
@@ -1213,6 +1829,16 @@
             "license": "CC BY-SA 3.0",
             "url": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/thingvellir-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/thingvellir-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Roca_de_la_Ley,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_022.JPG"
+          },
+          "label": "Þingvellir 辛格维利尔国家公园 · 另一视角"
         }
       ],
       "description": [
@@ -1252,6 +1878,27 @@
             "license": "CC BY-SA 3.0",
             "url": "https://commons.wikimedia.org/wiki/File:Strokkur_erupting.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/geysir-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/geysir-1-thumb.webp",
+          "label": "Geysir／Strokkur 间歇泉 · 补充视角 2",
+          "credit": {
+            "author": "Krho Léna",
+            "license": "CC BY 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Geysir_(230599991).jpeg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/geysir-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/geysir-320.webp",
+          "credit": {
+            "author": "Andreas Tille",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Strokkur_geyser_eruption,_close-up_view.jpg"
+          },
+          "label": "Geysir／Strokkur 间歇泉 · 另一视角"
         }
       ],
       "description": [
@@ -1291,6 +1938,38 @@
             "license": "CC BY 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:Gullfoss-Falls-Iceland.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/gullfoss-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/gullfoss-0-thumb.webp",
+          "label": "Gullfoss 黄金瀑布 · 补充视角 1",
+          "credit": {
+            "author": "Arcthylor",
+            "license": "CC BY 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Gullfoss_Waterfall_in_Winter.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/gullfoss-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/gullfoss-1-thumb.webp",
+          "label": "Gullfoss 黄金瀑布 · 补充视角 2",
+          "credit": {
+            "author": "Pierre-Selim Huard",
+            "license": "CC BY 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gullfoss-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gullfoss-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_119.JPG"
+          },
+          "label": "Gullfoss 黄金瀑布 · 另一视角"
         }
       ],
       "description": [
@@ -1330,6 +2009,22 @@
             "license": "CC BY 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss_waterfall_(Iceland)_(16096296723).jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/seljalandsfoss-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/seljalandsfoss-0-thumb.webp",
+          "label": "Seljalandsfoss 塞里雅兰瀑布 · 补充视角 1",
+          "credit": {
+            "author": "The blanz",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss_winter.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "label": "Seljalandsfoss 塞里雅兰瀑布 · 另一视角",
+          "src": "../nordic/assets/day-11-0.jpg",
+          "source": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland"
         }
       ],
       "description": [
@@ -1435,6 +2130,28 @@
             "url": "https://commons.wikimedia.org/wiki/File:2019-04-10_-_Kvernufoss,_Iceland_(2).jpg"
           },
           "label": "Kvernufoss 瀑布"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/kvernufoss-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/kvernufoss-0-thumb.webp",
+          "label": "Kvernufoss 瀑布 · 补充视角 1",
+          "credit": {
+            "author": "Bromr",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kvernufoss.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/kvernufoss-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/kvernufoss-1-thumb.webp",
+          "label": "Kvernufoss 瀑布 · 补充视角 2",
+          "credit": {
+            "author": "Syrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kvernufoss_01.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -1503,6 +2220,38 @@
             "license": "CC BY-SA 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:DyrholaeyWinter.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/dyrholaey-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/dyrholaey-0-thumb.webp",
+          "label": "Dyrhólaey 迪霍拉里海岬 · 补充视角 1",
+          "credit": {
+            "author": "Andreas Tille",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:DyrholaeyCliffInWinter.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/dyrholaey-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/dyrholaey-1-thumb.webp",
+          "label": "Dyrhólaey 迪霍拉里海岬 · 补充视角 2",
+          "credit": {
+            "author": "Keith Ruffles",
+            "license": "CC BY 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Dyrh%C3%B3laey_peninsula_is_located_on_the_south_coast_of_Iceland_(Picture_taken_in_2007).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/dyrholaey-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/dyrholaey-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Dyrh%C3%B3laey,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_140.jpg"
+          },
+          "label": "Dyrhólaey 迪霍拉里海岬 · 另一视角"
         }
       ],
       "description": [
@@ -1578,6 +2327,11 @@
             "license": "CC BY 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:Shades_of_black_-_Flickr_-_FerTravelPhoto.jpg"
           }
+        },
+        {
+          "label": "Reynisfjara 黑沙滩 · 另一视角",
+          "src": "../nordic/assets/day-12-0.jpg",
+          "source": "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/europa/schoenste-straende-europas/"
         }
       ],
       "description": [
@@ -1615,6 +2369,11 @@
             "license": "CC0",
             "url": "https://commons.wikimedia.org/wiki/File:Fja%C3%B0r%C3%A1rglj%C3%BAfur,_Iceland_(Unsplash_7_h1c6Zd7lQ).jpg"
           }
+        },
+        {
+          "label": "Fjaðrárgljúfur 羽毛峡谷 · 另一视角",
+          "src": "../nordic/assets/day-12-1.jpg",
+          "source": "https://www.rexby.com/mattberthou/ttd/fjadrargljufur-is-one-of-the-deepest-canyons-in-iceland"
         }
       ],
       "description": [
@@ -1684,6 +2443,17 @@
           "label": "Hofskirkja 草皮教堂",
           "src": "../nordic/assets/day-12-2.jpg",
           "source": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/hofskirkja-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/hofskirkja-0-thumb.webp",
+          "label": "Hofskirkja 草皮教堂 · 补充视角 1",
+          "credit": {
+            "author": "Jon Gretarsson",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Hofskirkja_%C3%AD_%C3%96r%C3%A6fum_-_panoramio.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
         }
       ],
       "description": [
@@ -1718,6 +2488,21 @@
           "label": "瓦特纳冰川 · 蓝冰洞参考",
           "src": "../nordic/assets/day-13-0.jpg",
           "source": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/"
+        },
+        {
+          "src": "../nordic-v2/assets/experiences/skaftafell-125.webp",
+          "label": "Skaftafell · 蓝冰洞内部",
+          "source": "https://images.troll.is/v1/troll/aVeYNnNYClf9ouoX_Skaftafell-Glacier-hike-599-copia-1024x683-1.jpg?auto=format,compress&w=700&h=600"
+        },
+        {
+          "src": "../nordic-v2/assets/experiences/skaftafell-129.webp",
+          "label": "Skaftafell · 向导带队冰川徒步",
+          "source": "https://images.troll.is/v1/troll/ZiZbe_Pdc1huKrMh_Troll_Skaftafell_Glacier_Tour-57.jpg?auto=format,compress&w=400&h=300"
+        },
+        {
+          "src": "../nordic-v2/assets/experiences/skaftafell-127.webp",
+          "label": "Skaftafell · 天然冰洞入口参考",
+          "source": "https://images.troll.is/v1/troll/aVeYS3NYClf9ouoZ_Skaftafell-Ice-Cave-WInter-2019-2020-1.jpg?auto=format,compress&w=400&h=300"
         }
       ],
       "description": [
@@ -1756,6 +2541,17 @@
             "url": "https://commons.wikimedia.org/wiki/File:Fjalls%C3%A1rl%C3%B3n_Glacier_Lagoon.jpg"
           },
           "label": "Fjallsárlón 菲亚尔冰川湖"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/fjallsarlon-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/fjallsarlon-0-thumb.webp",
+          "label": "Fjallsárlón 菲亚尔冰川湖 · 补充视角 1",
+          "credit": {
+            "author": "Eric Kilby",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fjallsarlon_Lagoon_Reflections.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
         }
       ],
       "description": [
@@ -1862,6 +2658,38 @@
             "license": "CC BY 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn_at_sunset_(3-41_pm)_-_Flickr_-_G%C3%A9rard_Cachon.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/vestrahorn-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/vestrahorn-0-thumb.webp",
+          "label": "Stokksnes／Vestrahorn 蝙蝠山 · 补充视角 1",
+          "credit": {
+            "author": "Peter Gege",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn_-_Flickr_-_climb6a.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/vestrahorn-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/vestrahorn-1-thumb.webp",
+          "label": "Stokksnes／Vestrahorn 蝙蝠山 · 补充视角 2",
+          "credit": {
+            "author": "Borvan53",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Cap_Vestrahorn_from_Vikurfjall_Ring_Road.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/vestrahorn-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/vestrahorn-320.webp",
+          "credit": {
+            "author": "Gerd Eichmann",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn-08-2018-gje.jpg"
+          },
+          "label": "Stokksnes／Vestrahorn 蝙蝠山 · 另一视角"
         }
       ],
       "description": [
@@ -1954,6 +2782,10 @@
         {
           "src": "../nordic/assets/day-14-1.jpg",
           "label": "蓝湖温泉"
+        },
+        {
+          "src": "../nordic/assets/experiences/blue-1.jpg",
+          "label": "蓝湖与熔岩地貌"
         }
       ],
       "description": [
@@ -1993,6 +2825,32 @@
             "license": "CC BY-SA 4.0",
             "url": "https://commons.wikimedia.org/wiki/File:Nyhavn_winter_2026_3.jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/nyhavn-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/nyhavn-0-thumb.webp",
+          "label": "Nyhavn 新港 · 补充视角 1",
+          "credit": {
+            "author": "kallerna",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Nyhavn_winter_2026_1.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/nyhavn-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/nyhavn-1-thumb.webp",
+          "label": "Nyhavn 新港 · 补充视角 2",
+          "credit": {
+            "author": "kallerna",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Nyhavn_winter_2026_4.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic/assets/day-15-0.jpg",
+          "label": "Nyhavn 新港 · 另一视角"
         }
       ],
       "description": [
@@ -2026,6 +2884,28 @@
           "label": "Amalienborg 阿美琳堡宫",
           "src": "../nordic/assets/day-15-1.jpg",
           "source": "https://www.ad-magazin.de/artikel/schloesser-der-daenischen-koenigsfamilie"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/amalienborg-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/amalienborg-0-thumb.webp",
+          "label": "Amalienborg 阿美琳堡 · 补充视角 1",
+          "credit": {
+            "author": "Yair Haklai",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Amalienborg_Palace-Winter_home_of_the_Danish_royal_family.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/amalienborg-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/amalienborg-2-thumb.webp",
+          "label": "Amalienborg 阿美琳堡 · 补充视角 3",
+          "credit": {
+            "author": "Kenny Louie from Vancouver, Canada",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Amalienborg_Palace_(2789566743).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
         }
       ],
       "description": [
@@ -2108,6 +2988,16 @@
             "url": "https://www.visitcopenhagen.com/copenhagen/planning/frama-gdk1106176"
           },
           "thumbnail": "../nordic-v2/assets/architecture/frama-studio-240.webp"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/frama-interior.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/frama-interior-thumb.webp",
+          "label": "FRAMA · 室内材料与陈列",
+          "credit": {
+            "author": "Frama Studio / PR photo / VisitCopenhagen",
+            "url": "https://www.visitcopenhagen.com/copenhagen/planning/frama-gdk1106176",
+            "license": "官方旅游资料图"
+          }
         }
       ],
       "description": [
@@ -2149,6 +3039,16 @@
             "url": "https://designmuseum.dk/en/om-museet-2/history-architecture/"
           },
           "thumbnail": "../nordic-v2/assets/architecture/designmuseum-courtyard-240.webp"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/designmuseum-interior.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/designmuseum-interior-thumb.webp",
+          "label": "丹麦设计博物馆 · 入口建筑",
+          "credit": {
+            "author": "Designmuseum Danmark",
+            "url": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
+            "license": "官方旅游资料图"
+          }
         }
       ],
       "description": [
@@ -2179,6 +3079,28 @@
         {
           "src": "../nordic/assets/day-17-2.jpg",
           "label": "Rosenborg 罗森堡宫"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/rosenborg-1.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/rosenborg-1-thumb.webp",
+          "label": "Rosenborg 罗森堡宫 · 补充视角 2",
+          "credit": {
+            "author": "Richard Mortel from Riyadh, Saudi Arabia",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Rosenborg_Palace,_Copenhagen,_early_1600s_(26)_(36404850235).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/rosenborg-2.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/rosenborg-2-thumb.webp",
+          "label": "Rosenborg 罗森堡宫 · 补充视角 3",
+          "credit": {
+            "author": "Richard Mortel from Riyadh, Saudi Arabia",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Rosenborg_Palace,_Copenhagen,_early_1600s_(27)_(36236969922).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
         }
       ],
       "description": [
@@ -2284,6 +3206,17 @@
             "license": "CC BY-SA 2.0",
             "url": "https://commons.wikimedia.org/wiki/File:Copenhagen_2018-03-03_(39560256360).jpg"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/christiansborg-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/christiansborg-0-thumb.webp",
+          "label": "Christiansborg 克里斯蒂安堡宫 · 补充视角 1",
+          "credit": {
+            "author": "Moahim",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:2018_-_Christiansborg_from_the_Marble_Bridge.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
         }
       ],
       "description": [
@@ -2325,6 +3258,26 @@
             "url": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond"
           },
           "thumbnail": "../nordic-v2/assets/architecture/black-diamond-exterior-240.webp"
+        },
+        {
+          "src": "../nordic-v2/assets/attractions/gallery/black-diamond-0.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gallery/black-diamond-0-thumb.webp",
+          "label": "Black Diamond 黑钻图书馆 · 补充视角 1",
+          "credit": {
+            "author": "Drouyn Cambridge",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:A_Winter_Sunset_on_the_Black_Diamond_(46102760255).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/architecture/black-diamond-atrium-960.webp",
+          "label": "黑钻图书馆 · 中庭曲线",
+          "credit": {
+            "author": "Laura Stamer / Royal Danish Library",
+            "license": "官方新闻资料图",
+            "url": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond"
+          }
         }
       ],
       "description": [

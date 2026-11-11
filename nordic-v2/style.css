@@ -218,3 +218,5 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 
 .attraction-story{margin-top:18px;color:#62665f;font-size:14px;line-height:1.95;overflow-wrap:anywhere}.attraction-story p+p{margin-top:14px}
 @media(max-width:600px){.attraction-story{font-size:13px;line-height:1.95;margin-top:16px}.attraction-story p+p{margin-top:12px}}
+
+.attraction-gallery{min-width:0}.attraction-gallery-stage{position:relative}.attraction-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch}.attraction-track::-webkit-scrollbar{display:none}.attraction-track>.attraction-hero{flex:0 0 100%;min-width:0;scroll-snap-align:start;scroll-snap-stop:always}.attraction-track .attraction-hero img{width:100%;height:100%;aspect-ratio:16/9;max-height:420px;object-fit:cover}.attraction-thumbnails{margin:0;padding:12px 20px;border-bottom:1px solid var(--line)}

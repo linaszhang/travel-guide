@@ -35,3 +35,7 @@ The list omits the recommendation explanation paragraph. A single sticky row kee
 ## Detail background stories (2026-11-11)
 
 All 66 attractions have two original Chinese `description` paragraphs, displayed only in the detail page below the short summary. They add architectural/cultural history where documented, or landscape context and viewing details for natural sites. Legends are identified as folklore; replicas are not described as archaeological remains. `descriptionSources` and `descriptionCheckedAt` retain the research trail without restoring the removed footer source/score notes. List summaries, scores, itinerary inclusion, ordering, bookings and route advice are unchanged.
+
+## Detail photo galleries (2026-11-11)
+
+Detail hero images use a horizontal scroll-snap gallery, with previous/next buttons, thumbnail selection, image count and keyboard arrows when multiple images are available. Native horizontal touch scrolling remains available. Winter covers remain first; extra seasonal views are reference photographs, not promises of February conditions. This update adds verified alternative views to 48 attractions (161 photographs across the catalogue); entries without a suitable verified second view keep one photograph without inactive controls. All photo credits are included in the country list image-source disclosure.
