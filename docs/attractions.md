@@ -39,3 +39,7 @@ All 66 attractions have two original Chinese `description` paragraphs, displayed
 ## Detail photo galleries (2026-11-11)
 
 Detail hero images use a horizontal scroll-snap gallery, with previous/next buttons, thumbnail selection, image count and keyboard arrows when multiple images are available. Native horizontal touch scrolling remains available. Winter covers remain first; extra seasonal views are reference photographs, not promises of February conditions. This update adds verified alternative views to 48 attractions (161 photographs across the catalogue); entries without a suitable verified second view keep one photograph without inactive controls. All photo credits are included in the country list image-source disclosure.
+
+## Country introduction entries (2026-11-11)
+
+The list heading aligns the route-map link with the title baseline, with country/count below. Each country has a separate introduction card linking to `#country-intro/<country>`: a representative photograph, geographical and cultural context, and links back to attractions and the route map. Stable background facts follow the official destination sources retained in `countryIntroductions.sources`. Circular themed row numbers align with attraction titles. Country-introduction navigation preserves the list return position.
