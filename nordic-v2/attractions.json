@@ -18,7 +18,12 @@
         "label": "赫尔辛基官方步行指南",
         "url": "https://materialbank.myhelsinki.fi/deployedFiles/9dc1fd73bd6dd81511860317734d2a74.pdf"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-01-2.jpg",
+          "label": "赫尔辛基中央车站"
+        }
+      ]
     },
     {
       "id": "oodi",
@@ -83,7 +88,18 @@
         "label": "MyHelsinki · Amos Rex",
         "url": "https://www.myhelsinki.fi/places/amos-rex/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/amos-rex-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/amos-rex-320.webp",
+          "credit": {
+            "author": "Sinikka Halme",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Glass_Palace_Square_and_Amos_Rex_Helsinki_Finland_02.jpg"
+          },
+          "label": "Amos Rex／Lasipalatsi 广场"
+        }
+      ]
     },
     {
       "id": "helsinki-cathedral",
@@ -127,7 +143,18 @@
         "label": "赫尔辛基官方步行指南",
         "url": "https://materialbank.myhelsinki.fi/deployedFiles/9dc1fd73bd6dd81511860317734d2a74.pdf"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/esplanadi-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/esplanadi-320.webp",
+          "credit": {
+            "author": "Vadelmavene",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Esplanadin_puisto_2020.jpg"
+          },
+          "label": "Esplanadi 与设计街区"
+        }
+      ]
     },
     {
       "id": "suomenlinna",
@@ -144,7 +171,18 @@
         "label": "芬兰堡官网",
         "url": "https://suomenlinna.fi/en/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/suomenlinna-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/suomenlinna-320.webp",
+          "credit": {
+            "author": "Migro",
+            "license": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_aerial.JPG"
+          },
+          "label": "Suomenlinna 芬兰堡"
+        }
+      ]
     },
     {
       "id": "ersfjordbotn",
@@ -186,7 +224,18 @@
         "label": "Visit Tromsø",
         "url": "https://www.visittromso.no/winter"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/sommaroy-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/sommaroy-320.webp",
+          "credit": {
+            "author": "Harald Groven",
+            "license": "CC BY-SA 3.0 no",
+            "url": "https://commons.wikimedia.org/wiki/File:Hilles%C3%B8y_Sommar%C3%B8y.jpg"
+          },
+          "label": "Sommarøy 夏日岛"
+        }
+      ]
     },
     {
       "id": "fjellheisen",
@@ -205,7 +254,18 @@
         "label": "Fjellheisen 官网",
         "url": "https://www.fjellheisen.no/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/fjellheisen-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/fjellheisen-320.webp",
+          "credit": {
+            "author": "Olivier Bruchez",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fjellheisen,_Troms%C3%B8_2019.jpg"
+          },
+          "label": "Fjellheisen 缆车与 Storsteinen"
+        }
+      ]
     },
     {
       "id": "arctic-cathedral",
@@ -222,7 +282,18 @@
         "label": "Visit Tromsø · 市内景点交通",
         "url": "https://www.visittromso.no/travel/getting-around/sights"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/arctic-cathedral-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/arctic-cathedral-320.webp",
+          "credit": {
+            "author": "Henrik at English Wikipedia",
+            "license": "CC BY 2.5",
+            "url": "https://commons.wikimedia.org/wiki/File:Arctic_Cathedral_in_Tromsoe.jpg"
+          },
+          "label": "北极大教堂 Ishavskatedralen"
+        }
+      ]
     },
     {
       "id": "skansen",
@@ -264,7 +335,18 @@
         "label": "Visit Tromsø",
         "url": "https://www.visittromso.no/winter"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/polar-museum-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/polar-museum-320.webp",
+          "credit": {
+            "author": "Lars Tiede",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Polarmuseet.jpg"
+          },
+          "label": "Polarmuseet 极地博物馆"
+        }
+      ]
     },
     {
       "id": "charlottenlund",
@@ -308,7 +390,18 @@
         "label": "Visit Tromsø",
         "url": "https://www.visittromso.no/winter"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/pust-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/pust-320.webp",
+          "credit": {
+            "author": "Herbert wie",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:0_Sauna_Havn_Troms%C3%B8_Norway.jpg"
+          },
+          "label": "Pust 海港桑拿"
+        }
+      ]
     },
     {
       "id": "hesten-segla",
@@ -350,7 +443,12 @@
         "label": "挪威国家风景公路 · Senja",
         "url": "https://www.nasjonaleturistveger.no/en/routes/senja/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-06-2.jpg",
+          "label": "Mefjordvær 渔村"
+        }
+      ]
     },
     {
       "id": "ersfjordstranda",
@@ -444,7 +542,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/fredvang-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/fredvang-320.webp",
+          "credit": {
+            "author": "Petr Šmerkl, Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fredvang_Lofoten_2009_1.JPG"
+          },
+          "label": "Fredvang 与桥群"
+        }
+      ]
     },
     {
       "id": "hamnoy",
@@ -536,7 +645,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/a-village-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/a-village-320.webp",
+          "credit": {
+            "author": "Petr Šmerkl, Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:A_view_2009.JPG"
+          },
+          "label": "Å 渔村"
+        }
+      ]
     },
     {
       "id": "ramberg",
@@ -555,7 +675,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/ramberg-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/ramberg-320.webp",
+          "credit": {
+            "author": "FredN",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Ramberg_beach_Lofoten_2016_09.jpg"
+          },
+          "label": "Ramberg 海滩"
+        }
+      ]
     },
     {
       "id": "skagsanden",
@@ -574,7 +705,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/skagsanden-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/skagsanden-320.webp",
+          "credit": {
+            "author": "Zairon",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Lofoten_Flakstad_Strand_9.JPG"
+          },
+          "label": "Skagsanden 海滩"
+        }
+      ]
     },
     {
       "id": "nusfjord",
@@ -593,7 +735,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/nusfjord-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/nusfjord-320.webp",
+          "credit": {
+            "author": "Ximonic (Simo Räsänen)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Nusfjord_view_towards_Bottelvika_from_Sn%C3%B8sen,_Lofoten,_Norway,_2015_September.jpg"
+          },
+          "label": "Nusfjord 渔村"
+        }
+      ]
     },
     {
       "id": "haukland",
@@ -610,7 +763,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/haukland-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/haukland-320.webp",
+          "credit": {
+            "author": "Michele Agostini",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Haukland_Beach_view.jpg"
+          },
+          "label": "Haukland／Uttakleiv 海滩"
+        }
+      ]
     },
     {
       "id": "svolvaer",
@@ -680,7 +844,18 @@
         "label": "挪威国家风景公路 · Lofoten",
         "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/kabelvag-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/kabelvag-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kabelv%C3%A5g,_Lofoten,_Noruega,_2019-09-05,_DD_30-35_PAN.jpg"
+          },
+          "label": "Kabelvåg 老渔港"
+        }
+      ]
     },
     {
       "id": "reykjadalur",
@@ -697,7 +872,18 @@
         "label": "Visit South Iceland · 南岸路线",
         "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/reykjadalur-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/reykjadalur-320.webp",
+          "credit": {
+            "author": "VillageHero from Ulm, Germany",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Bathing_in_hot_mountain_river_%C3%96lfusdalur_(14602797348).jpg"
+          },
+          "label": "Reykjadalur 热河谷"
+        }
+      ]
     },
     {
       "id": "seljalandsfoss",
@@ -739,7 +925,18 @@
         "label": "Visit South Iceland · 南岸路线",
         "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/gljufrabui-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gljufrabui-320.webp",
+          "credit": {
+            "author": "Pjt56",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Glj%C3%BAfrab%C3%BAi-pjt1.jpg"
+          },
+          "label": "Gljúfrabúi 秘境瀑布"
+        }
+      ]
     },
     {
       "id": "skogafoss",
@@ -781,7 +978,18 @@
         "label": "Visit South Iceland · 南岸路线",
         "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/kvernufoss-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/kvernufoss-320.webp",
+          "credit": {
+            "author": "Sw257",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:2019-04-10_-_Kvernufoss,_Iceland_(2).jpg"
+          },
+          "label": "Kvernufoss 瀑布"
+        }
+      ]
     },
     {
       "id": "solheimajokull",
@@ -823,7 +1031,18 @@
         "label": "Visit South Iceland · 南岸路线",
         "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/dyrholaey-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/dyrholaey-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Dyrh%C3%B3laey,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_140.jpg"
+          },
+          "label": "Dyrhólaey 迪霍拉里海岬"
+        }
+      ]
     },
     {
       "id": "vik-church",
@@ -842,7 +1061,18 @@
         "label": "Visit South Iceland · 南岸路线",
         "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/vik-church-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/vik-church-320.webp",
+          "credit": {
+            "author": "Lenny K Photography from Sydney, Australia",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Black_and_white_church_Iceland_(25413805110).jpg"
+          },
+          "label": "Vík 教堂外观"
+        }
+      ]
     },
     {
       "id": "reynisfjara",
@@ -909,7 +1139,18 @@
         "label": "Visit South Iceland · 南岸路线",
         "url": "https://www.south.is/en/destinations/travel-routes/the-south-coast"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/stjornarfoss-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/stjornarfoss-320.webp",
+          "credit": {
+            "author": "Bromr",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Stj%C3%B3rnarfoss2010.JPG"
+          },
+          "label": "Stjórnarfoss 瀑布"
+        }
+      ]
     },
     {
       "id": "hofskirkja",
@@ -976,7 +1217,18 @@
         "label": "Visit South Iceland · 冰川",
         "url": "https://www.south.is/en/glaciers-and-glacier-activities"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/fjallsarlon-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/fjallsarlon-320.webp",
+          "credit": {
+            "author": "Bernd Thaller",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Fjalls%C3%A1rl%C3%B3n_Glacier_Lagoon.jpg"
+          },
+          "label": "Fjallsárlón 菲亚尔冰川湖"
+        }
+      ]
     },
     {
       "id": "jokulsarlon",
@@ -1045,7 +1297,18 @@
         "label": "Vestrahorn 官网",
         "url": "https://www.vestrahorn.is/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/vestrahorn-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/vestrahorn-320.webp",
+          "credit": {
+            "author": "Gerd Eichmann",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn-08-2018-gje.jpg"
+          },
+          "label": "Stokksnes／Vestrahorn 蝙蝠山"
+        }
+      ]
     },
     {
       "id": "hallgrimskirkja",
@@ -1085,7 +1348,12 @@
         "label": "Visit Reykjavík · 经典景点",
         "url": "https://visitreykjavik.is/sights-attractions"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-10-1.jpg",
+          "label": "Harpa 音乐厅"
+        }
+      ]
     },
     {
       "id": "blue-lagoon",
@@ -1102,7 +1370,12 @@
         "label": "Blue Lagoon 官网",
         "url": "https://www.bluelagoon.com/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-14-1.jpg",
+          "label": "蓝湖温泉"
+        }
+      ]
     },
     {
       "id": "nyhavn",
@@ -1121,7 +1394,12 @@
         "label": "Visit Copenhagen · 市中心景点",
         "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-15-0.jpg",
+          "label": "Nyhavn 新港"
+        }
+      ]
     },
     {
       "id": "amalienborg",
@@ -1172,7 +1450,8 @@
           "thumb": "../nordic-v2/assets/architecture/frederiks-church-240.webp",
           "srcset": "../nordic-v2/assets/architecture/frederiks-church-480.webp 480w, ../nordic-v2/assets/architecture/frederiks-church-640.webp 640w, ../nordic-v2/assets/architecture/frederiks-church-960.webp 960w",
           "source": "https://www.marmorkirken.dk/",
-          "credit": "Marmorkirken / Mads Grønbeck, Tom Misiak m.fl."
+          "credit": "Marmorkirken / Mads Grønbeck, Tom Misiak m.fl.",
+          "thumbnail": "../nordic-v2/assets/architecture/frederiks-church-240.webp"
         }
       ]
     },
@@ -1200,7 +1479,8 @@
           "thumb": "../nordic-v2/assets/architecture/frama-studio-240.webp",
           "srcset": "../nordic-v2/assets/architecture/frama-studio-480.webp 480w, ../nordic-v2/assets/architecture/frama-studio-640.webp 640w, ../nordic-v2/assets/architecture/frama-studio-960.webp 960w",
           "source": "https://www.visitcopenhagen.com/copenhagen/planning/frama-gdk1106176",
-          "credit": "Frama Studio / PR photo / VisitCopenhagen"
+          "credit": "Frama Studio / PR photo / VisitCopenhagen",
+          "thumbnail": "../nordic-v2/assets/architecture/frama-studio-240.webp"
         }
       ]
     },
@@ -1228,7 +1508,8 @@
           "thumb": "../nordic-v2/assets/architecture/designmuseum-courtyard-240.webp",
           "srcset": "../nordic-v2/assets/architecture/designmuseum-courtyard-480.webp 480w, ../nordic-v2/assets/architecture/designmuseum-courtyard-640.webp 640w, ../nordic-v2/assets/architecture/designmuseum-courtyard-960.webp 960w",
           "source": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
-          "credit": "Designmuseum Danmark"
+          "credit": "Designmuseum Danmark",
+          "thumbnail": "../nordic-v2/assets/architecture/designmuseum-courtyard-240.webp"
         }
       ]
     },
@@ -1247,7 +1528,12 @@
         "label": "Visit Copenhagen · 市中心景点",
         "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-17-2.jpg",
+          "label": "Rosenborg 罗森堡宫"
+        }
+      ]
     },
     {
       "id": "round-tower",
@@ -1264,7 +1550,18 @@
         "label": "Visit Copenhagen · 市中心景点",
         "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/round-tower-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/round-tower-320.webp",
+          "credit": {
+            "author": "Dietmar Rabich",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kopenhagen_(DK),_Runder_Turm_--_2017_--_1633.jpg"
+          },
+          "label": "Rundetårn 圆塔"
+        }
+      ]
     },
     {
       "id": "illums",
@@ -1283,7 +1580,12 @@
         "label": "Visit Copenhagen · 市中心景点",
         "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-16-1.jpg",
+          "label": "Strøget 步行街"
+        }
+      ]
     },
     {
       "id": "christiansborg",
@@ -1300,7 +1602,18 @@
         "label": "Visit Copenhagen · 市中心景点",
         "url": "https://www.visitcopenhagen.com/copenhagen/areas/neighborhoods/what-to-see-and-do-in-the-city-centre"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/christiansborg-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/christiansborg-320.webp",
+          "credit": {
+            "author": "Moahim",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:2018_-_Christiansborg_from_the_Marble_Bridge.jpg"
+          },
+          "label": "Christiansborg 克里斯蒂安堡宫"
+        }
+      ]
     },
     {
       "id": "black-diamond",
@@ -1326,7 +1639,8 @@
           "thumb": "../nordic-v2/assets/architecture/black-diamond-exterior-240.webp",
           "srcset": "../nordic-v2/assets/architecture/black-diamond-exterior-480.webp 480w, ../nordic-v2/assets/architecture/black-diamond-exterior-640.webp 640w, ../nordic-v2/assets/architecture/black-diamond-exterior-960.webp 960w",
           "source": "https://www.kb.dk/en/about-us/press/press-photos-black-diamond",
-          "credit": "Laura Stamer / Royal Danish Library"
+          "credit": "Laura Stamer / Royal Danish Library",
+          "thumbnail": "../nordic-v2/assets/architecture/black-diamond-exterior-240.webp"
         }
       ]
     },
@@ -1345,7 +1659,12 @@
         "label": "Louisiana 官网",
         "url": "https://louisiana.dk/en/"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic/assets/day-17-0.jpg",
+          "label": "Louisiana 现代艺术博物馆"
+        }
+      ]
     },
     {
       "id": "thingvellir",
@@ -1362,7 +1681,18 @@
         "label": "Visit South Iceland · 黄金圈",
         "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/thingvellir-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/thingvellir-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Roca_de_la_Ley,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_022.JPG"
+          },
+          "label": "Þingvellir 辛格维利尔国家公园"
+        }
+      ]
     },
     {
       "id": "geysir",
@@ -1379,7 +1709,18 @@
         "label": "Visit South Iceland · 黄金圈",
         "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/geysir-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/geysir-320.webp",
+          "credit": {
+            "author": "Andreas Tille",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Strokkur_geyser_eruption,_close-up_view.jpg"
+          },
+          "label": "Geysir／Strokkur 间歇泉"
+        }
+      ]
     },
     {
       "id": "gullfoss",
@@ -1396,7 +1737,18 @@
         "label": "Visit South Iceland · 黄金圈",
         "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
       },
-      "photos": []
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/gullfoss-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/gullfoss-320.webp",
+          "credit": {
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_119.JPG"
+          },
+          "label": "Gullfoss 黄金瀑布"
+        }
+      ]
     }
   ]
 }
