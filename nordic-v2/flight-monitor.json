@@ -53,7 +53,7 @@
           7200,
           9900
         ],
-        "note": "同款HO1607基础票总价¥12,485；Google明确首件托运需付费。正常及通常区间来自同日航线搜索，涵盖其他航司和中转，非HO1607专属判断，不可套用于携程含23kg票档。",
+        "note": "HO1607基础票；首件托运另付费。正常及通常区间为同日航线整体判断，含其他航司和中转，不代表该航班含23kg票档。",
         "judgmentScope": "route",
         "provider": "Alitrip",
         "status": "verified",
@@ -183,7 +183,7 @@
           1650,
           4700
         ],
-        "note": "同款AY935基础票2成人总价¥3,575（€481）；Google明确首件托运需付费。所选基础票显示正常，通常区间为2成人¥1,650–4,700；与携程含23kg票档口径不同。",
+        "note": "AY935基础票；首件托运另付费。所选基础票价格正常，通常区间不适用于携程含23kg票档。",
         "judgmentScope": "flight",
         "provider": "芬兰航空",
         "status": "verified",
@@ -308,7 +308,7 @@
         "judgment": null,
         "baseCny": null,
         "typicalRange": null,
-        "note": "已按2027-02-14、2成人和BGO中转筛选；Google明确没有与过滤条件相符的选项，无法提供WF621+FI335报价与价格分析。携程仍返回该组合，不将Google无结果解释为航班无票。",
+        "note": "已筛选同日BGO中转，Google未返回WF621+FI335原组合；携程仍有该组合报价。",
         "judgmentScope": null,
         "provider": null,
         "status": "no_matching_itinerary",
@@ -429,7 +429,7 @@
           2400,
           8600
         ],
-        "note": "同款FI204基础票2成人总价¥3,268（Alitrip）；基础票不含免费托运。Google所选基础票正常，通常区间¥2,400–8,600。Icelandair Economy Standard选项另显示72,062 ISK、平台折算¥3,923，含首件托运，但页面未展示重量，未作为新23kg核实报价。",
+        "note": "FI204基础票不含免费托运，所选基础票价格正常。Icelandair Standard另含首件托运，但未显示重量，未作为新23kg核实报价。",
         "judgmentScope": "flight",
         "provider": "Alitrip",
         "status": "verified",
@@ -452,7 +452,20 @@
             "currency": "CNY",
             "passengers": 2
           }
-        ]
+        ],
+        "alternativeFare": {
+          "checkedAt": "2026-11-11T10:06:30+08:00",
+          "provider": "Icelandair（Google Flights展示）",
+          "fare": "Economy Standard",
+          "amount": 72062,
+          "currency": "ISK",
+          "cny": 3923,
+          "fxRate": 0.05443923288279537,
+          "fxSource": "Google Flights页面参考折算",
+          "baggage": "每人首件托运免费，页面未显示重量",
+          "baggageKg": null,
+          "seats": null
+        }
       },
       "strategy": {
         "action": "先核实含托运票档",
@@ -508,7 +521,7 @@
           "baggageVerified": false
         }
       ],
-      "lastError": "本次仅核实FI204不含托运起价；更高票档的行李规则弹层未可靠切换，23kg票档未完成核实。latest保留2026-11-10成功记录，未刷新其核实时间。",
+      "lastError": "该起价不含免费托运；含23kg票档的规则未能核实，保留此前含托运报价及原核实时间",
       "lastAttemptAt": "2026-11-11T10:06:30+08:00"
     },
     {
@@ -544,7 +557,7 @@
           6700,
           10500
         ],
-        "note": "同款MU708基础票2成人总价¥8,763（Expedia，HKD10,306），Google明确首件托运需付费。低价判断与通常区间来自同日航线搜索，涵盖中转且以土航等市场低价为依据，不代表MU708直飞含托运票档处于低位。",
+        "note": "MU708基础票；首件托运另付费。低价及通常区间为同日航线整体判断，涵盖中转，不代表MU708直飞含托运票档处于低位。",
         "judgmentScope": "route",
         "provider": "Expedia",
         "status": "verified",
