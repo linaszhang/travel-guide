@@ -271,7 +271,7 @@ function attractionScoreHTML(a){const tier=a.score>=9?'high':a.score>=8?'mid':'l
 function attractionBadge(a){return a.days.length?`<span class="attraction-included">D${a.days.join(' / D')}</span>`:'<span class="attraction-optional">未包含</span>';}
 async function loadAttractions(){
  if(attractionData)return attractionData;
- if(!attractionRequest)attractionRequest=fetch('../nordic-v2/attractions.json?v=6').then(r=>{if(!r.ok)throw Error('attractions');return r.json();}).then(data=>attractionData=data).catch(error=>{attractionRequest=null;throw error;});
+ if(!attractionRequest)attractionRequest=fetch('../nordic-v2/attractions.json?v=7').then(r=>{if(!r.ok)throw Error('attractions');return r.json();}).then(data=>attractionData=data).catch(error=>{attractionRequest=null;throw error;});
  return attractionRequest;
 }
 async function renderAttractions(countryId,attractionId){
@@ -328,6 +328,7 @@ function renderAttractionDetail(a,data){
    <div class="attraction-detail-body"><header class="attraction-detail-title"><h1>${esc(a.name)}</h1>${attractionScoreHTML(a)}</header>
     <div class="attraction-detail-meta">${attractionBadge(a)}<span>建议 ${esc(a.duration)}</span></div>
     <p class="attraction-lead">${esc(a.summary)}</p>
+    ${a.openingHours?`<section class="attraction-opening${a.openingHours.status==='closed-during-trip'?' is-closed':''}" aria-label="开放时间"><h2>开放时间</h2>${a.openingHours.lines.map(line=>`<p>${esc(line)}</p>`).join('')}<p class="opening-note">${esc(a.openingHours.note)}</p><div class="opening-source"><span>当地时间 · 核实于 ${esc(a.openingHours.checkedAt)}</span><a href="${esc(a.openingHours.sourceUrl)}" target="_blank" rel="noopener noreferrer">查看官方开放安排 ↗</a></div></section>`:''}
     ${a.description?.length?`<div class="attraction-story">${a.description.map(paragraph=>`<p>${esc(paragraph)}</p>`).join('')}</div>`:''}
     <section class="attraction-plan"><h2>怎么顺路去</h2><p>${esc(a.route)}</p><a class="attraction-map-link" href="${mapsURL(a.query)}" target="_blank" rel="noopener noreferrer">${esc(a.name)} · Google Maps ↗</a></section>
     ${a.days.length?`<div class="attraction-day-links"><span>在每日行程中查看</span>${a.days.map(n=>`<a href="#day/${n}">DAY ${String(n).padStart(2,'0')} ↗</a>`).join('')}</div>`:'<p class="attraction-not-scheduled">未包含在当前每日行程中，可按上面的建议替换或调整。</p>'}

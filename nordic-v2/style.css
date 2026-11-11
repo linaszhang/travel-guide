@@ -242,3 +242,13 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 @media(max-width:860px){:root{--page-title-size:30px;--page-heading-top:28px;--page-heading-bottom:20px}}
 @media(max-width:600px){:root{--page-title-size:28px;--page-heading-top:24px}.monitor-schedule{font-size:11px}}
 @media(max-width:380px){:root{--page-title-size:26px}.monitor-title{gap:6px}.monitor-back{width:24px}.monitor-schedule{font-size:10px}.page-wrap>.monitor-heading{gap:8px}}
+
+/* Visitor hours belong to the venue or indoor area named in the copy. */
+.attraction-opening{padding:18px 20px;margin-top:22px;border-radius:12px;background:#f4f3ef}
+.attraction-opening h2{font-size:16px;margin-bottom:8px}
+.attraction-opening p{font-size:14px;line-height:1.9}
+.attraction-opening .opening-note{font-size:12px;color:#73756e;margin-top:7px}
+.opening-source{display:flex;align-items:baseline;justify-content:space-between;gap:6px 18px;flex-wrap:wrap;margin-top:12px;font-size:11px;color:var(--muted)}
+.opening-source a{color:var(--theme,var(--accent));border-bottom:1px dashed currentColor}
+.attraction-opening.is-closed{background:#fbefeb}.attraction-opening.is-closed h2{color:#bd4935}
+@media(max-width:600px){.attraction-opening{padding:15px 16px;margin-top:18px}.attraction-opening h2{font-size:15px}.attraction-opening p{font-size:13px}.attraction-opening .opening-note{font-size:11px}.opening-source{font-size:10px}}

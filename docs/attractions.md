@@ -43,3 +43,9 @@ Detail hero images use a horizontal scroll-snap gallery, with previous/next butt
 ## Country introduction entries (2026-11-11)
 
 The list heading aligns the route-map link with the title baseline, with country/count below. Each country has a separate introduction card linking to `#country-intro/<country>`: a representative photograph, geographical and cultural context, and links back to attractions and the route map. Stable background facts follow the official destination sources retained in `countryIntroductions.sources`. Circular themed row numbers align with attraction titles. Country-introduction navigation preserves the list return position.
+
+## Visitor opening hours (2026-11-11)
+
+Twenty-two managed/indoor venues now have optional `openingHours` metadata: Chinese schedule lines, scoped notes, official source URL, check date and status. Details show this immediately after the short introduction. Ordinary reference hours are distinguished from an announced trip-date closure. Unpublished February 2027 calendars are explicitly marked; weekly schedules and 2026-only seasonal schedules are not asserted as confirmed February hours. Station halls, public library areas, museum interiors, shops, visitor centres and surrounding outdoor spaces are distinguished.
+
+The parish announcement confirms Temppeliaukio Church will close 11 January–31 May 2027 and reopen 1 June; the detail highlights this closure. No bookings, daily itinerary or recommendation scores were changed.

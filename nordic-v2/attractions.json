@@ -66,7 +66,16 @@
         "https://paarautatieasema.fi/en/info/history",
         "https://www.helsinginkaupunginmuseo.fi/en/2020/12/09/eliel-saarinens-railway-station-as-setting-for-elielinaukio-competition/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "车站大厅每天 05:00–次日02:00。"
+        ],
+        "note": "大厅内商店、餐厅各有自己的营业时间。",
+        "sourceUrl": "https://paarautatieasema.fi/palvelut",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "oodi",
@@ -132,7 +141,16 @@
       "descriptionSources": [
         "https://oodihelsinki.fi/en/what-is-oodi/architecture/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "周一至周五 08:00–21:00；周六、周日 10:00–20:00。"
+        ],
+        "note": "节假日另有安排；这是图书馆公共空间开放时间。",
+        "sourceUrl": "https://oodihelsinki.fi/en/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "temppeliaukio",
@@ -185,7 +203,16 @@
       "descriptionSources": [
         "https://www.temppeliaukionkirkko.fi/uutiset/temppeliaukionkirkkoviettaa50-vuotispaiviaanjuhlaviikoin?asiasana=reference%3AwtFvUhSVt"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "2027.1.11–5.31 闭馆维修，你们2月6日到访时无法进入教堂大厅。"
+        ],
+        "note": "官网公告6月1日重新开放；不要按平时开放时间安排室内参观。",
+        "sourceUrl": "https://www.helsinginseurakunnat.fi/en/temppeliaukionkirkko/uutiset/temppeliaukionkirkonremontti11.1.-31.5.2027temppeliaukiochurchsrenovations11.1.-31.5.2027",
+        "checkedAt": "2026-11-11",
+        "status": "closed-during-trip"
+      }
     },
     {
       "id": "amos-rex",
@@ -256,7 +283,16 @@
         "https://www.museot.fi/fi/museot/amos-rex",
         "https://www.myhelsinki.fi/places/amos-rex/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "周一、周三至周五 11:00–20:00；周六、周日 11:00–17:00；周二闭馆。"
+        ],
+        "note": "这是室内展馆时间；Lasipalatsi 广场不受展馆开馆时间限制，换展期间可能闭馆。",
+        "sourceUrl": "https://amosrex.fi/en/about-us/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "helsinki-cathedral",
@@ -301,7 +337,16 @@
         "https://helsingintuomiokirkko.fi/en/index/historyofthecathedral.html",
         "https://www.finnisharchitecture.fi/projects/helsinki-cathedral"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "官网按周公布参观时段；当前参考：周一至周五 09:00–18:00、周六 09:00–17:00、周日 12:00–17:00。"
+        ],
+        "note": "2027年2月6日的具体时段尚未公布，教会活动可能调整；广场外观与室内参观分开安排。",
+        "sourceUrl": "https://helsingintuomiokirkko.fi/en/index/uusipaataso.html",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "esplanadi",
@@ -443,7 +488,16 @@
       "descriptionSources": [
         "https://suomenlinna.fi/en/explore/history/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "游客中心冬季每天 10:00–16:00（2026.9.28–2027.5.16）。"
+        ],
+        "note": "此时间仅指游客中心，不是整个岛屿或各博物馆的开放时间；展馆需分别核对。",
+        "sourceUrl": "https://palvelukartta.hel.fi/en/unit/57691",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "ersfjordbotn",
@@ -687,7 +741,16 @@
       "descriptionSources": [
         "https://www.visittromso.no/arctic-cathedral"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "官网2026年冬季常规参观时间 10:00–17:00；周三 13:00–14:00 暂停开放。"
+        ],
+        "note": "2027年二月时段尚待官网公布；婚礼、葬礼等教会活动期间不接待游客。",
+        "sourceUrl": "https://ishavskatedralen.no/besok/apningstider-3/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "skansen",
@@ -822,7 +885,16 @@
       "descriptionSources": [
         "https://www.visittromso.no/learn-about-history-tromso"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "每天 10:00–18:00。"
+        ],
+        "note": "5月1日、5月17日闭馆；2027年二月若有临时调整，以官网当周公告为准。",
+        "sourceUrl": "https://en.uit.no/tmu/polarmuseet/planlegg",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "charlottenlund",
@@ -893,7 +965,16 @@
       "descriptionSources": [
         "https://www.visittromso.no/pust-sauna"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "每天 06:00–23:00。"
+        ],
+        "note": "全年营业，需按实际预订的桑拿时段到场。",
+        "sourceUrl": "https://www.pust.io/priser/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "hesten-segla",
@@ -2730,7 +2811,16 @@
       "descriptionSources": [
         "https://visitreykjavik.is/service/hallgrimskirkja-church-tower"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "冬季教堂每天 10:00–17:00；塔楼最晚入场 16:45。"
+        ],
+        "note": "礼拜、仪式和音乐会期间可能暂停教堂或塔楼参观；按当日公告复核。",
+        "sourceUrl": "https://www.hallgrimskirkja.is/en-gb/opnunartimar",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "harpa",
@@ -2761,7 +2851,16 @@
         "https://www.harpa.is/sagan",
         "https://arsskyrsla.harpa.is/en/the-design/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "公共建筑：周一、周二和周日 10:00–18:00；周三至周六 10:00–20:00。"
+        ],
+        "note": "这是公共区域开放时间；演出厅需相应演出票，活动夜可能延长开放。",
+        "sourceUrl": "https://www.harpa.is/en/opening-hours",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "blue-lagoon",
@@ -2795,7 +2894,16 @@
       "descriptionSources": [
         "https://www.bluelagoon.com/30years/timeline"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "官网1–5月常规时间每天 08:00–20:00；19:30 前离开水池。"
+        ],
+        "note": "按预订入场时段到达；营业安排也可能随当地临时公告调整。",
+        "sourceUrl": "https://www.bluelagoon.com/en/opening-hours",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "nyhavn",
@@ -2915,7 +3023,16 @@
       "descriptionSources": [
         "https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/amalienborg/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "室内博物馆常规周二至周日 10:00–16:00；周一休馆。"
+        ],
+        "note": "假期可能加开；官网尚未公布2027年二月专项日历。室外宫殿广场与博物馆分开安排。",
+        "sourceUrl": "https://denkongeligesamling.dk/en/amalienborg-museum/plan-your-visit/opening-hours",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "frederiks-church",
@@ -2956,7 +3073,16 @@
       "descriptionSources": [
         "https://www.visitcopenhagen.com/copenhagen/planning/the-marble-church-gdk414142"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "周一至周四、周六 10:00–17:00；周五 12:00–17:00；周日 13:00–17:00。"
+        ],
+        "note": "礼拜、音乐会或排练期间不开放观光；穹顶导览通常周六、周日13:30，可能因天气或活动取消。",
+        "sourceUrl": "https://www.marmorkirken.dk/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "frama",
@@ -3007,7 +3133,16 @@
       "descriptionSources": [
         "https://framacph.com/blogs/stores/frama-studio-store"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "周一至周五 10:00–17:00；周六、周日 10:00–15:00。"
+        ],
+        "note": "这是 Studio Store 时间；旁边咖啡店有独立营业安排。",
+        "sourceUrl": "https://us.framacph.com/blogs/stores/frama-studio-store",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "designmuseum",
@@ -3058,7 +3193,16 @@
       "descriptionSources": [
         "https://designmuseum.dk/en/om-museet-2/history-architecture/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "周二、周三、周五至周日 10:00–18:00；周四 10:00–20:00；周一闭馆。"
+        ],
+        "note": "闭馆前1小时停止售票、前30分钟停止进入展厅。",
+        "sourceUrl": "https://designmuseum.dk/en/besog-os/opening-hours-admission/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "rosenborg",
@@ -3110,7 +3254,16 @@
       "descriptionSources": [
         "https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/rosenborg-palace/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "2027年二月具体时段尚未公布；官网一般时段为每天 10:00–17:00。"
+        ],
+        "note": "已公布的2026.11.2–12.23缩短为周二至周日10:00–16:00、周一闭馆，不能直接当作二月时间。请选定日期后复核。",
+        "sourceUrl": "https://denkongeligesamling.dk/en/rosenborg-castle/plan-your-visit/opening-hours/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "round-tower",
@@ -3146,7 +3299,16 @@
       "descriptionSources": [
         "https://www.rundetaarn.dk/en/article/the-observatory-through-time/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "冬季（10月–3月）：周一、周二 10:00–21:00；周三至周日 10:00–18:00。"
+        ],
+        "note": "天文观测通常周一、周二18:00–21:00，受天气影响；12月24–25日及1月1日闭馆。",
+        "sourceUrl": "https://www.rundetaarn.dk/en/visit-us/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "illums",
@@ -3178,7 +3340,16 @@
       "descriptionSources": [
         "https://www.visitcopenhagen.com/copenhagen/planning/stroget-gdk414471"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "2027年二月门店时段尚未公布；官网当前一周每天 10:00–19:00，仅作参考。"
+        ],
+        "note": "这是 Amagertorv 10 旗舰店，不是整条 Strøget 步行街的营业时间；官网按日期更新。",
+        "sourceUrl": "https://www.illumsbolighus.dk/on/demandware.store/Sites-illums_bolighus_dk-Site/da_DK/Stores-ShowStoreDetailsPage?sid=DK-AMT",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "christiansborg",
@@ -3226,7 +3397,17 @@
       "descriptionSources": [
         "https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/christiansborg-palace/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "冬季（11月2日–3月21日）：接待厅、遗址、皇家厨房周二至周日 10:00–17:00，周一闭馆。",
+          "皇家马厩周二至周日 13:30–16:00；宫殿教堂仅周日 10:00–17:00。"
+        ],
+        "note": "官方或王室活动可能临时关闭部分区域，需按所选参观区域复核。",
+        "sourceUrl": "https://denkongeligesamling.dk/en/christiansborg-palace/plan-your-visit/opening-hours/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "black-diamond",
@@ -3287,7 +3468,16 @@
       "descriptionSources": [
         "https://www.kb.dk/en/visit-us/black-diamond-copenhagen"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "公共建筑当前常规时间：周一至周五 08:00–20:00；周六 09:00–18:00；周日 10:00–16:00。"
+        ],
+        "note": "图书馆官网按周更新；阅览室、展览与咖啡店时间可能不同，2027年二月时段仍需复核。",
+        "sourceUrl": "https://www.kb.dk/en/black-diamond-copenhagen/black-diamond",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     },
     {
       "id": "louisiana",
@@ -3317,7 +3507,16 @@
       "descriptionSources": [
         "https://louisiana.dk/en/museum/architecture-and-history/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-11",
+      "openingHours": {
+        "lines": [
+          "周二至周五 11:00–22:00；周六、周日 11:00–18:00；周一闭馆。"
+        ],
+        "note": "节假日可能调整；咖啡店、雕塑公园同样需博物馆门票。",
+        "sourceUrl": "https://louisiana.dk/en/plan-your-visit/opening-hours/",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
     }
   ]
 }
