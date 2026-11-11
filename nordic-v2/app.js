@@ -66,7 +66,13 @@ function ctripSearch(f,people=2){
    const url=new URL('https://m.ctrip.com/html5/flight/taro/interFirst');url.search=params;return url.href;
 }
 
-function ctripFlightLink(f,people=2,label=f.title){const url=ctripSearch(f,people),app='ctrip://wireless/h5?type=2&url='+encodeURIComponent(btoa(url));return `<a class="monitor-flight-link" href="${esc(isCtripMobileDevice()?app:url)}" data-ctrip-search data-web-href="${esc(url)}" data-app-href="${esc(app)}">${esc(label)}</a>`;}
+// Parameters verified against Ctrip's getUniversalLink service for these five routes.
+// Use absolute dates here; the legacy web converter accepts relative day offsets.
+function ctripNativeSearch(f){
+ const cities={PVG:'SHA',KEF:'REK'},params=new URLSearchParams({c1:'1',c2:cities[f.origin]||f.origin,c3:cities[f.destination]||f.destination,c4:f.date.replaceAll('-',''),c7:'5',needguid:'1'});
+ return 'ctrip://wireless/flight_int_singlelist?'+params;
+}
+function ctripFlightLink(f,people=2,label=f.title){const url=ctripSearch(f,people),app=ctripNativeSearch(f);return `<a class="monitor-flight-link" href="${esc(isCtripMobileDevice()?app:url)}" data-ctrip-search data-web-href="${esc(url)}" data-app-href="${esc(app)}">${esc(label)}</a>`;}
 async function populateBudgetFlightDetails(){
  const section=[...$('#main').querySelectorAll('.budget-section')].find(s=>s.querySelector('h2')?.textContent==='机票');
  if(!section)return;

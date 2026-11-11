@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-11-11",
+  "officialSources": [
+    "https://static.tripcdn.com/packages/market/mkt-union-tracing/*/ResAdvOnline/sales/wakeup.v2.0.js",
+    "https://m.ctrip.com/restapi/soa2/11867/json/getUniversalLink"
+  ],
+  "method": "Public read-only POST using URL and generic platform agent, no account credentials or session IDs. The legacy swift path uses a departure offset in days from the conversion date; emitted native links use an absolute YYYYMMDD date.",
+  "limitations": [
+    "The official native result does not carry the H5 nop/airport filter parameters; passenger count and PVG/KEF selection require confirmation in the app.",
+    "Native app rendering requires a physical phone; browser checks validate the emitted link and official conversion only."
+  ],
+  "routes": [
+    {
+      "id": "pvg-hel",
+      "platform": "ios",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=SHA&c3=HEL&c4=20270206&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "pvg-hel",
+      "platform": "android",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=SHA&c3=HEL&c4=20270206&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "hel-tos",
+      "platform": "ios",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=HEL&c3=TOS&c4=20270207&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "hel-tos",
+      "platform": "android",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=HEL&c3=TOS&c4=20270207&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "tos-kef",
+      "platform": "ios",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=TOS&c3=REK&c4=20270214&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "tos-kef",
+      "platform": "android",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=TOS&c3=REK&c4=20270214&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "kef-cph",
+      "platform": "ios",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=REK&c3=CPH&c4=20270219&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "kef-cph",
+      "platform": "android",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=REK&c3=CPH&c4=20270219&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "cph-pvg",
+      "platform": "ios",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=CPH&c3=SHA&c4=20270220&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    },
+    {
+      "id": "cph-pvg",
+      "platform": "android",
+      "nativeUrl": "ctrip://wireless/flight_int_singlelist?c1=1&c2=CPH&c3=SHA&c4=20270220&c7=5&needguid=1",
+      "handler": "AwakeSchemaService"
+    }
+  ]
+}
