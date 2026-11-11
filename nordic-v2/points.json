@@ -848,10 +848,7 @@
   {
     "query": "Reykjavik Iceland",
     "name": "雷克雅未克市区",
-    "days": [
-      9,
-      10
-    ],
+    "days": [],
     "kind": "sight",
     "coord": [
       -21.9422367,
@@ -919,7 +916,7 @@
     "image": "../nordic/assets/day-11-0.jpg",
     "imageLabel": "塞里雅兰瀑布",
     "imageSource": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland",
-    "description": "细长落水与山崖形成南岸标志性景观；冬季以正面观景为主，不默认可以走到瀑布背后。",
+    "description": "2月15日黄金圈后前往，目标14:30–15:10在天光中看瀑布；冬季以正面开放步道为主。",
     "rating": null
   },
   {
@@ -939,7 +936,7 @@
     "image": "../nordic/assets/day-11-1.jpg",
     "imageLabel": "Skógafoss 斯科加瀑布",
     "imageSource": "https://www.icelandair.com/it-it/blog/migliori-cascate-dell-islanda/",
-    "description": "宽阔瀑面适合拍正面水势与人物尺度；阶梯是否攀爬按结冰和体力决定。",
+    "description": "2月15日目标15:50–16:35游览，优先在天光中拍瀑布正面，之后直接去Black Beach Suites。",
     "rating": null
   },
   {
@@ -1771,6 +1768,86 @@
     "imageLabel": "REY Stays - House",
     "imageSource": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
     "description": "2月16–18日连住两晚。位于霍芬Höfn周边，2月17日需清晨开车至Hof的冰洞集合点；2月18日先去Stokksnes再西返。",
+    "rating": null
+  },
+  {
+    "id": "p-thingvellir",
+    "query": "Thingvellir National Park Iceland",
+    "name": "Þingvellir 辛格维利尔国家公园",
+    "days": [
+      10
+    ],
+    "kind": "nature",
+    "coord": [
+      -21.1299,
+      64.2559
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic-v2/assets/attractions/winter/thingvellir-960.webp",
+    "imageLabel": "Þingvellir 辛格维利尔国家公园",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg",
+    "description": "2月15日07:15从INNI出发，晨光时段短逛P1／Hakið观景区与裂谷步道；约09:15继续东行。天光或路况不佳时缩短／跳过，优先下午双瀑布。",
+    "rating": null
+  },
+  {
+    "id": "p-geysir",
+    "query": "Strokkur Geysir Iceland",
+    "name": "Geysir／Strokkur 间歇泉",
+    "days": [
+      10
+    ],
+    "kind": "nature",
+    "coord": [
+      -20.3024,
+      64.3104
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic-v2/assets/attractions/winter/geysir-960.webp",
+    "imageLabel": "Geysir／Strokkur 间歇泉",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Strokkur_erupting.jpg",
+    "description": "2月15日从辛格维利尔东行，约10:15–10:45看Strokkur喷发，之后去黄金瀑布。",
+    "rating": null
+  },
+  {
+    "id": "p-gullfoss",
+    "query": "Gullfoss waterfall Iceland",
+    "name": "Gullfoss 黄金瀑布",
+    "days": [
+      10
+    ],
+    "kind": "nature",
+    "coord": [
+      -20.1199,
+      64.3271
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic-v2/assets/attractions/winter/gullfoss-960.webp",
+    "imageLabel": "Gullfoss 黄金瀑布",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gullfoss-Falls-Iceland.jpg",
+    "description": "2月15日约11:00–11:45游览，简餐后最迟12:15离开，经35／30号公路接1号公路去南岸双瀑布；下层步道以现场开放为准。",
+    "rating": null
+  },
+  {
+    "id": "p-hveragerdi",
+    "query": "Hveragerdi Iceland",
+    "name": "Hveragerði · INNI住宿区域",
+    "days": [
+      9,
+      10
+    ],
+    "kind": "stay",
+    "coord": [
+      -21.187,
+      64.0
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "../nordic-v2/assets/stays/inni-bedroom-960.webp",
+    "imageLabel": "INNI一卧室公寓",
+    "description": "2月14日入住INNI；2月15日07:15退房出发，走黄金圈后接南岸。地图标记为镇内住宿区域，准确入口按订单导航。",
     "rating": null
   }
 ]

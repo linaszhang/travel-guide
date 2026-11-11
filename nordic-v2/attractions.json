@@ -918,6 +918,99 @@
       ]
     },
     {
+      "id": "thingvellir",
+      "country": "iceland",
+      "group": "黄金圈 · 东行后接南岸",
+      "name": "Þingvellir 辛格维利尔国家公园",
+      "score": 8.5,
+      "days": [
+        10
+      ],
+      "summary": "裂谷地形与湖岸，适合把地质景观作为主题。",
+      "route": "2月15日07:15从INNI出发，晨光时段短逛P1／Hakið观景区与裂谷步道；约09:15继续东行。天光或路况不佳时缩短／跳过，优先下午双瀑布。",
+      "duration": "30–45分钟",
+      "query": "Thingvellir National Park Iceland",
+      "source": {
+        "label": "Visit South Iceland · 黄金圈",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      },
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/winter/thingvellir-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/winter/thingvellir-320.webp",
+          "label": "Þingvellir 辛格维利尔国家公园 · 冬季实景",
+          "season": "winter",
+          "credit": {
+            "author": "Philjama",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "geysir",
+      "country": "iceland",
+      "group": "黄金圈 · 东行后接南岸",
+      "name": "Geysir／Strokkur 间歇泉",
+      "score": 8.5,
+      "days": [
+        10
+      ],
+      "summary": "观察地热喷泉，是与南岸瀑布不同的一组体验。",
+      "route": "2月15日从辛格维利尔东行，约10:15–10:45看Strokkur喷发，之后去黄金瀑布。",
+      "duration": "约30分钟",
+      "query": "Strokkur Geysir Iceland",
+      "source": {
+        "label": "Visit South Iceland · 黄金圈",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      },
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/winter/geysir-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/winter/geysir-320.webp",
+          "label": "Geysir／Strokkur 间歇泉 · 冬季实景",
+          "season": "winter",
+          "credit": {
+            "author": "Debivort at en.wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Strokkur_erupting.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gullfoss",
+      "country": "iceland",
+      "group": "黄金圈 · 东行后接南岸",
+      "name": "Gullfoss 黄金瀑布",
+      "score": 9.0,
+      "days": [
+        10
+      ],
+      "summary": "峡谷里的大瀑布，适合专门走黄金圈时作为重点。",
+      "route": "2月15日约11:00–11:45游览，简餐后最迟12:15离开，经35／30号公路接1号公路去南岸双瀑布；下层步道以现场开放为准。",
+      "duration": "约45分钟",
+      "query": "Gullfoss waterfall Iceland",
+      "source": {
+        "label": "Visit South Iceland · 黄金圈",
+        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      },
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/attractions/winter/gullfoss-960.webp",
+          "thumbnail": "../nordic-v2/assets/attractions/winter/gullfoss-320.webp",
+          "label": "Gullfoss 黄金瀑布 · 冬季实景",
+          "season": "winter",
+          "credit": {
+            "author": "Acediscovery",
+            "license": "CC BY 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Gullfoss-Falls-Iceland.jpg"
+          }
+        }
+      ]
+    },
+    {
       "id": "seljalandsfoss",
       "country": "iceland",
       "group": "南岸 · 西向东至维克",
@@ -927,7 +1020,7 @@
         10
       ],
       "summary": "细长瀑布与崖壁，南岸的第一组代表景观。",
-      "route": "从INNI出发东行先停这里；冬季以正面观景为主，不默认瀑布后方步道开放。",
+      "route": "2月15日完成黄金圈后前往，目标14:30–15:10游览；下午天光优先，只看正面开放步道。",
       "duration": "30–45分钟",
       "query": "Seljalandsfoss parking Iceland",
       "source": {
@@ -986,7 +1079,7 @@
         10
       ],
       "summary": "宽阔瀑面很有力量，正面人物尺度尤其适合拍照。",
-      "route": "接在Seljalandsfoss之后沿1号公路向东；地面机位已足够，上方阶梯是否走按结冰情况决定。",
+      "route": "2月15日从塞里雅兰瀑布继续东行，目标15:50–16:35在天光中游览；看完直接去Black Beach Suites。",
       "duration": "45–60分钟",
       "query": "Skogafoss parking Iceland",
       "source": {
@@ -1035,11 +1128,9 @@
       "group": "南岸 · 西向东至维克",
       "name": "Sólheimajökull 冰舌",
       "score": 8.5,
-      "days": [
-        10
-      ],
+      "days": [],
       "summary": "近距离看冰川边缘，是南岸景观的一种变化。",
-      "route": "现有行程已写为支路开放、时间允许时短停；这次只观景，不自行上冰，已订冰川活动在第12天。",
+      "route": "加入黄金圈后未排入2月15日；当天优先双瀑布与入住，仅在重新分配时间后考虑。",
       "duration": "45–60分钟，另加支线车程",
       "query": "Solheimajokull parking Iceland",
       "source": {
@@ -1089,11 +1180,9 @@
       "group": "南岸 · 西向东至维克",
       "name": "Vík 教堂外观",
       "score": 8.0,
-      "days": [
-        10
-      ],
+      "days": [],
       "summary": "红顶教堂与小镇屋顶，适合简短的傍晚散步。",
-      "route": "按现有行程在维克补给时顺看，之后去Black Beach Suites；不要占用次晨黑沙滩时间。",
+      "route": "加入黄金圈后未排入2月15日；当天优先双瀑布与入住，仅在重新分配时间后考虑。",
       "duration": "20–30分钟",
       "query": "Vik i Myrdal Church Iceland",
       "source": {
@@ -1739,93 +1828,6 @@
         {
           "src": "../nordic/assets/day-17-0.jpg",
           "label": "Louisiana 现代艺术博物馆"
-        }
-      ]
-    },
-    {
-      "id": "thingvellir",
-      "country": "iceland",
-      "group": "额外支线 · 需替换半天至一天",
-      "name": "Þingvellir 辛格维利尔国家公园",
-      "score": 8.5,
-      "days": [],
-      "summary": "裂谷地形与湖岸，适合把地质景观作为主题。",
-      "route": "黄金圈支线的第一站，之后向东去盖歇尔；目前南岸行程没有这条内陆线，需要重新分配半天至一天。",
-      "duration": "45–60分钟；整条支线另留大半天至一天",
-      "query": "Thingvellir National Park Iceland",
-      "source": {
-        "label": "Visit South Iceland · 黄金圈",
-        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
-      },
-      "photos": [
-        {
-          "src": "../nordic-v2/assets/attractions/winter/thingvellir-960.webp",
-          "thumbnail": "../nordic-v2/assets/attractions/winter/thingvellir-320.webp",
-          "label": "Þingvellir 辛格维利尔国家公园 · 冬季实景",
-          "season": "winter",
-          "credit": {
-            "author": "Philjama",
-            "license": "CC BY-SA 3.0",
-            "url": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg"
-          }
-        }
-      ]
-    },
-    {
-      "id": "geysir",
-      "country": "iceland",
-      "group": "额外支线 · 需替换半天至一天",
-      "name": "Geysir／Strokkur 间歇泉",
-      "score": 8.5,
-      "days": [],
-      "summary": "观察地热喷泉，是与南岸瀑布不同的一组体验。",
-      "route": "从辛格维利尔向东，到间歇泉区后再去黄金瀑布；若走黄金圈，应替换现有行程，不能算成南岸顺路短停。",
-      "duration": "45–60分钟；整条支线另留大半天至一天",
-      "query": "Strokkur Geysir Iceland",
-      "source": {
-        "label": "Visit South Iceland · 黄金圈",
-        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
-      },
-      "photos": [
-        {
-          "src": "../nordic-v2/assets/attractions/winter/geysir-960.webp",
-          "thumbnail": "../nordic-v2/assets/attractions/winter/geysir-320.webp",
-          "label": "Geysir／Strokkur 间歇泉 · 冬季实景",
-          "season": "winter",
-          "credit": {
-            "author": "Debivort at en.wikipedia",
-            "license": "CC BY-SA 3.0",
-            "url": "https://commons.wikimedia.org/wiki/File:Strokkur_erupting.jpg"
-          }
-        }
-      ]
-    },
-    {
-      "id": "gullfoss",
-      "country": "iceland",
-      "group": "额外支线 · 需替换半天至一天",
-      "name": "Gullfoss 黄金瀑布",
-      "score": 9.0,
-      "days": [],
-      "summary": "峡谷里的大瀑布，适合专门走黄金圈时作为重点。",
-      "route": "排在间歇泉之后，之后再向南回住宿方向；全线建议大半天至一天，二月步道开放范围以现场为准。",
-      "duration": "45–60分钟；整条支线另留大半天至一天",
-      "query": "Gullfoss waterfall Iceland",
-      "source": {
-        "label": "Visit South Iceland · 黄金圈",
-        "url": "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
-      },
-      "photos": [
-        {
-          "src": "../nordic-v2/assets/attractions/winter/gullfoss-960.webp",
-          "thumbnail": "../nordic-v2/assets/attractions/winter/gullfoss-320.webp",
-          "label": "Gullfoss 黄金瀑布 · 冬季实景",
-          "season": "winter",
-          "credit": {
-            "author": "Acediscovery",
-            "license": "CC BY 4.0",
-            "url": "https://commons.wikimedia.org/wiki/File:Gullfoss-Falls-Iceland.jpg"
-          }
         }
       ]
     }

@@ -2567,37 +2567,217 @@
       {
         "num": 10,
         "id": "262:735",
-        "title": "南岸双瀑布 → 维克",
-        "date": "2月15日（周一） · 沿一号公路追随瀑布，傍晚抵达维克休整",
+        "title": "黄金圈 → 南岸双瀑布 → 维克",
+        "date": "2月15日（周一） · 07:15出发，黄金圈东行，下午留天光看双瀑布",
         "tags": [
-          "约3–4h（约155–175km，视可选支线）"
+          "约5–6.5h自驾（约300–320km，冬季规划估算）",
+          "07:15出发 · 双瀑布优先留在天光内"
         ],
         "photos": [
           {
-            "label": "塞里雅兰瀑布",
-            "src": "../nordic/assets/day-11-0.jpg",
-            "source": "https://www.nationalgeographic.com/travel/article/nat-geo-travels-iceland"
+            "label": "Þingvellir 辛格维利尔国家公园",
+            "src": "../nordic-v2/assets/attractions/winter/thingvellir-960.webp",
+            "thumb": "../nordic-v2/assets/attractions/winter/thingvellir-320.webp",
+            "srcset": "../nordic-v2/assets/attractions/winter/thingvellir-320.webp 320w, ../nordic-v2/assets/attractions/winter/thingvellir-960.webp 960w",
+            "source": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg"
           },
           {
-            "label": "Skógafoss 斯科加瀑布",
-            "src": "../nordic/assets/day-11-1.jpg",
-            "source": "https://www.icelandair.com/it-it/blog/migliori-cascate-dell-islanda/"
+            "label": "Geysir／Strokkur 间歇泉",
+            "src": "../nordic-v2/assets/attractions/winter/geysir-960.webp",
+            "thumb": "../nordic-v2/assets/attractions/winter/geysir-320.webp",
+            "srcset": "../nordic-v2/assets/attractions/winter/geysir-320.webp 320w, ../nordic-v2/assets/attractions/winter/geysir-960.webp 960w",
+            "source": "https://commons.wikimedia.org/wiki/File:Strokkur_erupting.jpg"
           },
           {
-            "label": "Sólheimajökull 冰川",
-            "src": "../nordic/assets/day-11-2.jpg",
-            "source": "https://cn.adventures.is/iceland/attractions/solheimajokull/"
+            "label": "Gullfoss 黄金瀑布",
+            "src": "../nordic-v2/assets/attractions/winter/gullfoss-960.webp",
+            "thumb": "../nordic-v2/assets/attractions/winter/gullfoss-320.webp",
+            "srcset": "../nordic-v2/assets/attractions/winter/gullfoss-320.webp 320w, ../nordic-v2/assets/attractions/winter/gullfoss-960.webp 960w",
+            "source": "https://commons.wikimedia.org/wiki/File:Gullfoss-Falls-Iceland.jpg"
           }
         ],
         "activities": [
           {
             "time": [
+              "清晨／上午",
+              "07:15–09:15"
+            ],
+            "emoji": "🏞️",
+            "title": "INNI → Þingvellir 辛格维利尔国家公园",
+            "body": [
+              {
+                "t": "07:15从INNI退房出发，冬季留约1–1.25小时车程与余量；约08:30抵达，等晨光后短逛至09:15。到达时可能尚未日出，不在全黑时走结冰步道。",
+                "links": []
+              },
+              {
+                "t": "只看Hakið观景区与开放的裂谷步道，停留约30–45分钟；不安排Silfra浮潜或长距离徒步。若天光不足或道路延误，缩短／跳过这一站，优先保留下午双瀑布。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "辛格维利尔",
+                  "query": "Thingvellir National Park Iceland"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "P1／Hakið停车场",
+                  "query": "Thingvellir National Park P1 parking Iceland"
+                }
+              ],
+              "description": "使用P1／Hakið游客中心停车场；先看现场开放与结冰提示，再走观景步道。"
+            },
+            "drives": [
+              {
+                "from": "INNI",
+                "to": "辛格维利尔",
+                "distance": "55km",
+                "duration": "1–1.25小时",
+                "origin": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland",
+                "destination": "Thingvellir National Park P1 parking Iceland",
+                "routeDistanceKm": 55,
+                "checkedAt": "2026-11-11"
+              }
+            ],
+            "infoCard": {
+              "time": "清晨／上午 · 07:15–09:15",
+              "price": "停车费另计"
+            }
+          },
+          {
+            "time": [
               "上午",
-              "9:30 -\n12:30"
+              "10:15–10:45"
+            ],
+            "emoji": "♨️",
+            "title": "Geysir／Strokkur 间歇泉",
+            "body": [
+              {
+                "t": "09:15离开辛格维利尔，沿开放的36／365／37号公路前往间歇泉区，车程先留约1小时；观赏Strokkur喷发，沿标示步道短逛。",
+                "links": []
+              },
+              {
+                "t": "停留约30分钟，随后前往黄金瀑布。当天不增加Kerið火山口、Brúarfoss或温泉支线。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "间歇泉区",
+                  "query": "Strokkur Geysir Iceland"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "Geysir停车场",
+                  "query": "Geysir parking Iceland"
+                }
+              ],
+              "description": "在Geysir配套停车场停车，步行进地热区，勿跨越围栏。"
+            },
+            "drives": [
+              {
+                "from": "辛格维利尔",
+                "to": "间歇泉",
+                "distance": "60km",
+                "duration": "约1小时，雪天另留余量",
+                "origin": "Thingvellir National Park P1 parking Iceland",
+                "destination": "Geysir parking Iceland",
+                "routeDistanceKm": 60,
+                "checkedAt": "2026-11-11"
+              }
+            ],
+            "infoCard": {
+              "time": "上午 · 10:15–10:45",
+              "price": "停车费另计"
+            }
+          },
+          {
+            "time": [
+              "上午",
+              "11:00–11:45"
             ],
             "emoji": "💦",
-            "title": "Hveragerði → 塞里雅兰瀑布",
+            "title": "Gullfoss 黄金瀑布",
             "body": [
+              {
+                "t": "从间歇泉开车约15分钟到黄金瀑布，预留约45分钟看瀑布与峡谷。冬季优先上层观景区；下层步道只在现场开放时前往。",
+                "links": []
+              },
+              {
+                "t": "11:45结束观景，简餐后最迟12:15离开黄金圈，给南岸双瀑布留下下午天光。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "黄金瀑布",
+                  "query": "Gullfoss Iceland"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "黄金瀑布上层停车场",
+                  "query": "Gullfoss upper parking Iceland"
+                }
+              ],
+              "description": "使用上层游客中心停车场，按现场指引前往开放的观景台。"
+            },
+            "drives": [
+              {
+                "from": "间歇泉",
+                "to": "黄金瀑布",
+                "distance": "10km",
+                "duration": "约15分钟",
+                "origin": "Geysir parking Iceland",
+                "destination": "Gullfoss upper parking Iceland",
+                "routeDistanceKm": 10,
+                "checkedAt": "2026-11-11"
+              }
+            ],
+            "infoCard": {
+              "time": "上午 · 11:00–11:45",
+              "price": "停车费另计"
+            }
+          },
+          {
+            "time": [
+              "中午",
+              "11:45–12:15"
+            ],
+            "emoji": "🥪",
+            "title": "简餐 · 12:15前离开黄金圈",
+            "body": [
+              {
+                "t": "提前备好路餐，或在黄金瀑布游客中心快速用餐（营业以当天为准）；不排长队。沿35／30号公路接回1号公路东行，驶向塞里雅兰瀑布。",
+                "links": []
+              },
+              {
+                "t": "这是规划目标时间，车程取决于风雪与路况；若预计双瀑布赶不上天光，优先缩短辛格维利尔及午餐停留，不用赶车追时间。",
+                "links": []
+              }
+            ],
+            "infoCard": {
+              "time": "中午 · 11:45–12:15",
+              "price": "餐费自理"
+            }
+          },
+          {
+            "time": [
+              "下午",
+              "14:30–15:10"
+            ],
+            "emoji": "💦",
+            "title": "Seljalandsfoss 塞里雅兰瀑布 · 天光优先",
+            "body": [
+              {
+                "t": "12:15离开黄金瀑布，先留约2–2.25小时到南岸，目标14:30抵达；停留约40分钟，不再加隐秘瀑布支线。",
+                "links": []
+              },
               {
                 "t": "细长落水与山崖形成南岸标志性景观；冬季以正面观景为主，不默认可以走到瀑布背后。",
                 "links": []
@@ -2637,29 +2817,33 @@
             },
             "drives": [
               {
-                "from": "INNI",
+                "from": "黄金瀑布",
                 "to": "塞里雅兰瀑布",
-                "distance": "83km",
-                "duration": "1.5小时",
-                "origin": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland",
-                "destination": "Seljalandsfoss Iceland",
-                "routeDistanceKm": 83.4,
-                "checkedAt": "2026-11-10"
+                "distance": "119km",
+                "duration": "2–2.25小时",
+                "origin": "Gullfoss upper parking Iceland",
+                "destination": "Seljalandsfoss parking Iceland",
+                "routeDistanceKm": 119,
+                "checkedAt": "2026-11-11"
               }
             ],
             "infoCard": {
-              "time": "上午 · 9:30–12:30",
+              "time": "下午 · 14:30–15:10",
               "price": "停车费另计"
             }
           },
           {
             "time": [
               "下午",
-              "13:00 -\n14:00"
+              "15:50–16:35"
             ],
             "emoji": "💦",
-            "title": "Skógafoss 斯科加瀑布",
+            "title": "Skógafoss 斯科加瀑布 · 天光优先",
             "body": [
+              {
+                "t": "15:10离开塞里雅兰，目标15:50抵达；预留约45分钟在天光中拍摄，优先瀑布正面，不把登顶阶梯作为必做。",
+                "links": []
+              },
               {
                 "t": "宽阔瀑面适合拍正面水势与人物尺度；阶梯是否攀爬按结冰和体力决定。",
                 "links": []
@@ -2718,59 +2902,29 @@
               }
             ],
             "infoCard": {
-              "time": "下午 · 13:00–14:00",
+              "time": "下午 · 15:50–16:35",
               "price": "停车费另计"
             }
           },
           {
             "time": [
-              "下午",
-              "14:00 -\n15:00"
-            ],
-            "emoji": "🍽️",
-            "title": "午餐",
-            "body": [
-              {
-                "t": "瀑布附近或维克方向选开门餐饮；如餐厅排队，优先简餐，别把午餐压到所有店都关门。",
-                "links": []
-              },
-              {
-                "t": "官网／详情 ↗",
-                "links": []
-              }
-            ],
-            "infoCard": {
-              "time": "下午 · 14:00–15:00",
-              "price": "餐费自理"
-            }
-          },
-          {
-            "time": [
-              "下午",
-              "15:00 -\n16:30"
+              "傍晚／晚上",
+              "约17:30后"
             ],
             "emoji": "🚗",
             "title": "前往维克 · 入住 Black Beach Suites",
             "body": [
               {
-                "t": "看维克教堂外观，镇内补给、晚餐后入住黑沙滩一侧公寓；次晨前往Reynisfjara。",
+                "t": "双瀑布之后直接前往Black Beach Suites办理入住，在维克一带补给和晚餐；不再增加Sólheimajökull冰川支线或维克教堂打卡，次晨按原计划去Reynisfjara黑沙滩。",
                 "links": []
               },
               {
-                "t": "顺路经过Sólheimajökull索尔黑马冰川，支路开放、时间允许时短停。",
+                "t": "若黄金圈道路不适合通行，当天改为直接走南岸；住宿日期与次日路线不变。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
-                {
-                  "label": "维克教堂",
-                  "query": "Vikurkirkja Vik Iceland"
-                },
-                {
-                  "label": "Sólheimajökull",
-                  "query": "Solheimajokull Iceland"
-                },
                 {
                   "label": "Black Beach Suites",
                   "query": "Black Beach Suites Iceland"
@@ -2778,65 +2932,26 @@
               ],
               "parking": [
                 {
-                  "label": "维克教堂停车区",
-                  "query": "Vikurkirkja parking Vik Iceland"
-                },
-                {
-                  "label": "冰川步道停车场",
-                  "query": "Solheimajokull glacier parking lot Iceland"
-                },
-                {
-                  "label": "Black Beach Suites",
+                  "label": "住宿停车位",
                   "query": "Black Beach Suites Iceland"
                 }
               ],
-              "note": "冰川为可选短停；需从停车场步行到观景处，不自行踏上冰面。",
-              "description": "维克教堂可使用维克教堂停车区；若顺路看Sólheimajökull，导航到冰川步道停车场后步行观景。晚上回Black Beach Suites，使用住宿车位。"
+              "description": "斯科加瀑布之后沿1号公路前往Black Beach Suites，使用住宿停车位；晚到按订单联系前台。"
             },
             "drives": [
               {
                 "from": "斯科加瀑布",
-                "to": "维克教堂",
-                "distance": "34km",
-                "duration": "40–50分钟",
-                "origin": "Skogafoss Iceland",
-                "destination": "Vikurkirkja Vik Iceland",
-                "routeDistanceKm": 34.0,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "斯科加瀑布",
-                "to": "Sólheimajökull",
-                "distance": "12km",
-                "duration": "20–30分钟",
-                "origin": "Skogafoss Iceland",
-                "destination": "Solheimajokull glacier parking lot Iceland",
-                "routeDistanceKm": 11.8,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Sólheimajökull",
-                "to": "维克教堂",
-                "distance": "31km",
-                "duration": "35–45分钟",
-                "origin": "Solheimajokull glacier parking lot Iceland",
-                "destination": "Vikurkirkja Vik Iceland",
-                "routeDistanceKm": 30.7,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "维克教堂",
                 "to": "Black Beach Suites",
-                "distance": "8km",
-                "duration": "10–15分钟",
-                "origin": "Vikurkirkja Vik Iceland",
+                "distance": "29km",
+                "duration": "40–55分钟",
+                "origin": "Skogafoss parking Iceland",
                 "destination": "Black Beach Suites Iceland",
-                "routeDistanceKm": 7.5,
-                "checkedAt": "2026-11-10"
+                "routeDistanceKm": 29,
+                "checkedAt": "2026-11-11"
               }
             ],
             "infoCard": {
-              "time": "下午 · 15:00–16:30",
+              "time": "傍晚／晚上 · 约17:30后",
               "price": "stay",
               "stayId": "vik"
             }
@@ -3410,9 +3525,11 @@
         ],
         "photos": [
           {
-            "label": "Skeiðarársandur 冰川平原",
-            "src": "../nordic/assets/day-14-0.jpg",
-            "source": "https://cromwell-intl.com/travel/iceland/vik-hali/"
+            "label": "Stokksnes／Vestrahorn 蝙蝠山",
+            "src": "../nordic-v2/assets/attractions/winter/vestrahorn-960.webp",
+            "thumb": "../nordic-v2/assets/attractions/winter/vestrahorn-320.webp",
+            "srcset": "../nordic-v2/assets/attractions/winter/vestrahorn-320.webp 320w, ../nordic-v2/assets/attractions/winter/vestrahorn-960.webp 960w",
+            "source": "https://commons.wikimedia.org/wiki/File:Vestrahorn_at_sunset_(3-41_pm)_-_Flickr_-_G%C3%A9rard_Cachon.jpg"
           },
           {
             "label": "雷克雅未克 · 大教堂",
@@ -3541,7 +3658,7 @@
             "title": "沿1号公路西返 → 凯夫拉维克",
             "body": [
               {
-                "t": "沿途午餐、加油与休息，晚上入住KEF机场附近；当天不再增加景点。",
+                "t": "蝙蝠山后沿1号公路西返，沿途午餐、加油与休息，晚上入住已订Hotel Berg；黄金圈已安排在2月15日东行，当天不再绕行。",
                 "links": []
               }
             ],
