@@ -215,3 +215,6 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .attractions-list>.attraction-stage:first-child{height:0;padding:0;margin:0;overflow:hidden}
 @media(max-width:860px){.attractions-sticky-bar{top:57px;gap:12px}.attractions-sticky-bar .attractions-countries{gap:6px}.attractions-sticky-bar .attractions-countries a{padding:5px 12px;font-size:12px}}
 @media(max-width:440px){.attractions-sticky-bar{gap:8px}.attractions-sticky-bar .attractions-countries{gap:4px}.attractions-sticky-bar .attractions-countries a{padding:5px 8px;font-size:11px}.attractions-current-stage{font-size:11px}}
+
+.attraction-story{margin-top:18px;color:#62665f;font-size:14px;line-height:1.95;overflow-wrap:anywhere}.attraction-story p+p{margin-top:14px}
+@media(max-width:600px){.attraction-story{font-size:13px;line-height:1.95;margin-top:16px}.attraction-story p+p{margin-top:12px}}

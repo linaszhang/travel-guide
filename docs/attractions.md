@@ -31,3 +31,7 @@ Detail pages omit the photograph caption, route-group eyebrow above the title, a
 ## Sticky country navigation (2026-11-11)
 
 The list omits the recommendation explanation paragraph. A single sticky row keeps country links on the left and the active route segment on the right, below the mobile header. The segment follows list section headings while scrolling; country changes and returning from a detail recompute it. Long segment names stay on one line and truncate rather than widening the viewport.
+
+## Detail background stories (2026-11-11)
+
+All 66 attractions have two original Chinese `description` paragraphs, displayed only in the detail page below the short summary. They add architectural/cultural history where documented, or landscape context and viewing details for natural sites. Legends are identified as folklore; replicas are not described as archaeological remains. `descriptionSources` and `descriptionCheckedAt` retain the research trail without restoring the removed footer source/score notes. List summaries, scores, itinerary inclusion, ordering, bookings and route advice are unchanged.

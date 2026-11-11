@@ -31,7 +31,16 @@
             "licenseUrl": "https://unsplash.com/license"
           }
         }
-      ]
+      ],
+      "description": [
+        "中央车站由芬兰建筑师 Eliel Saarinen 设计，1919年启用，正处在芬兰独立后重新塑造国家形象的时期。厚重的花岗岩、钟楼与入口两侧手托球灯的石雕人物，让交通建筑也有了城市纪念碑般的存在感。",
+        "值得先退到广场看立面的对称与钟楼，再走近观察石材、拱形大窗和雕塑的比例。这里仍是日常通勤的车站：列车、来往的人群和大厅的尺度，比单独拍一张正面照更能说明赫尔辛基如何围绕铁路发展成现代城市。"
+      ],
+      "descriptionSources": [
+        "https://paarautatieasema.fi/en/info/history",
+        "https://www.helsinginkaupunginmuseo.fi/en/2020/12/09/eliel-saarinens-railway-station-as-setting-for-elielinaukio-competition/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "oodi",
@@ -62,7 +71,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Library_Oodi_2019.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Oodi 由 ALA Architects 设计，将图书馆做成了面向所有人的公共空间。建筑以弯曲的木质外墙、通透的玻璃和起伏的顶棚，把传统阅读场所扩展成可以交流、创作、工作和休息的城市客厅。",
+        "三层空间的气氛各不相同：底层连接街道与活动，中层安排工作室和制作设施，顶层则是明亮安静的“书的天堂”。参观时可以沿楼层变化观察声音、光线与人的活动；最动人的地方，是一座标志性建筑仍然服务于普通人的日常生活。"
+      ],
+      "descriptionSources": [
+        "https://oodihelsinki.fi/en/what-is-oodi/architecture/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "temppeliaukio",
@@ -85,7 +102,15 @@
           "src": "../nordic/assets/day-02-2.jpg",
           "source": "https://temppeliaukionkirkko.fi/sv/index/forarrangorer.html"
         }
-      ]
+      ],
+      "description": [
+        "岩石教堂由 Timo 与 Tuomo Suomalainen 兄弟设计，1969年落成。设计没有在岩丘上堆叠传统教堂的体量，而是直接进入天然基岩，以粗粝石壁、铜质穹顶和环形天窗组织礼拜空间。",
+        "它的吸引力来自材料与光线：白天的自然光沿屋顶边缘落下，铜顶和岩壁在不同角度呈现细微的颜色变化。这里也是实际使用的教堂和音乐场所，停下来听一会儿空间里的声音，往往比匆忙走一圈更能体会它的安静与包裹感。"
+      ],
+      "descriptionSources": [
+        "https://www.temppeliaukionkirkko.fi/uutiset/temppeliaukionkirkkoviettaa50-vuotispaiviaanjuhlaviikoin?asiasana=reference%3AwtFvUhSVt"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "amos-rex",
@@ -115,7 +140,16 @@
             "licenseUrl": "https://materialbank.myhelsinki.fi/terms/"
           }
         }
-      ]
+      ],
+      "description": [
+        "Amos Rex 把当代展厅藏在广场地下，2018年开放的新空间与1936年的 Lasipalatsi 及 Bio Rex 影院连接在一起。广场上鼓起的小丘与圆形采光窗，正是地下美术馆在城市地面留下的痕迹。",
+        "这里适合看新旧建筑如何共处：低矮、横向展开的旧建筑，与可供人停留的起伏广场形成对照。即使不看展，也能绕着采光口观察坡面、窗框和行人的比例；它让艺术馆的入口从一扇门，延伸成一片可以使用的公共空间。"
+      ],
+      "descriptionSources": [
+        "https://www.museot.fi/fi/museot/amos-rex",
+        "https://www.myhelsinki.fi/places/amos-rex/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "helsinki-cathedral",
@@ -140,7 +174,16 @@
           "src": "../nordic/assets/day-01-0.jpg",
           "source": "https://www.thecoloursofmycloset.com/2019/02/my-helsinki-alla-scoperta-della-capitale-finlandese/"
         }
-      ]
+      ],
+      "description": [
+        "大教堂1852年启用，是 Carl Ludwig Engel 参与塑造的赫尔辛基新古典主义城市中心的重要部分。白色柱廊和绿色穹顶抬升在参议院广场之上，与周边建筑共同构成首都的代表性轮廓。",
+        "参观时可以把广场作为整体来看：台阶让教堂显得高远，广场上的人群又把纪念性建筑拉回日常尺度。冬季浅色天空、积雪与白色立面容易融在一起，反而更适合观察穹顶、柱子和阴影的细部，而不只是追求一张蓝天下的明信片。"
+      ],
+      "descriptionSources": [
+        "https://helsingintuomiokirkko.fi/en/index/historyofthecathedral.html",
+        "https://www.finnisharchitecture.fi/projects/helsinki-cathedral"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "esplanadi",
@@ -172,7 +215,15 @@
           },
           "position": "50% 82%"
         }
-      ]
+      ],
+      "description": [
+        "Esplanadi 是赫尔辛基市中心一条具有鲜明公共生活气息的绿带，连接商业街区与港口方向。林荫步道、雕塑、临街咖啡馆和设计商店，把这座城市重视散步与日常停留的一面放在同一条路线上。",
+        "冬天少了枝叶遮挡，更容易看到街道两侧建筑的窗饰、屋顶线和店面尺度。可以把它当作观察芬兰设计如何进入生活的地方：从橱窗中的织物、玻璃器皿到街角家具，留意材料与颜色的搭配，比只记住几个品牌名字更有意思。"
+      ],
+      "descriptionSources": [
+        "https://materialbank.myhelsinki.fi/deployedFiles/9dc1fd73bd6dd81511860317734d2a74.pdf"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "suomenlinna",
@@ -201,7 +252,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_Sea_Fortress_in_Winter_%E2%80%93_Helsinki,_Finland_(2022).jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "芬兰堡的历史跨越瑞典、俄罗斯与独立芬兰三个时期。它最初作为海上防御体系建设，城墙、炮位、船坞和营房分布在岛屿之间，今天作为世界遗产保留着军事设施与居住社区并存的面貌。",
+        "这里适合沿海岸慢走，理解堡垒为什么要依托岛屿、狭窄水道和视野来布置。冬季的海风、石墙和安静的街巷，会让防御工事显得格外朴素；岛上仍有人生活，游览时可以把城墙与住宅之间的转换也当作这段历史的一部分。"
+      ],
+      "descriptionSources": [
+        "https://suomenlinna.fi/en/explore/history/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "ersfjordbotn",
@@ -226,7 +285,15 @@
           "src": "../nordic/assets/day-04-0.jpg",
           "source": "https://airial.travel/attractions/norway/ersfjordbotn/ersfjordbotn-norway-dw0lPm-T"
         }
-      ]
+      ],
+      "description": [
+        "Ersfjordbotn 位于 Kvaløya 岛的峡湾尽头，山体从海水两侧陡然抬起，村落则落在较平缓的岸边。这里适合直观理解北挪威聚落与地形的关系：有限的平地、连接海湾的道路，以及始终在生活视野中的山和海。",
+        "二月可以留意雪线、岩壁与海面的层次，远处山峰负责构成轮廓，近处码头和房屋则带出人的尺度。它的价值更接近一次短暂的海岸停留，天气、云层和水面的细小变化，会让同一个方向在短时间里呈现不同气氛。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/getting-around"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "sommaroy",
@@ -255,7 +322,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Rorbuer_sommar%C3%B8y.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Sommarøy 是特罗姆瑟外海的渔业社区，名字与过去夏季使用岛屿的历史有关。浅色沙滩、低矮房屋、桥梁与开阔海面，使它呈现出与深切峡湾不同的海岛景观；“夏日岛”这个名字并不意味着冬季温暖。",
+        "可以把海滩与港口放在一起看：一边是浅滩和远山，一边是仍在工作的船只与海岸生活。冬天的色彩通常更克制，白沙、积雪和蓝灰色海水的差别很细，适合放慢脚步观察，而不必把每一处海湾都当成单独的打卡点。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/region/kvaloya-sommaroy"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "fjellheisen",
@@ -286,7 +361,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Troms%C3%B8_from_Fjellheisen_in_Winter.JPG"
           }
         }
-      ]
+      ],
+      "description": [
+        "Fjellheisen 缆车于1961年开放，将城市与 Storsteinen 的高处平台连接起来。它与特罗姆瑟大桥建设的时代接近，反映了这座北方城市逐渐拓展交通与观景设施的过程，也让高山景观进入更广泛的城市生活。",
+        "山顶最值得看的，是岛城、大桥、海峡与远山之间的关系。白天能辨认城市布局，入夜后则变成沿岸灯光勾出的曲线；可以从同一位置观察这段变化，理解特罗姆瑟为何既像一座港城，又始终被大尺度的自然景观包围。"
+      ],
+      "descriptionSources": [
+        "https://www.fjellheisen.no/engelsk/about-us"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "arctic-cathedral",
@@ -314,7 +397,15 @@
           },
           "label": "北极大教堂 Ishavskatedralen"
         }
-      ]
+      ],
+      "description": [
+        "通常所说的“北极大教堂”，实际是 Tromsdalen Church，由 Jan Inge Hovig 设计，1965年启用。屋顶两侧连续排列的白色构件，形成鲜明的三角轮廓，让它从海峡、大桥和城市不同方向都很容易辨认。",
+        "外观可以观察白色实体与玻璃立面的对比，室内则以 Victor Sparre 的彩色玻璃马赛克为重要看点。它的现代感并不依靠复杂装饰，而是来自重复结构、光线和清晰几何；与赫尔辛基的岩石教堂对照来看，会很有意思。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/arctic-cathedral"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "skansen",
@@ -339,7 +430,15 @@
           "src": "../nordic/assets/day-04-1.jpg",
           "source": "https://www.bronwyntownsend.com/blog/3-day-tromso-itinerary"
         }
-      ]
+      ],
+      "description": [
+        "Skansen 保存着特罗姆瑟早期历史的痕迹，既有旧防御土垒，也有城市中最早的一批木建筑。这里在特罗姆瑟1794年获得城市地位之前，就已与海关及港口管理有关。",
+        "与热闹街道相比，这片低矮木屋和近海空间更适合慢看。可以留意房屋朝向、码头与海面的距离，再把目光转向远处山峰：特罗姆瑟的城市故事，最初是围绕海上交通、交易和北方资源逐渐展开的。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/learn-about-history-tromso"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "polar-museum",
@@ -368,7 +467,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:The_Polar_Museum.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "极地博物馆讲述特罗姆瑟作为北极门户的历史，内容涉及越冬捕猎、极地航行，以及阿蒙森、南森等人的探险故事。展览把宏大的远征叙事放回船舶、装备和个人生活的具体细节中。",
+        "参观时可以关注人如何在极端环境中工作、等待和协作，也留意捕猎贸易背后的资源利用历史。看完再回到港口，船只、仓库和海岸线会有不同的意义：这里曾经是出发、补给与重返陆地的地方。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/learn-about-history-tromso"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "charlottenlund",
@@ -393,7 +500,15 @@
           "src": "../nordic/assets/experiences/cross-country-ski.jpg",
           "source": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor"
         }
-      ]
+      ],
+      "description": [
+        "Charlottenlund 属于特罗姆瑟岛上贴近日常生活的户外活动空间，与周边步道和滑雪线路联系紧密。它的吸引力不在纪念性建筑，而在于看到居民如何把雪地运动放进城市生活。",
+        "在较平缓的地形上体验越野滑雪，可以留意树林、雪道与住宅区之间几乎没有刻意分隔的关系。对第一次接触越野滑雪的人来说，这种日常、轻松的场景，也能帮助理解北欧户外文化为何常常从家门口开始。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/no/topp-8-turer-til-fots-ski-truger"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "pust",
@@ -423,7 +538,15 @@
           },
           "label": "Pust 海港桑拿"
         }
-      ]
+      ],
+      "description": [
+        "Pust 把桑拿放在特罗姆瑟的历史海港中，让热气、海水和城市灯光出现在同一个空间。其不同桑拿的造型分别借鉴北极大教堂和萨米 lavvo 帐篷的形态，把地方建筑意象带进当代休闲体验。",
+        "可以留意木质室内、窗外山峰与海面之间的对比：岸上的城市仍在运转，桑拿里却呈现另一种节奏。这里适合体会北方生活中人与水、寒冷和温暖的关系；海水浸浴只是可选体验，并不是理解这段海港生活的必要条件。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/pust-sauna"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "hesten-segla",
@@ -448,7 +571,15 @@
           "label": "Hesten方向看Segla · 冬季景观参考",
           "source": "https://senjabyheart.no/en/product/snowshoe-hike-to-hesten-with-segla-view/"
         }
-      ]
+      ],
+      "description": [
+        "Segla 是塞尼亚最容易辨认的山体之一，陡直岩壁从峡湾上方抬起；从 Hesten 一侧观察，才能获得许多照片中那种完整侧面。吸引人的不只是山峰本身，还有它与峡湾、村落之间强烈的高差。",
+        "可以把这处景观看成理解塞尼亚地形的一扇窗口：海岸线很近，高山却立刻变得陡峭。二月的雪会改变路径与山体轮廓，本次应把实际能到达的安全观景位置作为体验重点，而不把夏季山顶照片当作必须复制的画面。"
+      ],
+      "descriptionSources": [
+        "https://www.visittromso.no/region/senja"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "mefjordvaer",
@@ -477,7 +608,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Mefjordv%C3%A6r_village_and_Kliftre_in_Senja,_Troms,_Norway,_2017_April.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Mefjordvær 是塞尼亚面向海洋的一处渔村，木屋、码头和船只集中在山脚的狭窄海岸带。村落与群山贴得很近，能清楚看到北方沿海社区如何利用有限的平地组织生活。",
+        "这里适合看房屋与港湾的组合，而不是只追逐某一座山。雪天的屋顶、系泊绳索、码头边缘和窗里的灯光，都是很有温度的细节；远景表现塞尼亚的粗犷，近景则更能讲出有人居住的海岸是什么样子。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/senja/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "ersfjordstranda",
@@ -502,7 +641,15 @@
           "src": "../nordic/assets/day-07-2.jpg",
           "source": "https://nordnorge.com/en/artikkel/the-national-tourist-route-winds-around-senjas-outer-coast/"
         }
-      ]
+      ],
+      "description": [
+        "Ersfjordstranda 是塞尼亚 Ersfjord 海湾中的沙滩，与特罗姆瑟附近的 Ersfjordbotn 并不是同一地点。开阔滩面两侧立着陡峭山体，海湾像一个把山、海与天空收进来的天然框景。",
+        "它能让自驾的节奏从连续山路短暂转到平坦海岸。冬季可以观察浪线、雪覆盖的沙面与山脊之间的比例；低角度光线下，原本细微的地表纹理会更明显，也很适合用人物远景呈现环境尺度。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/senja/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "tungeneset",
@@ -527,7 +674,15 @@
           "src": "../nordic/assets/day-07-0.jpg",
           "source": "https://www.trip.com/travel-guide/attraction/senja/tungeneset-50587529/"
         }
-      ]
+      ],
+      "description": [
+        "Tungeneset 位于 Steinsfjord 与 Ersfjord 之间的海岬，是挪威国家风景路线将建筑介入海岸景观的代表性停靠点。木栈道沿裸露岩石展开，把视线引向海面及 Okshornan 锯齿状山峰。",
+        "这里值得看的既有远处山形，也有脚下栈道如何顺应地形。可以比较木材、岩石、积雪和海水的不同表面，再选择一个简单的构图；建筑没有抢走自然的主角位置，而是让短暂停车也成为一段有方向的观看过程。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/senja/tungeneset/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "bergsbotn",
@@ -552,7 +707,15 @@
           "src": "../nordic/assets/day-07-1.jpg",
           "source": "https://backiee.com/wallpaper/bergsbotn-viewpoint-at-wintertime-norway/121545"
         }
-      ]
+      ],
+      "description": [
+        "Bergsbotn 观景台位于能俯瞰峡湾与村落的山坡上，由 Code arkitektur 设计，平台长约44米。它属于挪威国家风景路线，通过一条延伸出去的步行空间，把道路边缘变成有停留感的观景位置。",
+        "走到平台不同位置，近处栏杆、峡湾弧线与层叠山体的关系会逐渐变化。这里适合看整体地形，而不必把画面塞满细节；冬季村落与道路在雪地中留下的细线，也能说明居民如何在巨大的自然尺度里生活。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/senja/bergsbotn/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "fredvang",
@@ -583,7 +746,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Fredvang_Bridges_Lofoten_Islands_(25040588031).jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Fredvang 一带的桥梁跨过低矮海岛与水道，将村落与罗弗敦的公路系统连接起来。与雷讷一带高山紧贴海湾的景象相比，这里的桥、浅水和较舒展的地形，带来更明显的道路旅行感。",
+        "可以留意桥梁曲线如何把分散的陆地串起来，远山又如何成为背景。冬天适合从合法停靠点寻找道路与海岸的交汇，不必把跨桥本身变成停留；照片里若保留一些平地和村屋，往往更能表现岛屿之间真实的距离。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "hamnoy",
@@ -608,7 +779,15 @@
           "src": "../nordic/assets/day-09-0.jpg",
           "source": "https://petapixel.com/2021/02/17/lofoten-norway-a-landscape-photographers-dream/"
         }
-      ]
+      ],
+      "description": [
+        "Hamnøy 的渔屋与港口源于罗弗敦长期的季节性捕鱼和鱼货加工。今天许多渔屋转作住宿，但这类沿岸建筑最初服务于渔民与渔业劳动，红色木屋与陡峭山峰组成的风景，也有明确的生计背景。",
+        "桥附近的经典视角将房屋压在山脚与海面之间，适合观察建筑怎样适应有限的岸线。除了拍整体，也可以看栈桥、屋脚和船只的细节；把它当作仍有生活与工作的地方，会比单纯把渔屋当成布景更容易读懂罗弗敦。"
+      ],
+      "descriptionSources": [
+        "https://rorbuer.no/history/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "sakrisoy",
@@ -633,7 +812,15 @@
           "src": "../nordic/assets/day-09-1.jpg",
           "source": "https://www.lonelyplanet.com/articles/what-is-friluftsliv"
         }
-      ]
+      ],
+      "description": [
+        "Sakrisøy 位于 Hamnøy 与 Reine 之间的小岛上，以黄色木建筑和紧凑的临海布局形成鲜明辨识度。它与周边村落共同呈现雷讷峡湾的海岸生活：房屋、道路、食品与海洋彼此靠得很近。",
+        "可以把这里与前后两处村落对照来看，留意不同颜色的木墙如何回应阴天、雪地和蓝灰色海水。岛很小，适合用短时间慢看一两组建筑关系；保留海面与山峰之间的空隙，通常比只贴近一栋房屋更能表现地点的特点。"
+      ],
+      "descriptionSources": [
+        "https://sakrisoy.no/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "reine",
@@ -658,7 +845,15 @@
           "src": "../nordic/assets/day-09-2.jpg",
           "source": "https://dezembercamper.de/2019/03/lofoten-im-winter-ein-erstes-fazit/"
         }
-      ]
+      ],
+      "description": [
+        "Reine 由桥梁和道路串起的一组岛屿构成，一侧面向 Vestfjord，另一侧深入被高山围合的 Reinefjord。它不仅是著名风景地，也是仍然与鱼货接收、加工及港口生活相联系的社区。",
+        "这里可以从海岸的多个方向观察同一片山峰与聚落，体会峡湾空间如何随着行进而变化。二月的灯光、渔船和雪线很适合一起入镜；与其只追求高处俯瞰，不如在海平面上看道路、桥与房屋怎样连接成完整的村落。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/en/destination/reine/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "a-village",
@@ -687,7 +882,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:%C3%85_i_Lofoten_III_(perspective_corrected).jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Å 保留着理解罗弗敦渔村生活的线索，渔村博物馆与鱼干主题展示，让房屋、生产设施和海上贸易的故事联系起来。鱼干曾是罗弗敦连接挪威其他港口与欧洲市场的重要商品。",
+        "在这里适合把注意力从山海大景转向小尺度：码头、仓房、渔屋与加工空间分别承担什么功能。即使只是沿村落步行，也可以通过建筑之间的距离与方向，想象繁忙捕鱼季中鱼货上岸、处理和运输的连续过程。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/en/the-history-of-lofoten/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "ramberg",
@@ -717,7 +920,15 @@
           },
           "label": "Ramberg 海滩"
         }
-      ]
+      ],
+      "description": [
+        "Rambergstranda 位于 Jusnesvika 海湾，浅色沙滩与周边山峰构成罗弗敦极具辨识度的海岸景观。国家风景路线以简洁的木质步道连接沙滩，让公路旁的停靠转为步行观看。",
+        "冬季白沙与积雪的界线可能很淡，真正有层次的是浪线、海水和远山。这里适合留出较多天空或滩面，让画面呼吸；与邻近渔村搭配，会更容易看到罗弗敦既有密集的港口生活，也有这样开阔安静的海岸。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "skagsanden",
@@ -747,7 +958,15 @@
           },
           "label": "Skagsanden 海滩"
         }
-      ]
+      ],
+      "description": [
+        "Skagsanden 是罗弗敦面向外海的沙滩，特别适合观察水流在深浅不同的沙粒间留下的纹理。它的看点较少依赖单独一座建筑，而在于近处滩面与远处山体能够同时进入视野。",
+        "冬季可以把它当成一次“看地表”的停留：细小纹路、薄水反光、岸边石块，都能成为构图起点。天气与潮位会改变这些细节，因此不必执着于复制某张照片；先找到当前最清楚的纹理，再决定是否把远山放进去。"
+      ],
+      "descriptionSources": [
+        "https://www.nasjonaleturistveger.no/en/routes/lofoten/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "nusfjord",
@@ -777,7 +996,15 @@
           },
           "label": "Nusfjord 渔村"
         }
-      ]
+      ],
+      "description": [
+        "Nusfjord 保存着较完整的传统渔村建筑群，港湾周围的渔屋与生产空间记录了罗弗敦依海而生的生活方式。相比在公路边远看几栋房屋，这里更适合把村落作为一个有功能联系的整体来理解。",
+        "可以留意仓房、临水建筑和山坡之间紧凑的布局：哪些地方方便船只靠岸，哪些空间用于储存与加工。冬天的低光会强化木墙、屋顶和水面的质感；它的吸引力也在于历史并未只留在展板上，而是体现在建筑的尺度与位置里。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/en/destination/nusfjord-lofotens-hidden-gem/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "haukland",
@@ -805,7 +1032,16 @@
           },
           "label": "Haukland／Uttakleiv 海滩"
         }
-      ]
+      ],
+      "description": [
+        "Haukland 与 Uttakleiv 位于 Vestvågøy 的外海一侧，前者以较完整的沙湾见长，后者则把沙地、圆石与开阔海岸结合起来。周边也属于仍有放牧活动的文化景观，自然风景与土地使用并不是截然分开的。",
+        "把两处海滩连在一起看，可以比较同一片海岸如何因山体遮蔽、岸线和地表材料而呈现不同性格。冬季更适合关注浪的节奏、雪地边缘与远山，不必把夏季徒步线路或海边近水机位直接搬进二月行程。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/en/topic/beaches-in-lofoten/",
+        "https://www.vestvagoy.kommune.no/samfunn-og-fritid/fritid-frivillighet/hauklandstranda-besokssenter/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "svolvaer",
@@ -831,7 +1067,15 @@
           "src": "../nordic/assets/day-08-0.jpg",
           "source": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/"
         }
-      ]
+      ],
+      "description": [
+        "Svolvær 是罗弗敦最大的城市，渔业、海产品加工、交通、旅游与艺术活动在这里交汇。港口的城市感比小渔村更明显，也能帮助理解群岛不只是分散的摄影地点，还有维系区域生活的服务与交易中心。",
+        "可以沿港湾看船只、旅馆、工作建筑与远山如何排列，再走入画廊或街道观察城市的另一面。冬天港口灯光与山脊线相互呼应，既适合作为途中停留，也适合用来对照前几天较安静的南部村落。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/en/destination/svolvaer/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "henningsvaer",
@@ -856,7 +1100,15 @@
           "src": "../nordic/assets/day-08-1.jpg",
           "source": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-mountain-in-the-background-MlBEc_7DemY"
         }
-      ]
+      ],
+      "description": [
+        "Henningsvær 分布在 Austvågøya 南侧的多个小岛上，渔业曾推动聚落发展，如今仍可看到捕鱼季的码头活动。与此同时，画廊、手工作坊与小店让这里形成了鲜明的文化气氛。",
+        "这里值得看的是港口与街巷之间的转换，而不只是一处网上熟悉的俯拍机位。顺着岸线走，观察船只、鱼架、木建筑与艺术空间如何共存，会更容易理解一个传统渔村怎样逐渐成为既工作、又创作的地方。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/en/destination/henningsvaer/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "kabelvag",
@@ -886,7 +1138,15 @@
           },
           "label": "Kabelvåg 老渔港"
         }
-      ]
+      ],
+      "description": [
+        "Kabelvåg 与中世纪北挪威的鱼干贸易有深厚联系，历史上的 Vágar 是重要的渔业与交易中心。村落周边的博物馆、教堂与艺术空间，使这里很适合补上罗弗敦风景背后的历史线索。",
+        "可以把它当作港口文化的一次慢阅读：过去渔民为何来到这里，渔屋、商人住宅与宗教建筑又怎样服务季节性人口。与 Svolvær 相比，这里更适合留意老街和建筑尺度，理解渔业如何塑造了北方聚落的社会生活。"
+      ],
+      "descriptionSources": [
+        "https://visitlofoten.com/reisemal/opplev-kabelvaag/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "reykjadalur",
@@ -915,7 +1175,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Iceland_(181107753).jpeg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Reykjadalur 位于 Hveragerði 周边的地热山谷，蒸汽、热泉与溪流让地下热量变得可见。它展现的是冰岛地热环境较直接的一面，也让人更容易理解附近城镇为何与温泉和地热利用紧密相连。",
+        "可以留意蒸汽如何沿山坡出现，以及雪、裸露地面与流水之间的界线。这里的吸引力来自沿途变化，不只是最终的温热河段；二月应把雪况与实际可通行范围放在前面，不能把夏天轻松抵达的照片当作全年体验。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/place/reykjadalur-valley"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "thingvellir",
@@ -946,7 +1214,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Þingvellir 是冰岛历史与地质交汇的地方：Alþingi 议会约于930年在此建立，露天集会成为冰岛早期社会生活的重要组成。峡谷、断层与湖岸又呈现板块运动塑造地表的过程，因此这里同时具有文化与自然意义。",
+        "参观时可以把“人在这里聚集”和“土地仍在变化”放在一起理解。行走于步道与岩壁之间，不只看裂谷的宽窄，也想象过去人群如何借助这片开放地形宣讲法律、处理事务与相互交流；它不是一座只有壮观地貌的公园。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "geysir",
@@ -977,7 +1253,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Strokkur_erupting.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Geysir 地热区以间歇泉闻名，今天游客更容易看到的是 Strokkur 的喷发，而不是把所有喷水景象都称为 Geysir。热水、蒸汽与地表水池，让冰岛地下热活动以很直观的方式出现在眼前。",
+        "可以先看水面如何在喷发前鼓起，再观察水柱散开、蒸汽被风带走的变化。等待本身也是体验的一部分：每次喷发的形态与背景光线并不相同。理解这一点之后，停留就不只是按快门，也是在看一段有节奏的自然过程。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "gullfoss",
@@ -1008,7 +1292,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Gullfoss-Falls-Iceland.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Gullfoss 是黄金圈中以水量、落差与峡谷空间取胜的一站。河水分段跌入深切谷地，从不同角度观看，瀑布会时而完整展开，时而像消失在岩壁后的裂口中。",
+        "这里适合留意“能看到多少”的变化，而不只是寻找正面全景：步道、谷缘与水雾会不断改变视线。冬季岩壁上的积雪与冰，让水流的颜色更突出；站在可开放的观景位置听水声，也能感受这片景观超出照片的力量。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-golden-circle"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "seljalandsfoss",
@@ -1039,7 +1331,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss_waterfall_(Iceland)_(16096296723).jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Seljalandsfoss 的水流从约60米高的崖壁前落下，瀑布后方退凹的空间形成了它著名的观景特点。与宽阔、力量感强的瀑布不同，这里更突出细长水帘与岩壁之间的关系。",
+        "可以从侧面观察流水与崖壁的距离，让水帘、岩面和前景共同构成画面。二月的重点应放在外侧可通行位置与冬季光线，绕到水帘后方并不是全年都适合的体验；即使不进入后方，也能读出这处地形的独特结构。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "gljufrabui",
@@ -1067,7 +1367,15 @@
           },
           "label": "Gljúfrabúi 秘境瀑布"
         }
-      ]
+      ],
+      "description": [
+        "Gljúfrabúi 的瀑布藏在较窄的岩壁空间中，外侧看到的裂口与内部落水形成明显反差。它与附近开阔的 Seljalandsfoss 可以构成有趣对照：同样是水从高处落下，岩壁围合程度却改变了全部感受。",
+        "这里适合观察水声、光线与湿润岩面的关系，而不只把进入峡缝当成目标。冬季冰、水和狭窄落脚点会改变可达范围；从外侧辨认地形、感受水雾，也是一种完整的观看方式，无需为了内部照片勉强深入。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "skogafoss",
@@ -1092,7 +1400,15 @@
           "src": "../nordic/assets/day-11-1.jpg",
           "source": "https://www.icelandair.com/it-it/blog/migliori-cascate-dell-islanda/"
         }
-      ]
+      ],
+      "description": [
+        "Skógafoss 以宽阔而整齐的落水面形成很强的视觉力量，瀑布前较开敞的地形又使人容易感受到尺度。官方介绍还记载瀑布后的藏宝箱故事；这属于地方传说，可以作为理解当地想象的一条线索。",
+        "看它时可以先保留前景，让人物与大面积水帘形成比例，再观察水雾怎样改变光线。附近的 Skógar 文化场所也提醒人们，南岸不只有自然景观，长期生活在这里的人同样留下了器物、故事与地方记忆。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/place/skogafoss-waterfall"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "kvernufoss",
@@ -1120,7 +1436,15 @@
           },
           "label": "Kvernufoss 瀑布"
         }
-      ]
+      ],
+      "description": [
+        "Kvernufoss 位于 Skógar 附近一处较收拢的山谷中，流水、岩壁与通往瀑布的路径构成连续的观看过程。与附近一眼就能感受到力量的 Skógafoss 相比，这里更适合留意随着步行逐渐显露的空间。",
+        "可以看山谷如何先遮住瀑布，再把视线慢慢引向落水处。冬季的裸岩、积雪和细窄河流能形成很简洁的颜色组合；是否继续前行应以当日路径状况为准，不必为了靠近水帘而忽略已经足够完整的远景。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/place/kvernufoss-waterfall"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "solheimajokull",
@@ -1143,7 +1467,15 @@
           "src": "../nordic/assets/day-11-2.jpg",
           "source": "https://cn.adventures.is/iceland/attractions/solheimajokull/"
         }
-      ]
+      ],
+      "description": [
+        "Sólheimajökull 是从 Mýrdalsjökull 冰帽伸出的冰舌，展示了冰体如何沿山谷缓慢移动并塑造地表。冰面上深浅不同的颜色与纹理，使这里成为理解冰岛冰川环境的一处直观窗口。",
+        "观看时可以把冰体、谷地与融水放在同一个视野里，而不只寻找一块漂亮的蓝冰。冰川并非静止的白色山坡，裂隙与冰缘会变化；在岸边看清整体地形，与参加有向导的冰上活动，属于不同层次的体验。"
+      ],
+      "descriptionSources": [
+        "https://www.katlageopark.com/geosites/mainly-geology/solheimajoekull/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "dyrholaey",
@@ -1172,7 +1504,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:DyrholaeyWinter.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Dyrhólaey 的名字与海岬上巨大的天然拱洞有关，海水侵蚀与火山地貌共同塑造了这里的轮廓。海岬使视线同时面向长距离黑色海岸、海上岩柱和内陆山地，是理解南岸空间关系的一处高点。",
+        "可以把这里看作一张展开的地形图，先辨认海岸线和岩柱的位置，再看浪与滩面的纹理。二月的吸引力主要在海岬与冬季光线，不能以夏季海鹦照片来期待同样的观鸟体验。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/nature/geopark"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "vik-church",
@@ -1200,7 +1540,15 @@
           },
           "label": "Vík 教堂外观"
         }
-      ]
+      ],
+      "description": [
+        "Vík 教堂立在村庄上方的坡地，白墙与红色屋顶在南岸山海之间形成清晰的人工标记。与大型城市教堂不同，它更适合从聚落和地形的关系来理解：居民生活、山坡与海岸在不大的范围内彼此相连。",
+        "可以从外侧看教堂如何框出村庄、远山与海面，把它当作观察 Vík 布局的一个位置。冬天积雪会简化地表颜色，使红顶尤其醒目；保留周围环境，比只截取教堂本身更容易拍出它属于南岸小镇的气氛。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "reynisfjara",
@@ -1231,7 +1579,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Shades_of_black_-_Flickr_-_FerTravelPhoto.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Reynisfjara 以黑色沙滩、柱状玄武岩和海上岩柱闻名，岩柱的几何形态与熔岩冷却有关。地方民间传说把 Reynisdrangar 岩柱解释为被日光变成石头的巨人；这是故事层面的想象，与地质成因应分开理解。",
+        "这里的画面可以同时呈现规则岩柱与不断变化的海浪，形成很强的秩序对照。冬天尤其适合看黑沙、白浪和灰色天空之间的层次，但海浪本身也是地点的重要现实：观看和拍摄都应留在远离水线的安全位置。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/travel-info/newsblog/black-sand-and-basalt-columns-discovering-reynisfjara-and-dyrholaey"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "fjadrargljufur",
@@ -1260,7 +1616,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Fja%C3%B0r%C3%A1rglj%C3%BAfur,_Iceland_(Unsplash_7_h1c6Zd7lQ).jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Fjaðrárgljúfur 是河流在漫长时间里塑造的峡谷，弯曲谷线与被切割的岩壁形成连续层次。它的特别之处在于峡谷并不是直线展开，视野会被突出与退凹的岩体反复遮挡。",
+        "从上方观看，可以留意河流如何在谷底转弯，以及雪与暗色岩壁怎样强调深度。这里很适合用纵向构图表现空间，但不必走到草皮边缘追求悬空感；沿规定步道寻找完整的河谷线条，更能把地形讲清楚。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "stjornarfoss",
@@ -1290,7 +1654,15 @@
           },
           "label": "Stjórnarfoss 瀑布"
         }
-      ]
+      ],
+      "description": [
+        "Stjórnarfoss 是南岸途中较小巧的一处瀑布，流水从圆弧形岩壁间展开，尺度与附近的大型瀑布不同。它的吸引力更接近一次安静的近距离观察，可以让连续公路旅行中出现一些较细微的自然片段。",
+        "这里适合看流水与岩石的形状，而不是追求高耸壮阔。冬季水边与步行区域可能结冰，可以从稳妥的位置观察弧线、积雪和水面反光；给小景留一点时间，也能让整段南岸行程的视觉节奏更丰富。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/destinations/travel-routes/the-south-coast"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "hofskirkja",
@@ -1313,7 +1685,16 @@
           "src": "../nordic/assets/day-12-2.jpg",
           "source": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly"
         }
-      ]
+      ],
+      "description": [
+        "Hofskirkja 是19世纪后期建造的草皮教堂，位于冰川与冲积平原之间的农庄地区。草皮屋顶和厚重墙体体现了冰岛传统建筑利用当地材料的方式，也让建筑与地表看起来紧密相连。",
+        "它并不是为了成为童话布景而建的房子，而是一处有宗教与社区意义的空间。参观时可以留意草皮、石墙与木构入口的衔接，并从外围观察教堂和墓地的整体关系；冬雪覆盖之后，建筑的低矮体量会更加突出。"
+      ],
+      "descriptionSources": [
+        "https://whc.unesco.org/fr/listesindicatives/5589",
+        "https://www.minjastofnun.is/is/ahugavert/joladagatal/joladagatal-2023/17-desember"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "skaftafell-ice",
@@ -1338,7 +1719,15 @@
           "src": "../nordic/assets/day-13-0.jpg",
           "source": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/"
         }
-      ]
+      ],
+      "description": [
+        "Skaftafell 是瓦特纳冰川国家公园的重要游览区域，山谷、冰舌与步道共同呈现冰川塑造的地貌。冰川徒步与冰洞体验让人进一步接近冰体，但冰洞并不是一间全年保持相同形状的固定景点。",
+        "可以把活动当作学习“怎样看冰”的过程：观察气泡、裂隙、层理与光线穿过冰体时的颜色。实际入口、行走路线和可见景象由当期条件与向导安排决定；了解这种变化性，本身就是体验冰川的一部分。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/glaciers-and-glacier-activities"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "fjallsarlon",
@@ -1368,7 +1757,16 @@
           },
           "label": "Fjallsárlón 菲亚尔冰川湖"
         }
-      ]
+      ],
+      "description": [
+        "Fjallsárlón 位于瓦特纳冰川南缘，由 Fjallsjökull 冰舌伸向湖面的景观形成鲜明识别。冰缘、漂浮冰块与山体常常能一起进入视野，因此很适合从整体上理解冰川湖与冰舌的关系。",
+        "可以比较近处碎冰的形状与远处连续冰体，观察同一片冰如何在水中逐渐分散。这里适合慢看层次与尺度，而不是把每一块浮冰都当成独立主角；冬季风、云和水面状态会显著改变湖的气氛。"
+      ],
+      "descriptionSources": [
+        "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon/b4-fjallsarlon",
+        "https://www.south.is/en/service/iceberg-tours"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "jokulsarlon",
@@ -1393,7 +1791,15 @@
           "src": "../nordic/assets/day-13-1.jpg",
           "source": "https://iceland-lovers.com/en/where-to-stay-iceland-winter-best-places-hotels/"
         }
-      ]
+      ],
+      "description": [
+        "Jökulsárlón 随 Breiðamerkurjökull 冰川退缩逐渐形成并扩展，今天的壮阔湖面也记录着冰缘在历史时期的变化。漂浮的冰块经过湖泊与入海水道，使冰川、湖水和海洋成为连续的景观系统。",
+        "可以留意浮冰之间的空隙、蓝白色变化，以及水流如何推动冰块移动。它的美不只来自“蓝”，还来自不断改变的位置和比例；把岸边、远山或入海方向保留在画面里，更容易表达这里是一处正在变化的环境。"
+      ],
+      "descriptionSources": [
+        "https://www.vedur.is/gogn/joklar/utgafa/horfandi-joklar-melting-glaciers-fraedslubaeklingur-brochure-2017.pdf"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "diamond-beach",
@@ -1418,7 +1824,15 @@
           "src": "../nordic/assets/day-13-2.jpg",
           "source": "https://www.kimkim.com/c/12-day-ring-road-including-westfjords"
         }
-      ]
+      ],
+      "description": [
+        "钻石沙滩是冰河湖与海洋相连的下一段景观：部分冰块被带向海中，又随海浪回到黑色沙滩。透明或乳白色冰体与深色滩面形成强烈对比，因此获得了这个形象化的名字。",
+        "可以把它与冰河湖连起来理解，一边看冰从哪里来，一边看海浪如何重新排列它们。冰块数量、大小与位置会随天气和潮水变化，不能期待每次都有相同场面；这里更适合观察当下的细节，而不是寻找固定“钻石”机位。"
+      ],
+      "descriptionSources": [
+        "https://www.south.is/en/glaciers-and-glacier-activities"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "vestrahorn",
@@ -1449,7 +1863,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Vestrahorn_at_sunset_(3-41_pm)_-_Flickr_-_G%C3%A9rard_Cachon.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Vestrahorn 从 Stokksnes 的黑沙海岸后方升起，锯齿状山脊、沙丘与湿润滩面使这里成为极具层次的山海景观。景区中的“维京村”是仿建场景，应与真正的历史遗址区分看待。",
+        "可以先观察山体在水面或湿沙上的倒影，再看沙丘草与黑沙能否形成前景。这里适合以光线和天气决定观看方式，阴云与局部阳光都可能让山脊更有立体感；不需要把晴天完整倒影作为唯一值得停留的条件。"
+      ],
+      "descriptionSources": [
+        "https://www.vestrahorn.is/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "hallgrimskirkja",
@@ -1472,7 +1894,15 @@
           "src": "../nordic/assets/day-10-0.jpg",
           "source": "https://tanabotalog.com/iceland/"
         }
-      ]
+      ],
+      "description": [
+        "Hallgrímskirkja 的建设跨越1945至1986年，名称纪念冰岛宗教诗人 Hallgrímur Pétursson。它既是雷克雅未克的重要城市地标，也是一座仍有礼拜和音乐活动的教堂。",
+        "可以从街道上远看它怎样成为方向标记，再走近观察连续竖向构件与中央塔楼的比例。冬季天空与浅色外墙容易形成克制的色调，适合留意结构和阴影；从建筑外观走入室内，也能感受纪念性尺度如何转为安静的公共空间。"
+      ],
+      "descriptionSources": [
+        "https://visitreykjavik.is/service/hallgrimskirkja-church-tower"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "harpa",
@@ -1494,7 +1924,16 @@
           "src": "../nordic/assets/day-10-1.jpg",
           "label": "Harpa 音乐厅"
         }
-      ]
+      ],
+      "description": [
+        "Harpa 于2011年开放，玻璃表皮由艺术家 Ólafur Elíasson 与建筑团队合作完成，几何单元借鉴了冰岛柱状玄武岩的形态。它的建造过程经历金融危机中的停顿与继续，也使这座音乐厅具有城市文化重建的象征意味。",
+        "参观时可以把玻璃当作不断变化的材料来看：同一块表面会反射海港、天空和行人，也会因角度改变色彩。外部的整体轮廓与内部近看的构件节奏都值得停留；即使没有演出安排，也能从建筑本身读出光、海与音乐空间的联系。"
+      ],
+      "descriptionSources": [
+        "https://www.harpa.is/sagan",
+        "https://arsskyrsla.harpa.is/en/the-design/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "blue-lagoon",
@@ -1516,7 +1955,15 @@
           "src": "../nordic/assets/day-14-1.jpg",
           "label": "蓝湖温泉"
         }
-      ]
+      ],
+      "description": [
+        "蓝湖的形成与20世纪70年代 Svartsengi 地热能源开发有关，富含矿物质的地热海水在周边熔岩地形中汇集，后来逐渐发展为沐浴与度假场所。它并不是一处从未受人类活动影响的天然湖泊。",
+        "从景观上看，乳蓝色水体、黑色熔岩与蒸汽构成鲜明对照，也提供了理解冰岛如何利用地热资源的一个角度。这里保留为行程外候选介绍，不能把热门温泉的图像直接理解为本次已安排的体验。"
+      ],
+      "descriptionSources": [
+        "https://www.bluelagoon.com/30years/timeline"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "nyhavn",
@@ -1547,7 +1994,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Nyhavn_winter_2026_3.jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "Nyhavn 可追溯至1673年的商业港口，过去的船只、水手与贸易活动塑造了沿岸街区。今天色彩鲜明的老房子与停泊船只成为城市代表画面，但港口曾经首先是一处工作的地方。",
+        "可以从运河两岸比较立面颜色、房屋宽度与船桅的排列，留意水面如何把建筑分成上下两层。冬季少了夏天的露天热闹，更容易看清街区轮廓；把支路、桥与港口入口也纳入步行，会比只停在最密集的一段更丰富。"
+      ],
+      "descriptionSources": [
+        "https://www.visitcopenhagen.dk/koebenhavn/planlaeg-din-tur/nyhavn-gdk474735"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "amalienborg",
@@ -1572,7 +2027,15 @@
           "src": "../nordic/assets/day-15-1.jpg",
           "source": "https://www.ad-magazin.de/artikel/schloesser-der-daenischen-koenigsfamilie"
         }
-      ]
+      ],
+      "description": [
+        "阿美琳堡由四座围绕八角形广场的宫邸组成，原本为贵族住宅。1794年克里斯蒂安堡失火后，王室迁入这里，使这组建筑成为丹麦王室与城市日常空间相互接近的一处重要场所。",
+        "广场中央的骑马雕像、四周相对克制的宫邸与通向腓特列教堂的轴线，值得作为整体来观看。这里的吸引力也在尺度：城市道路与宫廷建筑没有被完全分隔，步行穿过广场时，能直接感受到王室空间如何嵌在街区之中。"
+      ],
+      "descriptionSources": [
+        "https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/amalienborg/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "frederiks-church",
@@ -1605,7 +2068,15 @@
           },
           "thumbnail": "../nordic-v2/assets/architecture/frederiks-church-240.webp"
         }
-      ]
+      ],
+      "description": [
+        "腓特列教堂又称“大理石教堂”，1749年奠基，却直到1894年才正式开放，漫长建设经历成为建筑故事的一部分。名称保留了最初的宏大设想，而最终材料与实施方案也经历了调整。",
+        "它与阿美琳堡、海港方向形成鲜明轴线，适合先从街道远看穹顶，再进入观察内部圆形空间。与周边宫邸较平展的立面相比，教堂的高度和集中体量非常突出，是理解 Frederiksstaden 街区规划的一处关键建筑。"
+      ],
+      "descriptionSources": [
+        "https://www.visitcopenhagen.com/copenhagen/planning/the-marble-church-gdk414142"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "frama",
@@ -1638,7 +2109,15 @@
           },
           "thumbnail": "../nordic-v2/assets/architecture/frama-studio-240.webp"
         }
-      ]
+      ],
+      "description": [
+        "FRAMA 的 Studio Store 位于1878年创立的 St. Paul’s Apotek 旧药房中。品牌把家具、灯具、香氛与空间陈列放在带有历史感的建筑里，使参观更像进入一个持续变化的设计工作环境。",
+        "可以留意旧木作、墙面痕迹和新陈列之间如何衔接，再看灯光与材料怎样影响人的停留。这里适合观察设计如何把旧空间重新使用，而不只是购物；与当天的宫殿和教堂相比，它把城市历史缩小到了可以触摸的室内尺度。"
+      ],
+      "descriptionSources": [
+        "https://framacph.com/blogs/stores/frama-studio-store"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "designmuseum",
@@ -1671,7 +2150,15 @@
           },
           "thumbnail": "../nordic-v2/assets/architecture/designmuseum-courtyard-240.webp"
         }
-      ]
+      ],
+      "description": [
+        "丹麦设计博物馆1926年迁入原皇家腓特列医院，旧建筑由 Ivar Bentsen 与 Kaare Klint 改造为博物馆。院落、长廊与展厅之间的关系，让建筑的历史用途仍有迹可循，也为理解丹麦设计如何把功能与传统结合提供了实际例子。",
+        "参观时可以选一种熟悉物件来慢看，例如椅子：支撑结构、材料、弧线与使用方式怎样互相影响。这样比只记住经典型号更容易理解丹麦设计，也能帮助你在后续商店和城市空间中认出相似的设计语言。"
+      ],
+      "descriptionSources": [
+        "https://designmuseum.dk/en/om-museet-2/history-architecture/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "rosenborg",
@@ -1693,7 +2180,15 @@
           "src": "../nordic/assets/day-17-2.jpg",
           "label": "Rosenborg 罗森堡宫"
         }
-      ]
+      ],
+      "description": [
+        "罗森堡宫始建于1606年，原本是 Christian IV 在当时城墙外的夏季居所，后来逐渐被城市包围。它与周边花园共同保留了王室生活、建筑与景观之间的联系，也能让人感受到哥本哈根扩展前后的空间变化。",
+        "外观适合留意红砖、铜顶、塔楼与水面的组合；如果参观室内，则可以把视线从王室器物转向房间尺度和装饰。冬季花园较为疏朗，反而更容易看清宫殿的完整轮廓与建筑细节。"
+      ],
+      "descriptionSources": [
+        "https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/rosenborg-palace/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "round-tower",
@@ -1721,7 +2216,15 @@
           },
           "label": "Rundetårn 圆塔"
         }
-      ]
+      ],
+      "description": [
+        "圆塔由 Christian IV 推动建设，1642年落成，与哥本哈根的天文观测历史紧密相关。塔内连续上升的螺旋坡道，使登高过程本身成为空间体验，而不是只有到达顶部才有看点。",
+        "可以留意转弯时光线、窗洞和墙面曲率如何变化，再把顶部的城市屋顶景观与这段上升过程联系起来。它既是一处老城地标，也保留了科学、建筑与公共文化曾经彼此交织的城市记忆。"
+      ],
+      "descriptionSources": [
+        "https://www.rundetaarn.dk/en/article/the-observatory-through-time/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "illums",
@@ -1745,7 +2248,15 @@
           "src": "../nordic/assets/day-16-1.jpg",
           "label": "Strøget 步行街"
         }
-      ]
+      ],
+      "description": [
+        "Strøget 并不是单一一条街，而是一组连接广场与老城街道的步行购物区域。Illums Bolighus 则为这段散步提供了集中观察北欧家居与日用设计的机会，商业橱窗与城市公共空间在这里紧密相邻。",
+        "可以把购物街当成一条材料与生活方式的观察路线：石铺地、老立面、玻璃店窗与室内陈列不断切换。挑几件真正会使用的物品看尺寸、质地和搭配，比把全部店铺走遍，更容易带走对丹麦日常设计的印象。"
+      ],
+      "descriptionSources": [
+        "https://www.visitcopenhagen.com/copenhagen/planning/stroget-gdk414471"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "christiansborg",
@@ -1774,7 +2285,15 @@
             "url": "https://commons.wikimedia.org/wiki/File:Copenhagen_2018-03-03_(39560256360).jpg"
           }
         }
-      ]
+      ],
+      "description": [
+        "克里斯蒂安堡所在的 Slotsholmen 拥有超过八百年的权力中心历史。今天宫殿中同时分布着议会、政府相关机构、最高法院与王室接待空间，使这处建筑不仅关乎王室过去，也关乎现代国家的运作。",
+        "从广场、立面和通道开始看，可以感受宫殿怎样与城市道路相接。若选择参观某一部分，先想清楚自己更想了解王室礼仪、历史遗迹还是政治空间；把建筑功能与城市历史联系起来，会比只把它当作另一座宫殿更有收获。"
+      ],
+      "descriptionSources": [
+        "https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/christiansborg-palace/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "black-diamond",
@@ -1807,7 +2326,15 @@
           },
           "thumbnail": "../nordic-v2/assets/architecture/black-diamond-exterior-240.webp"
         }
-      ]
+      ],
+      "description": [
+        "黑钻图书馆1999年开放，是皇家图书馆面向海港的新建筑，与1906年的旧馆相连。深色外墙、倾斜体量和明亮中庭，把知识空间与水岸城市景观结合起来。",
+        "这里适合观察从外部厚重轮廓到内部通透空间的反差，再看窗外海面如何进入室内视野。它与赫尔辛基 Oodi 可以形成很好的对照：同样是公共文化建筑，一座强调起伏木壳与城市客厅，另一座则以海港和新旧馆之间的连接组织体验。"
+      ],
+      "descriptionSources": [
+        "https://www.kb.dk/en/visit-us/black-diamond-copenhagen"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     },
     {
       "id": "louisiana",
@@ -1829,7 +2356,15 @@
           "src": "../nordic/assets/day-17-0.jpg",
           "label": "Louisiana 现代艺术博物馆"
         }
-      ]
+      ],
+      "description": [
+        "Louisiana 于1958年开放，由 Jørgen Bo 与 Vilhelm Wohlert 以旧别墅为基础逐步扩展。它的建筑不是用高大的体量突出自己，而是以低矮展厅、玻璃走廊和庭园，把艺术观看与周边自然联系起来。",
+        "值得留意的是展厅之间的过渡：看完作品转入有景的走廊，随后又回到另一处室内空间，视线始终与花园和海面保持联系。冬季树木轮廓、低光与雕塑会形成不同于夏天的气氛，适合真正留出半天慢慢体验。"
+      ],
+      "descriptionSources": [
+        "https://louisiana.dk/en/museum/architecture-and-history/"
+      ],
+      "descriptionCheckedAt": "2026-11-11"
     }
   ]
 }
