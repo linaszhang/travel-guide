@@ -191,7 +191,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00后",
+        "checkOutTime": "12:00前"
       }
     ]
   },
@@ -639,7 +641,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00后",
+        "checkOutTime": "11:00前"
       }
     ]
   },
@@ -1295,7 +1299,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00后",
+        "checkOutTime": "11:00前"
       }
     ]
   },
@@ -1484,7 +1490,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00–22:00",
+        "checkOutTime": "08:00–11:00"
       },
       {
         "name": "Apartments Reykjavik",
@@ -1872,7 +1880,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00–00:00",
+        "checkOutTime": "12:00前"
       }
     ]
   },
@@ -2111,7 +2121,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00后",
+        "checkOutTime": "10:30前"
       }
     ]
   },
@@ -2305,7 +2317,9 @@
             }
           ],
           "checked": "2026-11-10"
-        }
+        },
+        "checkInTime": "15:00–23:00",
+        "checkOutTime": "03:00–11:00"
       }
     ]
   },

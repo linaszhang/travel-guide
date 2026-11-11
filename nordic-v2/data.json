@@ -1094,7 +1094,8 @@
               "time": "下午 · 14:00–16:30",
               "price": "645 NOK／人 · 往返",
               "note": "官网成人往返参考价，约¥451.5／人；尚未计入现有预算。",
-              "source": "https://www.fjellheisen.no/"
+              "source": "https://www.fjellheisen.no/",
+              "type": "experience"
             }
           },
           {
@@ -1267,7 +1268,8 @@
             "infoCard": {
               "time": "上午 · 09:00–11:15",
               "price": "465 NOK／人 · 1天",
-              "note": "参考约¥325.5／人；与前日下午取具为同一笔租赁。"
+              "note": "参考约¥325.5／人；与前日下午取具为同一笔租赁。",
+              "type": "experience"
             }
           },
           {
@@ -1331,7 +1333,8 @@
             },
             "infoCard": {
               "time": "下午 · 13:00–17:00",
-              "price": "¥1,534.20／人 · 已预订"
+              "price": "¥1,534.20／人 · 已预订",
+              "type": "experience"
             }
           },
           {
@@ -1408,7 +1411,8 @@
             "infoCard": {
               "time": "晚上 · 18:00–19:30",
               "price": "150 NOK／人起",
-              "note": "现有参考约¥105／人；实际场次价格待确认，晚餐另计。"
+              "note": "现有参考约¥105／人；实际场次价格待确认，晚餐另计。",
+              "type": "experience"
             }
           }
         ],
@@ -1555,7 +1559,8 @@
             },
             "infoCard": {
               "time": "白天 · 10:00–15:00",
-              "price": "¥1,358／人 · 已预订"
+              "price": "¥1,358／人 · 已预订",
+              "type": "experience"
             }
           },
           {
@@ -1700,7 +1705,8 @@
             "infoCard": {
               "time": "白天 · 按向导确认",
               "price": "费用待确认",
-              "note": "向导团期、冬季时长及装备费用均以确认方案为准，不代表免费。"
+              "note": "向导团期、冬季时长及装备费用均以确认方案为准，不代表免费。",
+              "type": "experience"
             }
           },
           {
@@ -3313,7 +3319,8 @@
             },
             "infoCard": {
               "time": "上午 · 09:00–13:00",
-              "price": "¥1,083／人 · 已预订"
+              "price": "¥1,083／人 · 已预订",
+              "type": "experience"
             }
           },
           {
@@ -4092,7 +4099,8 @@
               "time": "上午 · 10:00–11:30",
               "price": "140 DKK／人",
               "note": "官网成人票参考，约¥140／人；尚未计入现有预算。",
-              "source": "https://designmuseum.dk/en/besog-os/opening-hours-admission-2/"
+              "source": "https://designmuseum.dk/en/besog-os/opening-hours-admission-2/",
+              "type": "experience"
             }
           },
           {
