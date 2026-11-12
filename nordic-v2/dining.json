@@ -219,7 +219,10 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "广场建筑景"
+      ]
     },
     {
       "id": "kappeli",
@@ -343,7 +346,10 @@
         "note": "按咖啡区一人一份当日汤€16.90参考，不含另点咖啡、甜点与酒水；正餐区另价。",
         "sourceUrl": "https://www.raflaamo.fi/en/restaurant/helsinki/kappeli/menu/9627/cafes-soup",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "公园景"
+      ]
     },
     {
       "id": "liberty",
@@ -903,6 +909,224 @@
       }
     },
     {
+      "id": "regatta",
+      "name": "Café Regatta",
+      "country": "finland",
+      "days": [
+        1
+      ],
+      "kind": "咖啡／烘焙",
+      "viewTags": [
+        "海边红屋"
+      ],
+      "summary": "海边小红屋、肉桂卷与户外火炉，适合冬日散步时暖手。",
+      "description": [
+        "小红木屋坐在海岸边，门口的水面、码头和远处岸线比豪华室内更有记忆点。官网确认全年营业，有新鲜肉桂卷，也出售可在户外火炉烤制的香肠；大风时不生火。",
+        "D1只有一个下午，建议在市中心建筑与海边咖啡之间做取舍。若已去西贝柳斯公园就顺访，不要为了喝咖啡挤掉全部市中心建筑；室内小，二月不保证有室内座位。"
+      ],
+      "visitOnly": false,
+      "visitNote": "",
+      "stage": "赫尔辛基 · D1",
+      "meal": "景观咖啡／用餐备选",
+      "route": "D1只有一个下午，建议在市中心建筑与海边咖啡之间做取舍。若已去西贝柳斯公园就顺访，不要为了喝咖啡挤掉全部市中心建筑；室内小，二月不保证有室内座位。",
+      "address": "Merikannontie 8, 00260 Helsinki, Finland",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 6789,
+        "url": "https://www.google.com/maps/search/Cafe%20Regatta%20Helsinki%20Merikannontie%208/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "每日 09:00–21:00；强风时户外火炉不开放"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.caferegatta.fi/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "肉桂卷",
+          "莓果蛋糕",
+          "咖啡／热巧克力",
+          "户外烤香肠（视火炉开放）"
+        ],
+        "url": "https://www.caferegatta.fi/",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.caferegatta.fi/",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/regatta-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/regatta-1-thumb.webp",
+          "label": "Café Regatta · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzkLHWX2E7r1Yu2FOOEhBRDOU3CdwHa_qTaEAm_r26R7j8T4MIQHXIjnOvAsg9w_IJ0W2CQYHwE-NzspjHj0w3zvjJ40KHlA7WS_ptvmRD0b7z1Z0QTSgfxCrgbNvHzeYoIi8Wm59OKQg=w408-h306-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Cafe%20Regatta%20Helsinki%20Merikannontie%208/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/regatta-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/regatta-2-thumb.webp",
+          "label": "Café Regatta · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFatQ1OHDA02vBcrJyLAdHAI_ow7sOV9JhmXh_W5OpSK2O6htS86IHoV5JWgEkunWgMUNVLPcNG5szxPGc3s0WEK4uzyB-taJIrT4zhFRwW-_yls8txsNoQmkI2mLhbrPjY6M=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Cafe%20Regatta%20Helsinki%20Merikannontie%208/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/regatta-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/regatta-3-thumb.webp",
+          "label": "Café Regatta · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0uDDKSVjYKz9CisqMnTwv0XmrmmUzjAx8NKN3G1HDSa8xI4tEvxuAKed7DdsXLZS6_NFuNKD7KWRWiyG56Kpa8ccyGCN8rS6VVsxU96fMuTdZ4JT8VaaiQuu0zks1qkhnhaAeH8fYeJxZ=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Cafe%20Regatta%20Helsinki%20Merikannontie%208/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/Cafe%20Regatta%20Helsinki%20Merikannontie%208/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.caferegatta.fi/"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 5,
+        "max": 10,
+        "currency": "EUR",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送区间；景观咖啡与正式正餐消费不同，酒水另按点单。",
+        "sourceUrl": "https://www.google.com/maps/search/Cafe%20Regatta%20Helsinki%20Merikannontie%208/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "loyly",
+      "name": "Löyly · 海边桑拿建筑与餐厅",
+      "country": "finland",
+      "days": [
+        1
+      ],
+      "kind": "芬兰菜／建筑",
+      "viewTags": [
+        "海景",
+        "木构建筑"
+      ],
+      "summary": "看海边木构建筑即可；想停留再选临海餐厅，不必安排桑拿。",
+      "description": [
+        "木片包裹的建筑与临海平台本身就是看点。餐厅与收费桑拿是不同服务，默认以公共步道旁外观短停为主；进入餐厅用餐、占用座位或桑拿按店方规则办理。",
+        "若想坐下看海，官网菜单的Jasper鱼汤与Löyly汉堡是固定经典。D1作为南部海岸备选，会增加市中心外的移动；选这里就减少其他远端咖啡点。"
+      ],
+      "visitOnly": true,
+      "visitNote": "以海边公共步道上的建筑外观为主；餐厅座位需要消费，桑拿需另付费预约。",
+      "stage": "赫尔辛基 · D1",
+      "meal": "外观短停／自选消费",
+      "route": "若想坐下看海，官网菜单的Jasper鱼汤与Löyly汉堡是固定经典。D1作为南部海岸备选，会增加市中心外的移动；选这里就减少其他远端咖啡点。",
+      "address": "Hernesaarenranta 4, 00150 Helsinki, Finland",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 8101,
+        "url": "https://www.google.com/maps/search/L%C3%B6yly%20Helsinki%20Hernesaarenranta%204/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "note": "Löyly整体商户评分，包含桑拿体验，非餐厅独立评分"
+      },
+      "hours": {
+        "lines": [
+          "周一至周四11:00–23:00；周五、周六10:00–次日00:00；周日10:00–22:00",
+          "餐厅与桑拿时段不同，餐厅营业不代表桑拿可直接进入"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.google.com/maps/search/L%C3%B6yly%20Helsinki%20Hernesaarenranta%204/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "Jasper鱼汤 · €24",
+          "Löyly汉堡 · €25",
+          "蘑菇烩饭 · €24"
+        ],
+        "url": "https://www.loylyhelsinki.fi/menut/a-la-carte",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.loylyhelsinki.fi/menut/a-la-carte",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/loyly-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/loyly-1-thumb.webp",
+          "label": "Löyly · 海边桑拿建筑与餐厅 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T5OMB2XTIXon7k2ab2Z4lv518xKzXUzRuBzAR6qWeJZiP774JtKEnQCSpT1_sd2yqQtxxbcWkeHqoieGmnu4IULfBfkyhBn8i6Xf-sNMCVu-Vx4r4EKMlNrxoV7dULAzebbf-G=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/L%C3%B6yly%20Helsinki%20Hernesaarenranta%204/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/loyly-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/loyly-2-thumb.webp",
+          "label": "Löyly · 海边桑拿建筑与餐厅 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMHh9jFr56OVDgT3t2eW6b3BkaptZpNaLs4mxLL6tJt6WtKaZqSeJzzxTJLxrIM4jTFn4m6fwjgyJ21px3k2LrSa35q5eHaZ2vDChA65LYYFyiULPAZS6xApr-x1Yhl9fSX_kBNU4pkUYY=w224-h484-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/L%C3%B6yly%20Helsinki%20Hernesaarenranta%204/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/loyly-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/loyly-3-thumb.webp",
+          "label": "Löyly · 海边桑拿建筑与餐厅 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJqwlOAxzsvZ92nT-8FCagbVXXVy_t83tttm6z6lK8fUaV0-f7nQJxTO1MJa8-HdwXWqPP2P_TRz__w8q6fs06EEUGcRCLJy_nfdm8e4h7__vCf0UlV3l4cGQGQKbYIUi5cwBV4w=w224-h298-k-no-pi-10-ya354.45593-ro-0-fo100",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/L%C3%B6yly%20Helsinki%20Hernesaarenranta%204/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/L%C3%B6yly%20Helsinki%20Hernesaarenranta%204/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.loylyhelsinki.fi/menut/a-la-carte"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 24,
+        "max": 42,
+        "currency": "EUR",
+        "basis": "官网菜单主菜参考",
+        "note": "按一人一份主菜参考，不含酒水及桑拿；只看公共步道外观不计餐饮消费。",
+        "sourceUrl": "https://www.loylyhelsinki.fi/menut/a-la-carte",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
       "id": "fint",
       "name": "FINT kafé & bar",
       "country": "norway",
@@ -1330,6 +1554,437 @@
       }
     },
     {
+      "id": "mcd-tromso",
+      "name": "McDonald’s Tromsø · 世界最北麦当劳",
+      "country": "norway",
+      "days": [
+        2,
+        8
+      ],
+      "kind": "地标／快餐",
+      "viewTags": [],
+      "summary": "世界最北麦当劳，顺路拍照留念即可，不必预留一顿正餐。",
+      "description": [
+        "麦当劳挪威官方确认，Storgata这家店于2024年3月开业时成为世界最北麦当劳。体验重点是地点与品牌地标感，汉堡口味不作为专程前往的理由。",
+        "在主街购物或取还雪具时顺路短停；D8回城更宽松。若排队长，门头拍照后继续散步，纪念品是否供应以现场为准。"
+      ],
+      "visitOnly": true,
+      "visitNote": "门头与地标标识打卡为主，建议10–20分钟；不强制安排用餐。",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "meal": "外观短停／自选消费",
+      "route": "在主街购物或取还雪具时顺路短停；D8回城更宽松。若排队长，门头拍照后继续散步，纪念品是否供应以现场为准。",
+      "address": "Storgata 70, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 3.8,
+        "reviewCount": 1348,
+        "url": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一至周三、周日07:00–次日01:00",
+          "周四07:00–次日03:00；周五、周六07:00–次日04:00"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "巨无霸",
+          "鸡块",
+          "咖啡／薯条"
+        ],
+        "url": "https://www.mcdonalds.com/no/nb-no/om-oss/presserom/artikler/I-dag-apner-verdens-nordligste-McDs-restaurant-i-Troms.html",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.mcdonalds.com/no/nb-no/om-oss/presserom/artikler/I-dag-apner-verdens-nordligste-McDs-restaurant-i-Troms.html",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/mcd-tromso-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/mcd-tromso-1-thumb.webp",
+          "label": "McDonald’s Tromsø · 世界最北麦当劳 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqF_ndSVTaObjxqkQCo7K_ulkG5rrE2jGnpHOoKgPBav42XJRxR9k3C_GcZyCDZKAFTXaqT00VmPpxzIY11JzeET7PvhAu_lTXTmvaQ474R5pQNU7Cgd0sjKI1dZ1QDUBIqsW0wkiyUyk=w408-h306-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/mcd-tromso-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/mcd-tromso-2-thumb.webp",
+          "label": "McDonald’s Tromsø · 世界最北麦当劳 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuNqRu268moqa3o7NXCfQxLQxNeDgq5kdTxKsHgpJC9wIV5ATB2IuKhhwbx0QbERZI0mr9VI06sLjIkC5DZgG8UK1JHNhgg-ft-hyGiGvFlDY3jnlCDIZyYg7lqhCHNBkQIQ_L4w=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/mcd-tromso-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/mcd-tromso-3-thumb.webp",
+          "label": "McDonald’s Tromsø · 世界最北麦当劳 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqwK8KMNfQWAUQ_MuoDbRFG5FhYvyQMbpiFnL2yFtrPfrmk0KedS0IwXK68xtrlYaspKxxYjKBeYdmpDWULQytMxEh_Th_S6q5REbhMWlZGVjr3vjheVhkTaOOKCZ-jsd1asVH=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.mcdonalds.com/no/nb-no/om-oss/presserom/artikler/I-dag-apner-verdens-nordligste-McDs-restaurant-i-Troms.html"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 200,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "如选择消费，参考Google Maps访客报送区间；外观参观不计餐饮消费。",
+        "sourceUrl": "https://www.google.com/maps/search/McDonalds%20Tromso%20Storgata%2070/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "raketten",
+      "name": "Raketten Bar & Pølse · 火箭小亭",
+      "country": "norway",
+      "days": [
+        2,
+        8
+      ],
+      "kind": "地标／热狗",
+      "viewTags": [],
+      "summary": "主街旁的小火箭亭，建筑与街头热狗文化比正式用餐更重要。",
+      "description": [
+        "这座小亭子有1911年的历史，店方以“宇宙最小酒吧”自称。适合把它当城市散步的小地标，观察亭子外形和街头气氛，有兴趣再买热狗。",
+        "当前地图有同名双条目；这里采用Storgata 94B、评论较多的店铺条目，避免导航到不同条目。"
+      ],
+      "visitOnly": true,
+      "visitNote": "在公共街道欣赏小亭外观；热狗和饮品自愿购买，不安排正式正餐。",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "meal": "外观短停／自选消费",
+      "route": "当前地图有同名双条目；这里采用Storgata 94B、评论较多的店铺条目，避免导航到不同条目。",
+      "address": "Storgata 94B, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 1709,
+        "url": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "每日11:00–21:00"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "驯鹿热狗",
+          "热巧克力"
+        ],
+        "url": "https://www.visittromso.no/media/564",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.visittromso.no/media/564",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/raketten-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/raketten-1-thumb.webp",
+          "label": "Raketten Bar & Pølse · 火箭小亭 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMOpxLZZDsK5eSZSY9D7LnJTfP1BwIOQ80hDPDNg7srRP6zEJ2jFaTTaIVsKrRyq2bC10VE8u-5PeGyjRIEhG5uNlnHvgjSxq1zop1E4-ZM_wlZp66JUj8hAj8IgjiYENG3Fz-p9R62x00=w408-h544-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/raketten-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/raketten-2-thumb.webp",
+          "label": "Raketten Bar & Pølse · 火箭小亭 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXCgqtqxVjSk-Mg648wjQwbv65-kCLT1ZktgWxITykEqo-IuNGBarnsXivGkLoTT4zELPFsYEyH7uLU7xJZc5aqtL5MUU3ODxkXm6OPkYgbNGza1J7IwCSFpMPRSlBjqv21CZHUQ=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/raketten-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/raketten-3-thumb.webp",
+          "label": "Raketten Bar & Pølse · 火箭小亭 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_pXNqJtgssw_TXEEQ8bSG80qGsJw71dLgwEDQe6uNkNo1nLt8e-ahTN2CjW4xwtxXiUoRrNu7seeHbj6f6Wwejntgnn2sehIpsikHMBz4BRazOUB85pj3TMRm1RFV2skognrE=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.visittromso.no/media/564"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 1,
+        "max": 100,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "如选择消费，参考Google Maps访客报送区间；外观参观不计餐饮消费。 地图按价格档位统计，下限1不是商品售价。",
+        "sourceUrl": "https://www.google.com/maps/place/Raketten+Bar+%26+P%C3%B8lse/data=!4m7!3m6!1s0x45c4c4531c14bc57:0x178af8af99249f3c!8m2!3d69.6514011!4d18.9576555!16s%2Fg%2F11gbk2rb3c!19sChIJV7wUHFPExEURPJ8kma_4ihc",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "fjellstua",
+      "name": "Fjellstua · 缆车山顶咖啡",
+      "country": "norway",
+      "days": [
+        2
+      ],
+      "kind": "咖啡／简餐",
+      "viewTags": [
+        "城市全景",
+        "峡湾雪山"
+      ],
+      "summary": "缆车上站的窗边咖啡，俯瞰城市、海峡与雪山。",
+      "description": [
+        "这里的推荐重点是景色。窗边可以看城市和海峡，喝杯热巧克力、吃华夫饼，就能把上山等日落的空档用得舒服一些；餐饮评价与景色价值分开看。",
+        "你们D2已安排Fjellheisen，不额外绕路。咖啡消费不包含上下山缆车票；天气、缆车运行和窗边座位都会影响体验。"
+      ],
+      "visitOnly": false,
+      "visitNote": "",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "meal": "景观咖啡／用餐备选",
+      "route": "你们D2已安排Fjellheisen，不额外绕路。咖啡消费不包含上下山缆车票；天气、缆车运行和窗边座位都会影响体验。",
+      "address": "Sollivegen 12, 9020 Tromsdalen, Norway",
+      "google": {
+        "rating": 3.8,
+        "reviewCount": 239,
+        "url": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "每日10:00–23:30（地图常规时段）",
+          "实际开放随缆车运行与天气调整"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "热巧克力",
+          "华夫饼",
+          "肉桂卷",
+          "当日热餐"
+        ],
+        "url": "https://www.visittromso.no/fjellstua",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.visittromso.no/fjellstua",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/fjellstua-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fjellstua-1-thumb.webp",
+          "label": "Fjellstua · 缆车山顶咖啡 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDwiPme_VIj6nKxMkFonVnw_MCgZrd9TOuqyoXnDvhR2Oa3mnhLYmTE4O9ALo-FtW1Cr9fKAzwilLk3vRyFC7yLYUvKHLCbmCFsiTjPWnxxzIkXbnyKURJ6Sc-s1Edh2gO3vnc=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fjellstua-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fjellstua-2-thumb.webp",
+          "label": "Fjellstua · 缆车山顶咖啡 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLemlhwJr8Zzlmhw58nrpR3_OK8zWo0L9GPKpcm_nRnWg6mgxI-DFzDQpTUldD0nPaz0H3k6N1stMP-0eHduXxtVUVfxNOu6t3Iw2oZTs5W3a3a1xw0eEJS65u3XDvxpcodp3mOAuqYbs80Q=w519-h240-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fjellstua-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fjellstua-3-thumb.webp",
+          "label": "Fjellstua · 缆车山顶咖啡 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R2yGgNfmmEHCbnRbADm8MhSPVle3BK9CLGUNSCNosBuVIzF9ujQXcTQUSB0o21M_BqOB4Wdgrxt6kasVoZS-wz12vj3ulaenOxcIIfK6Pdn5QFJ6mUJYmbp7kK-_EZk1lEuqe6jxEDTL_d=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.visittromso.no/fjellstua"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 200,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送区间；景观咖啡与正式正餐消费不同，酒水另按点单。",
+        "sourceUrl": "https://www.google.com/maps/place/Fjellstua+Caf%C3%A9+Og+Restaurant/data=!4m7!3m6!1s0x45c4c503e5cd42a9:0x6a382ba6e8a46a02!8m2!3d69.6358037!4d18.9962447!16s%2Fg%2F11hdpp6jbb!19sChIJqULN5QPFxEURAmqk6KYrOGo",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "vervet",
+      "name": "Vervet Bakeri · 海峡旁烘焙店",
+      "country": "norway",
+      "days": [
+        2,
+        8
+      ],
+      "kind": "咖啡／烘焙",
+      "viewTags": [
+        "海峡山景"
+      ],
+      "summary": "靠近极地博物馆的烘焙店，窗边看海峡与山，适合白天停留。",
+      "description": [
+        "店内现场烘焙面包、糕点和三明治；旅游局特别介绍其海与山的视野。相较晚间酒吧，更适合白天咖啡与面包的小停留。",
+        "可和极地博物馆、Skansen一带散步结合。D2周日目前15:00关门，和下午缆车不容易同时安排；D8回城若已傍晚也会错过，不能把它当夜间备选。"
+      ],
+      "visitOnly": false,
+      "visitNote": "",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "meal": "景观咖啡／用餐备选",
+      "route": "可和极地博物馆、Skansen一带散步结合。D2周日目前15:00关门，和下午缆车不容易同时安排；D8回城若已傍晚也会错过，不能把它当夜间备选。",
+      "address": "Gjøastredet 1, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 601,
+        "url": "https://www.google.com/maps/search/Vervet%20Bakeri%20Tromso/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一至周五 07:00–16:00",
+          "周六 10:00–16:00；周日 10:00–15:00"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.visittromso.no/no/vervet-bakeri",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "现烤糕点",
+          "三明治",
+          "咖啡"
+        ],
+        "url": "https://www.visittromso.no/no/vervet-bakeri",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.visittromso.no/no/vervet-bakeri",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/vervet-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/vervet-1-thumb.webp",
+          "label": "Vervet Bakeri · 海峡旁烘焙店 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaUU_B9AFp9S1kkgIsoX_8DVkTnreRwKXIbobJ9L8n_TZWFn4oCYB73w0eayRo5quZ8ykd4_mgIQBy_nZrMAesRgBgTTg5SH-BcNuVH0jNa2c0tZKkvgwUh6gomjdQUAqqk7tm187eHyE0=w408-h306-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Vervet%20Bakeri%20Tromso/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/vervet-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/vervet-2-thumb.webp",
+          "label": "Vervet Bakeri · 海峡旁烘焙店 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhD1vL2mXzu9oE7doqH-0y5B1EPf4L3u46pSeFMrEgqtzfCVaoqLfUSqu78BCuHgFetvDCXKx0F0F6Tfpqu88TVNbXus9gLnk3KCnKbPeqalKA0ZTfQi7E8YenhmT3BFP06Fme=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Vervet%20Bakeri%20Tromso/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/vervet-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/vervet-3-thumb.webp",
+          "label": "Vervet Bakeri · 海峡旁烘焙店 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLftZkGZPfTMKemMJqf0GrgsYQJFjKuVs4g8G6g-V21T582W7QHd5jVeJr289DDrdxLJ28j24tR3X0N7b-oYO3qKsxalF3Bi4Lv1ynTsYodDksj_19wwzMwNPqzzxAomuQxAsLWrxCruPxom=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Vervet%20Bakeri%20Tromso/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/Vervet%20Bakeri%20Tromso/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.visittromso.no/no/vervet-bakeri"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 200,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送区间；景观咖啡与正式正餐消费不同，酒水另按点单。",
+        "sourceUrl": "https://www.google.com/maps/search/Vervet%20Bakeri%20Tromso/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
       "id": "senjastua",
       "name": "Senjastua",
       "country": "norway",
@@ -1530,6 +2185,118 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "viewTags": [
+        "渔港山景"
+      ]
+    },
+    {
+      "id": "hamn",
+      "name": "Storbrygga Spiseri · Hamn i Senja",
+      "country": "norway",
+      "days": [
+        5,
+        6
+      ],
+      "kind": "北挪威菜／咖啡",
+      "viewTags": [
+        "港湾山景"
+      ],
+      "summary": "Hamn小港湾里的景观餐厅，适合走塞尼亚西海岸时坐下看海。",
+      "description": [
+        "餐厅面向Hamn港湾与周围山体，官网写明全年营业，主打北挪威海鲜与当地食材；可以考虑鱼汤或咖啡作为较轻的停留。",
+        "这不是Botnhamn或Hesten旁边的餐厅。仅在选择塞尼亚西海岸观景线时使用；D6长途赶往罗弗敦，不建议为一餐专门绕去。官网可见冬季时段为2025/26版本，2027年供餐时间需再确认。"
+      ],
+      "visitOnly": false,
+      "visitNote": "",
+      "stage": "塞尼亚 · D4–D6",
+      "meal": "景观咖啡／用餐备选",
+      "route": "这不是Botnhamn或Hesten旁边的餐厅。仅在选择塞尼亚西海岸观景线时使用；D6长途赶往罗弗敦，不建议为一餐专门绕去。官网可见冬季时段为2025/26版本，2027年供餐时间需再确认。",
+      "address": "Hamnveien 1145, 9385 Skaland, Norway",
+      "google": {
+        "rating": 3.8,
+        "reviewCount": 53,
+        "url": "https://www.google.com/maps/place/Storbrygga+Spiseri/@69.4172731,17.1636313,17z/data=!3m1!4b1!4m6!3m5!1s0x45dca947e14ffa25:0xd808c5f3c107b5ed!8m2!3d69.4172731!4d17.1636313!16s%2Fg%2F11kgzrb_x3",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "全年营业；2027年二月供餐时段待店方确认",
+          "官网2025/26冬季参考：午餐12:00–14:00；晚餐18:00–20:00"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.hamnisenja.no/en/restaurant",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": true
+      },
+      "menu": {
+        "items": [
+          "鱼汤",
+          "当日海鲜",
+          "咖啡"
+        ],
+        "url": "https://www.hamnisenja.no/en/restaurant",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.hamnisenja.no/en/restaurant",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/hamn-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/hamn-1-thumb.webp",
+          "label": "Storbrygga Spiseri · Hamn i Senja · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrAqqJiNmiarTLMshp98lwiG6Gi-fGq86DszINbn_5vQBPNW5_EmbSHtlq1Vt2twv5W1W36fCKCg0pPFT4nlyqoPiSQ-9ubhimnt5RmcuR_05Q9UD4i3e9524ZcTP3eF6K54LyHZocM-o=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Storbrygga+Spiseri/@69.4172731,17.1636313,17z/data=!3m1!4b1!4m6!3m5!1s0x45dca947e14ffa25:0xd808c5f3c107b5ed!8m2!3d69.4172731!4d17.1636313!16s%2Fg%2F11kgzrb_x3",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/hamn-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/hamn-2-thumb.webp",
+          "label": "Storbrygga Spiseri · Hamn i Senja · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-PGXDZuBd0LrXbpTizgb_VKZXX-77jobgAiWtQd4FgpWgncdQ8Mib9VbwBHINIrikYdGPrzl_FTy8kuz0igGRkijbnHjjReONHuA42SqOpcwCsByDg0dQiqmYQ5V0VOjsuKcw0Z08MJql=w408-h425-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Storbrygga+Spiseri/@69.4172731,17.1636313,17z/data=!3m1!4b1!4m6!3m5!1s0x45dca947e14ffa25:0xd808c5f3c107b5ed!8m2!3d69.4172731!4d17.1636313!16s%2Fg%2F11kgzrb_x3",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/hamn-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/hamn-3-thumb.webp",
+          "label": "Storbrygga Spiseri · Hamn i Senja · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9To1mOtfpxn9ND_AlEMLYXLwS1aqmY43dcmpggnS__jswj0u9GRHzWfLKpPBtAQrAnnaF4hyBItbbHdt46hvWp0H5qqCrQYg6p48ZUHgLgyEdFOlzLH1Oti4-LBR4mKcKy6Th-4wVWhns7j=w285-h298-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/Storbrygga+Spiseri/@69.4172731,17.1636313,17z/data=!3m1!4b1!4m6!3m5!1s0x45dca947e14ffa25:0xd808c5f3c107b5ed!8m2!3d69.4172731!4d17.1636313!16s%2Fg%2F11kgzrb_x3",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/place/Storbrygga+Spiseri/@69.4172731,17.1636313,17z/data=!3m1!4b1!4m6!3m5!1s0x45dca947e14ffa25:0xd808c5f3c107b5ed!8m2!3d69.4172731!4d17.1636313!16s%2Fg%2F11kgzrb_x3"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.hamnisenja.no/en/restaurant"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 200,
+        "max": 500,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送区间；景观咖啡与正式正餐消费不同，酒水另按点单。",
+        "sourceUrl": "https://www.google.com/maps/place/Storbrygga+Spiseri/@69.4172731,17.1636313,17z/data=!3m1!4b1!4m6!3m5!1s0x45dca947e14ffa25:0xd808c5f3c107b5ed!8m2!3d69.4172731!4d17.1636313!16s%2Fg%2F11kgzrb_x3",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
       }
     },
     {
@@ -1631,7 +2398,10 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "渔村港景"
+      ]
     },
     {
       "id": "anita",
@@ -1749,7 +2519,10 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "黄屋渔港景"
+      ]
     },
     {
       "id": "bacalao",
@@ -1849,7 +2622,10 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "港景"
+      ]
     },
     {
       "id": "trevare",
@@ -1953,7 +2729,10 @@
         "note": "按一人一张披萨参考，不含饮品；咖啡点心消费另计。冬季是否供应披萨需提前确认。",
         "sourceUrl": "https://www.trevarefabrikken.no/pizza",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "海景"
+      ]
     },
     {
       "id": "olverk",
@@ -2273,6 +3052,113 @@
       }
     },
     {
+      "id": "skool",
+      "name": "Skool Beans · 黄色校车咖啡",
+      "country": "iceland",
+      "days": [
+        10,
+        11
+      ],
+      "kind": "地标／咖啡",
+      "viewTags": [],
+      "summary": "黄色校车咖啡是维克特色地标；二月冬休，不安排店内消费。",
+      "description": [
+        "改装校车里的微型咖啡店，以咖啡与热巧克力出名。但官网明确说明12月至3月冬季停业，你们二月不能按常规时刻表安排入内。",
+        "仅在路过时车辆仍在、且可从公共区域看见的前提下短暂停留；若场地关闭或车辆不在就直接略过，不进入停业场地。照片展示的是营业季实景。"
+      ],
+      "visitOnly": true,
+      "visitNote": "二月冬季停业；仅从可进入的公共区域看外观，不保证冬季现场可见。",
+      "stage": "维克 · D10–D11",
+      "meal": "外观短停／自选消费",
+      "route": "仅在路过时车辆仍在、且可从公共区域看见的前提下短暂停留；若场地关闭或车辆不在就直接略过，不进入停业场地。照片展示的是营业季实景。",
+      "address": "Mósastallur, 870 Vík, Iceland",
+      "google": {
+        "rating": 4.9,
+        "reviewCount": 1933,
+        "url": "https://www.google.com/maps/search/Skool%20Beans%20Vik%20Iceland/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "12月至3月冬季停业；二月不安排入内消费"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.skoolbeans.com/aboutus",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false,
+        "status": "closed-during-trip"
+      },
+      "menu": {
+        "items": [
+          "营业季咖啡",
+          "营业季热巧克力",
+          "二月冬休，不安排购买"
+        ],
+        "url": "https://www.skoolbeans.com/aboutus",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.skoolbeans.com/aboutus",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/skool-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/skool-1-thumb.webp",
+          "label": "Skool Beans · 黄色校车外观（营业季实拍）",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqzg31hV8AaBlVC8p0Nb-3ZxvJM0PPw1BVPkhdScfrtDY8_swJP7ckEaJ9ec81yuFov0PVvzIxsoURgBf9dJ5v8KsdGrp9lcz4RN9Gw-lHWJ5ZWs-yBySil-BlCsZwvCfIMW2fzjV4HJ5N=w600-h450-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Skool%20Beans%20Vik%20Iceland/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/skool-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/skool-2-thumb.webp",
+          "label": "Skool Beans · 黄色校车咖啡 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJyuxyslnI2agzia5T61N9kS7etWVT9J30ApFd12KtmKwc0eaKDpwExEnjGjkOkI_NcgxT1J5o2huW0AGRRFpizF393YBYCsEJ3Dv4jZNVACj4kTWHAw8mW6thTNKvDkHaHv2C=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Skool%20Beans%20Vik%20Iceland/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/skool-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/skool-3-thumb.webp",
+          "label": "Skool Beans · 黄色校车咖啡 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T6wmaixqS7xAFIn2xzeZVdBAdRvzE7ngJkDEEfSbsjWiWEkXBZyPBy2Jh8lWhSBpVi1BWIwNiCq__X1bjyA5BcMgMVqJNanFwmimXPtaTH4ebLrwbE9_9C-wAwh3NcUJboW80tn7Yuom_Y=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Skool%20Beans%20Vik%20Iceland/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/Skool%20Beans%20Vik%20Iceland/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.skoolbeans.com/aboutus"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 1,
+        "max": 2000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "营业季Google Maps消费档位；二月冬季停业，不安排消费。下限1为地图价格分档边界，不代表商品售价。",
+        "sourceUrl": "https://www.google.com/maps/search/Skool%20Beans%20Vik%20Iceland/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
       "id": "systrakaffi",
       "name": "Systrakaffi",
       "country": "iceland",
@@ -2488,7 +3374,10 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "viewTags": [
+        "港景"
+      ]
     },
     {
       "id": "hornid",
@@ -2687,6 +3576,223 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "viewTags": [
+        "海景"
+      ]
+    },
+    {
+      "id": "perlan",
+      "name": "Perlan Restaurant & Café · 珍珠楼",
+      "country": "iceland",
+      "days": [
+        13
+      ],
+      "kind": "咖啡／景观餐厅",
+      "viewTags": [
+        "雷市全景"
+      ],
+      "summary": "玻璃穹顶下看雷克雅未克，适合已经决定进城时作为景观备选。",
+      "description": [
+        "咖啡区位于珍珠楼五层，和餐厅同在玻璃穹顶下，可看城市与远处山海。咖啡区供糕点、三明治、可颂与冷热饮；餐厅还有炸鱼薯条和披萨。",
+        "官网明确室外观景台包含在展馆门票内，不能假设买杯咖啡就能进入收费观景台。你们D13从霍芬长途西返凯夫拉维克，默认不硬加雷市；只有提前西返、已决定进城且天光足够时再选。"
+      ],
+      "visitOnly": false,
+      "visitNote": "",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "meal": "景观咖啡／用餐备选",
+      "route": "官网明确室外观景台包含在展馆门票内，不能假设买杯咖啡就能进入收费观景台。你们D13从霍芬长途西返凯夫拉维克，默认不硬加雷市；只有提前西返、已决定进城且天光足够时再选。",
+      "address": "Varmahlíð 1, 105 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.3,
+        "reviewCount": 527,
+        "url": "https://www.google.com/maps/search/Perlan%20Restaurant%20Cafe%20Reykjavik/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "咖啡区：每日 10:00–18:00",
+          "餐厅：每日 11:30–18:00；酒吧：11:30–21:00"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://perlan.is/visit",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "咖啡与蛋糕",
+          "三明治／可颂",
+          "炸鱼薯条",
+          "披萨"
+        ],
+        "url": "https://perlan.is/visit",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://perlan.is/visit",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/perlan-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/perlan-1-thumb.webp",
+          "label": "Perlan Restaurant & Café · 珍珠楼 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfie2aihJ18_fCT6ilbZL_mL7iHD5kk_zwe8HOdFQ3R0DgCjN_Wy7XOGUMhjvnplTtsz6YShx7sdToMHGe_tjV1NEcN6Gh9HzOkAW9JtMTRs3lvisYW9JAghVsf3EK6u7Y8v2wJnFHa351B=w408-h544-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Perlan%20Restaurant%20Cafe%20Reykjavik/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/perlan-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/perlan-2-thumb.webp",
+          "label": "Perlan Restaurant & Café · 珍珠楼 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTbt0dMJJzE_OYg9E0tpnI2vrvC35e2Ht3-nZCS89YWINaGLu2MERKb5bAUyCV6cLA3r7-umbkrkXtdlNXLEchWUtHKes_-NHOvpW7Yy3ZBkHa6i1GV9ESw9mHhmiVmZaxD-FVIA=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Perlan%20Restaurant%20Cafe%20Reykjavik/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/perlan-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/perlan-3-thumb.webp",
+          "label": "Perlan Restaurant & Café · 珍珠楼 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdd6zu_qXCq0eFX6ZPyKGGwL2cti0bkxy37f9r2wkfqCA3gkM_iRgDsrR6VFX7EbdNPyflRYGHTCQ2xAupIXxuwW35n8Ceguz1Y6hNq4CdMWqB8Lkk6tmi0OSnVE-U3y8SZSVNFQ=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Perlan%20Restaurant%20Cafe%20Reykjavik/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/Perlan%20Restaurant%20Cafe%20Reykjavik/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://perlan.is/visit"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送区间；景观咖啡与正式正餐消费不同，酒水另按点单。",
+        "sourceUrl": "https://www.google.com/maps/search/Perlan%20Restaurant%20Cafe%20Reykjavik/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "bbp",
+      "name": "Bæjarins Beztu Pylsur · 雷市热狗亭",
+      "country": "iceland",
+      "days": [
+        13
+      ],
+      "kind": "地标／热狗",
+      "viewTags": [],
+      "summary": "雷市的经典热狗小亭，以街头地标打卡为主，不必专程绕路吃。",
+      "description": [
+        "这家老热狗亭是雷克雅未克的常见城市名片。可以从公共街道看亭子、顺手拍照；若刚好饿了，再买一份加全配料的热狗即可。",
+        "选择Tryggvagata 1的经典小亭条目，避免跳到Laugavegur分店。D13长途西返时，只有本来就进雷市才顺路看，不为热狗额外进城。"
+      ],
+      "visitOnly": true,
+      "visitNote": "公共街边小亭打卡，消费自愿；你们不进雷市时直接跳过。",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "meal": "外观短停／自选消费",
+      "route": "选择Tryggvagata 1的经典小亭条目，避免跳到Laugavegur分店。D13长途西返时，只有本来就进雷市才顺路看，不为热狗额外进城。",
+      "address": "Tryggvagata 1, 101 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 9549,
+        "url": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "每天09:00开始营业",
+          "周日至周三至次日01:00；周四至次日02:00；周五、周六至次日06:00"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "全配料热狗",
+          "热狗配饮料"
+        ],
+        "url": "http://www.bbp.is/",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "http://www.bbp.is/",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/bbp-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bbp-1-thumb.webp",
+          "label": "Bæjarins Beztu Pylsur · 雷市热狗亭 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfl2D13Hc0_0YewlDES5si7UkfEjSR6YWPF2fl5b3-eAVj2bhGeWk4lO0p-w35g2uLz1T_CMLLh87LwJpx8agDm0lR4mO2yyjoEVBdWz7oBOqt857abIpYQ9Viax898lnYWA7eNEceqXc3x=w408-h544-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/bbp-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bbp-2-thumb.webp",
+          "label": "Bæjarins Beztu Pylsur · 雷市热狗亭 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpGIDPzTwiEFhOPW4iTMa1cMcyOO2MHbS4wsWrPZdcFZBZPBpahtRXmExD7lKwteITH8zZFtT53Pi45gWbUIVvrbz8AwFs8wJGydC_o1pqCLO9SBxQ7pS89lzMp43ptOBEGRWSU38HJW60=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/bbp-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bbp-3-thumb.webp",
+          "label": "Bæjarins Beztu Pylsur · 雷市热狗亭 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ShWrqgD_OK5Rn3u9EiVELs67epHe-DcqxkC7SqC3Zx43ky4WEnZRg0-VecMaTYKzie0Yc3VoQrpDfFqNnO0Ri_wClvAIdBddv6GNQGLlRUnDbhgBYHG_oOMBKniVWdQGdXKMYD5InJq0P5=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "http://www.bbp.is/"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 1,
+        "max": 2000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "如选择消费，参考Google Maps访客报送区间；外观参观不计餐饮消费。 地图按价格档位统计，下限1不是商品售价。",
+        "sourceUrl": "https://www.google.com/maps/place/B%C3%A6jarins+Beztu+Pylsur/data=!4m7!3m6!1s0x48d60b2d30a5aebb:0xeea12cdcfc633a79!8m2!3d64.1481882!4d-21.9378861!16s%2Fg%2F12hsmwdjb!19sChIJu66lMC0L1kgReTpj_Nwsoe4",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
       }
     },
     {
@@ -2702,7 +3808,8 @@
       "meal": "快速午餐",
       "summary": "Landgreven加油站原店，市中心走累时补一只汉堡。",
       "description": [
-        "2016年起从加油站出发的汉堡品牌，以简短菜单、现做牛肉饼和酱汁见长。原店不接受订位，售完即止；小店打卡可能排队，时间紧别硬等。"
+        "2016年起从加油站出发的汉堡品牌，以简短菜单、现做牛肉饼和酱汁见长。原店不接受订位，售完即止；小店打卡可能排队，时间紧别硬等。",
+        "本次默认作为原加油站外观打卡点；不强制安排汉堡正餐，排队较长时可只看门面后继续走。"
       ],
       "route": "D14新港与皇宫区之间可顺路吃，D15逛市中心也能用；原店只有户外座，二月怕冷可改官网所列室内分店。",
       "address": "Landgreven 10, 1301 København, Denmark",
@@ -2790,7 +3897,9 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
-      }
+      },
+      "visitOnly": true,
+      "visitNote": "原加油站门头是打卡重点，从公共街道拍照即可；是否购买汉堡自行决定。"
     },
     {
       "id": "ruby",
@@ -2993,6 +4102,222 @@
         "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
         "sourceUrl": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8",
         "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      }
+    },
+    {
+      "id": "la-glace",
+      "name": "Conditori La Glace · 百年蛋糕店",
+      "country": "denmark",
+      "days": [
+        14,
+        15
+      ],
+      "kind": "地标／蛋糕咖啡",
+      "viewTags": [],
+      "summary": "1870年创立的老甜品店，门面橱窗值得看，想坐下再选蛋糕和热巧克力。",
+      "description": [
+        "Skoubogade的老店保留木饰、玻璃与黄铜的老式糕点店气氛，招牌Sportskage是牛轧糖、奶油和泡芙组成的经典蛋糕。可先把门面与橱窗作为步行购物时的打卡点。",
+        "“仅参观”是本次默认安排，并非店内免费参观许可：不消费只在公共街道看外观；想体验室内则正常入座点单。营业结束前30分钟停止堂食服务。"
+      ],
+      "visitOnly": true,
+      "visitNote": "先看外观和橱窗，不安排强制下午茶；店内座位需要正常消费。",
+      "stage": "哥本哈根市中心 · D14–D15",
+      "meal": "外观短停／自选消费",
+      "route": "“仅参观”是本次默认安排，并非店内免费参观许可：不消费只在公共街道看外观；想体验室内则正常入座点单。营业结束前30分钟停止堂食服务。",
+      "address": "Skoubogade 3, 1158 København, Denmark",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 3053,
+        "url": "https://www.google.com/maps/search/Conditori%20La%20Glace%20Copenhagen/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一至周五 08:30–18:00；周六09:00–18:00；周日10:00–18:00",
+          "关门前30分钟停止堂食服务"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://laglace.live/menukort",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "Sportskage切片 · 89 DKK",
+          "壶装咖啡／茶 · 85 DKK",
+          "热巧克力 · 95 DKK"
+        ],
+        "url": "https://laglace.live/menukort",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://laglace.live/menukort",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/la-glace-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/la-glace-1-thumb.webp",
+          "label": "Conditori La Glace · 百年蛋糕店 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvd85SQ_8iT7wvB8SiT9KMHSlCoEXQNIegUWXGbZIYfrrKt5cdgz-EMMx9lAJK7jAwQFKoaDgzpv1ZPZo8oN53oZ7uiWxfhz1irZTWKiyBUylS0MoT4KWlonKrXOZgRg=w436-h240-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Conditori%20La%20Glace%20Copenhagen/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/la-glace-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/la-glace-2-thumb.webp",
+          "label": "Conditori La Glace · 百年蛋糕店 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv_IPdHNzGnR5OrQM9IpqeAJnOxz9Z9cUYiBwI0hzZKF0nHUzVmUQVXnBS0HeaiBA93oSMNNNLkCToOLRHs2gwTEyQxulwDxdT5VRVea8weq9in9c6h7yhXX-_KGCU5XRKIQOg=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Conditori%20La%20Glace%20Copenhagen/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/la-glace-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/la-glace-3-thumb.webp",
+          "label": "Conditori La Glace · 百年蛋糕店 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tb2KdiQr1E643PTBwT1hx53rpUQfyn3AOabz4T1gu2f5VKOpPiKgbdiHEJHJVu4MZzIpGGhQpflJyKgiCFWyw-VH1SA1W2YrGHjEU1R9J055X77nm4nnzfclVv96yH33vLeBfcPLIO9Tsj=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/Conditori%20La%20Glace%20Copenhagen/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/Conditori%20La%20Glace%20Copenhagen/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://laglace.live/menukort"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 174,
+        "max": 184,
+        "currency": "DKK",
+        "basis": "菜单蛋糕＋热饮参考",
+        "note": "一块Sportskage 89 DKK，加咖啡85或热巧克力95；仅在店外看橱窗无需购买。",
+        "sourceUrl": "https://laglace.live/menukort",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "la-banchina",
+      "name": "La Banchina · 港湾咖啡与餐厅",
+      "country": "denmark",
+      "days": [
+        14,
+        15
+      ],
+      "kind": "咖啡／海鲜",
+      "viewTags": [
+        "港湾水景"
+      ],
+      "summary": "码头边的小屋咖啡厅，适合喜欢港湾景色的人在白天慢坐。",
+      "description": [
+        "位于Refshaleøen旧工业区水边，咖啡、烘焙、有机鱼素餐和自然酒是其特色。冬天也有咖啡服务，但不能把夏季露台热闹程度当成二月实际体验。",
+        "离新港与市中心购物线有距离。若已经打算去Refshaleøen建筑区再顺访；你们在哥本哈根仅一晚，不建议为了这一家压缩全部市中心行程。桑拿另外预约付费，咖啡消费不含桑拿。"
+      ],
+      "visitOnly": false,
+      "visitNote": "",
+      "stage": "哥本哈根市中心 · D14–D15",
+      "meal": "景观咖啡／用餐备选",
+      "route": "离新港与市中心购物线有距离。若已经打算去Refshaleøen建筑区再顺访；你们在哥本哈根仅一晚，不建议为了这一家压缩全部市中心行程。桑拿另外预约付费，咖啡消费不含桑拿。",
+      "address": "Refshalevej 141, 1432 København, Denmark",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 1894,
+        "url": "https://www.google.com/maps/search/La%20Banchina%20Copenhagen/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一、周二、周日08:00–16:00；周三至周六08:00–21:00",
+          "咖啡区与厨房供餐时段不同；冬季菜单与开放日出发前再确认"
+        ],
+        "note": "当地时间；常规时段出发前复核。",
+        "sourceUrl": "https://www.labanchina.dk/visit",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00",
+        "needsConfirmation": false
+      },
+      "menu": {
+        "items": [
+          "咖啡与自制烘焙",
+          "季节鱼素餐",
+          "自然酒"
+        ],
+        "url": "https://www.labanchina.dk/visit",
+        "note": "菜品与消费口径供参考，以当日菜单为准。"
+      },
+      "website": "https://www.labanchina.dk/visit",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/la-banchina-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/la-banchina-1-thumb.webp",
+          "label": "La Banchina · 港湾咖啡与餐厅 · 店铺与环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9fgg9h2oC_6XcFF-7vsPMeMGfZGTWDceYXGkR9vqMnUDBfcaRJ8Rm1WAVvOO8b5SkBNrktA2s6z1d9YkDL7Nxg0TijdjimOjSgEqrtmR0-wO2xCTShRryUBf23O4-RAaMCGcZ6w=w415-h240-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/La%20Banchina%20Copenhagen/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/la-banchina-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/la-banchina-2-thumb.webp",
+          "label": "La Banchina · 港湾咖啡与餐厅 · 本店实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbySwBOdmsMqo-Sq-1YUU2wbXscfAOt2No0n-Z3Tcz-Qe-2yA9rRzlJfrw2ZPHxj2jB94bG8TpTeLqXiaQYgBeOG7rRiJS75wBaA8YuzP1buJFT8aj2iF_Mg0ywVjgV3oswDi3=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/La%20Banchina%20Copenhagen/",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/la-banchina-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/la-banchina-3-thumb.webp",
+          "label": "La Banchina · 港湾咖啡与餐厅 · 环境与餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLde5HhN-Gkjv60sFr5xqlwDJThPG-SxrwswwjGaFuZ0GUHh9KxIqiGawAOj1_NHnFBZX1rLvwK9HfY2w8o9hD57PViAy6ksD2vIAj2sN5TWYG4N5nUAdlTUGannDBsM7JCisPdqnEH8PZI=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps店方／贡献者",
+            "url": "https://www.google.com/maps/search/La%20Banchina%20Copenhagen/",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Maps店铺、评分与价格",
+          "url": "https://www.google.com/maps/search/La%20Banchina%20Copenhagen/"
+        },
+        {
+          "title": "店方／旅游局资料",
+          "url": "https://www.labanchina.dk/visit"
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 400,
+        "currency": "DKK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送区间，咖啡小点与正式用餐价格不同；不含桑拿。",
+        "sourceUrl": "https://www.google.com/maps/search/La%20Banchina%20Copenhagen/",
+        "checkedAt": "2026-11-12T06:46:39.879767+00:00"
       }
     }
   ]

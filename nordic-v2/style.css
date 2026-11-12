@@ -353,3 +353,9 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 @media(max-width:480px){.dining-row .attraction-row-title{align-items:flex-start}.dining-row .dining-rating{flex-direction:column;align-items:flex-end;gap:2px}.dining-row .dining-rating strong{line-height:1.5}.dining-row .dining-rating>span{font-size:9px}.dining-row .attraction-row-title h3{align-items:baseline}}
 
 .dining-detail-page .dining-menu .dining-more-dishes{margin:22px 0 0}
+
+.dining-visit-only,.dining-view-tag,.dining-closed{display:inline-flex;font-size:11px;padding:2px 6px;border-radius:4px;white-space:nowrap}
+.dining-visit-only{background:#edf0f3;color:#526577}.dining-view-tag{background:#edf3ee;color:#4b715e}.dining-closed{background:#faeee9;color:#b3503e}
+.dining-visit-legend{font-size:12px;color:var(--muted);line-height:1.8;margin:-10px 0 22px}
+.dining-visit-note{font-size:13px;line-height:1.8;color:#566777;background:#f1f4f6;padding:12px 14px;border-radius:10px;margin:18px 0}
+.dining-visit-note>span{display:block;font-weight:500;margin-bottom:4px}
