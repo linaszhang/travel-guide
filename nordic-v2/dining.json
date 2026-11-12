@@ -303,13 +303,15 @@
         2,
         3
       ],
-      "kind": "咖啡／轻食",
-      "meal": "午餐或咖啡",
-      "summary": "酸面包吐司、咖啡和植物性轻食；适合白天短停。",
+      "kind": "咖啡／音乐酒吧",
+      "meal": "咖啡／周日爵士夜",
+      "summary": "有氛围的咖啡厅，周日晚上可听免费的 Sunday Jam 即兴爵士。",
       "description": [
-        "店在Skippergata，离老港口不远。食物偏吐司与咖啡馆轻食，适合想吃一点蔬菜、换换重口味的人。周日偶有晚间音乐活动，具体演出另看店方公告。"
+        "店在Skippergata，离主街与老港口不远。白天供应酸面包吐司、咖啡和植物性轻食，适合散步途中歇脚。",
+        "小红书到店分享：周日晚上有免费的 Sunday Jam 爵士即兴表演，当地音乐家会来演奏，也能听到不同语言的歌声。观众也可以报名上台唱歌或弹奏，适合喜欢现场音乐和热闹交流氛围的人。",
+        "分享者向店员了解的时间是约20:00–21:00开始，持续到午夜。具体开场时间、参与方式与当周是否举办，请以店方当周公告为准；这是一则到店体验分享，并非2027年2月的已确认演出场次。"
       ],
-      "route": "D2市区取雪具前后可短停，D3午餐只有很短空档，建议外带；周一16:00关门，不安排在桑拿后的晚餐。",
+      "route": "D2（2月7日，周日）市区取雪具前后可喝咖啡；晚餐后若当周举办Sunday Jam，也可约20:00回来听一会儿。当天还要自驾回EIRA，司机选无酒精饮品，别熬太晚影响次日滑雪。D3午餐空档较短，建议外带；周一16:00关门，不安排在桑拿后的晚餐。",
       "address": "Skippergata 1C, 9008 Tromsø, Norway",
       "google": {
         "rating": 4.5,
@@ -345,6 +347,10 @@
         {
           "title": "官网／当地旅游局",
           "url": "https://www.finttromso.no/"
+        },
+        {
+          "title": "小红书到店体验 · 用户提供文字与截图",
+          "note": "Sunday Jam：免费；分享者询问店员约20:00–21:00开始，持续到午夜；观众可参与。2027具体场次待确认。"
         }
       ],
       "photos": [
@@ -380,13 +386,24 @@
             "url": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j",
             "license": "图片权利归原作者"
           }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fint-sunday-jam.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fint-sunday-jam-thumb.webp",
+          "label": "FINT · Sunday Jam 爵士现场（用户提供的小红书截图）",
+          "userProvided": true,
+          "credit": {
+            "author": "用户提供的小红书截图",
+            "license": "图片权利归原作者"
+          }
         }
       ],
       "xiaohongshu": {
         "recommended": false,
         "checkedAt": "2026-11-12",
         "evidence": [],
-        "note": "定向搜索只见零星明确提及，不标热门。"
+        "note": "已补充用户提供的小红书到店文字与现场截图；作为体验分享展示，不据单篇分享判定平台热度。",
+        "userProvided": true
       }
     },
     {
