@@ -27,7 +27,8 @@
         "lines": [
           "周一至周五 08:00–21:00",
           "周六 09:00–21:00；周日 10:00–19:00",
-          "厨房提前30分钟结束"
+          "热餐：周一至周六 11:00–20:30；周日 12:00–18:30",
+          "早餐：工作日至12:00；周末至17:00"
         ],
         "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
         "sourceUrl": "https://www.cafeengel.fi/koti",
@@ -35,11 +36,59 @@
       },
       "menu": {
         "items": [
-          "三文鱼汤",
-          "蓝莓与马斯卡彭派"
+          "奶油三文鱼汤 · €16.70",
+          "蓝莓马斯卡彭派 · €8.80",
+          "肉桂卷 · €4.30",
+          "甜菜根饼配蘑菇 · €17.20",
+          "胡萝卜蛋糕 · €8.80",
+          "柠檬蛋白霜挞 · €8.80",
+          "芬兰肉丸配土豆泥与越橘 · €17.20",
+          "炖驯鹿配土豆泥与越橘 · €20.40"
         ],
-        "url": "https://www.cafeengel.fi/",
-        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+        "url": "https://www.cafeengel.fi/menu",
+        "note": "推荐菜与价格据店方菜单；照片来自本店Google Maps，摆盘以实际出品为准。",
+        "dishes": [
+          {
+            "name": "奶油三文鱼汤",
+            "price": "€16.70",
+            "description": "配黑麦面包，适合冷天暖身。",
+            "photo": "../nordic-v2/assets/dining/engel-dish-1.webp"
+          },
+          {
+            "name": "蓝莓马斯卡彭派",
+            "price": "€8.80",
+            "description": "莓果与奶酪馅，适合配咖啡。",
+            "photo": "../nordic-v2/assets/dining/engel-dish-2.webp"
+          },
+          {
+            "name": "肉桂卷",
+            "price": "€4.30",
+            "description": "芬兰经典肉桂点心。",
+            "photo": "../nordic-v2/assets/dining/engel-dish-3.webp"
+          },
+          {
+            "name": "甜菜根饼配蘑菇",
+            "price": "€17.20",
+            "description": "配蘑菇、酸黄瓜与芝麻菜。",
+            "photo": "../nordic-v2/assets/dining/engel-dish-4.webp"
+          },
+          {
+            "name": "胡萝卜蛋糕",
+            "price": "€8.80",
+            "description": "适合下午茶的小份甜点。",
+            "photo": "../nordic-v2/assets/dining/engel-dish-5.webp"
+          },
+          {
+            "name": "柠檬蛋白霜挞",
+            "price": "€8.80",
+            "description": "柠檬馅搭配蛋白霜。",
+            "photo": "../nordic-v2/assets/dining/engel-dish-6.webp"
+          }
+        ],
+        "dishesWithoutPhoto": [
+          "芬兰肉丸配土豆泥与越橘 · €17.20",
+          "炖驯鹿配土豆泥与越橘 · €20.40"
+        ]
       },
       "website": "https://www.cafeengel.fi/",
       "sources": [
@@ -50,6 +99,10 @@
         {
           "title": "官网／当地旅游局",
           "url": "https://www.cafeengel.fi/koti"
+        },
+        {
+          "title": "Café Engel 官方菜单与推荐菜价格",
+          "url": "https://www.cafeengel.fi/menu"
         }
       ],
       "photos": [
@@ -80,6 +133,72 @@
           "thumbnail": "../nordic-v2/assets/dining/engel-3-thumb.webp",
           "label": "Café Engel · 店方图片",
           "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TckBznIhBV4O1GIAo_0FQX9QlnixWeO62g34MGa_8sr0t5xZ4ihWqTX63Q43Tq5oaiwvESp-LacQqvesPMgVsC0dJIPLGZ0ATVkSmGFr9ZyLp4-T9Qm3h0e6cs-a1OfmP4-5ve0-iBoHZD=w224-h399-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-dish-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-dish-1-thumb.webp",
+          "label": "Café Engel · 奶油三文鱼汤",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2Y521ht0tNp4vutPklE5TuL9W9E9ndC1SJhewcCoc5ZRsFLbBq3Xi_SN05x4QEfBcPEldciGixqbh3MpVGLqrLmlckOk-oaO_pNMHDkSyr2K9OXVRhQoMxCVILo56_HgjXCvk=w344-h448-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-dish-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-dish-2-thumb.webp",
+          "label": "Café Engel · 蓝莓马斯卡彭派",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgose7_9WiwhE7M262Lh0xRjHrQ2gK0cQiJfodDqd9lGubzWYCqlHCGK_JfzhzMeheArhKuWsSV8jABTy8WxjF3SJVWicTnXeVzCO3Aipfzr0GIEFJ4a7pEuTzuKkb-z0_eOC0xQ=w344-h448-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-dish-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-dish-3-thumb.webp",
+          "label": "Café Engel · 肉桂卷",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjIIu9XYuhW81K0btGWexjPkDPiBJX0ImTMSAvcyXcPK7WcqE3fb0Adq81bDvaFDL51UGljYshbZrcUu-uRU1attXtUnH29L9RZVQQ4tQK8MtprI7Jw37LqsyxLzTVxDGHDXsg=w344-h448-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-dish-4.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-dish-4-thumb.webp",
+          "label": "Café Engel · 甜菜根饼配蘑菇",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeXo-Pn7Y4bsE60cu7Jx5_YcFBfrU1dGvaEcl6vES_fryUvTIRJL7ElenXN0O8kPA6-XgHvlV0_L-C1CQQ2sdX8tw9Tpgev_fDEFVXOEDm8x4XxHFDzl-FnQUh58PPT0jWcuj07KRI4MdW=w344-h448-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-dish-5.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-dish-5-thumb.webp",
+          "label": "Café Engel · 胡萝卜蛋糕",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLch_5CpNX9vcbwvm07dUbIYiOOWu16wMRdQOmnhpqPcpXfp4UIQ2978Yl8fmNTH5W529-JWeLGKHJTeyIszB2fcPd0HICKLngiilWVdd-II4fPW1Wy3ebhzFXO7cOUXIY859DSpAw=w344-h448-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-dish-6.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-dish-6-thumb.webp",
+          "label": "Café Engel · 柠檬蛋白霜挞",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnutdL9lyR4ZlXiFn0bn-mbs-xE_Cq94k0P4H3-8ymrEMANBxB2ujkzM8q-w5-8alsDnHMTdliOck8ZteyMcwpAG0yD3Q5hAetc2r3A3meO_YQ4Smq7ASyHd1bM-SMwVzQsTucBUHRedEY=w344-h448-p-k-no",
           "credit": {
             "author": "Google Maps 店方／贡献者",
             "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
