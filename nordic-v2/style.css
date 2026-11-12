@@ -300,3 +300,9 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 
 /* Country navigation uses the same pill silhouette as the home tabs. */
 .sidebar .side-switch #side-tabs button{border-radius:999px;font-size:13px;line-height:1.7;padding:8px;letter-spacing:.08em}
+
+.dining-row .attraction-row-content .dining-row-price{font-size:12px;line-height:1.5;color:var(--theme,var(--accent));margin:8px 0;font-weight:500}
+.dining-price-detail{margin:18px 0 24px;padding:14px 16px;background:#f5f4ef;border-radius:12px}
+.dining-price-detail strong{font-size:17px;font-weight:500;color:var(--theme,var(--accent))}
+.dining-price-detail p,.dining-price-detail a{font-size:12px;line-height:1.7;color:var(--muted,#83847d)}
+.dining-price-detail p{margin:6px 0}.dining-price-detail a{color:var(--theme,var(--accent))}

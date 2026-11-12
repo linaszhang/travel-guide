@@ -3,7 +3,7 @@
  const version=new URL(location.href).searchParams.get('v')==='1'?'1':'2';
  const root=version==='2'?'../nordic-v2/':'';
  const css=document.querySelector('link[href^="style.css"]');
- css.href=root+'style.css?v=unified-115';
+ css.href=root+'style.css?v=unified-116';
  const brand=document.querySelector('.mobile-brand');brand.textContent='北欧旅行计划';
  const control=()=>{const picker=document.createElement('span');picker.className='version-picker';const label=document.createElement('span');label.className='version-picker-label';label.setAttribute('aria-hidden','true');label.textContent='V'+version;const arrow=document.createElementNS('http://www.w3.org/2000/svg','svg');arrow.setAttribute('viewBox','0 0 12 12');arrow.setAttribute('aria-hidden','true');arrow.innerHTML='<path d="m3 4.5 3 3 3-3"/>';const select=document.createElement('select');select.className='version-select';select.setAttribute('aria-label','行程版本');select.innerHTML='<option value="1">V1</option><option value="2">V2</option>';select.value=version;select.addEventListener('change',()=>changeVersion(select));picker.append(label,arrow,select);return picker;};
  async function changeVersion(select){
@@ -13,7 +13,7 @@
    const parts=location.hash.slice(1).split('/');const base=target==='2'?'../nordic-v2/':'';
    if(parts[0]==='day'){
     const current=typeof days!=='undefined'?days.find(d=>d.num===Number(parts[1])):null;
-    const data=await fetch(base+'data.json?v=unified-115').then(r=>{if(!r.ok)throw Error('data');return r.json()});
+    const data=await fetch(base+'data.json?v=unified-116').then(r=>{if(!r.ok)throw Error('data');return r.json()});
     const match=current&&data.flatMap(c=>c.days).find(d=>d.date.split(' · ')[0].trim()===current.date.split(' · ')[0].trim());
     url.hash=match?'#day/'+match.num:'#country/finland';
    }else if(parts[0]==='attractions'||parts[0]==='attraction'||parts[0]==='country-intro'||parts[0]==='restaurants'||parts[0]==='restaurant'){
@@ -21,7 +21,7 @@
    }else if(parts[0]==='stay'||parts[0]==='car'){
     if(target==='1')url.hash='#budget';
    }else if(parts[0]==='experience'){
-    const data=await fetch(base+'experiences.json?v=unified-115').then(r=>{if(!r.ok)throw Error('experiences');return r.json()});
+    const data=await fetch(base+'experiences.json?v=unified-116').then(r=>{if(!r.ok)throw Error('experiences');return r.json()});
     if(!data.some(x=>x.id===parts[1]))url.hash='#budget';
    }
    location.assign(url.href);
@@ -35,5 +35,5 @@
   if(heading&&!heading.querySelector('.home-version')){heading.querySelector('.version-badge')?.remove();heading.querySelector('.version-select')?.remove();const badge=document.createElement('span');badge.className='home-version';badge.textContent='V'+version;heading.append(badge);}
   document.querySelectorAll('.version-select').forEach(x=>x.value=version);
  };
- const app=document.createElement('script');app.src=root+'app.js?v=unified-115';document.head.append(app);
+ const app=document.createElement('script');app.src=root+'app.js?v=unified-116';document.head.append(app);
 })();

@@ -91,6 +91,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 15,
+        "max": 20,
+        "currency": "EUR",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -182,8 +191,8 @@
       ],
       "xiaohongshu": {
         "recommended": true,
-        "checkedAt": "2026-11-12",
-        "note": "已核对多位作者的独立到店推荐，并在搜索结果中反复出现。互动数为核对当日快照；并非小红书官方榜单。",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00",
+        "note": "来自用户提供的小红书 AI 点点“赫尔辛基餐厅”截图：第1名，截图显示67%人推荐。该顺序是本次点点回答的推荐顺序，不代表平台固定榜单；分店按本次市中心路线选择。",
         "evidence": [
           {
             "url": "https://www.xiaohongshu.com/explore/6946719b000000000d00ef6d",
@@ -198,8 +207,23 @@
             "author": "每天只想睡午觉",
             "likes": 21,
             "displayedDate": "页面标注4天前"
+          },
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-helsinki-ranking.webp"
           }
-        ]
+        ],
+        "rank": 1,
+        "rankingSource": "user-supplied-diandian-screenshot"
+      },
+      "averagePrice": {
+        "min": 23.1,
+        "max": 45,
+        "currency": "EUR",
+        "basis": "官网菜单用餐参考",
+        "note": "正餐区参考：主菜€23.10–29.40，三道式套餐€45；不含另点酒水。咖啡区点单与价格不同。",
+        "sourceUrl": "https://www.raflaamo.fi/en/restaurant/helsinki/kappeli/menu/lunch?menuGroupId=8365&menuGroupTitle=a-la-carte-from-17-sep&menuId=61516",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -292,6 +316,471 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 15,
+        "max": 20,
+        "currency": "EUR",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Liberty+or+Death/@60.1647106,24.9443036,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bc90d5ab175:0x9b37ee6491e5aa3!8m2!3d60.1647106!4d24.9443036!16s%2Fg%2F11b6zxj33p",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      }
+    },
+    {
+      "id": "pho-viet",
+      "name": "Pho Viet · Mikonkatu",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "越南菜",
+      "meal": "晚餐备选",
+      "summary": "热汤越南粉与春卷，想吃亚洲口味时的市中心选择。",
+      "description": [
+        "招牌是牛肉河粉，官网介绍汤底长时间熬煮，搭配香草与米粉；也有鸡肉和豆腐版本、春卷以及炒米粉。比起慢慢吃套餐，更适合落地后吃一碗热汤再回住宿休息。",
+        "点点截图未指定分店。这里选 Mikonkatu 8 分店，靠近中央车站与市中心步行区；Eerikinkatu 1 也有同品牌分店，导航时请核对地址。"
+      ],
+      "route": "D1从Oodi或中央车站一带步行前往，或作为建筑散步结束后的晚餐备选；不需要另排一顿。",
+      "address": "Mikonkatu 8, 00100 Helsinki, Finland",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 448,
+        "url": "https://www.google.com/maps/place/Pho+Viet/@60.1695327,24.9452009,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b003c8d43df:0x35ddb024e0cba191!8m2!3d60.1695327!4d24.9452009!16s%2Fg%2F11vqxjzkmr",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一至周六 10:30–22:30；周日 12:00–22:00"
+        ],
+        "note": "当地时间；2027年二月可能调整，出发前查看最新时段。",
+        "sourceUrl": "https://phoviethelsinki.fi/",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "menu": {
+        "items": [
+          "牛肉河粉／鸡肉河粉／豆腐河粉 · €15.50",
+          "鲜春卷 · €12.50",
+          "炒米粉与米饭类"
+        ],
+        "url": "https://phoviethelsinki.fi/",
+        "note": "当前菜单参考；菜品、价格与时段以到店当日为准。"
+      },
+      "website": "https://phoviethelsinki.fi/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Pho+Viet/@60.1695327,24.9452009,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b003c8d43df:0x35ddb024e0cba191!8m2!3d60.1695327!4d24.9452009!16s%2Fg%2F11vqxjzkmr"
+        },
+        {
+          "title": "菜单与营业资料",
+          "url": "https://phoviethelsinki.fi/"
+        },
+        {
+          "title": "店方介绍",
+          "url": "https://phoviethelsinki.fi/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/pho-viet-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/pho-viet-1-thumb.webp",
+          "label": "Pho Viet · Mikonkatu · 店面",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SjpZGxS71UJKSGpp4uKg-KjU4jSmwTbNStJE7HiEO73amBQkJOZiPI8HleJlr-fxlTSWYSRLEKP1MxzxO5TVJLQNMGFqPEtVfMsL6Y7znI-cre_iLC5mLVlpoohQKRd81F6RskOw=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Pho+Viet/@60.1695327,24.9452009,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b003c8d43df:0x35ddb024e0cba191!8m2!3d60.1695327!4d24.9452009!16s%2Fg%2F11vqxjzkmr",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/pho-viet-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/pho-viet-2-thumb.webp",
+          "label": "Pho Viet · Mikonkatu · 菜品",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SY8x1clYJFWpNzE32IvB91SyGpnjfiwB0D3l2zL1Z1aJC49vWTpge2xwG4VwEp7ZBHohggbeEb3F6F6P-VMVpxbacOg9SJjxVMI1tvqE2X8SZ760TPTsmNT8BWi1imcsLEwVY1sFuUdKxM=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Pho+Viet/@60.1695327,24.9452009,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b003c8d43df:0x35ddb024e0cba191!8m2!3d60.1695327!4d24.9452009!16s%2Fg%2F11vqxjzkmr",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/pho-viet-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/pho-viet-3-thumb.webp",
+          "label": "Pho Viet · Mikonkatu · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T53Rw3A7g1h14qFISb6i9ZKJiBlM-IukSUTC93jQR3IPCxi1iK_HKjU36M-Y7qvN3zgnhAzB47BCY1sfnr9JaJtPCHVDxL7V2-vvWYRd2yNGW1Vavk5sTUCqZjtMMx3fQEwJbk=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Pho+Viet/@60.1695327,24.9452009,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b003c8d43df:0x35ddb024e0cba191!8m2!3d60.1695327!4d24.9452009!16s%2Fg%2F11vqxjzkmr",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 2,
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“赫尔辛基餐厅”截图：第2名，截图显示14%人推荐。该顺序是本次点点回答的推荐顺序，不代表平台固定榜单；分店按本次市中心路线选择。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-helsinki-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 15,
+        "max": 20,
+        "currency": "EUR",
+        "basis": "Google Maps人均消费区间",
+        "note": "Google Maps访客报送区间；官网河粉€15.50。",
+        "sourceUrl": "https://www.google.com/maps/place/Pho+Viet/@60.1695327,24.9452009,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b003c8d43df:0x35ddb024e0cba191!8m2!3d60.1695327!4d24.9452009!16s%2Fg%2F11vqxjzkmr",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      }
+    },
+    {
+      "id": "herkku-bistro",
+      "name": "Herkku Bistro · Food Market Herkku",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "芬兰菜／鱼汤",
+      "meal": "提前吃晚餐",
+      "summary": "Stockmann地下超市里的小餐馆，鱼汤和当日热菜适合购物时顺路吃。",
+      "description": [
+        "位于 Stockmann 百货 –2A 层 Food Market Herkku 内、鱼柜台旁。官方资料介绍这里的鱼汤与鱼肉、肉类和时蔬日菜，菜单随季节变化；可以把逛百货与一顿热餐放在一起。",
+        "截图中的“Bistro in Food Market H…”按现有名称与位置对应这里。Google Maps 当前可核对的是 Food Market Herkku 整体商户评分，包含超市体验，并非 Bistro 单独评分。"
+      ],
+      "route": "D1从中央车站或Oodi回到Stockmann一带时用餐，再去Esplanadi；周六参考供餐至18:00，适合提前吃晚餐。",
+      "address": "Aleksanterinkatu 52, Stockmann –2A, 00100 Helsinki, Finland",
+      "google": {
+        "rating": 4.3,
+        "reviewCount": 1645,
+        "url": "https://www.google.com/maps/place/Food+Market+Herkku/@60.1684735,24.9399537,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcc3ddae45d:0xb0fd312211edd02d!8m2!3d60.1684735!4d24.9425286!16s%2Fg%2F1th0x02w",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00",
+        "note": "Food Market Herkku 整体商户评分，非 Bistro 独立评分"
+      },
+      "hours": {
+        "lines": [
+          "Bistro参考供餐：周一至周六 11:00–18:00",
+          "超市周一至周五 08:00–21:00；周六 09:00–19:00；周日 11:00–18:00"
+        ],
+        "note": "当地时间；2027年二月可能调整，出发前查看最新时段。Bistro时段来自第三方午餐目录，未独立确认周日供餐；超市营业不等于餐厅供餐。",
+        "sourceUrl": "https://www.luncher.fi/helsinki/stockmann-herkku-bistro/lunch/",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "menu": {
+        "items": [
+          "经典鱼汤",
+          "每日鱼／肉／蔬菜主菜",
+          "午间汤＋主菜套餐 · 参考 €21.90"
+        ],
+        "url": "https://info.stockmann.com/info/tavaratalot/helsingin-keskusta/ravintolat-ja-kahvilat/",
+        "note": "当前菜单参考；菜品、价格与时段以到店当日为准。"
+      },
+      "website": "https://info.stockmann.com/info/tavaratalot/helsingin-keskusta/ravintolat-ja-kahvilat/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Food+Market+Herkku/@60.1684735,24.9399537,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcc3ddae45d:0xb0fd312211edd02d!8m2!3d60.1684735!4d24.9425286!16s%2Fg%2F1th0x02w"
+        },
+        {
+          "title": "菜单与营业资料",
+          "url": "https://www.luncher.fi/helsinki/stockmann-herkku-bistro/lunch/"
+        },
+        {
+          "title": "店方介绍",
+          "url": "https://info.stockmann.com/info/tavaratalot/helsingin-keskusta/ravintolat-ja-kahvilat/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/herkku-bistro-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/herkku-bistro-1-thumb.webp",
+          "label": "Herkku Bistro · Food Market Herkku · 店面",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-wmL4zt6CXinPkbPTrM7b4A5hIiOJguMzT0hzoTG1bvf8zZpRnIU4N9iQglRzfq7RmLcvsxBlFda11HbREkdpVkoAzfyQFyCzlRBfWPljEojm7q2gnBPY-f49PfA1JWVCtOBWHz0t1Hw=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Food+Market+Herkku/@60.1684735,24.9399537,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcc3ddae45d:0xb0fd312211edd02d!8m2!3d60.1684735!4d24.9425286!16s%2Fg%2F1th0x02w",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/herkku-bistro-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/herkku-bistro-2-thumb.webp",
+          "label": "Herkku Bistro · Food Market Herkku · 菜品",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5BiEKvT6-4l1ybwKL-_aBVhK4A3s-naIuL3VIgKqAVYq3J0wdZ1oDIbDaKqmLB9pvTyea7vYzsCgVxhqv5XV8SD6CzBgU43tZncSb7Q-E0w_UPi-Z2TU3EMA-nLR2MILTn8waEpIZyE8L=w600-h900-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Food+Market+Herkku/@60.1684735,24.9399537,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcc3ddae45d:0xb0fd312211edd02d!8m2!3d60.1684735!4d24.9425286!16s%2Fg%2F1th0x02w",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/herkku-bistro-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/herkku-bistro-3-thumb.webp",
+          "label": "Herkku Bistro · Food Market Herkku · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVFm7FQrMUDvOQKsEKs06Xc-t40ElbSQ4Ujo-5zirz8aVZjB1_erwqfwBcHGMPAgd04hJx8zXa0dtk4lhu2mFseVVWGyehjS3YKVi4FFrU9q-eLW4uMarActVWUDzvVebS4MarAWjnW4k=w600-h900-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Food+Market+Herkku/@60.1684735,24.9399537,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcc3ddae45d:0xb0fd312211edd02d!8m2!3d60.1684735!4d24.9425286!16s%2Fg%2F1th0x02w",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 3,
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“赫尔辛基餐厅”截图：第3名，截图显示7%人推荐。该顺序是本次点点回答的推荐顺序，不代表平台固定榜单；分店按本次市中心路线选择。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-helsinki-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 11.95,
+        "max": 21.9,
+        "currency": "EUR",
+        "basis": "午餐菜单参考",
+        "note": "第三方午餐目录：汤€11.95起、汤＋主菜€21.90；不含另点酒水，非2027年锁定价格。",
+        "sourceUrl": "https://www.luncher.fi/helsinki/stockmann-herkku-bistro/lunch/",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      }
+    },
+    {
+      "id": "itsuyaki-forum",
+      "name": "Itsuyaki · Forum",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "日式自助／铁板烧",
+      "meal": "午晚餐备选",
+      "summary": "寿司、热菜和现做铁板烧自助，适合想多吃几种亚洲口味时选择。",
+      "description": [
+        "位于Forum购物中心三楼。先选肉类、海鲜、面条或蔬菜交由厨师铁板烹调，再搭配寿司、沙拉、热菜和甜点；属于自助餐，不是寿司吧的单点套餐。",
+        "点点截图只写品牌名，未标分店。这里选市中心Forum店，官网表示不接受订位；周末用周末自助价，和工作日午间价格不同。"
+      ],
+      "route": "D1靠近中央车站与Stockmann，建筑散步后回市中心吃晚餐即可；无须绕去Itis或Espoo分店。",
+      "address": "Mannerheimintie 20, Forum 3rd floor, 00100 Helsinki, Finland",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 365,
+        "url": "https://www.google.com/maps/place/Itsuyaki+Forum/@60.1686178,24.9361141,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b7b20d1f3fd:0x59df198008be62aa!8m2!3d60.1686178!4d24.938689!16s%2Fg%2F11myjb8lgx",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一至周四 10:30–20:00；周五 10:30–21:00",
+          "周六 11:00–21:00；周日 12:00–19:00"
+        ],
+        "note": "当地时间；2027年二月可能调整，出发前查看最新时段。",
+        "sourceUrl": "https://www.itsuyaki.fi/ravintolat/forum",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "menu": {
+        "items": [
+          "工作日午间自助 10:30–16:00 · €15.50",
+          "工作日晚间自助 · €18.90",
+          "周末自助 · €21.90（D1周六适用）"
+        ],
+        "url": "https://www.itsuyaki.fi/ravintolat/forum",
+        "note": "当前菜单参考；菜品、价格与时段以到店当日为准。"
+      },
+      "website": "https://www.itsuyaki.fi/ravintolat/forum",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Itsuyaki+Forum/@60.1686178,24.9361141,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b7b20d1f3fd:0x59df198008be62aa!8m2!3d60.1686178!4d24.938689!16s%2Fg%2F11myjb8lgx"
+        },
+        {
+          "title": "菜单与营业资料",
+          "url": "https://www.itsuyaki.fi/ravintolat/forum"
+        },
+        {
+          "title": "店方介绍",
+          "url": "https://www.itsuyaki.fi/ravintolat/forum"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/itsuyaki-forum-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/itsuyaki-forum-1-thumb.webp",
+          "label": "Itsuyaki · Forum · 店面",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TxWTEunL_PSxqwnpaCMuaW-gfJrFOxUL6uh6TSBJhhjgcs-rr9wOVyJg-n2uuPfFe1_hDE5BRyxqYB3neYFHiM9XI5yzzkJ0-zybyVunc-z8oNvlGwtRTZsyHFHJCQ5hpwUbtmc1EGBKCZ=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Itsuyaki+Forum/@60.1686178,24.9361141,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b7b20d1f3fd:0x59df198008be62aa!8m2!3d60.1686178!4d24.938689!16s%2Fg%2F11myjb8lgx",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/itsuyaki-forum-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/itsuyaki-forum-2-thumb.webp",
+          "label": "Itsuyaki · Forum · 菜品",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SksQ-V4B-LHHHuFY48luSXLbC1Bv13s_khZTnPQCUieUEhu3ETBy08EziD2_H3LHEmNI4Q4Z7I_eyW0jmjDrIwOlTV8lv8dBFsva2SsSiSYoYKEpsNXxmzb4reMSJ3B8jEeboW4bR3mdOp=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Itsuyaki+Forum/@60.1686178,24.9361141,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b7b20d1f3fd:0x59df198008be62aa!8m2!3d60.1686178!4d24.938689!16s%2Fg%2F11myjb8lgx",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/itsuyaki-forum-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/itsuyaki-forum-3-thumb.webp",
+          "label": "Itsuyaki · Forum · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SN0FENE9DjKq9_ZAtW39m7sMw5ZVvE_CP1ZC9JnrEOb0UQ2PHfEa6qcJtfrNaVbhC_frYKlr_gSIHW0szOpMWt4CMo0NfEzwdeXQPZHjb93vkM0jT2Xc8nQLPWHZLJbhLqAZTw4BUyOO33=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Itsuyaki+Forum/@60.1686178,24.9361141,17z/data=!3m1!4b1!4m6!3m5!1s0x46920b7b20d1f3fd:0x59df198008be62aa!8m2!3d60.1686178!4d24.938689!16s%2Fg%2F11myjb8lgx",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 4,
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“赫尔辛基餐厅”截图：第4名，截图显示6%人推荐。该顺序是本次点点回答的推荐顺序，不代表平台固定榜单；分店按本次市中心路线选择。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-helsinki-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 21.9,
+        "max": 21.9,
+        "currency": "EUR",
+        "basis": "官网周末自助价",
+        "note": "D1周六适用周末自助€21.90；工作日午间€15.50、晚间€18.90，酒精饮料另计。",
+        "sourceUrl": "https://www.itsuyaki.fi/ravintolat/forum",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      }
+    },
+    {
+      "id": "fazer-kluuvikatu",
+      "name": "Fazer Café · Kluuvikatu",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "咖啡／甜点",
+      "meal": "下午茶",
+      "summary": "1891年开业的Fazer老店，巧克力、糕点和咖啡适合建筑散步间歇。",
+      "description": [
+        "Kluuvikatu 3是Karl Fazer在1891年开设糕点店的历史地址，今天仍是品牌的市中心咖啡馆与甜点商店。看完广场建筑后，可以挑一块蛋糕配咖啡，也可买巧克力作伴手礼。",
+        "官网列有早餐、平日午餐及周末早午餐；午间汤自助限工作日，不能直接套用到D1周六。咖啡馆与店铺部分的营业时间也有差别。"
+      ],
+      "route": "D1从参议院广场往Esplanadi走时在Kluuvikatu短停，安排咖啡与糕点，不必额外挤一顿正餐。",
+      "address": "Kluuvikatu 3, 00100 Helsinki, Finland",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 6132,
+        "url": "https://www.google.com/maps/place/Fazer+Caf%C3%A9+Kluuvikatu/@60.1686468,24.9450987,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bce92f7f08b:0xc84e0004f019a04d!8m2!3d60.1686468!4d24.9476736!16s%2Fg%2F1tkksjjm",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "hours": {
+        "lines": [
+          "咖啡馆：周一至周五 07:30–22:00；周六 09:00–22:00；周日 10:00–20:00",
+          "店铺：周一至周五 07:30–20:00；周六 09:00–20:00；周日 10:00–20:00"
+        ],
+        "note": "当地时间；2027年二月可能调整，出发前查看最新时段。",
+        "sourceUrl": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
+      },
+      "menu": {
+        "items": [
+          "手工糕点、蛋糕、巧克力与咖啡",
+          "早餐与周末早午餐",
+          "工作日11:00–15:00汤自助 · €15.90（周六不适用）"
+        ],
+        "url": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/",
+        "note": "当前菜单参考；菜品、价格与时段以到店当日为准。"
+      },
+      "website": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Fazer+Caf%C3%A9+Kluuvikatu/@60.1686468,24.9450987,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bce92f7f08b:0xc84e0004f019a04d!8m2!3d60.1686468!4d24.9476736!16s%2Fg%2F1tkksjjm"
+        },
+        {
+          "title": "菜单与营业资料",
+          "url": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/"
+        },
+        {
+          "title": "店方介绍",
+          "url": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/fazer-kluuvikatu-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fazer-kluuvikatu-1-thumb.webp",
+          "label": "Fazer Café · Kluuvikatu · 店面",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q0ggiktGG8tkgATd9MKrCe2G5DFmk9dLWGbM3yUhs-IlLAEb_VfFNqMMUhKI6GoTeMq6PN_WIiAUb02SdsnXoHZdqq-xe6vsQiJKmRTSto6S0XCm5Zlzx2M5cEcEpTA8wepVF9=w298-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Fazer+Caf%C3%A9+Kluuvikatu/@60.1686468,24.9450987,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bce92f7f08b:0xc84e0004f019a04d!8m2!3d60.1686468!4d24.9476736!16s%2Fg%2F1tkksjjm",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fazer-kluuvikatu-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fazer-kluuvikatu-2-thumb.webp",
+          "label": "Fazer Café · Kluuvikatu · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SyNruoW-1YIUAXWC3FW3or4qh47Q5gPg3leiKmNY_sJ1F0IFVT9MiAbEKN4OL_PrtleQs3gZ0hoWn21kGeWAs3HFqbX12Uy_LtJN4_sZHrBcYJczI8lV3xmp1rAbiePE_NMq88UpG6XgMX=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Fazer+Caf%C3%A9+Kluuvikatu/@60.1686468,24.9450987,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bce92f7f08b:0xc84e0004f019a04d!8m2!3d60.1686468!4d24.9476736!16s%2Fg%2F1tkksjjm",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fazer-kluuvikatu-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fazer-kluuvikatu-3-thumb.webp",
+          "label": "Fazer Café · Kluuvikatu · 咖啡与糕点",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T4Gi6f-y-RyEX6LfI_ugzN0G0GIRCyPlIhYv-yfrT6efCDiWE6zEkgNkEcs86HdB-GtDiz_FsxPwo9oJs4e18jeYrFuPw82QrI2VXNnlpQWqEvUWZL2R7XvjkXCKCEuf4_y4UtyLfV3Krl=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Fazer+Caf%C3%A9+Kluuvikatu/@60.1686468,24.9450987,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bce92f7f08b:0xc84e0004f019a04d!8m2!3d60.1686468!4d24.9476736!16s%2Fg%2F1tkksjjm",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 5,
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“赫尔辛基餐厅”截图：第5名，截图显示6%人推荐。该顺序是本次点点回答的推荐顺序，不代表平台固定榜单；分店按本次市中心路线选择。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-helsinki-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 10,
+        "max": 15,
+        "currency": "EUR",
+        "basis": "Google Maps人均消费区间",
+        "note": "Google Maps咖啡甜点消费区间；早午餐另价。",
+        "sourceUrl": "https://www.google.com/maps/place/Fazer+Caf%C3%A9+Kluuvikatu/@60.1686468,24.9450987,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bce92f7f08b:0xc84e0004f019a04d!8m2!3d60.1686468!4d24.9476736!16s%2Fg%2F1tkksjjm",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -404,6 +893,15 @@
         "evidence": [],
         "note": "已补充用户提供的小红书到店文字与现场截图；作为体验分享展示，不据单篇分享判定平台热度。",
         "userProvided": true
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 300,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -497,6 +995,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 300,
+        "max": 800,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -590,6 +1097,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 300,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -683,6 +1199,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 300,
+        "max": 800,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Bardus+Bistro/@69.6505327,18.9556603,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c452d8436687:0x53751f72f0c12ce4!8m2!3d69.6505327!4d18.9556603!16s%2Fg%2F11b66l5p1h",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -775,6 +1300,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 300,
+        "max": 400,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -868,6 +1402,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 200,
+        "max": 600,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -960,6 +1503,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 400,
+        "max": 900,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1069,6 +1621,15 @@
             "publishedAt": "2026-09-27"
           }
         ]
+      },
+      "averagePrice": {
+        "min": 200,
+        "max": 300,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1160,6 +1721,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 200,
+        "max": 700,
+        "currency": "NOK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1255,6 +1825,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 235,
+        "max": 265,
+        "currency": "NOK",
+        "basis": "官网披萨菜单参考",
+        "note": "按一人一张披萨参考，不含饮品；咖啡点心消费另计。冬季是否供应披萨需提前确认。",
+        "sourceUrl": "https://www.trevarefabrikken.no/pizza",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1347,6 +1926,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/%C3%96lverk+Pizza+%26+Brewery/@63.9975944,-21.1890779,17z/data=!3m1!4b1!4m6!3m5!1s0x48d666c905f9439d:0xa12eb29a5e593ff7!8m2!3d63.9975944!4d-21.1890779!16s%2Fg%2F11dzt0p2ls",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1438,6 +2026,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1545,6 +2142,15 @@
             "displayedDate": "09-27"
           }
         ]
+      },
+      "averagePrice": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1636,6 +2242,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1745,6 +2360,15 @@
             "publishedAt": "2025-09-30"
           }
         ]
+      },
+      "averagePrice": {
+        "min": 6000,
+        "max": 16000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1836,6 +2460,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -1926,6 +2559,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -2020,6 +2662,15 @@
         "checkedAt": "2026-11-12",
         "evidence": [],
         "note": "多店讨论混杂，机场店口碑不能直接用于Landgreven原店，不据此标热门。"
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 200,
+        "currency": "DKK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -2112,6 +2763,15 @@
         "checkedAt": "2026-11-12",
         "evidence": [],
         "note": "有多篇提及，尚未核实足够热门依据，不标热门。"
+      },
+      "averagePrice": {
+        "min": 100,
+        "max": 300,
+        "currency": "DKK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Ruby/@55.6767538,12.5766669,17z/data=!3m1!4b1!4m6!3m5!1s0x4652531145a4d87d:0xc5eb75572ba9a10d!8m2!3d55.6767538!4d12.5766669!16s%2Fg%2F1tfxwmtk",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     },
     {
@@ -2205,6 +2865,15 @@
         "recommended": false,
         "checkedAt": null,
         "evidence": []
+      },
+      "averagePrice": {
+        "min": 200,
+        "max": 700,
+        "currency": "DKK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送的消费区间；酒水是否计入因点单不同而异。",
+        "sourceUrl": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8",
+        "checkedAt": "2026-11-12T06:07:18.447655+00:00"
       }
     }
   ]
