@@ -205,44 +205,37 @@
     "id": "vatnajokull-ice-cave",
     "country": "iceland",
     "day": 12,
-    "title": "Skaftafell 蓝冰洞＋冰川徒步",
-    "location": "冰岛 · Skaftafell／Falljökull",
-    "duration": "约4h · 2.17 09:00–13:00",
-    "price": 1083,
-    "intro": "跟随向导探索冰面与当天开放的天然冰洞，观察蓝色冰层、冰壁纹理与冰川地貌。冰洞形态及可达路线随天气、冰况变化。",
-    "meeting": "2月17日08:40到Tröll Expeditions Skaftafell（West of Hofgardur, Hof）集合，09:00出发。",
+    "title": "Jökulsárlón 偏远冰洞＋冰川徒步",
+    "location": "冰岛 · Jökulsárlón／Breiðamerkurjökull",
+    "duration": "约6h · 2.17 11:00–约17:00",
+    "price": 2150.7,
+    "intro": "从冰河湖主停车场乘四驱车接近Breiðamerkurjökull冰川，随向导徒步深入冰川，探索当天适合进入的天然蓝冰洞与冰层纹理。冰上及冰洞停留约3–3.5小时，全程含往返交通与装备讲解约6小时。",
+    "meeting": "2027年2月17日10:45前到Jökulsárlón Main Parking（Þjóðvegur, 781, Iceland）集合；坐标64.0480353, -16.1797389。在主停车场寻找带Ice Walkers Tours标志的改装四驱巴士，11:00出发，结束后返回原集合点。",
     "includes": [
-      "原行程包含冰洞与冰川徒步",
-      "冰爪、头盔、安全带及鞋码需在集合时确认"
+      "集合点往返冰川的四驱车交通",
+      "英语专业向导、冰川装备与头灯",
+      "冰川徒步与天然冰洞探索；具体洞穴、数量与路线按当天条件安排"
     ],
     "notes": [
-      "已预订，本次保留Skaftafell方案。",
-      "当前南岸住宿与冰河湖路线按本方案保留。",
-      "天然冰洞和路线由向导按当天冰况决定。"
+      "2位成人订单已确认，活动日期为2027年2月17日；预计11:00–约17:00。",
+      "需具备完成约8公里、含上坡徒步的体力；穿覆盖脚踝、鞋底较硬的登山靴。",
+      "自备午餐、饮水、保暖防水衣物、帽子和手套；餐饮及冬季服装不包含。",
+      "2027年2月16日11:00前取消可获全额退款（当地时间，以订单为准）。",
+      "上午先安排冰河湖和钻石沙滩观景，活动结束后直接回住宿；不再去Hof的Tröll基地。"
     ],
-    "priceNote": "已预订，¥1,083／人。",
-    "url": "https://www.getyourguide.com/vik-l32622/ice-caveglacier-hike-on-falljokull-skaftafell-national-park-t166280/",
-    "operator": "Tröll Expeditions",
+    "priceNote": "订单总价¥4,301.40／2位成人，折合¥2,150.70／人。",
+    "url": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/",
+    "operator": "Ice Walkers Tours",
     "photos": [
       {
-        "src": "../nordic-v2/assets/experiences/skaftafell-125.webp",
-        "label": "Skaftafell · 蓝冰洞内部",
-        "source": "https://images.troll.is/v1/troll/aVeYNnNYClf9ouoX_Skaftafell-Glacier-hike-599-copia-1024x683-1.jpg?auto=format,compress&w=700&h=600"
-      },
-      {
-        "src": "../nordic-v2/assets/experiences/skaftafell-129.webp",
-        "label": "Skaftafell · 向导带队冰川徒步",
-        "source": "https://images.troll.is/v1/troll/ZiZbe_Pdc1huKrMh_Troll_Skaftafell_Glacier_Tour-57.jpg?auto=format,compress&w=400&h=300"
-      },
-      {
-        "src": "../nordic-v2/assets/experiences/skaftafell-127.webp",
-        "label": "Skaftafell · 天然冰洞入口参考",
-        "source": "https://images.troll.is/v1/troll/aVeYS3NYClf9ouoZ_Skaftafell-Ice-Cave-WInter-2019-2020-1.jpg?auto=format,compress&w=400&h=300"
+        "src": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
+        "label": "Ice Walkers Tours · 天然蓝冰洞参考",
+        "source": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
       }
     ],
     "booked": true,
-    "imageCredit": "Tröll Expeditions 对应 Skaftafell 蓝冰洞与冰川徒步项目",
-    "imageSource": "https://troll.is/tour/skaftafell-blue-ice-cave-glacier-hike/"
+    "imageCredit": "Ice Walkers Tours 对应 Jökulsárlón 偏远冰洞与冰川徒步项目（GetYourGuide公开产品页）",
+    "imageSource": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
   },
   {
     "id": "blue-lagoon",
@@ -287,7 +280,7 @@
     "location": "冰岛 · 维克 Vík",
     "duration": "约3h · 2.17 08:30–11:30",
     "price": 1616.8,
-    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。本次行程已排除，保留Skaftafell方案。",
+    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。本次行程已排除，改用Jökulsárlón的Ice Walkers Tours方案。",
     "meeting": "2月17日08:15在维克Icewear Magasin后方面海的巴士停车场集合（Austurvegur 20），08:30出发并返回原处。",
     "includes": [
       "维克往返超级吉普车接送",
@@ -296,7 +289,7 @@
     ],
     "notes": [
       "已从行程及预算排除；订单状态以预订平台为准。",
-      "集合地在维克，与本次Hof住宿及冰河湖路线不衔接。",
+      "集合地在维克，与本次冰河湖活动及霍芬住宿路线不衔接。",
       "洞穴形态随冰况变化，穿保暖防水衣物和结实徒步鞋。"
     ],
     "priceNote": "原预订参考价格¥1,616.80／人，当前不计入预算。",

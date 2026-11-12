@@ -1097,8 +1097,7 @@
     "query": "Hof Öræfi Iceland",
     "name": "Hof 村／草皮教堂",
     "days": [
-      11,
-      12
+      11
     ],
     "kind": "sight",
     "id": "p65",
@@ -1115,24 +1114,24 @@
     "rating": null
   },
   {
-    "query": "Falljökull Iceland",
-    "name": "Falljökull 冰川徒步区域",
+    "query": "64.0480353,-16.1797389",
+    "name": "Ice Walkers Tours · 冰川徒步集合点",
     "days": [
       12
     ],
     "kind": "nature",
     "coord": [
-      -16.7303927,
-      63.9867209
+      -16.1797389,
+      64.0480353
     ],
     "id": "p66",
     "countryName": "冰岛",
     "countryId": "iceland",
     "imageReference": true,
-    "image": "../nordic/assets/day-13-0.jpg",
-    "imageLabel": "瓦特纳冰川 · 蓝冰洞参考",
-    "imageSource": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/",
-    "description": "Troll官网要求提前20分钟到场。现场确认冰爪、头盔、安全带与鞋子尺寸，贵重物品随身带。\n跟向导探索冰面与当天开放的天然冰洞；总团程约4小时，冰上约2小时，季节为10月–4月。",
+    "image": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
+    "imageLabel": "Ice Walkers Tours · 天然蓝冰洞参考",
+    "imageSource": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/",
+    "description": "2月17日10:45前在Jökulsárlón主停车场寻找Ice Walkers Tours四驱巴士；11:00–约17:00冰川徒步与偏远冰洞，结束返回同一停车场。",
     "rating": null
   },
   {
@@ -1155,15 +1154,15 @@
     "rating": null
   },
   {
-    "query": "Jökulsárlón Iceland",
+    "query": "Jökulsárlón Main Parking Iceland",
     "name": "Jökulsárlón 杰古沙龙冰河湖",
     "days": [
       12
     ],
     "kind": "nature",
     "coord": [
-      -16.2274213,
-      64.0783208
+      -16.1797389,
+      64.0480353
     ],
     "id": "p68",
     "countryName": "冰岛",

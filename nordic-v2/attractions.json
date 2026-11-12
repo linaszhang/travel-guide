@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "items": [
     {
       "id": "central-station",
@@ -2550,50 +2550,35 @@
     {
       "id": "skaftafell-ice",
       "country": "iceland",
-      "group": "冰川区 · Hof → 冰河湖",
-      "name": "Skaftafell 蓝冰洞与冰川徒步",
+      "group": "冰河湖 · 冰川与海岸",
+      "name": "Jökulsárlón 偏远冰洞与冰川徒步",
       "score": 9.5,
       "days": [
         12
       ],
-      "summary": "蓝冰与冰川纹理，是这次已订的冰上主题体验。",
-      "route": "按订单08:40到Tröll基地、09:00出发；洞形和进入路线由导游按当天冰况决定，不能自行前往照片里的冰洞。",
-      "duration": "约4小时",
-      "query": "Troll Expeditions Skaftafell Hof Iceland",
+      "summary": "从冰河湖集合的6小时冰川体验，徒步探索偏远天然冰洞。",
+      "route": "2027年2月17日10:45前到Jökulsárlón Main Parking（Þjóðvegur, 781, Iceland）集合；坐标64.0480353, -16.1797389。在主停车场寻找带Ice Walkers Tours标志的改装四驱巴士，11:00出发，结束后返回原集合点。",
+      "duration": "约6小时",
+      "query": "64.0480353,-16.1797389",
       "source": {
-        "label": "Visit South Iceland · 冰川",
-        "url": "https://www.south.is/en/glaciers-and-glacier-activities"
+        "label": "Ice Walkers Tours · 官方项目",
+        "url": "https://www.icewalkers.tours/trip/glacier-hike-to-a-remote-ice-cave-from-jokulsarlon/"
       },
       "photos": [
         {
-          "label": "瓦特纳冰川 · 蓝冰洞参考",
-          "src": "../nordic/assets/day-13-0.jpg",
-          "source": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/"
-        },
-        {
-          "src": "../nordic-v2/assets/experiences/skaftafell-125.webp",
-          "label": "Skaftafell · 蓝冰洞内部",
-          "source": "https://images.troll.is/v1/troll/aVeYNnNYClf9ouoX_Skaftafell-Glacier-hike-599-copia-1024x683-1.jpg?auto=format,compress&w=700&h=600"
-        },
-        {
-          "src": "../nordic-v2/assets/experiences/skaftafell-129.webp",
-          "label": "Skaftafell · 向导带队冰川徒步",
-          "source": "https://images.troll.is/v1/troll/ZiZbe_Pdc1huKrMh_Troll_Skaftafell_Glacier_Tour-57.jpg?auto=format,compress&w=400&h=300"
-        },
-        {
-          "src": "../nordic-v2/assets/experiences/skaftafell-127.webp",
-          "label": "Skaftafell · 天然冰洞入口参考",
-          "source": "https://images.troll.is/v1/troll/aVeYS3NYClf9ouoZ_Skaftafell-Ice-Cave-WInter-2019-2020-1.jpg?auto=format,compress&w=400&h=300"
+          "src": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
+          "label": "Ice Walkers Tours · 天然蓝冰洞参考",
+          "source": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
         }
       ],
       "description": [
-        "Skaftafell 是瓦特纳冰川国家公园的重要游览区域，山谷、冰舌与步道共同呈现冰川塑造的地貌。冰川徒步与冰洞体验让人进一步接近冰体，但冰洞并不是一间全年保持相同形状的固定景点。",
-        "可以把活动当作学习“怎样看冰”的过程：观察气泡、裂隙、层理与光线穿过冰体时的颜色。实际入口、行走路线和可见景象由当期条件与向导安排决定；了解这种变化性，本身就是体验冰川的一部分。"
+        "从冰河湖主停车场乘四驱车接近Breiðamerkurjökull冰川，随向导徒步深入冰川，探索当天适合进入的天然蓝冰洞与冰层纹理。冰上及冰洞停留约3–3.5小时，全程含往返交通与装备讲解约6小时。",
+        "冰川冰洞随融水、季节与冰体运动而变化，同一处冰洞在不同年份可能完全不同。向导会结合当天冰况选择进入路线，照片中的洞形不能保证重现。沿途可观察裂隙、气泡和冰层中的深浅蓝色，了解冰川形成与变化。"
       ],
       "descriptionSources": [
-        "https://www.south.is/en/glaciers-and-glacier-activities"
+        "https://www.icewalkers.tours/trip/glacier-hike-to-a-remote-ice-cave-from-jokulsarlon/"
       ],
-      "descriptionCheckedAt": "2026-11-11"
+      "descriptionCheckedAt": "2026-11-12"
     },
     {
       "id": "fjallsarlon",

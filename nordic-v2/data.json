@@ -3109,7 +3109,7 @@
                 "links": []
               },
               {
-                "t": "次日冰洞仍在Hof集合，今晚加满油、准备早餐与路餐，提早休息。",
+                "t": "次日11:00的Ice Walkers Tours冰川团在Jökulsárlón冰河湖集合，10:45前到场；今晚准备好次日早餐、午餐与饮水。",
                 "links": []
               }
             ],
@@ -3189,16 +3189,17 @@
       {
         "num": 12,
         "id": "262:801",
-        "title": "蓝冰洞 → 冰河湖 → 钻石沙滩",
-        "date": "2月17日（周三） · 走进冰川与蓝冰洞，再看浮冰与黑沙交汇",
+        "title": "冰河湖与钻石沙滩 → 偏远冰洞＋冰川徒步",
+        "date": "2月17日（周三） · 上午湖岸观景，10:45集合，11:00–约17:00冰川活动",
         "tags": [
-          "约4–5h（约210–230km）"
+          "约2–3h自驾（约130–140km，不含团内接送）",
+          "Ice Walkers Tours · 全程约6小时"
         ],
         "photos": [
           {
-            "label": "瓦特纳冰川 · 蓝冰洞参考",
-            "src": "../nordic/assets/day-13-0.jpg",
-            "source": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/"
+            "src": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
+            "label": "Ice Walkers Tours · 天然蓝冰洞参考",
+            "source": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
           },
           {
             "label": "Jökulsárlón 冰河湖",
@@ -3214,270 +3215,30 @@
         "activities": [
           {
             "time": [
-              "清晨",
-              "约06:00出发"
+              "早上",
+              "08:00–09:30"
             ],
             "emoji": "🚗",
-            "title": "REY Stays → Hof 冰洞集合点",
+            "title": "REY Stays → 冰河湖／钻石沙滩",
             "body": [
               {
-                "t": "冬季先留约2–2.5小时西行车程，08:40到Tröll基地；09:00冰洞团时间不变，按当天路况提早出发。",
+                "t": "早餐后约08:00从REY Stays出发，向西开往冰河湖一带，约65公里；冬季先预留1–1.5小时。活动改在冰河湖集合，不再前往Hof的Tröll基地。",
+                "links": []
+              },
+              {
+                "t": "上午观景可按路况缩短；最晚10:45到集合点，11:00的已订活动优先。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
-                {
-                  "label": "Hof冰洞集合点",
-                  "query": "Troll Expeditions Skaftafell Hof Iceland"
-                }
-              ],
-              "parking": [
-                {
-                  "label": "Tröll基地",
-                  "query": "Troll Expeditions Skaftafell Hof Iceland"
-                }
-              ],
-              "note": "导航Tröll基地而非Skaftafell国家公园游客中心；West of Hofgarður，785 Hof。",
-              "description": "直接导航到Hof冰洞集合点的Tröll基地，地址为West of Hofgarður，785 Hof；使用基地停车场，不去Skaftafell游客中心。"
-            },
-            "drives": [
-              {
-                "from": "REY Stays",
-                "to": "Tröll基地",
-                "distance": "103km",
-                "duration": "2–2.5小时",
-                "origin": "REY Stays House Hofn Iceland",
-                "destination": "Troll Expeditions Skaftafell Hof Iceland",
-                "routeDistanceKm": 103.0,
-                "checkedAt": "2026-11-10"
-              }
-            ],
-            "infoCard": {
-              "time": "清晨 · 约06:00出发",
-              "price": "租车／油费见预算"
-            }
-          },
-          {
-            "time": [
-              "上午",
-              "09:00–13:00"
-            ],
-            "emoji": "🧊",
-            "title": "Skaftafell · 蓝冰洞＋冰川徒步",
-            "body": [
-              {
-                "t": "集合时间：2月17日08:40到场，09:00出发；全程约4小时，预计13:00结束。",
-                "links": []
-              },
-              {
-                "t": "集合地点：Tröll Expeditions Skaftafell，West of Hofgardur，785 Hof，Iceland；基地有停车场和洗手间。",
-                "links": []
-              },
-              {
-                "t": "活动安排：在基地领取冰爪、头盔、安全带与冰镐，随导游徒步上冰川、探索天然蓝冰洞并拍照；结束后回基地享用热饮。冰洞路线视当日冰况安排。",
-                "links": []
-              },
-              {
-                "t": "随身准备：保暖衣物、防水外层与登山鞋；需要时可向运营方租登山鞋。",
-                "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "09:00 · 4h",
-                        "links": []
-                      },
-                      {
-                        "t": "¥1,083／人 · 已预订",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "Tröll Expeditions Skaftafell",
-                  "query": "Troll Expeditions Skaftafell Hof Iceland"
-                }
-              ],
-              "parking": [
-                {
-                  "label": "Tröll基地",
-                  "query": "Troll Expeditions Skaftafell Hof Iceland"
-                }
-              ],
-              "note": "基地有停车场与洗手间，按订单提前20分钟到场。",
-              "description": "在Tröll基地停车，按订单提前20分钟到场；现场有洗手间。"
-            },
-            "infoCard": {
-              "time": "上午 · 09:00–13:00",
-              "price": "¥1,083／人 · 已预订",
-              "type": "experience"
-            }
-          },
-          {
-            "time": [
-              "下午",
-              "13:00 -\n15:00"
-            ],
-            "emoji": "🧊",
-            "title": "简餐 · 前往Jökulsárlón 冰河湖",
-            "body": [
-              {
-                "t": "漂浮蓝冰与冰川背景，是南岸摄影主点；冬季本卡只安排岸边观景，不安排游船。",
-                "links": []
-              },
-              {
-                "t": "顺路经过 Fjallsárlón 菲亚尔冰川湖，可在前往杰古沙龙途中短停。",
-                "links": []
-              },
-              {
-                "name": "拍照点 · 光线与景色",
-                "id": "295:586",
-                "c": [
-                  {
-                    "name": "拍照点标签",
-                    "id": "295:587",
-                    "c": [
-                      {
-                        "t": "📸",
-                        "links": []
-                      },
-                      {
-                        "t": "拍照点",
-                        "links": []
-                      }
-                    ]
-                  },
-                  {
-                    "t": "午后从湖岸拍蓝冰与远山；用长焦压缩浮冰层次，风小时可留意水面倒影。",
-                    "links": []
-                  }
-                ]
-              },
-              {
-                "name": "交通胶囊",
-                "id": "279:3658",
-                "c": [
-                  {
-                    "t": "🚶 停车区 → 湖边短途步行约5–10分钟",
-                    "links": []
-                  }
-                ]
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "Fjallsárlón",
-                  "query": "Fjallsarlon Iceland"
-                },
-                {
-                  "label": "Jökulsárlón",
-                  "query": "Jokulsarlon Iceland"
-                }
-              ],
-              "parking": [
-                {
-                  "label": "Fjallsárlón停车场",
-                  "query": "Fjallsarlon parking Iceland"
-                },
-                {
-                  "label": "冰河湖停车场",
-                  "query": "Jökulsárlón Glacier Lagoon Parking Iceland"
-                }
-              ],
-              "note": "Fjallsárlón为可选短停；冰河湖选择Jökulsárlón Glacier Lagoon Parking主停车场，不选远处的Carpark to Jökulsárlón。",
-              "sources": [
-                "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon/b4-fjallsarlon"
-              ],
-              "description": "Fjallsárlón可在Fjallsárlón停车场短停；冰河湖使用Jökulsárlón Glacier Lagoon Parking主停车场，再步行到湖岸。"
-            },
-            "drives": [
-              {
-                "from": "Tröll基地",
-                "to": "Fjallsárlón",
-                "distance": "29km",
-                "duration": "35–45分钟",
-                "origin": "Troll Expeditions Skaftafell Hof Iceland",
-                "destination": "Fjallsarlon Iceland",
-                "routeDistanceKm": 29.4,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Fjallsárlón",
-                "to": "Jökulsárlón",
-                "distance": "9km",
-                "duration": "10–15分钟",
-                "origin": "Fjallsarlon Iceland",
-                "destination": "Jokulsarlon Iceland",
-                "routeDistanceKm": 9.0,
-                "checkedAt": "2026-11-10"
-              }
-            ],
-            "infoCard": {
-              "time": "下午 · 13:00–15:00",
-              "price": "停车费另计"
-            }
-          },
-          {
-            "time": [
-              "下午",
-              "15:10–17:30"
-            ],
-            "emoji": "💎",
-            "title": "钻石沙滩 → 霍芬 · 回 REY Stays",
-            "body": [
-              {
-                "t": "透明冰块散落黑沙滩，可拍冰与海浪的对比；按现场浪况选择远处机位。",
-                "links": []
-              },
-              {
-                "name": "拍照点 · 光线与景色",
-                "id": "295:591",
-                "c": [
-                  {
-                    "name": "拍照点标签",
-                    "id": "295:592",
-                    "c": [
-                      {
-                        "t": "📸",
-                        "links": []
-                      },
-                      {
-                        "t": "拍照点",
-                        "links": []
-                      }
-                    ]
-                  },
-                  {
-                    "t": "下午低角度光线可拍透亮冰块与黑沙反差；在远离浪线的位置取景，不追逐海浪中的冰块。",
-                    "links": []
-                  }
-                ]
-              },
-              {
-                "t": "拍照后继续向东回霍芬附近民宿，途中约1小时驾驶，雪天另留缓冲。",
-                "links": []
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "钻石沙滩",
-                  "query": "Diamond Beach Parking South Iceland"
-                },
                 {
                   "label": "REY Stays",
                   "query": "REY Stays House Hofn Iceland"
+                },
+                {
+                  "label": "冰河湖集合点",
+                  "query": "64.0480353,-16.1797389"
                 }
               ],
               "parking": [
@@ -3486,38 +3247,189 @@
                   "query": "Diamond Beach Parking South Iceland"
                 }
               ],
-              "note": "使用Diamond Beach Parking South（Eystri-Fellsfjara东侧）停车；也可从湖边沿桥下访客通道步行，勿横穿1号公路。",
-              "sources": [
-                "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon"
-              ],
-              "description": "将车停在Diamond Beach Parking South，再步行到钻石沙滩；也可从湖边沿桥下访客通道走过来，不横穿1号公路。"
+              "description": "先导航钻石沙滩东侧停车场；若道路或天光影响观景，直接前往冰河湖集合点。"
             },
             "drives": [
               {
-                "from": "Jökulsárlón",
+                "from": "REY Stays",
                 "to": "钻石沙滩",
-                "distance": "0.8km",
-                "duration": "5分钟",
-                "origin": "Jökulsárlón Glacier Lagoon Parking Iceland",
+                "distance": "65km",
+                "duration": "1–1.5小时",
+                "origin": "REY Stays House Hofn Iceland",
                 "destination": "Diamond Beach Parking South Iceland",
-                "routeDistanceKm": 0.8,
-                "checkedAt": "2026-11-10"
+                "routeDistanceKm": 65,
+                "checkedAt": "2026-11-12"
+              }
+            ]
+          },
+          {
+            "time": [
+              "上午",
+              "09:30–10:00"
+            ],
+            "emoji": "💎",
+            "title": "Fellsfjara 钻石沙滩",
+            "body": [
+              {
+                "t": "先在钻石沙滩短停约30分钟，拍冰块与黑沙滩；冰块数量、浪况和结冰决定当天观景范围。",
+                "links": []
               },
               {
+                "t": "不把沙滩留到6小时活动之后；活动结束时已接近傍晚。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "钻石沙滩",
+                  "query": "Diamond Beach Parking South Iceland"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "钻石沙滩东侧停车场",
+                  "query": "Diamond Beach Parking South Iceland"
+                }
+              ],
+              "description": "使用钻石沙滩东侧停车场，之后开车到冰河湖主停车场；不横穿1号公路。"
+            }
+          },
+          {
+            "time": [
+              "上午",
+              "10:05–10:45"
+            ],
+            "emoji": "🧊",
+            "title": "Jökulsárlón 冰河湖 · 观景与集合",
+            "body": [
+              {
+                "t": "10:05左右到冰河湖主停车场，留约20–25分钟湖岸观景；10:30开始上洗手间、整理午餐与装备。",
+                "links": []
+              },
+              {
+                "t": "10:45前找到带Ice Walkers Tours标志的四驱巴士，在订单坐标64.0480353, -16.1797389集合。上午不绕去Fjallsárlón，以免赶团。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "Jökulsárlón",
+                  "query": "Jökulsárlón Main Parking Iceland"
+                },
+                {
+                  "label": "Ice Walkers Tours集合点",
+                  "query": "64.0480353,-16.1797389"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "冰河湖主停车场",
+                  "query": "64.0480353,-16.1797389"
+                }
+              ],
+              "description": "导航Ice Walkers Tours集合点对应的冰河湖主停车场，停好车后步行寻找运营方车辆。"
+            },
+            "drives": [
+              {
                 "from": "钻石沙滩",
+                "to": "冰河湖集合点",
+                "distance": "0.8km",
+                "duration": "约5分钟",
+                "origin": "Diamond Beach Parking South Iceland",
+                "destination": "64.0480353,-16.1797389",
+                "routeDistanceKm": 0.8,
+                "checkedAt": "2026-11-12"
+              }
+            ]
+          },
+          {
+            "time": [
+              "白天",
+              "11:00–约17:00"
+            ],
+            "emoji": "🥾",
+            "title": "Jökulsárlón · 偏远冰洞＋冰川徒步",
+            "body": [
+              {
+                "t": "10:45前集合，11:00出发；Ice Walkers Tours运营，全程约6小时，预计17:00返回冰河湖主停车场。",
+                "links": []
+              },
+              {
+                "t": "乘改装四驱车前往Breiðamerkurjökull冰川，领取并学习使用装备，再随向导徒步、探索天然蓝冰洞；冰上及冰洞停留约3–3.5小时，洞穴和路线随当天条件调整。",
+                "links": []
+              },
+              {
+                "t": "需有完成约8公里及上坡路段的体力；穿护踝、鞋底较硬的登山靴，带保暖防水外层、帽子和手套。自备午餐与饮水，行程包含向导、往返交通、冰川装备和头灯。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "Ice Walkers Tours集合点",
+                  "query": "64.0480353,-16.1797389"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "冰河湖主停车场",
+                  "query": "64.0480353,-16.1797389"
+                }
+              ],
+              "description": "活动结束后回到同一停车场取车。"
+            },
+            "infoCard": {
+              "time": "11:00–约17:00 · 约6h",
+              "price": "¥2,150.70／人 · 已预订",
+              "type": "experience"
+            }
+          },
+          {
+            "time": [
+              "傍晚",
+              "约17:00–18:30"
+            ],
+            "emoji": "🚗",
+            "title": "冰河湖 → REY Stays · 晚餐休息",
+            "body": [
+              {
+                "t": "活动结束后取车，沿1号公路向东回REY Stays，约65公里，冬季预留1–1.5小时；不再安排冰河湖、钻石沙滩或Fjallsárlón补拍。",
+                "links": []
+              },
+              {
+                "t": "仍按已订的REY Stays连住，回房休息；次日退房后先去Stokksnes蝙蝠山，再沿南岸西返。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "REY Stays",
+                  "query": "REY Stays House Hofn Iceland"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "REY Stays停车位",
+                  "query": "REY Stays House Hofn Iceland"
+                }
+              ],
+              "description": "回到REY Stays后按房东指引停车，提前准备晚餐或确认沿途餐厅营业。"
+            },
+            "drives": [
+              {
+                "from": "冰河湖集合点",
                 "to": "REY Stays",
                 "distance": "65km",
                 "duration": "1–1.5小时",
-                "origin": "Diamond Beach Parking South Iceland",
+                "origin": "64.0480353,-16.1797389",
                 "destination": "REY Stays House Hofn Iceland",
-                "routeDistanceKm": 64.9,
-                "checkedAt": "2026-11-10"
+                "routeDistanceKm": 65,
+                "checkedAt": "2026-11-12"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 15:10–17:30",
-              "price": "停车费另计"
-            }
+            ]
           }
         ],
         "stayId": "hof"
