@@ -274,8 +274,8 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 
 /* Dining uses the shared attraction header, route groups and horizontal gallery. */
 .side-guide-links{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:8px 0 20px}
-.side-guide-card{display:flex;justify-content:center;align-items:center;min-height:34px;padding:6px 10px;border:1px solid transparent;border-radius:10px;background:transparent;text-decoration:none;color:var(--muted);font-size:12px;line-height:1.5;font-weight:400;white-space:nowrap}
-.side-guide-card.active{color:var(--theme,var(--accent));background:color-mix(in srgb,var(--theme,var(--accent)) 7%,#fbfaf7)}
+.side-guide-card{display:flex;justify-content:center;align-items:center;min-height:34px;padding:6px 10px;border:1px solid #dedbd3;border-radius:10px;background:var(--paper);text-decoration:none;color:#625e57;font-size:12px;line-height:1.5;font-weight:400;white-space:nowrap}
+.side-guide-card.active{border-color:color-mix(in srgb,var(--theme,var(--accent)) 30%,var(--line));color:var(--theme,var(--accent));background:color-mix(in srgb,var(--theme,var(--accent)) 7%,#fbfaf7)}
 .side-guide-card:focus-visible{outline:2px solid var(--theme,var(--accent));outline-offset:3px}
 .dining-intro{color:var(--muted,#83847d);font-size:14px;line-height:1.6;margin:0 0 22px}
 .dining-rating{display:flex;flex-direction:column;align-items:flex-end;justify-content:center;flex-shrink:0;text-align:right;text-decoration:none;color:var(--theme,var(--accent));gap:2px}
