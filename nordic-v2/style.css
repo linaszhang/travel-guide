@@ -271,3 +271,29 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .stay-address .stay-address-note{font-size:12px;color:var(--muted);line-height:1.65;margin:5px 0 0}
 .stay-copy-status{display:block;font-size:12px;color:var(--theme,var(--accent));line-height:1.5}.stay-copy-status:not(:empty){margin-top:5px}
 @media(hover:hover){.stay-address-copy:hover{background:#e8eee8}}
+
+/* Dining uses the shared attraction header, route groups and horizontal gallery. */
+.side-guide-links{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:24px 0 28px}
+.side-guide-card{display:flex;justify-content:center;align-items:center;min-height:66px;padding:12px 8px;border:1px solid var(--line,#dedad3);border-radius:16px;background:#fff;text-decoration:none;color:var(--ink,#27241f);font-weight:600;white-space:nowrap}
+.side-guide-card.active{border-color:var(--theme,var(--accent));color:var(--theme,var(--accent));background:color-mix(in srgb,var(--theme,var(--accent)) 5%,white)}
+.side-guide-card:focus-visible{outline:2px solid var(--theme,var(--accent));outline-offset:3px}
+.dining-intro{color:var(--muted,#83847d);font-size:14px;line-height:1.6;margin:0 0 22px}
+.dining-rating{display:flex;flex-direction:column;align-items:flex-end;justify-content:center;flex-shrink:0;text-align:right;text-decoration:none;color:var(--theme,var(--accent));gap:2px}
+.dining-rating strong{font-size:27px;line-height:1.1;font-weight:600;white-space:nowrap}
+.dining-rating strong small{font-size:11px;font-weight:400;color:var(--muted,#83847d)}
+.dining-rating>span{font-size:11px;color:var(--muted,#83847d);font-weight:400;white-space:nowrap}
+.dining-rednote{display:inline-flex;background:#fff0ef;color:#c54943;border-radius:4px;padding:2px 6px;font-size:11px;white-space:nowrap}
+.dining-page .attraction-row-meta{gap:6px 12px;flex-wrap:wrap}
+.dining-google-note,.dining-fine,.dining-data-date{color:var(--muted,#83847d);font-size:12px;line-height:1.7}
+.dining-meta{flex-wrap:wrap;gap:8px 14px}
+.dining-menu{border-top:1px solid var(--line,#dedad3);padding:26px 0}
+.dining-menu header{display:flex;align-items:baseline;justify-content:space-between;gap:16px}
+.dining-menu h2,.dining-address h2{font-size:20px;margin:0 0 16px}
+.dining-menu header a{font-size:13px;white-space:nowrap;color:var(--theme,var(--accent))}
+.dining-menu ul{padding-left:22px;color:var(--muted,#73766e);line-height:1.9;margin:0 0 14px}
+.dining-evidence{border-top:1px solid var(--line,#dedad3);padding:18px 0;color:var(--muted,#83847d);font-size:12px;line-height:1.7}
+.dining-evidence a{color:var(--theme,var(--accent))}
+.dining-evidence summary{cursor:pointer}
+@media(max-width:600px){.side-guide-links{gap:10px}.side-guide-card{min-height:58px;font-size:15px}.dining-row .attraction-row-title{gap:12px}.dining-rating strong{font-size:24px}.dining-detail-page .attraction-detail-title{align-items:flex-start;gap:12px}.dining-detail-page .attraction-detail-title h1{min-width:0;overflow-wrap:anywhere}.dining-detail-page .dining-rating strong{font-size:27px}.dining-row .attraction-row-meta{font-size:11px;gap:5px 9px}.dining-row .attraction-row-content{min-width:0}.dining-row .attraction-row-content p{line-height:1.65}.dining-menu header{align-items:center}}
+
+.dining-seasonal{font-size:11px;color:#9b7438;background:#f6efdf;padding:2px 6px;border-radius:4px}

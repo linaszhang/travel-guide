@@ -1,0 +1,2194 @@
+{
+  "updatedAt": "2026-11-12",
+  "items": [
+    {
+      "id": "engel",
+      "name": "Café Engel",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "咖啡／芬兰菜",
+      "meal": "下午茶或早晚餐",
+      "summary": "大教堂对面的老咖啡馆，热汤和莓果派适合冬天歇脚。",
+      "description": [
+        "窗边能看广场与教堂，空间保留老城区咖啡馆的温暖尺度。可以把它作为落地后第一顿简餐，吃饱后继续看建筑。"
+      ],
+      "route": "D1逛完参议院广场后直接进店，再沿街走向Esplanadi；不用为了喝咖啡另绕路。",
+      "address": "Aleksanterinkatu 26, 00170 Helsinki, Finland",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 1319,
+        "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+        "checkedAt": "2026-11-12T05:29:23.007Z"
+      },
+      "hours": {
+        "lines": [
+          "周一至周五 08:00–21:00",
+          "周六 09:00–21:00；周日 10:00–19:00",
+          "厨房提前30分钟结束"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.cafeengel.fi/koti",
+        "checkedAt": "2026-11-12T05:29:23.007Z"
+      },
+      "menu": {
+        "items": [
+          "三文鱼汤",
+          "蓝莓与马斯卡彭派"
+        ],
+        "url": "https://www.cafeengel.fi/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.cafeengel.fi/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.cafeengel.fi/koti"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/engel-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-1-thumb.webp",
+          "label": "Café Engel · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TI78BHXVles6bvoN-MrOdGl_qBiefMNkZnGYx3f10tWOzJ2u4oEiuxYd-DCaYmDiEF6O4kWY6j69EEM5p3dR7V5cyp8BmT4GyFsFOJuxctH3eDyiPG-Zc-N1P8kT72rJE9jJC3Hw=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-2-thumb.webp",
+          "label": "Café Engel · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TtNWMoOEsG3-xdDM5LP-T5Sncf2dZVHVHPUJzL_oNxB3gEcEUsg9HUMXW0kPhLezhnbVSB8VMtRaNcIFt4Da5oPgtaYm26wWhNJrit1k5o_g4k0a4ZX63xZIrmewHFpS_3Xbhl2ppc8aGz=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/engel-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/engel-3-thumb.webp",
+          "label": "Café Engel · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TckBznIhBV4O1GIAo_0FQX9QlnixWeO62g34MGa_8sr0t5xZ4ihWqTX63Q43Tq5oaiwvESp-LacQqvesPMgVsC0dJIPLGZ0ATVkSmGFr9ZyLp4-T9Qm3h0e6cs-a1OfmP4-5ve0-iBoHZD=w224-h399-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caf%C3%A9+Engel/@60.1689493,24.9518319,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf058bd7df:0x5eb3be175c83c69c!8m2!3d60.1689493!4d24.9518319!16s%2Fg%2F1232nckkq",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "kappeli",
+      "name": "Kappeli",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "芬兰菜／咖啡",
+      "meal": "晚餐或下午茶",
+      "summary": "Esplanadi公园里的玻璃亭餐厅，建筑和芬兰味道一起体验。",
+      "description": [
+        "1867年开业，曾是芬兰艺术家与城市居民的聚会地。玻璃窗、木结构和墙上的艺术作品是吸引人的部分，冬天坐在室内看公园也很合适。",
+        "小红书上常被提到的是咖啡区的三文鱼汤；咖啡区和正餐区点单不同，到店先确认菜单，续汤规则以现场为准。"
+      ],
+      "route": "D1在Esplanadi与设计商店散步后用餐；餐厅、咖啡区分开服务，想吃正餐提前订餐厅席位。",
+      "address": "Eteläesplanadi 1, 00130 Helsinki, Finland",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 5562,
+        "url": "https://www.google.com/maps/place/Kappeli/@60.167386,24.950323,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf1f8e9511:0x855e45fc8c0bb6db!8m2!3d60.167386!4d24.950323!16s%2Fg%2F11c3ypc9vp",
+        "checkedAt": "2026-11-12T05:29:23.053Z"
+      },
+      "hours": {
+        "lines": [
+          "咖啡区：周一至周四 10:00–23:00",
+          "周五、周六 10:00–24:00；周日 10:00–22:00",
+          "咖啡区三文鱼汤 11:00–19:00；正餐区与厨房时段另见官网"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.raflaamo.fi/en/restaurant/helsinki/kappeli",
+        "checkedAt": "2026-11-12T05:29:23.053Z"
+      },
+      "menu": {
+        "items": [
+          "奶油三文鱼汤",
+          "胡椒牛排配土豆"
+        ],
+        "url": "https://www.raflaamo.fi/en/restaurant/helsinki/kappeli/menu/8365/kappeli-a-la-carte",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.raflaamo.fi/fi/ravintola/helsinki/kappeli",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Kappeli/@60.167386,24.950323,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf1f8e9511:0x855e45fc8c0bb6db!8m2!3d60.167386!4d24.950323!16s%2Fg%2F11c3ypc9vp"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.raflaamo.fi/en/restaurant/helsinki/kappeli"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/kappeli-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/kappeli-1-thumb.webp",
+          "label": "Kappeli · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RuUHqr1k2jett61Wl2gTHZt2rDjICZkmFuS4n-4j3eZ6XYjwUNDeVJmkeFBQ-z2-eGBAynQKU-YBgwaCT0TjUNff2QQZ8HjjIS3mT77gEzUz1c1CqfWA1hEFw7KA90xucD0zqPRXG8KGOE=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Kappeli/@60.167386,24.950323,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf1f8e9511:0x855e45fc8c0bb6db!8m2!3d60.167386!4d24.950323!16s%2Fg%2F11c3ypc9vp",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/kappeli-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/kappeli-2-thumb.webp",
+          "label": "Kappeli · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SNWIWs7LY9BtsJZvrKH4nZDA_mjv8pLGC8SdY3nEPQmrB593ajEDcEm4jSTkaUKuGv6bmTQa_vG7_epP0TwRtI_NbEnYkk_mjQ0Mph9Hez_VakVKlDzHaI7DxhVcyBPjSyClV8zF-H1Fk=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Kappeli/@60.167386,24.950323,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf1f8e9511:0x855e45fc8c0bb6db!8m2!3d60.167386!4d24.950323!16s%2Fg%2F11c3ypc9vp",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/kappeli-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/kappeli-3-thumb.webp",
+          "label": "Kappeli · 三文鱼汤",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLde_y7A58LutQF-3BKfrhKtZq1bN8KEdMp_7SQIAH0ouaH7Qk_dzllilDkecyv4U3-T6K6jwyeZpGDRolqSc-pBzbYEkbAtEpi5UZ5PidcZl4g8IB-LPW5rmK_VUL0FxzKyjii7=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Kappeli/@60.167386,24.950323,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bcf1f8e9511:0x855e45fc8c0bb6db!8m2!3d60.167386!4d24.950323!16s%2Fg%2F11c3ypc9vp",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "checkedAt": "2026-11-12",
+        "note": "已核对多位作者的独立到店推荐，并在搜索结果中反复出现。互动数为核对当日快照；并非小红书官方榜单。",
+        "evidence": [
+          {
+            "url": "https://www.xiaohongshu.com/explore/6946719b000000000d00ef6d",
+            "title": "来赫尔辛基都给我去这家店喝三文鱼汤！",
+            "author": "Ritaqi",
+            "likes": 370,
+            "publishedAt": "2025-12-20"
+          },
+          {
+            "url": "https://www.xiaohongshu.com/explore/6aec899b000000001f0178df",
+            "title": "赫尔辛基 Kappeli 进门后是左手边！！！",
+            "author": "每天只想睡午觉",
+            "likes": 21,
+            "displayedDate": "页面标注4天前"
+          }
+        ]
+      }
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty or Death",
+      "country": "finland",
+      "stage": "赫尔辛基 · D1",
+      "days": [
+        1
+      ],
+      "kind": "鸡尾酒吧",
+      "meal": "晚餐后小酌",
+      "summary": "设计街区里的小酒吧，适合喜欢经典调酒和暗调室内的人。",
+      "description": [
+        "2012年开业，室内带有布鲁克林酒吧的气质。菜单按季节变化，也可告诉调酒师喜欢的基酒与酸甜程度；这里更适合喝一杯聊天，正餐先在别处解决。"
+      ],
+      "route": "D1晚餐后从Esplanadi步行到Erottajankatu；次日有早班机，作为有精力再去的选择。",
+      "address": "Erottajankatu 5, 00130 Helsinki, Finland",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 1070,
+        "url": "https://www.google.com/maps/place/Liberty+or+Death/@60.1647106,24.9443036,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bc90d5ab175:0x9b37ee6491e5aa3!8m2!3d60.1647106!4d24.9443036!16s%2Fg%2F11b6zxj33p",
+        "checkedAt": "2026-11-12T05:29:23.439Z"
+      },
+      "hours": {
+        "lines": [
+          "周日、周一 17:00–次日01:00",
+          "周二至周四 16:00–次日01:00",
+          "周五、周六 16:00–次日02:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.sonofapunch.com/restaurants/liberty-or-death",
+        "checkedAt": "2026-11-12T05:29:23.439Z"
+      },
+      "menu": {
+        "items": [
+          "经典鸡尾酒",
+          "季节创意鸡尾酒"
+        ],
+        "url": "http://www.sonofapunch.com/restaurants/liberty-or-death",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.sonofapunch.com/restaurants/liberty-or-death",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Liberty+or+Death/@60.1647106,24.9443036,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bc90d5ab175:0x9b37ee6491e5aa3!8m2!3d60.1647106!4d24.9443036!16s%2Fg%2F11b6zxj33p"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.sonofapunch.com/restaurants/liberty-or-death"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/liberty-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/liberty-1-thumb.webp",
+          "label": "Liberty or Death · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rv-lfMPP5y2dWgp10oTzejFpBGNd_q4uPt38AbG1j9m8yfYJ2ivNhUsw1Vh5E-VELdCbW93gvnHNZ-fxOdNsG8bvxYWX1likLtG_fMpCOff4RAtwH-j93r5EgQxfOykV1nH1tL=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Liberty+or+Death/@60.1647106,24.9443036,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bc90d5ab175:0x9b37ee6491e5aa3!8m2!3d60.1647106!4d24.9443036!16s%2Fg%2F11b6zxj33p",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/liberty-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/liberty-2-thumb.webp",
+          "label": "Liberty or Death · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGLF4hjy1Lbtr62crOPc5e4tvMqfYauw9SaPg_dLY4SMk6DWj_KBUkOch1g0b6ejw9Eiml1alr6JEzMBBSQLKUc0ojXf-9_dGoSLFa3recueu0VobzpPWOqGUolQwNEAhLJRs=w224-h336-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Liberty+or+Death/@60.1647106,24.9443036,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bc90d5ab175:0x9b37ee6491e5aa3!8m2!3d60.1647106!4d24.9443036!16s%2Fg%2F11b6zxj33p",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/liberty-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/liberty-3-thumb.webp",
+          "label": "Liberty or Death · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWHhcI0m1k1rrLerJDyffIHq-dqnTsXR6lDmcPLqehnm6anLzDzHHVOePjty57b1RmrtmlZ6LzrcPWFZZy77mpT_Xmu2d1l2b4EXEf5QpEyKnriWnpfp_Q1cr8fq7UermsS_A7=w236-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Liberty+or+Death/@60.1647106,24.9443036,17z/data=!3m1!4b1!4m6!3m5!1s0x46920bc90d5ab175:0x9b37ee6491e5aa3!8m2!3d60.1647106!4d24.9443036!16s%2Fg%2F11b6zxj33p",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "fint",
+      "name": "FINT kafé & bar",
+      "country": "norway",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "days": [
+        2,
+        3
+      ],
+      "kind": "咖啡／轻食",
+      "meal": "午餐或咖啡",
+      "summary": "酸面包吐司、咖啡和植物性轻食；适合白天短停。",
+      "description": [
+        "店在Skippergata，离老港口不远。食物偏吐司与咖啡馆轻食，适合想吃一点蔬菜、换换重口味的人。周日偶有晚间音乐活动，具体演出另看店方公告。"
+      ],
+      "route": "D2市区取雪具前后可短停，D3午餐只有很短空档，建议外带；周一16:00关门，不安排在桑拿后的晚餐。",
+      "address": "Skippergata 1C, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 479,
+        "url": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j",
+        "checkedAt": "2026-11-12T05:29:22.948Z"
+      },
+      "hours": {
+        "lines": [
+          "周一至周四 10:00–16:00",
+          "周五、周六 10:00–17:00",
+          "周日 10:00–24:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.finttromso.no/",
+        "checkedAt": "2026-11-12T05:29:22.948Z"
+      },
+      "menu": {
+        "items": [
+          "番茄酸面包吐司",
+          "牛油果吐司",
+          "咖啡与热巧克力"
+        ],
+        "url": "https://www.finttromso.no/menus?menu=middagsmeny",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://finttromso.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.finttromso.no/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/fint-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fint-1-thumb.webp",
+          "label": "FINT kafé & bar · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sdb03rcGJMopCxCympJeTYzVlhQZ_A6PX6OPTKBuoonVaZ47Eywu5IWOJa4QzYCwAM276QuIxM5JcASSPs_-qiAm92xjb4NGqGm4H9lZ1Bx8wtV3r7dQDZ3HHnEGuGIFLTUn4cuh1j2y5_=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fint-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fint-2-thumb.webp",
+          "label": "FINT kafé & bar · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QnfLUgrzqO8Lq2CjnMWhwdLSfY7stDBWEA4HLdlDgd8W40JKssCeQGTBvtZZbS2WIbuaelu-eEh3TdTREDq1HWM-dtlqhp1tsDhMFUehvqfzA9LJoLoFum11-MUtDYwoauhbs9OU6qyQg=w224-h336-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fint-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fint-3-thumb.webp",
+          "label": "FINT kafé & bar · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TCtY55KQzhUrjRNeas7fvhJ9i5hWQd4QDStPd4CJtI05AgbV_aoD2l58wKzYzOulWOPL9MvzJe41_kT0tJx-JSCgNGchoxHZ_BCmpmejBITfdJZnw0rQ4rjXEARv4GoLdBBwaSQgJksRsx=w224-h336-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/FINT+kaf%C3%A9+%26+bar/@69.6521789,18.9606857,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5f1073de16b:0xe0221753ccc40830!8m2!3d69.6521789!4d18.9606857!16s%2Fg%2F11p11dwm6j",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": "2026-11-12",
+        "evidence": [],
+        "note": "定向搜索只见零星明确提及，不标热门。"
+      }
+    },
+    {
+      "id": "fullsteam",
+      "name": "Full Steam Tromsø AS",
+      "country": "norway",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "days": [
+        2,
+        3,
+        8
+      ],
+      "kind": "北挪威海鲜",
+      "meal": "晚餐",
+      "summary": "老港口的海鲜餐厅，用风干鱼与北挪威饮食接上城市历史。",
+      "description": [
+        "港口建筑里的餐厅与展示空间相连，主打北挪威鱼类料理。适合对当地渔业文化有兴趣、又想吃一顿热正餐的晚上；参观与用餐分别确认，不把餐费当作展览门票。"
+      ],
+      "route": "D3驯鹿活动返回后或桑拿后用晚餐较顺路，需确认厨房最后点单；D2周日18:00结束，须早吃。",
+      "address": "Søndre Tollbodgate 3, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 4.2,
+        "reviewCount": 1750,
+        "url": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg",
+        "checkedAt": "2026-11-12T05:31:23.389Z"
+      },
+      "hours": {
+        "lines": [
+          "周一至周六 11:00–22:00",
+          "周日 11:00–18:00；厨房末单需另确认"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg",
+        "checkedAt": "2026-11-12T05:31:23.389Z"
+      },
+      "menu": {
+        "items": [
+          "Boknafisk 半风干鳕鱼",
+          "风干鳕鱼料理"
+        ],
+        "url": "http://www.fullsteam.no/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.fullsteam.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "http://www.fullsteam.no/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/fullsteam-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fullsteam-1-thumb.webp",
+          "label": "Full Steam Tromsø AS · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLCLTwDAqFFtSdUQwPTvi7IGmZHC5l9nXVxL55j-Cb8OV8CqwSvN2eMBSkV3rPgTqoGPgJ0jdljiV3vYM4dj-rJViYz8CnThA4ccByWHb4F0o7X02n04_JiAqnWqFcdkfz65SGNg=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fullsteam-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fullsteam-2-thumb.webp",
+          "label": "Full Steam Tromsø AS · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_Suz-ShJzGqaE2TD9iMXI4-vlYqOEyjWnryRSKvW8d-zJsahiXSJc6Cyaka-o04QD0Hnjgx-8iZiUOxWNtjfDaCCKBT6L8u5Ggu4r01oD-HakVYqNejbxcp8GaonvU_pNmPzT=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/fullsteam-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/fullsteam-3-thumb.webp",
+          "label": "Full Steam Tromsø AS · 半风干鳕鱼",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLedkAgTgPelk5iO1cgY14qYyULWVCFBGmeHNHLf7JDQh3Q44aENxPI5revxKOTdOdY_P-6ytt7uK69-QFFbwfQ8GeJPKReFjNrA0_C76oEV6eyTzjkiPhniJS-ebO8fBwTaQ182=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Full+Steam+Troms%C3%B8+AS/@69.6519833,18.9620552,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5cb2070a8b7:0x2b65d1d03358e035!8m2!3d69.6519833!4d18.9620552!16s%2Fg%2F11fkdtp9wg",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "olhallen",
+      "name": "Ølhallen",
+      "country": "norway",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "days": [
+        2,
+        3,
+        8
+      ],
+      "kind": "啤酒吧",
+      "meal": "晚餐后",
+      "summary": "Mack啤酒馆，适合比较不同挪威啤酒风格。",
+      "description": [
+        "木质老酒馆和密集酒头是这里的重点，选择比一般餐厅丰富。它适合作为酒吧停留，正餐另安排；不必为了一次打卡压缩白天的户外时间。"
+      ],
+      "route": "D8住特罗姆瑟市区，停车入住后步行来最合适；D2、D3还要开车回EIRA，司机选无酒精饮品。",
+      "address": "Storgata 4, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 4179,
+        "url": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h",
+        "checkedAt": "2026-11-12T05:29:45.493Z"
+      },
+      "hours": {
+        "lines": [
+          "周一至周六 12:00–次日00:30",
+          "周日 13:00–19:30"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h",
+        "checkedAt": "2026-11-12T05:29:45.493Z"
+      },
+      "menu": {
+        "items": [
+          "挪威生啤",
+          "不同风格啤酒品饮"
+        ],
+        "url": "http://www.mack.no/olhallen/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.mack.no/olhallen/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "http://www.mack.no/olhallen/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/olhallen-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/olhallen-1-thumb.webp",
+          "label": "Ølhallen · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qg0AH7YF4Wt1LsqJr07OAGUOo0bfHjCoNIfsLeDb8kq_ld49JKu70hM59Iy6Y5P--1OKa1kPrqDoKMdUPa1_5g1y6R95bsfq3rB1zFq5EVoR0smNT6JGZu1R7GezasLvQXL1WCpPT9aRZ1=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/olhallen-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/olhallen-2-thumb.webp",
+          "label": "Ølhallen · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI_4hZCurLSjPEoqLBG3XH-A-D6K-_I1bMlJRyqiGwU8oWWZvjxQL6FodqjwzSdtp-fkjzV4TtH2ahZp8VImv6yh9a-lXhchxtZpvOQaMqyXMMAer55agIg3aynG2kqeQsBUiJ8w=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/olhallen-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/olhallen-3-thumb.webp",
+          "label": "Ølhallen · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sve-hUvU7rFmxOgrU6qIKnevQsJoBIC1DFRVRA-hrPzywfkoXfwk1Q4Xk0-QeaZnysHUJ-4QiUJlcSrkWHW98LP9VSayCbTPek4A8pkV9eGJCKjvDxzNvUsSRIEPpsQtBOipUe=w569-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%98lhallen/@69.6458507,18.9503876,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c5adb36e7311:0x3ee96febd3cace6d!8m2!3d69.6458507!4d18.9503876!16s%2Fg%2F1tfz_n7h",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "bardus",
+      "name": "Bardus Bistro",
+      "country": "norway",
+      "stage": "特罗姆瑟 · D2–D4／D8",
+      "days": [
+        8
+      ],
+      "kind": "北挪威料理",
+      "meal": "需预约的晚餐",
+      "summary": "老建筑里的季节性小馆，想吃驯鹿或本地鱼可以考虑。",
+      "description": [
+        "餐厅所在建筑曾是面包房与影院，菜式把北挪威食材放进欧洲小馆的结构里。想吃的菜可能随渔获与季节变化；精简点两道主菜，也能比较海鲜与驯鹿的不同风味。"
+      ],
+      "route": "仅建议D8早些回城后预约；周日、周一餐厅休息，D2、D3不安排。D8晚到就改方便的简餐。",
+      "address": "Cora Sandels gate 4, 9008 Tromsø, Norway",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 2690,
+        "url": "https://www.google.com/maps/place/Bardus+Bistro/@69.6505327,18.9556603,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c452d8436687:0x53751f72f0c12ce4!8m2!3d69.6505327!4d18.9556603!16s%2Fg%2F11b66l5p1h",
+        "checkedAt": "2026-11-12T05:29:45.001Z"
+      },
+      "hours": {
+        "lines": [
+          "周二至周五 午餐11:00–14:30；晚餐16:00–22:00",
+          "周六 午餐12:00–14:30；晚餐16:00–22:00",
+          "周日、周一休息；晚餐最后入座21:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://bardus.no/",
+        "checkedAt": "2026-11-12T05:29:45.001Z"
+      },
+      "menu": {
+        "items": [
+          "驯鹿排",
+          "当日鱼料理",
+          "贻贝"
+        ],
+        "url": "http://www.bardus.no/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.bardus.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Bardus+Bistro/@69.6505327,18.9556603,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c452d8436687:0x53751f72f0c12ce4!8m2!3d69.6505327!4d18.9556603!16s%2Fg%2F11b66l5p1h"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://bardus.no/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/bardus-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bardus-1-thumb.webp",
+          "label": "Bardus Bistro · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SG-ovNpotkNEVwDOJIR1g1fOkWcPgElaIhxmu4vjI5XGPjUb76JlmUIC-nc_kgpYhv6OLdzbfCDeJ6WskreM1-bLcQijz8ViO-ObvFVhw7L56LJ8iL11NAck_-CclwFtk1hPhI=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Bardus+Bistro/@69.6505327,18.9556603,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c452d8436687:0x53751f72f0c12ce4!8m2!3d69.6505327!4d18.9556603!16s%2Fg%2F11b66l5p1h",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/bardus-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bardus-2-thumb.webp",
+          "label": "Bardus Bistro · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RxWd4nw3F4zat-SW8hIbPTkM295JW2ZE9vbeZbQOqZuy5Mk4WLcPhnpzEyQwy-u0z-Uo-udsAh0xI72B-iAVJOqF1CAhz3syqx_7W4SWzAKGKA--QTIDW40NAYx_8QVdO7tdLm=w451-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Bardus+Bistro/@69.6505327,18.9556603,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c452d8436687:0x53751f72f0c12ce4!8m2!3d69.6505327!4d18.9556603!16s%2Fg%2F11b66l5p1h",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/bardus-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bardus-3-thumb.webp",
+          "label": "Bardus Bistro · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbNJUUzc_Jtp4_BjPuOjXkR79spyr_Zj-oYeheuOn15ABNRkTJUHDBL6yDGpwh8J6STEWHfKaNyBk4T1aGsERZHwoR9d0yxxsp813-6AmQdFxYx8eMWudLfk6-el0KBuCwj5PCyw=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Bardus+Bistro/@69.6505327,18.9556603,17z/data=!3m1!4b1!4m6!3m5!1s0x45c4c452d8436687:0x53751f72f0c12ce4!8m2!3d69.6505327!4d18.9556603!16s%2Fg%2F11b66l5p1h",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "senjastua",
+      "name": "Senjastua",
+      "country": "norway",
+      "stage": "塞尼亚 · D4–D6",
+      "days": [
+        4
+      ],
+      "kind": "挪威家常菜",
+      "meal": "转场晚餐备选",
+      "summary": "Silsand的本地餐厅，过桥进出塞尼亚时比绕去远端餐厅实用。",
+      "description": [
+        "菜单以鱼类与肉类热菜为主，适合长距离驾车途中坐下吃一顿。它在岛的入口一侧，不在Botnhamn住处旁；D5不要专程往返这里吃饭。",
+        "D4可能接近21:00才经过，务必电话确认能否接单；赶不上就使用提前准备的晚餐。"
+      ],
+      "route": "D4从特罗姆瑟进入塞尼亚时如能赶在关门前可吃；D6清晨就出发，别等13:00开门再走。优先提前备好转场路餐。",
+      "address": "Laukhellaveien 2, 9303 Silsand, Norway",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 751,
+        "url": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq",
+        "checkedAt": "2026-11-12T05:30:04.163Z"
+      },
+      "hours": {
+        "lines": [
+          "周日至周五 13:00–21:00",
+          "周六休息"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq",
+        "checkedAt": "2026-11-12T05:30:04.163Z"
+      },
+      "menu": {
+        "items": [
+          "烤风干鳕鱼",
+          "当日挪威家常热菜"
+        ],
+        "url": "http://www.senjastua.no/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.senjastua.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "http://www.senjastua.no/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/senjastua-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/senjastua-1-thumb.webp",
+          "label": "Senjastua · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QA4ekFXoicxbNNxPd-WBXAWFjMaZADZRwIL8i4180gvg9xYnJjOhzmthS-khdYyuzE6Lp0at-A5OBsZLYCZShqFkP3s9AMt77T4lA57HcchwFwBCakmLzUja9vaHPnR0bnQoWZ=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/senjastua-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/senjastua-2-thumb.webp",
+          "label": "Senjastua · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S90J2op6LEjNJ_Ot-A5Uf-WOWlNemNaQmDbUghL80hecic-RLFU0jPjZKpr0fSTx0BMOd9uBfbVM5JZhnQfScXIUTrt6xKXD1mBL2WqDKxvOyxOzq8waxksEy7I20VuoGHhLBf=w358-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/senjastua-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/senjastua-3-thumb.webp",
+          "label": "Senjastua · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUJMOoUlGvuEuz7Dg-XP5xsrKSY1vXgCNeFDqvrp9uyu4BPKpcBI9YG8EQWZY3y9A-Y-_K4eaU47ayLBq89qVtgyZNUtzrI25tlDnC2Hfi7UPzDn7VC4tp21IvuNXJk-LDDVxE=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Senjastua/@69.2444634,17.9495944,17z/data=!3m1!4b1!4m6!3m5!1s0x45db4420dc7269e1:0xcb30049ae02bc89e!8m2!3d69.2444634!4d17.9495944!16s%2Fg%2F1wrghrbq",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "salteriet",
+      "name": "Salteriet Restaurant & Bar",
+      "country": "norway",
+      "stage": "塞尼亚 · D4–D6",
+      "days": [
+        5
+      ],
+      "kind": "北挪威海鲜",
+      "meal": "徒步后晚餐备选",
+      "summary": "Mefjordvær渔港的北挪威餐厅，二月营业需提前确认。",
+      "description": [
+        "Mefjord Brygge的餐厅以塞尼亚周边的鱼与北挪威食材为主。海港环境与热鱼汤很适合冬天，但目前地图显示季节性暂休，不能把夏季时刻直接当成二月承诺。"
+      ],
+      "route": "D5结束Hesten或海岸观景后，顺路去Mefjordvær；餐厅冬季须提前问清营业和桌位，再决定是否绕入。",
+      "address": "Fv252 13, 9386 Senjahopen, Norway",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 77,
+        "url": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85",
+        "checkedAt": "2026-11-12T05:30:13.860Z"
+      },
+      "hours": {
+        "lines": [
+          "目前季节暂休；官网列1月至10月营业",
+          "二月具体用餐时段需提前联系店方确认"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.mefjordbrygge.no/restaurant/",
+        "checkedAt": "2026-11-12T05:30:13.860Z",
+        "needsConfirmation": true
+      },
+      "menu": {
+        "items": [
+          "煎大比目鱼",
+          "炖驯鹿膝",
+          "鱼汤"
+        ],
+        "url": "https://www.mefjordbrygge.no/restaurant/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.mefjordbrygge.no/restaurant/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.mefjordbrygge.no/restaurant/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/salteriet-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/salteriet-1-thumb.webp",
+          "label": "Salteriet Restaurant & Bar · 餐厅实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TytDYIIJVFUqu4KxsRyO2e-mIKzXSZHbA6Ged0ZCrXnoOKAq4FBy-KYKC5rWApfiX-iIdC8smMZEVB3xNfHcOAjaNYfyfAGCLGSEdP5YOUltpFKAYF3dnY4mijUVux3fNdz9l4pPM4Mp0=w437-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/salteriet-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/salteriet-2-thumb.webp",
+          "label": "Salteriet Restaurant & Bar · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1dsJdZQE2Yc5pG5-6H1XjQn9OrWrtKykpvcCv44hs_5oOQPU32LTV6UZAebZA1EjSPZF-mG0SvqVrogLBmHjclZH-12Z-v9MXQsMOdoMJkiHBhGZKnUQ_UKnWHmElB0-JKeLj-A=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/salteriet-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/salteriet-3-thumb.webp",
+          "label": "Salteriet · 汉堡与薯条",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbMFZOQuaoDRt7t-il6-5FSFSAOWFpk9kMwn5Z-hfaGWjcR4ba-Oe2J0E0TsugMwvLCVq_HyB2ckSNbvx5smpI0Olc20dKUsu92gsqRsFauWEIzTstebiWcaXuA7K_i9GlvCFCJbzrmzU=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Salteriet+Restaurant+%26+Bar/@69.5191015,17.4390037,17z/data=!3m1!4b1!4m6!3m5!1s0x45dcab87a1e27005:0x34c0db209b4ffb92!8m2!3d69.5191015!4d17.4390037!16s%2Fg%2F11vb510b85",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gammelbua",
+      "name": "Restaurant Gammelbua",
+      "country": "norway",
+      "stage": "罗弗敦南部 · D6–D7",
+      "days": [
+        6
+      ],
+      "kind": "挪威菜／海鲜",
+      "meal": "抵达后晚餐备选",
+      "summary": "Reine的历史渔村餐厅，炉火与木梁有冬季气氛；需确认二月开业。",
+      "description": [
+        "餐厅设在修复过的老建筑中，海鲜、风干鳕鱼和季节肉类是主要方向。适合想坐下来慢慢吃的一晚；目前为季节休业状态，官方旅游页列二月至五月晚餐18:00–21:00，仍需确认2027开放。"
+      ],
+      "route": "D6长途自驾后，只有抵达时间和路况允许才去Reine晚餐；从Fredvang还要额外往返。D7中午不开，改选Anita。",
+      "address": "Reineveien 165, 8390 Reine, Norway",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 780,
+        "url": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417",
+        "checkedAt": "2026-11-12T05:30:13.920Z"
+      },
+      "hours": {
+        "lines": [
+          "目前季节暂休",
+          "旅游局列二月至五月晚餐18:00–21:00；2027具体开业日待确认"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://visitlofoten.com/en/food-and-drink/restaurant/restaurant-gammelbua/",
+        "checkedAt": "2026-11-12T05:30:13.920Z",
+        "needsConfirmation": true
+      },
+      "menu": {
+        "items": [
+          "季节鱼类与风干鳕鱼",
+          "棕奶酪冰淇淋"
+        ],
+        "url": "https://reinerorbuer.no/restaurant-og-selskap/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://reinerorbuer.no/restaurant-og-selskap/?utm_source=google&utm_medium=organic&utm_campaign=google_business&utm_content=gammelbua",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://visitlofoten.com/en/food-and-drink/restaurant/restaurant-gammelbua/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/gammelbua-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/gammelbua-1-thumb.webp",
+          "label": "Restaurant Gammelbua · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJmug5kaBaKVM3bSee1zCMfw9sxp0NodPkH1i9PwIXR2D6g_tf-O92f9BiHm-ap705rxMhsmdDBg2aKTBUwLIvEtecQI4jsdTVONqIJXZS_2mxwQlutoaMedTXeXIYWV58OOk=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/gammelbua-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/gammelbua-2-thumb.webp",
+          "label": "Restaurant Gammelbua · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tj0cUcHG0pznJrHkdeCEnHrV8dFidAeS95hReI1ACARqJAMtu-PK5TbC_xyf1vvVxAKdZEL4VR2DePMV0ryzUNcUScrw5FI2JQHAuKdRdpx_libt0ayAymqq9Ix6BS3pxO6hzy=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/gammelbua-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/gammelbua-3-thumb.webp",
+          "label": "Restaurant Gammelbua · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T7nj3Hte7Me3I6wh6yI-Hg01NVLEb8G3pVG7-1M-xXP02KqC-m2Bg_zABA6gYLpwW6U-tDGOt6QhwsPX5NxZGmLUyqcPaO0Xhn8Yi6F5ruUcEb7sre1UPolwDrEY9O9XQBzxw1=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Restaurant+Gammelbua/@67.9353387,13.0882326,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3cc0fa100b13:0x51fd94aed5cfb94!8m2!3d67.9353387!4d13.0882326!16s%2Fg%2F11c6z10417",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "anita",
+      "name": "Anita's Sjømat",
+      "country": "norway",
+      "stage": "罗弗敦南部 · D6–D7",
+      "days": [
+        7
+      ],
+      "kind": "海鲜／轻食",
+      "meal": "午餐",
+      "summary": "Sakrisøy黄房子旁的海鲜店，鱼汤、鱼饼汉堡都适合顺路吃。",
+      "description": [
+        "店兼有海鲜熟食柜与可坐下用餐的空间，能够轻松吃一顿再继续开车。鱼饼汉堡和烟熏鱼体现罗弗敦渔业传统；想看窗景可预留一点等座时间。"
+      ],
+      "route": "D7拍Reine、Sakrisøy和Hamnøy时安排午餐；按目前周五时段11:00–16:00，别留到傍晚回程才来。",
+      "address": "Sakrisøya, 8390 Reine, Norway",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 3568,
+        "url": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p",
+        "checkedAt": "2026-11-12T05:30:04.605Z"
+      },
+      "hours": {
+        "lines": [
+          "周一至周六 11:00–16:00",
+          "周日 10:30–18:30；冬季可能调整"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://sakrisoy.no/seafood/",
+        "checkedAt": "2026-11-12T05:30:04.605Z"
+      },
+      "menu": {
+        "items": [
+          "经典鳕鱼饼汉堡 · 199 NOK",
+          "Winnie the Pooh 汉堡（烟熏三文鱼＋虾）· 279 NOK",
+          "奶油鱼汤 · 279 NOK",
+          "烟熏三文鱼 · 229 NOK"
+        ],
+        "url": "https://sakrisoy.no/menu/",
+        "note": "官网现行菜单，核对于2026-11-12；2027出行时以当日菜单为准。"
+      },
+      "website": "http://www.sakrisoy.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://sakrisoy.no/seafood/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/anita-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/anita-1-thumb.webp",
+          "label": "Anita's Sjømat · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQ6USyJLc7Hey6MmZoA1TvILc9SRNiB76cPVUZMSXEAhyKA4_5kitGF3sUK7b9gjTFW1jIf2-RWkpErf5-XunM6XbpOkM8iyNMUQrhffyQEUlBG22Zsg8fnTUB49IH0_6zuXE6dMbz_Ggw=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/anita-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/anita-2-thumb.webp",
+          "label": "Anita's Sjømat · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TW8NBA9m6L__aZAFUGsUJ2jKs1I0Oorneyu-L3hZ9DEtkMbnal1uxGNnAe-NOcUPMLVEATvD46PXiOkfIgAgBaQBux5qW5QDSwk_LmiIDw2pWMLXArjzYNLqo_DKvYFAEXe8yD-IOi2Tio=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/anita-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/anita-3-thumb.webp",
+          "label": "Anita's Sjømat · 店铺实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ROvkez00_07OKNe22jV_eBxEGivfZ5TwuCArpdvm99K7OJ1SkAqYtX82BLxTD9GCjC9A_57iANGjM3W0K2Ypbez_jnj-vr69Yqqf0uOvRV5s8KQeKrieqNdrlXPCZNisBnp1p7=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Anita's+Sj%C3%B8mat/@67.941906,13.1112626,17z/data=!3m1!4b1!4m6!3m5!1s0x45de3ce8b86f3719:0xe2576f2831b33e3a!8m2!3d67.941906!4d13.1112626!16s%2Fg%2F11b7bxv74p",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "checkedAt": "2026-11-12",
+        "note": "已核对多位作者的独立到店推荐，并在搜索结果中反复出现。互动数为核对当日快照；并非小红书官方榜单。",
+        "evidence": [
+          {
+            "url": "https://www.xiaohongshu.com/explore/680cdc84000000001a0067b2",
+            "title": "罗弗敦一定要来这家餐厅吃三文鱼🍣！",
+            "author": "Cindy Liang",
+            "likes": 149,
+            "publishedAt": "2025-04-26"
+          },
+          {
+            "url": "https://www.xiaohongshu.com/explore/6ab88d03000000001c02dbd1",
+            "title": "Anita’s Sjømat 黄房子餐厅",
+            "author": "awwe",
+            "likes": 13,
+            "publishedAt": "2026-09-27"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bacalao",
+      "name": "Bacalao",
+      "country": "norway",
+      "stage": "斯沃尔维尔 → 亨宁斯维尔 · D7–D8",
+      "days": [
+        7
+      ],
+      "kind": "海鲜／酒吧",
+      "meal": "晚餐",
+      "summary": "斯沃尔维尔港边的休闲餐厅，晚到时比南部小村更好衔接。",
+      "description": [
+        "菜单和环境都偏轻松，可吃炸鱼薯条，也可在港边坐一会儿。地图评分比一些精致餐厅低，主要推荐它的位置与转场便利；厨房可能早于酒吧关门。"
+      ],
+      "route": "D7北返斯沃尔维尔、入住Lofoten Rorbuer后吃晚餐；D8需要早走，不为等店开门耽误返程。",
+      "address": "Torget 23, 8300 Svolvær, Norway",
+      "google": {
+        "rating": 4.2,
+        "reviewCount": 2325,
+        "url": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8",
+        "checkedAt": "2026-11-12T05:30:04.720Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 10:30–24:00",
+          "厨房末单可能提前，晚到请先联系"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.bacalaobar.no/",
+        "checkedAt": "2026-11-12T05:30:04.720Z"
+      },
+      "menu": {
+        "items": [
+          "炸鱼薯条",
+          "季节港口料理"
+        ],
+        "url": "https://www.bacalaobar.no/_files/ugd/7f2592_34ef9720a3c1498985a7e5b3affaba73.pdf",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.bacalaobar.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.bacalaobar.no/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/bacalao-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bacalao-1-thumb.webp",
+          "label": "Bacalao · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TicREKwpgW4mCyuntwxOkRdsFxap6pHa1Pu3ELQNUaYebem5owjSkFSicR3QnN7bksrqEoiL_i3a2jfGHjFj5AJ7mmjGsoWHVc4ClEMHHY3TrX7hSAUvNm84MQ0dAWsqLvK0vqEg=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/bacalao-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bacalao-2-thumb.webp",
+          "label": "Bacalao · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXpBVOsVfjWRfFbrwbFrCbYlt11Wl5-eZCnPH6R9Db8hRIz59ihwkYqjrhZgrn5MNOv9rtD5LlxrGcfk069x2oSri_VdKR7_B8vp0xMVkCfRDliFAHYiXbXsu9jrfxkL17rB5O=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/bacalao-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/bacalao-3-thumb.webp",
+          "label": "Bacalao · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RsPzIn-yVtuPaYnAogQ5_Jf1cwlThcL1CUJbUSMRVY_0GaaKbgEiTLF6W7T2wC-oNMH4-JHBbbo9wzNkY5f6MPWfoZ-yLmcNlqEV0V3ThrE56BzRfPATTJytrl52yibzzVD0cZ=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Bacalao/@68.2324874,14.56641,17z/data=!3m1!4b1!4m6!3m5!1s0x45de8079fab97959:0x4b9e83ff1d63127b!8m2!3d68.2324874!4d14.56641!16s%2Fg%2F1ts2yvw8",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "trevare",
+      "name": "Trevarefabrikken – hotel, café & restaurant",
+      "country": "norway",
+      "stage": "斯沃尔维尔 → 亨宁斯维尔 · D7–D8",
+      "days": [
+        8
+      ],
+      "kind": "咖啡／酒吧",
+      "meal": "咖啡停留备选",
+      "summary": "旧工厂里的咖啡、烘焙与海景空间，适合亨宁斯维尔短停。",
+      "description": [
+        "厂房改成咖啡、餐饮和住宿的复合空间，工业结构与海湾景色是亮点。咖啡区和Hermetikken酒吧营业不同，Google评分覆盖整个场所，不能当作独立餐厅评分。"
+      ],
+      "route": "D8如果在10:30以后结束亨宁斯维尔散步，可喝杯咖啡再走；当天回特罗姆瑟路很长，若计划更早离开就跳过。早餐08:00–10:30另有供应，需先向店方确认外客接待。",
+      "address": "Dreyers gate 72, 8312 Henningsvær, Norway",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 1024,
+        "url": "https://www.google.com/maps/place/Trevarefabrikken+%E2%80%93+hotel,+caf%C3%A9+%26+restaurant/@68.1529254,14.1991662,17z/data=!4m9!3m8!1s0x45de7b08f8dd66f5:0x79248e396bba0659!5m2!4m1!1i2!8m2!3d68.1529254!4d14.1991662!16s%2Fg%2F11b76ttvll",
+        "checkedAt": "2026-11-12T05:30:14.011Z",
+        "note": "此评分覆盖酒店、咖啡与餐饮的复合场所。"
+      },
+      "hours": {
+        "lines": [
+          "咖啡：周一至周四12:00–17:00；周五至周日10:30–17:00",
+          "午餐：周五至周日12:00–15:00；早餐每天08:00–10:30",
+          "披萨：周五至周一17:00–21:00",
+          "酒吧：周日至周二17:00–23:00；周五17:00–24:00；周六17:00–次日01:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.trevarefabrikken.no/opening-hours",
+        "checkedAt": "2026-11-12T05:30:14.011Z"
+      },
+      "menu": {
+        "items": [
+          "烘焙点心与三明治",
+          "咖啡",
+          "酒吧季节菜品"
+        ],
+        "url": "https://www.trevarefabrikken.no/food-and-drinks",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://trevarefabrikken.no/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Trevarefabrikken+%E2%80%93+hotel,+caf%C3%A9+%26+restaurant/@68.1529254,14.1991662,17z/data=!4m9!3m8!1s0x45de7b08f8dd66f5:0x79248e396bba0659!5m2!4m1!1i2!8m2!3d68.1529254!4d14.1991662!16s%2Fg%2F11b76ttvll"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.trevarefabrikken.no/cafe"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/trevare-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/trevare-1-thumb.webp",
+          "label": "Trevarefabrikken – hotel, café & restaurant · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QEqJAEHgFmYFehw_I7umj0oO6PqJR4TWTvPxmNVf0BNsCYdd0p8eXwZgYe8yR96cE4yvXpQqy-y0LOySRZn2WAjevOLmpjAxvq5dBjflP0XvV7GnhJClL55XGTPCNmaI-rViCkPXdhgkmv=w395-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Trevarefabrikken+%E2%80%93+hotel,+caf%C3%A9+%26+restaurant/@68.1529254,14.1991662,17z/data=!4m9!3m8!1s0x45de7b08f8dd66f5:0x79248e396bba0659!5m2!4m1!1i2!8m2!3d68.1529254!4d14.1991662!16s%2Fg%2F11b76ttvll",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/trevare-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/trevare-2-thumb.webp",
+          "label": "Trevarefabrikken – hotel, café & restaurant · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_Tu2EZrRg34cTlYX3Hc5VHiij2kidjZ30BSjJWqm1hIxLFY2sr94UG0ApaLCk2_Zg9SCvb6qrUYy4tWWmjfBDmCfkhTX3tRCcrKyY4yhxN33trEqfmc_EoQJyukDf959N2L6l3fuBQD8=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Trevarefabrikken+%E2%80%93+hotel,+caf%C3%A9+%26+restaurant/@68.1529254,14.1991662,17z/data=!4m9!3m8!1s0x45de7b08f8dd66f5:0x79248e396bba0659!5m2!4m1!1i2!8m2!3d68.1529254!4d14.1991662!16s%2Fg%2F11b76ttvll",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/trevare-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/trevare-3-thumb.webp",
+          "label": "Trevarefabrikken – hotel, café & restaurant · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SdOq8m1OjSpvu5PXryXL9VUW4Vl_D-9sc8s5cj-kHFgcVvJux7nhxNrnyavqn-OxKJ-kWvIJOCzFQTwdc8Jx9wtamefgIGOecOapLsx42GejiosdwgtEv4-yHu41N4f1MwbN8=w242-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Trevarefabrikken+%E2%80%93+hotel,+caf%C3%A9+%26+restaurant/@68.1529254,14.1991662,17z/data=!4m9!3m8!1s0x45de7b08f8dd66f5:0x79248e396bba0659!5m2!4m1!1i2!8m2!3d68.1529254!4d14.1991662!16s%2Fg%2F11b76ttvll",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "olverk",
+      "name": "Ölverk Pizza & Brewery",
+      "country": "iceland",
+      "stage": "凯夫拉维克 → 惠拉盖尔济 · D9",
+      "days": [
+        9
+      ],
+      "kind": "披萨／精酿",
+      "meal": "抵达日晚餐",
+      "summary": "INNI同镇的披萨与酿酒厂，落地后不必再折返雷市找晚饭。",
+      "description": [
+        "把地热小镇的特色与披萨结合，点一份披萨配热食很适合第一晚。啤酒是店内亮点，但需要驾驶的人选择无酒精饮料；菜单有不同配料可按口味选择。"
+      ],
+      "route": "D9从机场取车15:00出发，入住INNI后在Hveragerði吃晚餐；厨房21:00结束。",
+      "address": "Breiðamörk 2, 810 Hveragerði, Iceland",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 979,
+        "url": "https://www.google.com/maps/place/%C3%96lverk+Pizza+%26+Brewery/@63.9975944,-21.1890779,17z/data=!3m1!4b1!4m6!3m5!1s0x48d666c905f9439d:0xa12eb29a5e593ff7!8m2!3d63.9975944!4d-21.1890779!16s%2Fg%2F11dzt0p2ls",
+        "checkedAt": "2026-11-12T05:30:33.180Z"
+      },
+      "hours": {
+        "lines": [
+          "周日至周四 11:30–22:00",
+          "周五、周六 11:30–23:00",
+          "厨房每天21:00关闭"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.olverk.is/",
+        "checkedAt": "2026-11-12T05:30:33.180Z"
+      },
+      "menu": {
+        "items": [
+          "手工披萨",
+          "店内精酿"
+        ],
+        "url": "http://olverk.is/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://olverk.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/%C3%96lverk+Pizza+%26+Brewery/@63.9975944,-21.1890779,17z/data=!3m1!4b1!4m6!3m5!1s0x48d666c905f9439d:0xa12eb29a5e593ff7!8m2!3d63.9975944!4d-21.1890779!16s%2Fg%2F11dzt0p2ls"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.olverk.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/olverk-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/olverk-1-thumb.webp",
+          "label": "Ölverk Pizza & Brewery · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5E8AbSpyC4GECHXcWQkD8CURK5pR8bZ6AOhk2mrj9e7c8l4AsVAW20ffZufvipwY-uTSDomc_6VRF2q1VSefJ7rUbc_93BaeGiKmoTmtfrlkyyHQQT548ucwB65TNpj7QV2nzyZIUuzW6=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%96lverk+Pizza+%26+Brewery/@63.9975944,-21.1890779,17z/data=!3m1!4b1!4m6!3m5!1s0x48d666c905f9439d:0xa12eb29a5e593ff7!8m2!3d63.9975944!4d-21.1890779!16s%2Fg%2F11dzt0p2ls",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/olverk-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/olverk-2-thumb.webp",
+          "label": "Ölverk Pizza & Brewery · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ToEhtXLH46sxJ0RlRntMJI9nfMEJ7Gq1oqXTtO9d0MKkvxvK7ipSiVZAkGDKQHBJ99isZF3cjG_dxisca-FU1iz7BS7erP-mU04xfAGZIgX_-lMwpsFcR0fKFQLaJ52arSBww43unYT0a0=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%96lverk+Pizza+%26+Brewery/@63.9975944,-21.1890779,17z/data=!3m1!4b1!4m6!3m5!1s0x48d666c905f9439d:0xa12eb29a5e593ff7!8m2!3d63.9975944!4d-21.1890779!16s%2Fg%2F11dzt0p2ls",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/olverk-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/olverk-3-thumb.webp",
+          "label": "Ölverk Pizza & Brewery · 披萨",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLesY8H-geu913DgVACwHYo0g-KEmJueCJHGvHE1TfsAe_Jhv6FHoBeyVPLTsafJgvL_lO34ADDwSrNAycoxB2jG4ARH3n7R1W0PwPwqNMM74C_tk64IPIheMbFOm8lg-xxuA93i8vUr9IXg=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%96lverk+Pizza+%26+Brewery/@63.9975944,-21.1890779,17z/data=!3m1!4b1!4m6!3m5!1s0x48d666c905f9439d:0xa12eb29a5e593ff7!8m2!3d63.9975944!4d-21.1890779!16s%2Fg%2F11dzt0p2ls",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "smidjan",
+      "name": "Smiðjan Brugghús",
+      "country": "iceland",
+      "stage": "维克 · D10–D11",
+      "days": [
+        10
+      ],
+      "kind": "汉堡／精酿",
+      "meal": "晚餐",
+      "summary": "维克镇的啤酒厂餐厅，瀑布和黄金圈长日程后吃汉堡热餐。",
+      "description": [
+        "工业风空间内能看到酿酒设备，食物以汉堡、薯条等酒馆菜为主。相较正式多道菜餐厅，点餐灵活，适合当天开车较累、想轻松吃饱的晚上。"
+      ],
+      "route": "D10傍晚入住Black Beach Suites后开车进维克吃；D11往东走前也可考虑，但午间营业再确认。",
+      "address": "Sunnubraut 15, 870 Vík, Iceland",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 2333,
+        "url": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742",
+        "checkedAt": "2026-11-12T05:30:33.303Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 12:00–22:00；厨房末单请向店方确认"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742",
+        "checkedAt": "2026-11-12T05:30:33.303Z"
+      },
+      "menu": {
+        "items": [
+          "汉堡",
+          "Dirty Fries 薯条",
+          "店内精酿"
+        ],
+        "url": "https://smidjanbrugghus.is/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://smidjanbrugghus.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://smidjanbrugghus.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/smidjan-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/smidjan-1-thumb.webp",
+          "label": "Smiðjan Brugghús · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ttt4lgUtti_uvTMiI9IQxARUyRkPlSOTpIEbfcyyGl5cGkwj4ODbp6eJKOqPXDjLWpmcak5OI09nj9Zf5G8mC5l8WHp2PEuhrfy5s2SJ44NHChxOvq6qkIBtx61ziTE_S84Y7nmj8Rls4i=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/smidjan-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/smidjan-2-thumb.webp",
+          "label": "Smiðjan Brugghús · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvkF854gpooTRBVK8c6PJeR1Xd02BFuEWzkUDGzZjklPnU3jAGeLijKEglXkanrBTec4j9ww7sHrfgZAOcS0t9e9x2A-wWuCRHnv0B4g9dcSOKd2u6-_W4mRf5nnl7FZ95GHjX=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/smidjan-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/smidjan-3-thumb.webp",
+          "label": "Smiðjan Brugghús · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RI2e8-HVZuBl_RbEw-8ElKtRf10QgPpt7lRZvn_0mUywLIArYpCxVXNACafeubJnKAZVtFdWeQPf7mAFBEvtGfPI0gVk3ppISB-OFr6LiUPL_0EDXt_87GhLVTxPsGVdCddChF=w298-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Smi%C3%B0jan+Bruggh%C3%BAs/@63.4172706,-19.0108966,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74a381786058f:0xa6686a4ab75afa86!8m2!3d63.4172706!4d-19.0108966!16s%2Fg%2F11fy191742",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "soup",
+      "name": "The Soup Company",
+      "country": "iceland",
+      "stage": "维克 · D10–D11",
+      "days": [
+        10,
+        11
+      ],
+      "kind": "热汤／简餐",
+      "meal": "午餐或晚餐",
+      "summary": "热汤配面包碗，黑沙滩吹风后暖身方便。",
+      "description": [
+        "汤品包括冰岛羊肉汤与招牌红色辣汤，也有蔬食方向，具体按当日供应。相比把正式大餐塞进赶路中午，这里更适合预留约45分钟补充热量。"
+      ],
+      "route": "D11黑沙滩与维克结束后在镇里午餐，再一路东行；与Smiðjan二选一，不额外安排两顿。",
+      "address": "Víkurbraut 5 870, 870 Vik, Iceland",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 3495,
+        "url": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1",
+        "checkedAt": "2026-11-12T05:30:33.745Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 11:30–21:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1",
+        "checkedAt": "2026-11-12T05:30:33.745Z"
+      },
+      "menu": {
+        "items": [
+          "Red Hot Lava Soup 面包碗",
+          "冰岛羊肉汤"
+        ],
+        "url": "https://www.thesoupcompanyiceland.com/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.thesoupcompanyiceland.com/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.thesoupcompanyiceland.com/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/soup-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/soup-1-thumb.webp",
+          "label": "The Soup Company · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qd2W56d07a4tko-e7MuhPp5F5bBncDfBmkK4qAlpwfTbszxXkeyzRN9TZu90gpD_oEjWaCiQz0-EsKCAO3MWK9hdByPczykJ-vB6zVg1wrUmiHNJBJpmnSqfFa5qq0yf3prdWmDjVcU_U3=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/soup-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/soup-2-thumb.webp",
+          "label": "The Soup Company · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXGL7ikl4b287uJtCuZrpdymjZ6UktgvI6AFy2xjgG2gzix9GkgUpSPDLEdxzZbSUlotEalw0y7php2cWK_UhL6eGDOvKt-zCE8tNauU_rJB7ZG7MQnyCgSssgCY6eFxdzRYP9NLG-LNk=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/soup-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/soup-3-thumb.webp",
+          "label": "The Soup Company · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RzqywTnP9CRGOe0OuBDz2ApDxE040UZi_722Xv92sreHRipJJ1q_88MQdTMkeoodX0oNkuExHXKB8OvuurHkUih1P8AmobNKUsNhg2oIR03WLwckYxmXeU4GOdVjeRt6MY98gh=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/The+Soup+Company/@63.4185083,-19.0099389,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74bd07cba9129:0xb9a1e09c5773df8d!8m2!3d63.4185083!4d-19.0099389!16s%2Fg%2F11g0mrs1t1",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "checkedAt": "2026-11-12",
+        "note": "已核对独立到店推荐；其中一篇冰岛餐厅体验笔记获1,091赞，并明确推荐本店。并非小红书官方榜单。",
+        "evidence": [
+          {
+            "url": "https://www.xiaohongshu.com/explore/689ddd87000000001b022453",
+            "title": "在冰岛吃过的餐厅，都好吃！",
+            "author": "西西睡不醒",
+            "likes": 1091,
+            "publishedAt": "2025-08-14"
+          },
+          {
+            "url": "https://www.xiaohongshu.com/explore/6ab803a9000000001402d5d3",
+            "title": "冰岛维克镇餐厅推荐 The Soup Company",
+            "author": "璐璐",
+            "likes": 12,
+            "displayedDate": "09-27"
+          }
+        ]
+      }
+    },
+    {
+      "id": "systrakaffi",
+      "name": "Systrakaffi",
+      "country": "iceland",
+      "stage": "维克 → 霍芬 · D11",
+      "days": [
+        11,
+        13
+      ],
+      "kind": "冰岛菜／简餐",
+      "meal": "转场午餐备选",
+      "summary": "教堂镇的中途用餐点，能把长距离南岸车程分成两段。",
+      "description": [
+        "菜单覆盖鱼类、肉类和较轻松的快餐选择，适合两个人口味不同又不想四处找店时用。它的价值是沿1号公路转场方便，时间紧就缩短停留，优先保证冬季行车余量。"
+      ],
+      "route": "D11维克出发后若到教堂镇正好中午，可在这里吃；D13西返也可使用，不要再折回维克吃同一顿。",
+      "address": "205 13, 880 Kirkjubæjarklaustur, Iceland",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 1891,
+        "url": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4",
+        "checkedAt": "2026-11-12T05:31:23.815Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 12:00–21:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4",
+        "checkedAt": "2026-11-12T05:31:23.815Z"
+      },
+      "menu": {
+        "items": [
+          "炸鱼薯条",
+          "冰岛热餐"
+        ],
+        "url": "http://www.systrakaffi.is/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.systrakaffi.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "http://www.systrakaffi.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/systrakaffi-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/systrakaffi-1-thumb.webp",
+          "label": "Systrakaffi · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZT-4RgtThqOcS8s6ThVutCHT8GWpbvQF4bvbreDcUeH5Yd3BvjtntqaTrxof8z_KL0FjtV0yZV7xynNv2ORWpIbnB0V6wZTmtZn4nqT4-cgvktZTJ0NUjyizY5amkG5zpLW6HSmJ1dcIt=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/systrakaffi-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/systrakaffi-2-thumb.webp",
+          "label": "Systrakaffi · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TxI9OxNbF_8t2PDbqLEb3pj8SPYCtd8Ajj87w45BOuuOK0rDDIAdMqNTs3je1zuNNP3zKWspci5uF9whe4uNm1_hlwmyiayaeMjoYOR7IVzS3LdpZHZB9hOTs2PgpDCsCM71Pdzw=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/systrakaffi-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/systrakaffi-3-thumb.webp",
+          "label": "Systrakaffi · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3nigJffmHLWR73KSk4q2KbwF8RutRyuui-Cxxqji-HeDtHnN9-GQk-GGVV6G1yDpBqZ6Bqhj1KoMwWup8y_4zvIP0YKIkzctiMc6HO6NO9iRXBVQNtxxGs29MAv9Q-_IyTvzi=w447-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Systrakaffi/@63.7904318,-18.0474509,17z/data=!3m1!4b1!4m6!3m5!1s0x48d0e54554253d8d:0x70b314f94e874fd8!8m2!3d63.7904318!4d-18.0474509!16s%2Fg%2F1hd_6rtw4",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "pakkhus",
+      "name": "Pakkhús Restaurant",
+      "country": "iceland",
+      "stage": "霍芬 · D11–D12",
+      "days": [
+        11,
+        12
+      ],
+      "kind": "冰岛海鲜",
+      "meal": "晚餐",
+      "summary": "霍芬港口的海鲜餐厅，想吃海螯虾可以专门留一顿。",
+      "description": [
+        "历史港区的仓库建筑给用餐带来很强的地方感。菜单围绕海鲜、羊肉和冰岛食材，海螯虾是热门选择。人气高也有口味与价格争议，点菜前看当日菜单和份量，别把旧笔记价当现价。"
+      ],
+      "route": "D11抵达霍芬或D12冰川团结束返回后去；从REY住处进镇用餐。长团结束时间不确定，预留等位与厨房截止时间。",
+      "address": "Krosseyjarvegur 3, 780 Höfn, Iceland",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 4957,
+        "url": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8",
+        "checkedAt": "2026-11-12T05:30:43.342Z"
+      },
+      "hours": {
+        "lines": [
+          "地图列每天 12:00–21:30",
+          "厨房末单与冬季调整另向店方确认"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://pakkhus.is/",
+        "checkedAt": "2026-11-12T05:30:43.342Z"
+      },
+      "menu": {
+        "items": [
+          "海螯虾料理",
+          "鱼汤",
+          "羊肉"
+        ],
+        "url": "http://www.pakkhus.is/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.pakkhus.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://pakkhus.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/pakkhus-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/pakkhus-1-thumb.webp",
+          "label": "Pakkhús Restaurant · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S374FUxao4bnjTEkFOp_i-AZXxWn56VjhN2EqkUcimFo24nwpCC6rogV5a0O1s3IWTjLy63pnSfAFPmoFKNZWdu7brfhNI2eaQg955kWNM3Zi38rrlvA3oSRxOYoJJMd0Mfkx2ThwbMrgM=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/pakkhus-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/pakkhus-2-thumb.webp",
+          "label": "Pakkhús Restaurant · 海螯虾料理",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXQSnSwo66KqRKCE5RDJGD7fBKlpK4lFAaDID7lNMByoJVmaGrZ8kd1pM3f2VCChFV41agjPr5jwFicrhykIpCRW3u-TXcPJy9NQXV5SAjx_fpTNMWj4yImpi-jCsgu_-ueaYD=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/pakkhus-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/pakkhus-3-thumb.webp",
+          "label": "Pakkhús Restaurant · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SKj-MW7mbLoJwkXkSlnwvBx-VsALjrQZZZ2dnXlBgcHq_o9m2_WExvJfyXT4epu6ASCyj_Hceb4J6GxVvEBuwe0wPsrjSQ5Fv3eI2IkW0rY7hFl38aRklhTwG-K9d9lTHhFowk=w310-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Pakkh%C3%BAs+Restaurant/@64.2502212,-15.2040662,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a44dc1ad7:0x18c6bf98c2f3c25!8m2!3d64.2502212!4d-15.2040662!16s%2Fg%2F1hc2702x8",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "checkedAt": "2026-11-12",
+        "note": "已核对多位作者的独立到店推荐，并在搜索结果中反复出现。互动数为核对当日快照；并非小红书官方榜单。 也有价格、咸度与等位方面的不同意见。",
+        "evidence": [
+          {
+            "url": "https://www.xiaohongshu.com/explore/682784af00000000220359d5",
+            "title": "🇮🇸冰岛赫本 必吃龙虾餐厅🦞Pakkhus",
+            "author": "傲娇的kebab",
+            "likes": 106,
+            "publishedAt": "2025-05-17"
+          },
+          {
+            "url": "https://www.xiaohongshu.com/explore/68dbada10000000007021332",
+            "title": "冰岛吃什么🇮🇸 龙虾小镇Höfn",
+            "author": "腿腿儿",
+            "likes": 130,
+            "publishedAt": "2025-09-30"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hornid",
+      "name": "Kaffi Hornid",
+      "country": "iceland",
+      "stage": "霍芬 · D11–D12",
+      "days": [
+        11,
+        12
+      ],
+      "kind": "冰岛菜／海鲜",
+      "meal": "晚餐备选",
+      "summary": "木屋餐厅里的龙虾汤和汉堡，作为Pakkhús排队时的另一选项。",
+      "description": [
+        "气氛偏休闲，菜单范围较广，从海鲜汤到肉类主菜都能选择。冬天可以先点热汤暖身，再按饥饿程度选主菜；返程有自驾就不搭配酒精。"
+      ],
+      "route": "D11、D12从REY进霍芬镇吃晚餐均可；与Pakkhús作为同一顿的备选，避免为了吃饭重复往返。",
+      "address": "Hafnarbraut 42, 780 Höfn, Iceland",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 2318,
+        "url": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v",
+        "checkedAt": "2026-11-12T05:30:43.757Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 11:30–21:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v",
+        "checkedAt": "2026-11-12T05:30:43.757Z"
+      },
+      "menu": {
+        "items": [
+          "龙虾汤",
+          "驯鹿汉堡"
+        ],
+        "url": "https://kaffihornid.is/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://kaffihornid.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://kaffihornid.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/hornid-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/hornid-1-thumb.webp",
+          "label": "Kaffi Hornid · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QGk7BAKqrBc8WBate2TSvuM83UaFpA9JbG5C2IrBbdMJ1PaoBS2agkpJl9UWYGpA27RIg0M6hEfXCcQAMZ4QXw5teCnex6OQ_KhAaWaYQp5xHoGrU2dUGgZFMP0EbuRBo0yOzZ0STCg4Fr=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/hornid-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/hornid-2-thumb.webp",
+          "label": "Kaffi Hornid · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TS7AlXX1C1d8I3ZjgcrMz2lUyl531INEXs38raVZsq71O2evuHO-2EU3546KjQ509NzF6EVjC4L7qDxfn9LsjkvjKYDp-aii0uFMOudAvH9O_7CcsV1GQbrqT8vAUv0Bc12aBCEDxZRmSB=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/hornid-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/hornid-3-thumb.webp",
+          "label": "Kaffi Hornid · 店铺实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQPDvY7fG338nB9N56pFBOzx0XMAKgYkOoGDLW-San15ZnHE_gUTvthCExLFRA70ClznmZOG9SXKXwQtF3Hfnc8POo1Xp-UZz7cu8NjGPVpS6PkntaArp91JMFdwAO0U9VCqHq=w298-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Kaffi+Hornid/@64.2546423,-15.2088351,17z/data=!3m1!4b1!4m6!3m5!1s0x48cfac5a097e45b7:0xe5fbc31409d8b5ef!8m2!3d64.2546423!4d-15.2088351!16s%2Fg%2F1ts3kt0v",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rain",
+      "name": "Veitingastaðurinn Ráin",
+      "country": "iceland",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "days": [
+        13
+      ],
+      "kind": "海鲜／冰岛菜",
+      "meal": "返程日晚餐",
+      "summary": "凯夫拉维克海边的热餐选择，住Hotel Berg一晚时方便就近解决。",
+      "description": [
+        "餐厅有面向海的窗边座位，菜单以鱼类与常见西式热菜为主。适合把最后一晚留给港镇散步和热饭，不必追求一次完整的城市美食巡游。"
+      ],
+      "route": "D13长途西返后先入住Hotel Berg，再到镇内晚餐；不再为了吃饭折返雷市。次日早班机，早点回房。",
+      "address": "Hafnargata 19, 230 Keflavík, Iceland",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 518,
+        "url": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
+        "checkedAt": "2026-11-12T05:31:23.917Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 11:00–21:30；厨房时段另向店方确认"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
+        "checkedAt": "2026-11-12T05:31:23.917Z"
+      },
+      "menu": {
+        "items": [
+          "当日鱼料理",
+          "当日汤配面包"
+        ],
+        "url": "http://rain.is/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://rain.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "http://rain.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/rain-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/rain-1-thumb.webp",
+          "label": "Veitingastaðurinn Ráin · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q0IUzXHwwYTB3CQt-Evh8hnnhCzm0D5xhL1Mk4g8Mq1qYz6zkjZ_MNlP3t6BLCDq7hgmx8nPYCt_FHCefwIiWh1cw7LszNKiTRFsITuiBDfDQ08TeDfiZSJwpoMv4GvfszeUNbwfGjPE6Y=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/rain-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/rain-2-thumb.webp",
+          "label": "Veitingastaðurinn Ráin · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QYep_h9vFbtbRrrbnTew_c4mQuklTIUz1shye9Tz73jBUXt1BlRNtHdPNQEbAtYA6fAM0ccqaORTSbxeTU48bGS8z1OLAyS_wx3dRIg-2CBc1k7RKFyt6yjYGfKeTS9iTFMhpp8lrzD5vy=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/rain-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/rain-3-thumb.webp",
+          "label": "Veitingastaðurinn Ráin · 当日鱼料理",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgHQZQ_7ss27K1KlpWpEG7MAwCUPMlCaNuaY5tY_NuF3dggPMa6pzRDUbgKbSdwCR5fxBRwEvheqw88vP3nUY2tCzUp4Qr8P8AnhjEwFusDl1A0gd6BxvnjslJ5oYfW3_Wp1OrGA=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Veitingasta%C3%B0urinn+R%C3%A1in/@64.0042661,-22.5555999,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60223b2970881:0xa49fbb57d0eaea0d!8m2!3d64.0042661!4d-22.5555999!16s%2Fg%2F11r8ydn3n",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gasoline",
+      "name": "Gasoline Grill",
+      "country": "denmark",
+      "stage": "哥本哈根市中心 · D14–D15",
+      "days": [
+        14,
+        15
+      ],
+      "kind": "汉堡／快餐",
+      "meal": "快速午餐",
+      "summary": "Landgreven加油站原店，市中心走累时补一只汉堡。",
+      "description": [
+        "2016年起从加油站出发的汉堡品牌，以简短菜单、现做牛肉饼和酱汁见长。原店不接受订位，售完即止；小店打卡可能排队，时间紧别硬等。"
+      ],
+      "route": "D14新港与皇宫区之间可顺路吃，D15逛市中心也能用；原店只有户外座，二月怕冷可改官网所列室内分店。",
+      "address": "Landgreven 10, 1301 København, Denmark",
+      "google": {
+        "rating": 4.4,
+        "reviewCount": 6955,
+        "url": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll",
+        "checkedAt": "2026-11-12T05:31:05.715Z"
+      },
+      "hours": {
+        "lines": [
+          "每天 11:00起，售完即止",
+          "原店不接受订位；只有户外座位"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://www.gasolinegrill.com/locations/landgreven",
+        "checkedAt": "2026-11-12T05:31:05.715Z"
+      },
+      "menu": {
+        "items": [
+          "Cheeseburger 芝士汉堡",
+          "素食汉堡",
+          "薯条"
+        ],
+        "url": "https://www.gasolinegrill.com/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.gasolinegrill.com/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://www.gasolinegrill.com/locations/landgreven"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/gasoline-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/gasoline-1-thumb.webp",
+          "label": "Gasoline Grill · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SdUUQwsuihBhC8pNN4X33TauPp4NglMm2kRuuh9zEJRkxVPdYRv0rqPHhj1zOk1ULGTpbfEkoy3NYtojh6MOpQIMzDIESUU7_5gMCIMskBDPmSFvb1RwJfkeoBAb2UuYNW3Zuh=w224-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/gasoline-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/gasoline-2-thumb.webp",
+          "label": "Gasoline Grill · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QY9ow0BeiUM8GyNGuRfWk3paQCLIdbaDv01rCraOdsBalbU-0F2KQUhplya7dAtyILkQzcdU_bFkLnwUTq7xh2WqUaaa7_9jeX2hroWxGbUe_8WoN9Fhlz_FFVL-cS2v7HwO2VzhV6OMM=w298-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/gasoline-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/gasoline-3-thumb.webp",
+          "label": "Gasoline Grill · 汉堡与薯条",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgs156bDY8eszxwe5VfXz1mDX_onYYP7Cz5NE7or9D6G7bWQHCU43W4FRLRZ8_MjDNVQLsw1FGjDfkoUqD5r1E1SpKCx8Y-AIRfQebBcDU4QdjTfJO7H8Nm7-Az_j9S7Z2T03KWw=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Gasoline+Grill/@55.683242,12.5851505,17z/data=!3m1!4b1!4m6!3m5!1s0x46525319a9ee66e1:0xb6850b6a3fa2148a!8m2!3d55.683242!4d12.5851505!16s%2Fg%2F11cn31cbll",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": "2026-11-12",
+        "evidence": [],
+        "note": "多店讨论混杂，机场店口碑不能直接用于Landgreven原店，不据此标热门。"
+      }
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "country": "denmark",
+      "stage": "哥本哈根市中心 · D14–D15",
+      "days": [
+        14
+      ],
+      "kind": "鸡尾酒吧",
+      "meal": "晚餐后",
+      "summary": "运河旁的客厅式酒吧，适合旅程最后一个晚上喝一杯。",
+      "description": [
+        "2007年开业，气氛像有沙发和老家具的城市客厅，鸡尾酒在季节创作与经典配方之间切换。可以从喜欢的风味入手请调酒师推荐，也可选无酒精饮品。"
+      ],
+      "route": "D14晚餐后从市中心步行去，再回Aperon；D15晚上要飞上海，不另排酒吧。",
+      "address": "Nybrogade 10, 1203 København, Denmark",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 2234,
+        "url": "https://www.google.com/maps/place/Ruby/@55.6767538,12.5766669,17z/data=!3m1!4b1!4m6!3m5!1s0x4652531145a4d87d:0xc5eb75572ba9a10d!8m2!3d55.6767538!4d12.5766669!16s%2Fg%2F1tfxwmtk",
+        "checkedAt": "2026-11-12T05:31:06.633Z"
+      },
+      "hours": {
+        "lines": [
+          "周日至周四 16:00–次日01:00",
+          "周五、周六 16:00–次日02:00"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://rby.dk/",
+        "checkedAt": "2026-11-12T05:31:06.633Z"
+      },
+      "menu": {
+        "items": [
+          "季节鸡尾酒",
+          "经典调酒"
+        ],
+        "url": "https://rby.dk/wp-content/uploads/2025/04/MENU_Ruby.pdf",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://rby.dk/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Ruby/@55.6767538,12.5766669,17z/data=!3m1!4b1!4m6!3m5!1s0x4652531145a4d87d:0xc5eb75572ba9a10d!8m2!3d55.6767538!4d12.5766669!16s%2Fg%2F1tfxwmtk"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://rby.dk/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/ruby-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/ruby-1-thumb.webp",
+          "label": "Ruby · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TlPUShWD5PZWFdRO4e_Bmx0h57vq98J0ur4mVtqe7uY-_0KWLlCHLpTuZf7F9QFZx1A14HzDZXehiy_Us9S-LQXHQ-iYnDB-5GJMnlO0r_wqYxPBNSrrgOuian2HGg9sNBEeMsdCYFuw0=w393-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Ruby/@55.6767538,12.5766669,17z/data=!3m1!4b1!4m6!3m5!1s0x4652531145a4d87d:0xc5eb75572ba9a10d!8m2!3d55.6767538!4d12.5766669!16s%2Fg%2F1tfxwmtk",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/ruby-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/ruby-2-thumb.webp",
+          "label": "Ruby · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNmT1yk2F5Hfq_wI5IZzdLOq5NYgZeB9y6zt-1-Ywae-56TEzu9gsOi0KAwjrgcxVAGAtqvsLKsasggfv562GfNHV8AM7lyEJaigRy6cR5EFSOjxSV4QpYcl3Wi3ilr8NIJbGJ65Uvc58=w238-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Ruby/@55.6767538,12.5766669,17z/data=!3m1!4b1!4m6!3m5!1s0x4652531145a4d87d:0xc5eb75572ba9a10d!8m2!3d55.6767538!4d12.5766669!16s%2Fg%2F1tfxwmtk",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/ruby-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/ruby-3-thumb.webp",
+          "label": "Ruby · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDLYiQLT0nHA5GCmyZ6kfboEYc7MYUucp781Ocudrr9J2f-0eTSYYP1EAhzwSK82H5mZZE0EVyW_cQxZT9lchvZMV3a0zinobi6ljkK056ZCPFu7VWk6Lr2gD3PZzhGfMDJeJ8TQ6MWZU=w238-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Ruby/@55.6767538,12.5766669,17z/data=!3m1!4b1!4m6!3m5!1s0x4652531145a4d87d:0xc5eb75572ba9a10d!8m2!3d55.6767538!4d12.5766669!16s%2Fg%2F1tfxwmtk",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": "2026-11-12",
+        "evidence": [],
+        "note": "有多篇提及，尚未核实足够热门依据，不标热门。"
+      }
+    },
+    {
+      "id": "kronborg",
+      "name": "Restaurant Kronborg",
+      "country": "denmark",
+      "stage": "哥本哈根市中心 · D14–D15",
+      "days": [
+        15
+      ],
+      "kind": "丹麦开放三明治",
+      "meal": "午餐",
+      "summary": "经典丹麦smørrebrød，返程当天留一顿正式午餐。",
+      "description": [
+        "用黑麦面包承载鲱鱼、烟熏鱼等配料，适合两人各点不同口味交换尝试。店面有传统丹麦餐馆的气氛，午餐时段较受欢迎，建议提前订位。"
+      ],
+      "route": "D15逛设计商店、老城和河岸时安排12:00左右午餐；吃完继续步行，留足取行李和去机场的时间。",
+      "address": "Brolæggerstræde 12, 1211 København, Denmark",
+      "google": {
+        "rating": 4.5,
+        "reviewCount": 1981,
+        "url": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8",
+        "checkedAt": "2026-11-12T05:31:06.187Z"
+      },
+      "hours": {
+        "lines": [
+          "周一至周三、周日 11:00–18:00",
+          "周四至周六 11:00–22:00",
+          "厨房提前1小时结束；采用官网时刻，地图有差异"
+        ],
+        "note": "当地时间；已核对当前常规时段，2027年二月可能调整。",
+        "sourceUrl": "https://restaurantkronborg.dk/contact/?lang=en",
+        "checkedAt": "2026-11-12T05:31:06.187Z"
+      },
+      "menu": {
+        "items": [
+          "鲱鱼开放三明治",
+          "烟熏鳗鱼配炒蛋",
+          "烟熏三文鱼"
+        ],
+        "url": "http://www.restaurantkronborg.dk/",
+        "note": "列出已见菜单／地图餐饮亮点，菜品与价格以到店当日菜单为准。"
+      },
+      "website": "http://www.restaurantkronborg.dk/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺资料",
+          "url": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8"
+        },
+        {
+          "title": "官网／当地旅游局",
+          "url": "https://restaurantkronborg.dk/contact/?lang=en"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/kronborg-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/kronborg-1-thumb.webp",
+          "label": "Restaurant Kronborg · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qv2QVwx3r1yCMifrDkCqqnyzxEvQkhU4tldtLHsCiWC6CYMV2iswh6Tj_8F3aI6bBoTd1TYN9uRpqbZZY8n4r4B1i2jzsIszcr9k_hTrawtKpGHZHSiM9XYveVb_SnveYywbP6jHw2KJfh=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/kronborg-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/kronborg-2-thumb.webp",
+          "label": "Restaurant Kronborg · 餐饮实景",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SiydYcLs2pqxfd_-NSTcB8JS2ilvIkT3l_WP3_tfNfKMN-OjA9rR4vdCem5_E_UevyN-OqLdpUDtDYwsXMmDgAhNRXUna3adoWsIoKwgqHOeGB0cm8cZj5GqA_rbIWXQuERBGY=w372-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/kronborg-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/kronborg-3-thumb.webp",
+          "label": "Restaurant Kronborg · 店方图片",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RDe_VJOADrb71HZSgcZycRvRSSZo3qI-yxcEqplA2ai9lcUXzmmDreBKPtR-IyeKPEFsuBCkxMSmUnm_D547de_yjJo-APcWxm-b5-1r90KmDEccrSpWDqy9TeUG2qrQXNGkpG=w224-h336-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Restaurant+Kronborg/@55.6776472,12.5745583,17z/data=!3m1!4b1!4m6!3m5!1s0x465253110b0175df:0x5adc8a312ca9da23!8m2!3d55.6776472!4d12.5745583!16s%2Fg%2F1tdvhsk8",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "checkedAt": null,
+        "evidence": []
+      }
+    }
+  ]
+}
