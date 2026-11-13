@@ -18,3 +18,7 @@ Checked 2026-11-12 against Google Maps and venue/tourism sources listed in dinin
 - La Banchina: winter café and kitchen schedules differ; sauna is separate.
 
 No Xiaohongshu recommendation badge was inferred for the new venues.
+
+## Iceland screenshot ranking · 2026-11-13
+
+Added Caruso, Messinn (Reykjavík), Íslenski Barinn and Sandholt with verified Maps ratings, review counts and price brackets, official menus/hours, and venue-specific photos. Existing BBP and Pakkhús receive ranks 5 and 6. All six ranks come from the user-supplied AI 点点 screenshot, saved as xhs-iceland-ranking.webp; they are not a permanent platform leaderboard. Existing independent evidence is retained. Reykjavík additions are optional D13 candidates, not new itinerary commitments; Sandholt closes at 18:00.

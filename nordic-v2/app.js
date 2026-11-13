@@ -391,7 +391,7 @@ async function renderDining(countryId,itemId){
  const expectedHash=location.hash;
  $('#main').innerHTML='<div class="page-wrap"><p role="status">正在整理餐厅与酒吧…</p></div>';
  try{
-  if(!diningData){if(!diningRequest)diningRequest=fetch('../nordic-v2/dining.json?v=7').then(r=>{if(!r.ok)throw Error('dining');return r.json();}).then(x=>diningData=x).catch(e=>{diningRequest=null;throw e;});await diningRequest;}
+  if(!diningData){if(!diningRequest)diningRequest=fetch('../nordic-v2/dining.json?v=8').then(r=>{if(!r.ok)throw Error('dining');return r.json();}).then(x=>diningData=x).catch(e=>{diningRequest=null;throw e;});await diningRequest;}
   if(location.hash!==expectedHash)return;
   const item=itemId?diningData.items.find(a=>a.id===itemId):null;
   if(itemId&&!item){$('#main').innerHTML='<div class="page-wrap"><h1>未找到这家店</h1><a href="#restaurants/'+currentCountry+'">返回餐厅列表</a></div>';return;}

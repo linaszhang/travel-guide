@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "items": [
     {
       "id": "engel",
@@ -3347,8 +3347,8 @@
       ],
       "xiaohongshu": {
         "recommended": true,
-        "checkedAt": "2026-11-12",
-        "note": "已核对多位作者的独立到店推荐，并在搜索结果中反复出现。互动数为核对当日快照；并非小红书官方榜单。 也有价格、咸度与等位方面的不同意见。",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00",
+        "note": "来自用户提供的小红书 AI 点点“冰岛餐厅”截图：第6名，截图显示15%人推荐。该顺序仅代表本次点点回答，不代表平台固定榜单。",
         "evidence": [
           {
             "url": "https://www.xiaohongshu.com/explore/682784af00000000220359d5",
@@ -3363,8 +3363,14 @@
             "author": "腿腿儿",
             "likes": 130,
             "publishedAt": "2025-09-30"
+          },
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-iceland-ranking.webp"
           }
-        ]
+        ],
+        "rank": 6,
+        "rankingSource": "user-supplied-diandian-screenshot"
       },
       "averagePrice": {
         "min": 6000,
@@ -3781,9 +3787,17 @@
         }
       ],
       "xiaohongshu": {
-        "recommended": false,
-        "checkedAt": null,
-        "evidence": []
+        "recommended": true,
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-iceland-ranking.webp"
+          }
+        ],
+        "rank": 5,
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“冰岛餐厅”截图：第5名，截图显示15%人推荐。该顺序仅代表本次点点回答，不代表平台固定榜单。"
       },
       "averagePrice": {
         "min": 1,
@@ -4318,6 +4332,487 @@
         "note": "访客报送区间，咖啡小点与正式用餐价格不同；不含桑拿。",
         "sourceUrl": "https://www.google.com/maps/place/La+Banchina/@55.6893015,12.6109311,17z/data=!3m1!5s0x465252d7e1a417dd:0x4f4f33c0384691ec!4m7!3m6!1s0x465252d7e174647b:0x4b04e382875aca3e!8m2!3d55.6893015!4d12.6109311!10e2!16s%2Fg%2F11cn0s82p4",
         "checkedAt": "2026-11-12T06:46:39.879767+00:00"
+      }
+    },
+    {
+      "id": "caruso",
+      "name": "Caruso",
+      "country": "iceland",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "days": [
+        13
+      ],
+      "kind": "意大利菜／海鲜",
+      "meal": "进雷市时的用餐备选",
+      "summary": "雷市老城的意大利餐厅，海鲜、烩饭与老房子里的用餐氛围是看点。",
+      "description": [
+        "位于老城 Austurstræti，适合想吃海鲜、意面或羊肉、同时喜欢老房子氛围的一餐。",
+        "建筑历史可追溯到1801年；2007年火灾后重建，历史街区的尺度与室内陈设仍是体验的一部分。两人可从一份汤、两道主菜开始点，海鲜与酒水会明显拉高消费。"
+      ],
+      "route": "D13西返后，只有本来就进雷克雅未克、时间与路况允许时选用；不为用餐额外绕路。次日早班机，仍住凯夫拉维克。",
+      "address": "Austurstræti 22, 101 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.3,
+        "reviewCount": 1215,
+        "url": "https://www.google.com/maps/place/Caruso/@64.1472762,-21.9372139,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674cd55210aa1:0xcf638379efd7b08e!8m2!3d64.1472762!4d-21.9372139!16s%2Fg%2F12qgww58s",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周一至周四 11:30–22:30",
+          "周五 11:30–23:30；周六 12:00–23:30",
+          "周日 17:00–22:30"
+        ],
+        "note": "当地时间；当前常规时段，二月出发前复核。",
+        "sourceUrl": "https://www.caruso.is/?lang=en",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "menu": {
+        "items": [
+          "龙虾浓汤 · 3,290 ISK",
+          "海鲜烩饭 · 3,690 ISK",
+          "蘑菇烩饭 · 主菜4,390 ISK",
+          "烤羊排",
+          "烤三文鱼",
+          "烤龙虾（以当日供应为准）"
+        ],
+        "url": "https://www.caruso.is/matsedill/menu-evening/?lang=en",
+        "note": "菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.caruso.is/?lang=en",
+      "sources": [
+        {
+          "title": "Google Maps 店铺、评分与人均价格",
+          "url": "https://www.google.com/maps/place/Caruso/@64.1472762,-21.9372139,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674cd55210aa1:0xcf638379efd7b08e!8m2!3d64.1472762!4d-21.9372139!16s%2Fg%2F12qgww58s"
+        },
+        {
+          "title": "官网菜单与营业时间",
+          "url": "https://www.caruso.is/?lang=en"
+        },
+        {
+          "title": "菜单",
+          "url": "https://www.caruso.is/matsedill/menu-evening/?lang=en"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/caruso-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/caruso-1-thumb.webp",
+          "label": "Caruso · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sgn6VFPEaizsD9lL8V_AJtxZz-XE3kRLXPrpo4f5_XCvVatGzkJhWB1t8gjpK3ybI_38B_6KTEXyl9ZJo3c5R7JfQi0LRtWuJdd3A3-j9jWkY2EE_SrUX_5ooAs1DZWOScmmDHIQfbuDnC=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caruso/@64.1472762,-21.9372139,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674cd55210aa1:0xcf638379efd7b08e!8m2!3d64.1472762!4d-21.9372139!16s%2Fg%2F12qgww58s",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/caruso-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/caruso-2-thumb.webp",
+          "label": "Caruso · 烤龙虾",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLelgOAm401TOGxpA4UrfLkKubP3YNwcnInq7EXx2mbnb-c4k4n6RL7fOxWFMU8GSKkonKK5QKNFSnKjJEAUNSuiFnuJtA3O0sJI0nMlehcmEGjuHWJVR2fj371bF6b_P0UfEuQutexQ59Y=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caruso/@64.1472762,-21.9372139,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674cd55210aa1:0xcf638379efd7b08e!8m2!3d64.1472762!4d-21.9372139!16s%2Fg%2F12qgww58s",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/caruso-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/caruso-3-thumb.webp",
+          "label": "Caruso · 海鲜烩饭",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLchBH3b1es-OPJ87jZDraFfeIvOCiAQF5VmLgL8rk2I84AFvS_EGKnSKoKl6Qsh0yfE2lR-j8Gd--WBc-RKTRucFHcdjT2dNbGFCpjEWDtHYJlmK7e6THxEXV49uIVa02WZcF6n=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Caruso/@64.1472762,-21.9372139,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674cd55210aa1:0xcf638379efd7b08e!8m2!3d64.1472762!4d-21.9372139!16s%2Fg%2F12qgww58s",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 1,
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“冰岛餐厅”截图：第1名，截图显示33%人推荐。该顺序仅代表本次点点回答，不代表平台固定榜单。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-iceland-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 14000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送消费区间，点单及酒水影响较大。",
+        "sourceUrl": "https://www.google.com/maps/place/Caruso/@64.1472762,-21.9372139,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674cd55210aa1:0xcf638379efd7b08e!8m2!3d64.1472762!4d-21.9372139!16s%2Fg%2F12qgww58s",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      }
+    },
+    {
+      "id": "messinn",
+      "name": "Messinn · 雷市店",
+      "country": "iceland",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "days": [
+        13
+      ],
+      "kind": "冰岛海鲜／鱼锅",
+      "meal": "进雷市时的用餐备选",
+      "summary": "雷市市中心的海鲜餐厅，招牌是直接连锅上桌、配黄油土豆与蔬菜的鱼锅。",
+      "description": [
+        "这里重点吃鱼锅：现做的鱼配土豆和蔬菜，连锅端上桌，适合两人分着尝不同鱼种。选择的是 Lækjargata 的雷市店，不是其他城市的同名分店。",
+        "菜单有北极红点鲑、鳕鱼、大西洋狼鱼与海鲜意面；鱼锅大多是浓郁的黄油或奶油风味。想吃清淡一点，可以点单时问当天鱼种与做法，乳制品过敏也应先告知。"
+      ],
+      "route": "D13西返后，只有本来就进雷克雅未克、时间与路况允许时选用；不为用餐额外绕路。次日早班机，仍住凯夫拉维克。",
+      "address": "Lækjargata 6b, 101 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 3769,
+        "url": "https://www.google.com/maps/place/Messinn/@64.1465831,-21.9377267,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60b2d5e1084f3:0xaa96132cf3b45ef7!8m2!3d64.1465831!4d-21.9377267!16s%2Fg%2F11byxgc8c4",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周日至周四 11:30–21:00",
+          "周五、周六 11:30–22:00"
+        ],
+        "note": "当地时间；当前常规时段，二月出发前复核。",
+        "sourceUrl": "https://www.messinn.com/en",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "menu": {
+        "items": [
+          "北极红点鲑鱼锅 · 5,900 ISK",
+          "鳕鱼鱼锅 · 5,900 ISK",
+          "冰岛奶油鱼炖菜 Plokkfiskur · 5,450 ISK",
+          "大西洋狼鱼鱼锅 · 5,800 ISK",
+          "海鲜意面 · 5,550 ISK",
+          "干邑龙虾浓汤 · 3,990 ISK"
+        ],
+        "url": "https://dineout-sites-messinn.cdn.prismic.io/dineout-sites-messinn/abqrcbbci2UF6MEp_messinnMENUen.pdf",
+        "note": "菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://www.messinn.com/en",
+      "sources": [
+        {
+          "title": "Google Maps 店铺、评分与人均价格",
+          "url": "https://www.google.com/maps/place/Messinn/@64.1465831,-21.9377267,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60b2d5e1084f3:0xaa96132cf3b45ef7!8m2!3d64.1465831!4d-21.9377267!16s%2Fg%2F11byxgc8c4"
+        },
+        {
+          "title": "官网菜单与营业时间",
+          "url": "https://www.messinn.com/en"
+        },
+        {
+          "title": "菜单",
+          "url": "https://dineout-sites-messinn.cdn.prismic.io/dineout-sites-messinn/abqrcbbci2UF6MEp_messinnMENUen.pdf"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/messinn-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/messinn-1-thumb.webp",
+          "label": "Messinn · 雷市店 · 店铺外观",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBa1cEjUw4sHvjH1ZVm7D3UWHwutsFyHpoIHdyw5T68-l1_JbGJMe2Hw_A4vwSqWBIibbeSydEu-lwaA2Hai6_oP8NENBkh8i6vXRbjbHb5PHRwT3feKwP9riLvDXJ_7iN0-xn5gKiyXUE=w408-h306-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Messinn/@64.1465831,-21.9377267,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60b2d5e1084f3:0xaa96132cf3b45ef7!8m2!3d64.1465831!4d-21.9377267!16s%2Fg%2F11byxgc8c4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/messinn-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/messinn-2-thumb.webp",
+          "label": "Messinn · 雷市店 · 鱼锅与用餐环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SjrhMMIOAMqWEkx6d74U2HrGsIuvWe4iDfLqGAVgBVBccNzIBmYdTcB_1cDfTmK6FM2Qwlsf_l9vGaEdr1KuQAbpW8xwdeGuY9EhwHzwGQ8XSBH-24tOQ10kD64IcG3vA6QJ2txZedOW0V=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Messinn/@64.1465831,-21.9377267,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60b2d5e1084f3:0xaa96132cf3b45ef7!8m2!3d64.1465831!4d-21.9377267!16s%2Fg%2F11byxgc8c4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/messinn-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/messinn-3-thumb.webp",
+          "label": "Messinn · 雷市店 · 海鲜意面",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWEpVK5NgU5ObmnhO5uOBGR-_lNJ8VgRHLdtKEZEy9Etdp7hyit6k9_-BlNItQvsY9fqGDTRcGYbFtkIxdwrhBAaKIvVpTuVSPPtAWgtmAzXFgl6SxMV4bhwVVUJKsUDMUywh8=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Messinn/@64.1465831,-21.9377267,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60b2d5e1084f3:0xaa96132cf3b45ef7!8m2!3d64.1465831!4d-21.9377267!16s%2Fg%2F11byxgc8c4",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 2,
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“冰岛餐厅”截图：第2名，截图显示25%人推荐。该顺序仅代表本次点点回答，不代表平台固定榜单。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-iceland-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 16000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送消费区间，点单及酒水影响较大。",
+        "sourceUrl": "https://www.google.com/maps/place/Messinn/@64.1465831,-21.9377267,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60b2d5e1084f3:0xaa96132cf3b45ef7!8m2!3d64.1465831!4d-21.9377267!16s%2Fg%2F11byxgc8c4",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      }
+    },
+    {
+      "id": "islenski",
+      "name": "Íslenski Barinn · 冰岛酒吧",
+      "country": "iceland",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "days": [
+        13
+      ],
+      "kind": "冰岛菜／酒吧",
+      "meal": "进雷市时的用餐备选",
+      "summary": "市中心的冰岛菜酒吧，鱼炖菜、慢炖羊小腿和本地啤酒适合暖身。",
+      "description": [
+        "比正式餐厅更轻松的冰岛菜酒吧，适合想尝传统口味、又希望菜单里有炸鱼薯条这类熟悉选项的一餐。店内同时有餐食与酒吧氛围，厨房关闭后仍营业不代表还能点正餐。",
+        "Plokkfiskur 是把鱼与土豆等做成的家常鱼炖菜，这里做成焗烤版本，配黑麦面包与黄油。慢炖羊小腿配土豆泥、红卷心菜和啤酒酱，份量与风味都更适合冬天晚餐。"
+      ],
+      "route": "D13西返后，只有本来就进雷克雅未克、时间与路况允许时选用；不为用餐额外绕路。次日早班机，仍住凯夫拉维克。",
+      "address": "Ingólfsstræti 1a, 101 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.7,
+        "reviewCount": 5288,
+        "url": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "hours": {
+        "lines": [
+          "周日至周四 11:00–次日01:00",
+          "周五、周六 11:00–次日03:00",
+          "厨房每天 11:00–22:30"
+        ],
+        "note": "当地时间；当前常规时段，二月出发前复核。",
+        "sourceUrl": "https://islenskibarinn.is/",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "menu": {
+        "items": [
+          "焗烤冰岛鱼炖菜 · 4,150 ISK",
+          "慢炖羊小腿 · 5,850 ISK",
+          "炸鱼薯条 · 4,250 ISK",
+          "当日鲜鱼 · 4,750 ISK",
+          "烟熏羊肉薄饼 · 2,850 ISK",
+          "本地啤酒（按当日酒单点选）"
+        ],
+        "url": "https://islenskibarinn.is/",
+        "note": "菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://islenskibarinn.is/",
+      "sources": [
+        {
+          "title": "Google Maps 店铺、评分与人均价格",
+          "url": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0"
+        },
+        {
+          "title": "官网菜单与营业时间",
+          "url": "https://islenskibarinn.is/"
+        },
+        {
+          "title": "菜单",
+          "url": "https://islenskibarinn.is/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/islenski-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/islenski-1-thumb.webp",
+          "label": "Íslenski Barinn · 冰岛酒吧 · 店铺外观",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU4uaGxsQLAXoZ00FtaFrhOuKGRoVhPfxivDyYmqpczccotu6PflxOGgH5VDvF9pOfKw9HOyzGpLFKHl5zVnrwTA0GTMMgpQA8VbsAUR15PUYFcEcuM1vyk-xCfEvNFt_n-GwhqbAakDxv=w408-h311-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/islenski-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/islenski-2-thumb.webp",
+          "label": "Íslenski Barinn · 冰岛酒吧 · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TC2L5ECLmUPIOCzmQisqXiQQnqMGpgsstvtEPLRJPILlo-galmaADtK7X2v9Jn4QcMJJ4p0JiSec4ADTTB4fyZ7pWMxDUPX7rJEPfuP6x_bGJ7Kpnm394rsBOBqOakGVdUxwmdynlVxQFO=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/islenski-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/islenski-3-thumb.webp",
+          "label": "Íslenski Barinn · 冰岛酒吧 · 焗烤鱼炖菜",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8bVir-TNGMdzj2xq5o4J1neIO1niuDHrQudcMs4KZCrF2Uj_C4CUSyTC0XEKFPBHUS5thvt7eNMNnTWDKHSpyuWSQIckXA9rc_CVL6_uqp9NNR-nPN1ZTWogvOrULG-fGpeUyPA=w224-h224-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/islenski-4.webp",
+          "thumbnail": "../nordic-v2/assets/dining/islenski-4-thumb.webp",
+          "label": "Íslenski Barinn · 冰岛酒吧 · 炸鱼薯条",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SQtOuncRf_Rm4atBxT_ur_6faGeq8SouhA36dAQzYnGQUC3EuDN6VndKGKJGO6dj7Fj-CuAmKs6iMDR1G_0BlT7u9d0i5KpVK50uAUEjcbqvZu9Jn03sOUPeXSJ5kHmPDcRIAe4imdcnA=w426-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 3,
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“冰岛餐厅”截图：第3名，截图显示25%人推荐。该顺序仅代表本次点点回答，不代表平台固定榜单。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-iceland-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 4000,
+        "max": 6000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送消费区间，点单及酒水影响较大。",
+        "sourceUrl": "https://www.google.com/maps/place/%C3%8Dslenski+Barinn+-+The+Icelandic+Bar/@64.1469718,-21.933154,17z/data=!3m1!4b1!4m6!3m5!1s0x43812fcd8fbbeea9:0xb747b528932f1372!8m2!3d64.1469718!4d-21.933154!16s%2Fg%2F11b6s3d1c0",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      }
+    },
+    {
+      "id": "sandholt",
+      "name": "Sandholt",
+      "country": "iceland",
+      "stage": "西返 → 凯夫拉维克 · D13",
+      "days": [
+        13
+      ],
+      "kind": "面包房／咖啡／早午餐",
+      "meal": "进雷市时的白天备选",
+      "summary": "Laugavegur 主街的家族面包房，酸种面包、甜点和早午餐适合白天进城时选。",
+      "description": [
+        "传承到第四代的家族面包房，把传统面包工艺与现代早午餐放在一起。可以只买面包、糕点和咖啡，也可以坐下来吃三文鱼吐司、华夫饼或热食。",
+        "这家更适合早餐、早午餐或下午茶，18:00就关门。你们D13从霍芬长途西返，只有提早到达并本来就进雷市才考虑；不用为赶关门时间压缩沿途行程。"
+      ],
+      "route": "D13西返后，只有本来就进雷克雅未克、时间与路况允许时选用；不为用餐额外绕路。次日早班机，仍住凯夫拉维克。",
+      "address": "Laugavegur 36, 101 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.6,
+        "reviewCount": 4538,
+        "url": "https://www.google.com/maps/place/Sandholt/@64.1450318,-21.9263398,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674c7c735704b:0xa9e2be015da85d40!8m2!3d64.1450318!4d-21.9263398!16s%2Fg%2F1tfm67c4",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "hours": {
+        "lines": [
+          "每天 07:30–18:00"
+        ],
+        "note": "当地时间；当前常规时段，二月出发前复核。",
+        "sourceUrl": "https://sandholt.is/en",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
+      },
+      "menu": {
+        "items": [
+          "三文鱼牛油果吐司 · 2,990 ISK",
+          "羊肉三明治 · 2,990 ISK",
+          "莓果华夫饼 · 2,690 ISK",
+          "Shakshuka 番茄炖蛋 · 3,290 ISK",
+          "Skyr 莓果燕麦碗 · 1,490 ISK",
+          "酸种面包与当日糕点",
+          "卡布奇诺 · 750 ISK"
+        ],
+        "url": "https://sandholt.is/en/our-menu",
+        "note": "菜品与价格以到店当日菜单为准。"
+      },
+      "website": "https://sandholt.is/en",
+      "sources": [
+        {
+          "title": "Google Maps 店铺、评分与人均价格",
+          "url": "https://www.google.com/maps/place/Sandholt/@64.1450318,-21.9263398,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674c7c735704b:0xa9e2be015da85d40!8m2!3d64.1450318!4d-21.9263398!16s%2Fg%2F1tfm67c4"
+        },
+        {
+          "title": "官网菜单与营业时间",
+          "url": "https://sandholt.is/en"
+        },
+        {
+          "title": "菜单",
+          "url": "https://sandholt.is/en/our-menu"
+        }
+      ],
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/dining/sandholt-1.webp",
+          "thumbnail": "../nordic-v2/assets/dining/sandholt-1-thumb.webp",
+          "label": "Sandholt · 面包与店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcxb1qt74WYwlwQTwe9EbdQzx5IRQOiRit0J6GfZ_2VWrSb7uH-GCeY3UNQv4YXx7ocL371WIP0s8_Hob5yOwGIgMepeCp8i_Zg6kXIliUwZCjJFld7jYSdlMKWkpu3IjjmB420W4pck2O=w408-h544-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Sandholt/@64.1450318,-21.9263398,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674c7c735704b:0xa9e2be015da85d40!8m2!3d64.1450318!4d-21.9263398!16s%2Fg%2F1tfm67c4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/sandholt-2.webp",
+          "thumbnail": "../nordic-v2/assets/dining/sandholt-2-thumb.webp",
+          "label": "Sandholt · 甜点柜",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZuHg4EBN54sMiAYCzRBDmyNzgBykRf0xzOKtlamVJ_ZZ9GR24HKOLUCwdG4qtH7-wuoVjByvCcMG1nh2wC-WBkXNh23w7LDWfg2T37xHVd89ifE3vDJz3mbmtmrJ39mxg-wHQWQ=w529-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Sandholt/@64.1450318,-21.9263398,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674c7c735704b:0xa9e2be015da85d40!8m2!3d64.1450318!4d-21.9263398!16s%2Fg%2F1tfm67c4",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/dining/sandholt-3.webp",
+          "thumbnail": "../nordic-v2/assets/dining/sandholt-3-thumb.webp",
+          "label": "Sandholt · 华夫饼早午餐",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sc4MGQmdRyT94RV0keVSXrCEGUz7I5TdsdMPJmfbYsWCid82OyrvGj2O_mY4CVfS67f_jlaR1fGWJtFnkNaupVxw89X0CT5pWyr3I8iDbu6sjFsn9wSdXzCN2baXZuWnko_9geog=w397-h298-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/Sandholt/@64.1450318,-21.9263398,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674c7c735704b:0xa9e2be015da85d40!8m2!3d64.1450318!4d-21.9263398!16s%2Fg%2F1tfm67c4",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": true,
+        "rank": 4,
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00",
+        "rankingSource": "user-supplied-diandian-screenshot",
+        "note": "来自用户提供的小红书 AI 点点“冰岛餐厅”截图：第4名，截图显示16%人推荐。该顺序仅代表本次点点回答，不代表平台固定榜单。",
+        "evidence": [
+          {
+            "title": "用户提供的 AI 点点推荐截图",
+            "url": "../nordic-v2/assets/dining/xhs-iceland-ranking.webp"
+          }
+        ]
+      },
+      "averagePrice": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "访客报送消费区间，点单及酒水影响较大。",
+        "sourceUrl": "https://www.google.com/maps/place/Sandholt/@64.1450318,-21.9263398,17z/data=!3m1!4b1!4m6!3m5!1s0x48d674c7c735704b:0xa9e2be015da85d40!8m2!3d64.1450318!4d-21.9263398!16s%2Fg%2F1tfm67c4",
+        "checkedAt": "2026-11-13T06:17:59.166506+00:00"
       }
     }
   ]
