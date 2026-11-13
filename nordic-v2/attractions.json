@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "items": [
     {
       "id": "central-station",
@@ -1836,6 +1836,50 @@
       "descriptionCheckedAt": "2026-11-11"
     },
     {
+      "id": "hallgrimskirkja",
+      "country": "iceland",
+      "group": "落地后 · 教堂秋千 → Hveragerði",
+      "name": "Hallgrímskirkja 哈尔格林姆教堂",
+      "score": 8.5,
+      "days": [
+        9
+      ],
+      "summary": "落地取车后顺路短停，在教堂门口的秋千与高耸立面合影。",
+      "route": "D9约15:30从KEF取车点出发，约16:30–17:00拍教堂外观与门口秋千；随后约50–70分钟开往INNI。优先找Eiríksgata教堂侧的合法车位，收费按现场标识。面对教堂左侧找秋千；二月是否保留、开放以现场为准。若航班、取车延误或路况不佳，缩短或跳过。",
+      "duration": "约30分钟，外观与秋千拍照",
+      "query": "Hallgrimskirkja Reykjavik Iceland",
+      "source": {
+        "label": "Visit Reykjavík · 经典景点",
+        "url": "https://visitreykjavik.is/sights-attractions"
+      },
+      "photos": [
+        {
+          "label": "雷克雅未克 · 大教堂",
+          "src": "../nordic/assets/day-10-0.jpg",
+          "source": "https://tanabotalog.com/iceland/"
+        }
+      ],
+      "description": [
+        "Hallgrímskirkja 的建设跨越1945至1986年，名称纪念冰岛宗教诗人 Hallgrímur Pétursson。它既是雷克雅未克的重要城市地标，也是一座仍有礼拜和音乐活动的教堂。",
+        "可以从街道上远看它怎样成为方向标记，再走近观察连续竖向构件与中央塔楼的比例。冬季天空与浅色外墙容易形成克制的色调，适合留意结构和阴影；从建筑外观走入室内，也能感受纪念性尺度如何转为安静的公共空间。",
+        "拍照可先找门口秋千，以教堂立面作为背景。游客记录称秋千位于面向教堂的左侧，属于现场设施，冬季能否使用需到场确认；外观拍照不依赖登塔或室内开放时间。"
+      ],
+      "descriptionSources": [
+        "https://visitreykjavik.is/service/hallgrimskirkja-church-tower",
+        "https://ae.trip.com/moments/detail/reykjavik-1044-139293302?locale=en-AE"
+      ],
+      "descriptionCheckedAt": "2026-11-13",
+      "openingHours": {
+        "lines": [
+          "冬季教堂每天 10:00–17:00；塔楼最晚入场 16:45。"
+        ],
+        "note": "礼拜、仪式和音乐会期间可能暂停教堂或塔楼参观；按当日公告复核。",
+        "sourceUrl": "https://www.hallgrimskirkja.is/en-gb/opnunartimar",
+        "checkedAt": "2026-11-11",
+        "status": "reference"
+      }
+    },
+    {
       "id": "reykjadalur",
       "country": "iceland",
       "group": "Hveragerði · 住宿周边支线",
@@ -2766,46 +2810,6 @@
         "https://www.vestrahorn.is/"
       ],
       "descriptionCheckedAt": "2026-11-11"
-    },
-    {
-      "id": "hallgrimskirkja",
-      "country": "iceland",
-      "group": "西返备选 · 雷市支线",
-      "name": "Hallgrímskirkja 哈尔格林姆教堂",
-      "score": 8.5,
-      "days": [],
-      "summary": "高耸立面适合建筑外观摄影，和自然风景形成变化。",
-      "route": "你们第13天直接长途到凯夫拉维克，目前没有雷市观光；要进城需提前缩短东段，不能当成已安排。",
-      "duration": "30–45分钟，登塔另留时间",
-      "query": "Hallgrimskirkja Reykjavik Iceland",
-      "source": {
-        "label": "Visit Reykjavík · 经典景点",
-        "url": "https://visitreykjavik.is/sights-attractions"
-      },
-      "photos": [
-        {
-          "label": "雷克雅未克 · 大教堂",
-          "src": "../nordic/assets/day-10-0.jpg",
-          "source": "https://tanabotalog.com/iceland/"
-        }
-      ],
-      "description": [
-        "Hallgrímskirkja 的建设跨越1945至1986年，名称纪念冰岛宗教诗人 Hallgrímur Pétursson。它既是雷克雅未克的重要城市地标，也是一座仍有礼拜和音乐活动的教堂。",
-        "可以从街道上远看它怎样成为方向标记，再走近观察连续竖向构件与中央塔楼的比例。冬季天空与浅色外墙容易形成克制的色调，适合留意结构和阴影；从建筑外观走入室内，也能感受纪念性尺度如何转为安静的公共空间。"
-      ],
-      "descriptionSources": [
-        "https://visitreykjavik.is/service/hallgrimskirkja-church-tower"
-      ],
-      "descriptionCheckedAt": "2026-11-11",
-      "openingHours": {
-        "lines": [
-          "冬季教堂每天 10:00–17:00；塔楼最晚入场 16:45。"
-        ],
-        "note": "礼拜、仪式和音乐会期间可能暂停教堂或塔楼参观；按当日公告复核。",
-        "sourceUrl": "https://www.hallgrimskirkja.is/en-gb/opnunartimar",
-        "checkedAt": "2026-11-11",
-        "status": "reference"
-      }
     },
     {
       "id": "harpa",

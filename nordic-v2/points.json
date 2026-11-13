@@ -867,7 +867,9 @@
   {
     "query": "Hallgrimskirkja Reykjavik",
     "name": "哈尔格林姆斯教堂",
-    "days": [],
+    "days": [
+      9
+    ],
     "kind": "sight",
     "coord": [
       -21.9267103,
@@ -880,7 +882,8 @@
     "image": "../nordic/assets/day-10-0.jpg",
     "imageLabel": "雷克雅未克 · 大教堂",
     "imageSource": "https://tanabotalog.com/iceland/",
-    "rating": null
+    "rating": null,
+    "description": "D9约16:30–17:00短停：在教堂正面与门口秋千拍照，面对教堂左侧寻找；秋千以现场是否保留、开放为准。随后直接去INNI入住。"
   },
   {
     "query": "Harpa Reykjavik",

@@ -2400,10 +2400,10 @@
       {
         "num": 9,
         "id": "262:702",
-        "title": "特罗姆瑟 → 冰岛 · INNI温泉公寓",
-        "date": "2月14日（周日） · 14:20抵达，取车后前往Hveragerði入住INNI",
+        "title": "特罗姆瑟 → 冰岛 · 教堂秋千 → INNI",
+        "date": "2月14日（周日） · 14:20抵达，取车后拍教堂秋千，再去INNI泡汤",
         "tags": [
-          "约1.5–2h（机场 → Hveragerði冬季规划）",
+          "约2–2.5h（机场 → 教堂 → INNI，约95–105km）",
           "✈️ 07:50 飞冰岛 · 经卑尔根"
         ],
         "photos": [
@@ -2489,7 +2489,7 @@
             "title": "取行李 · 机场取车",
             "body": [
               {
-                "t": "取行李，按订单于15:00取车并记录车况，取车后直接前往Hveragerði的INNI精品公寓。",
+                "t": "取行李，按订单于15:00取车并记录车况。目标15:30离开机场，先去雷市教堂门口拍秋千，再前往Hveragerði的INNI精品公寓。",
                 "links": []
               }
             ],
@@ -2511,13 +2511,75 @@
           {
             "time": [
               "下午",
-              "取车后"
+              "约16:30–17:00"
             ],
-            "emoji": "🏨",
-            "title": "机场 → INNI精品公寓 · 晚餐与泡汤",
+            "emoji": "⛪",
+            "title": "Hallgrímskirkja 哈尔格林姆斯教堂 · 秋千拍照",
             "body": [
               {
-                "t": "取车后前往Hveragerði镇内的INNI精品公寓入住（已预订）。休息后可使用住客共用泡池、桑拿与蒸汽房；晚餐可选镇内餐厅。具体入住时段与晚到安排以订单及房东确认为准。",
+                "t": "机场取车后先到Hallgrímskirkja，预留约30分钟拍教堂正面与门口秋千。面对教堂时先到左侧找秋千，让人物与高耸立面一起入镜；这是游客记录中的位置，二月是否保留、开放以现场为准。",
+                "links": []
+              },
+              {
+                "t": "拍完直接开往INNI，争取18:00–18:15抵达。若航班、取车延误或天气影响驾驶，缩短或跳过这段拍照。",
+                "links": []
+              },
+              {
+                "name": "拍照点 · 光线与景色",
+                "c": [
+                  {
+                    "t": "教堂门口秋千：人坐在秋千上，镜头退后把教堂尖塔一起收入画面；另补一张正面中轴构图。",
+                    "links": []
+                  }
+                ]
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "Hallgrímskirkja",
+                  "query": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland"
+                }
+              ],
+              "parking": [
+                {
+                  "label": "Eiríksgata教堂侧停车区",
+                  "query": "Eiriksgata parking Hallgrimskirkja Reykjavik Iceland"
+                }
+              ],
+              "description": "导航到Hallgrímskirkja（Hallgrímstorg 1），优先找Eiríksgata教堂侧停车区的合法车位，步行到正门；收费与可用车位按现场标识。",
+              "sources": [
+                "https://www.hallgrimskirkja.is/en-gb/new-page",
+                "https://www.ruv.is/english/2024-07-08-capital-drivers-to-be-hit-with-more-parking-charges-417305"
+              ]
+            },
+            "drives": [
+              {
+                "from": "Zero Car取还车点",
+                "to": "Hallgrímskirkja",
+                "distance": "50km",
+                "duration": "50–70分钟（冬季规划）",
+                "origin": "Blue Car Rental Blikavollur 3 Keflavik Iceland",
+                "destination": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland",
+                "checkedAt": "2026-11-13"
+              }
+            ],
+            "infoCard": {
+              "type": "experience",
+              "time": "约16:30–17:00 · 30分钟",
+              "price": "外观拍照免费 · 停车另计"
+            }
+          },
+          {
+            "time": [
+              "傍晚",
+              "约18:00–18:15抵达"
+            ],
+            "emoji": "🏨",
+            "title": "教堂 → INNI精品公寓 · 晚餐与泡汤",
+            "body": [
+              {
+                "t": "教堂拍照后前往Hveragerði镇内的INNI精品公寓入住（已预订）。休息后可使用住客共用泡池、桑拿与蒸汽房；晚餐可选镇内餐厅。具体入住时段与晚到安排以订单及房东确认为准。",
                 "links": []
               }
             ],
@@ -2551,18 +2613,17 @@
             },
             "drives": [
               {
-                "from": "Zero Car取还车点",
+                "from": "Hallgrímskirkja",
                 "to": "INNI",
-                "distance": "86km",
-                "duration": "1.5–2小时",
-                "origin": "Blue Car Rental Blikavollur 3 Keflavik Iceland",
+                "distance": "45–55km",
+                "duration": "50–70分钟（冬季规划）",
+                "origin": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland",
                 "destination": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland",
-                "routeDistanceKm": 85.8,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-13"
               }
             ],
             "infoCard": {
-              "time": "下午 · 取车后",
+              "time": "傍晚 · 约18:00–18:15抵达",
               "price": "stay",
               "stayId": "reykjavik"
             }
@@ -3652,7 +3713,17 @@
         "stayId": "kef"
       }
     ],
-    "notes": []
+    "notes": [],
+    "mapAliases": [
+      {
+        "label": "Hallgrímskirkja",
+        "query": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland"
+      },
+      {
+        "label": "Eiríksgata教堂侧停车区",
+        "query": "Eiriksgata parking Hallgrimskirkja Reykjavik Iceland"
+      }
+    ]
   },
   {
     "id": "denmark",

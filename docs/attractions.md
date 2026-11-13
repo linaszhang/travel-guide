@@ -49,3 +49,7 @@ The list heading aligns the route-map link with the title baseline, with country
 Twenty-two managed/indoor venues now have optional `openingHours` metadata: Chinese schedule lines, scoped notes, official source URL, check date and status. Details show this immediately after the short introduction. Ordinary reference hours are distinguished from an announced trip-date closure. Unpublished February 2027 calendars are explicitly marked; weekly schedules and 2026-only seasonal schedules are not asserted as confirmed February hours. Station halls, public library areas, museum interiors, shops, visitor centres and surrounding outdoor spaces are distinguished.
 
 The parish announcement confirms Temppeliaukio Church will close 11 January–31 May 2027 and reopen 1 June; the detail highlights this closure. No bookings, daily itinerary or recommendation scores were changed.
+
+## Hallgrímskirkja swing stop · 2026-11-13
+
+User-requested exterior/swing photo stop added on D9, between KEF collection and INNI, rather than the long D13 return. Planning target 16:30–17:00, then INNI around 18:00–18:15; drive ranges are planning estimates. Swing location (left when facing church) comes from a visitor account; winter retention/access is not confirmed. Daily point p53, route order, attraction inclusion and catalogue order are synchronized. Parking uses signed legal spaces on Eiríksgata side, with no free-parking claim.
