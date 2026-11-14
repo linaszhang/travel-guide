@@ -1730,24 +1730,24 @@
     "rating": null
   },
   {
-    "query": "Fredvang Lofoten Norway",
-    "name": "Fredvang · 南部住宿",
+    "query": "Buøyveien 17 Stamsund Norway",
+    "name": "Ytterviks Rorbu · Stamsund住宿",
     "days": [
       6,
       7
     ],
     "kind": "stay",
     "coord": [
-      13.174,
-      68.091
+      13.8571333,
+      68.1261167
     ],
     "id": "p-fredvang",
     "countryName": "挪威",
     "countryId": "norway",
-    "image": "../nordic/assets/day-08-0.jpg",
-    "imageLabel": "Svolvær · 渔船海钓",
-    "imageSource": "https://www.journaldutrek.com/le-championnat-du-monde-de-peche-au-cabillaud/",
-    "description": "2月11日南部住宿区域；实际入住The Chess House Lofoten。",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/619855548.jpg?k=0dad88f4beb2cf5e07ec04ce0b221d4bb77325ce816ef4427eba10e01885c8fa&o=",
+    "imageLabel": "Ytterviks Rorbu · 客厅",
+    "imageSource": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
+    "description": "2月11–12日入住Ytterviks两卧室渔屋，私人桑拿及免费电车充电。",
     "rating": null
   },
   {
@@ -1755,7 +1755,6 @@
     "query": "REY Stays House Hofn Iceland",
     "name": "REY Stays · 霍芬住宿",
     "days": [
-      11,
       12,
       13
     ],
@@ -1769,7 +1768,7 @@
     "image": "../nordic-v2/assets/stays/rey-stays-1.jpg",
     "imageLabel": "REY Stays - House",
     "imageSource": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-    "description": "2月16–18日连住两晚。位于霍芬Höfn周边，2月17日需清晨开车至Hof的冰洞集合点；2月18日先去Stokksnes再西返。",
+    "description": "2月17–18日入住一晚，冰川活动后前往；2月18日退房后先去Stokksnes再西返。",
     "rating": null
   },
   {
@@ -1850,6 +1849,27 @@
     "image": "../nordic-v2/assets/stays/inni-bedroom-960.webp",
     "imageLabel": "INNI一卧室公寓",
     "description": "2月14日入住INNI；2月15日07:15退房出发，走黄金圈后接南岸。地图标记为镇内住宿区域，准确入口按订单导航。",
+    "rating": null
+  },
+  {
+    "id": "p-jokulsarlon-hotel",
+    "query": "Hotel Jokulsarlon Glacier Lagoon Hotel Iceland",
+    "name": "冰川湖酒店 · Hótel Jökulsárlón",
+    "days": [
+      11,
+      12
+    ],
+    "kind": "stay",
+    "countryId": "iceland",
+    "countryName": "冰岛",
+    "coord": [
+      -16.0691333,
+      64.1216167
+    ],
+    "image": "../nordic-v2/assets/stays/booking-jokulsarlon-hotel-645361121-960.webp",
+    "imageLabel": "冰川湖酒店 · 冰川景观双人间",
+    "imageSource": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+    "description": "2月16–17日默认入住双人间，另订三人间；酒店设桑拿、热水池、餐厅、酒吧及健身房。",
     "rating": null
   }
 ]
