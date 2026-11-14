@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T10:08:49+08:00",
-  "lastAttemptAt": "2026-11-13T10:08:49+08:00",
+  "updatedAt": "2026-11-14T02:06:25.404+00:00",
+  "lastAttemptAt": "2026-11-14T02:06:25.404+00:00",
   "schedule": {
     "time": "10:00",
     "timezone": "Asia/Shanghai",
@@ -30,7 +30,7 @@
       "time": "08:40–12:55",
       "budgetCny": 12282,
       "latest": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
+        "checkedAt": "2026-11-14T02:01:29.000+00:00",
         "amount": 12282,
         "currency": "CNY",
         "cny": 12282,
@@ -40,20 +40,20 @@
         "url": "https://flights.ctrip.com/online/list/oneway-pvg-hel?depdate=2027-02-06&cabin=y&adult=2&child=0&infant=0",
         "baggage": "每人1件23kg托运行李",
         "seats": null,
-        "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
-        "note": "HO1607 08:40–12:55；2成人，含税¥6,141/人。携程国内桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、补差价，起飞后不得更改；未公开票档余票。"
+        "seatsNote": "携程未公开对应票档余票，不推测或引用其他渠道库存。",
+        "note": "HO1607 08:40–12:55；2成人查询，含税¥6,141/人。桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、差价另计，起飞后不得更改。未公开对应票档余票。"
       },
       "ctripStatus": "含税及每人1件23kg托运行李已核实；余票未公开",
       "google": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpAEgoyMDI3LTAyLTA2IiAKA1BWRxIKMjAyNy0wMi0wNhoDSEVMKgJITzIEMTYwN2oHCAESA1BWR3IHCAESA0hFTEABQAFIAXABggELCP___________wGYAQI&tfu=CmxDalJJV1ZNdGVUTlZXakY0YUVWQlFsZ3RjMUZDUnkwdExTMHRMUzF6Ylc5Nk55MXVNVUZCUVVGQlIzSXlZMG8wVEcxSVdFbEJFZ1pJVHpFMk1EY2FDZ2kwWVJBQUdnTkRUbGs0SEhDY3RBcz0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
+        "checkedAt": "2026-11-14T02:06:25.404+00:00",
+        "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpAEgoyMDI3LTAyLTA2IiAKA1BWRxIKMjAyNy0wMi0wNhoDSEVMKgJITzIEMTYwN2oHCAESA1BWR3IHCAESA0hFTEABQAFIAXABggELCP___________wGYAQI&tfu=CmxDalJJZFhCUWNtMVlabU5YT0RSQlNUSmtOR2RDUnkwdExTMHRMUzB0TFhOdGNtSXhPVUZCUVVGQlIzSXpkMUJOUVVWUVZGTkJFZ1pJVHpFMk1EY2FDZ2lnWVJBQUdnTkRUbGs0SEhEU3NRcz0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": "正常",
-        "baseCny": 12468,
+        "baseCny": 12448,
         "typicalRange": [
           7200,
           9900
         ],
-        "note": "HO1607同日08:40–12:55基础报价；页面首件托运免费，但未显示重量，不能视为已核实23kg。正常及通常区间是同日航线整体判断，含其他航司和中转，非该含23kg票档评级。已从今日搜索结果重新进入同款，避免旧票价入口只返回部分供应商。",
+        "note": "HO1607 08:40–12:55基础报价；首件托运免费但未显示重量，不能当作已核实23kg。正常及通常区间为同日航线整体判断，包含其他航司和中转，非该含23kg票档评级。已由今日搜索结果重新进入同款。",
         "judgmentScope": "route",
         "provider": "Wing On Travel",
         "status": "verified",
@@ -61,10 +61,10 @@
         "passengers": 2,
         "insightUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTA2agcIARIDUFZHcgcIARIDSEVMQAFAAUgBcAGCAQsI____________AZgBAg&tfu=EgIIACIA&hl=zh-CN&gl=HK&curr=CNY",
         "originalQuote": {
-          "amount": 14662,
+          "amount": 14638,
           "currency": "HKD",
-          "cny": 12468,
-          "fxRate": 0.8503614786522985,
+          "cny": 12448,
+          "fxRate": 0.8503893974586693,
           "fxSource": "Google Flights页面参考折算",
           "passengers": 2
         },
@@ -127,12 +127,37 @@
               "fxSource": "Google Flights页面参考折算",
               "passengers": 2
             }
+          },
+          {
+            "checkedAt": "2026-11-13T10:08:49+08:00",
+            "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpAEgoyMDI3LTAyLTA2IiAKA1BWRxIKMjAyNy0wMi0wNhoDSEVMKgJITzIEMTYwN2oHCAESA1BWR3IHCAESA0hFTEABQAFIAXABggELCP___________wGYAQI&tfu=CmxDalJJV1ZNdGVUTlZXakY0YUVWQlFsZ3RjMUZDUnkwdExTMHRMUzF6Ylc5Nk55MXVNVUZCUVVGQlIzSXlZMG8wVEcxSVdFbEJFZ1pJVHpFMk1EY2FDZ2kwWVJBQUdnTkRUbGs0SEhDY3RBcz0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
+            "judgment": "正常",
+            "baseCny": 12468,
+            "typicalRange": [
+              7200,
+              9900
+            ],
+            "note": "HO1607同日08:40–12:55基础报价；页面首件托运免费，但未显示重量，不能视为已核实23kg。正常及通常区间是同日航线整体判断，含其他航司和中转，非该含23kg票档评级。已从今日搜索结果重新进入同款，避免旧票价入口只返回部分供应商。",
+            "judgmentScope": "route",
+            "provider": "Wing On Travel",
+            "status": "verified",
+            "currency": "CNY",
+            "passengers": 2,
+            "insightUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTA2agcIARIDUFZHcgcIARIDSEVMQAFAAUgBcAGCAQsI____________AZgBAg&tfu=EgIIACIA&hl=zh-CN&gl=HK&curr=CNY",
+            "originalQuote": {
+              "amount": 14662,
+              "currency": "HKD",
+              "cny": 12468,
+              "fxRate": 0.8503614786522985,
+              "fxSource": "Google Flights页面参考折算",
+              "passengers": 2
+            }
           }
         ]
       },
       "strategy": {
         "action": "可考虑购买",
-        "reason": "携程含23kg报价¥6,141与原预算一致；若行程确定可考虑购买，不可退票。Google正常为航线整体判断。"
+        "reason": "携程含23kg报价¥6,141与预算一致，连续数日持平；行程确定可考虑购买，需接受不可退票。Google正常为航线整体判断。"
       },
       "history": [
         {
@@ -188,14 +213,28 @@
           "seats": null,
           "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
           "note": "HO1607 08:40–12:55；2成人，含税¥6,141/人。携程国内桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、补差价，起飞后不得更改；未公开票档余票。"
+        },
+        {
+          "checkedAt": "2026-11-14T02:01:29.000+00:00",
+          "amount": 12282,
+          "currency": "CNY",
+          "cny": 12282,
+          "fxRate": 1,
+          "provider": "携程国内站",
+          "fare": "经济舱 · Q舱 · 含1件23kg托运",
+          "url": "https://flights.ctrip.com/online/list/oneway-pvg-hel?depdate=2027-02-06&cabin=y&adult=2&child=0&infant=0",
+          "baggage": "每人1件23kg托运行李",
+          "seats": null,
+          "seatsNote": "携程未公开对应票档余票，不推测或引用其他渠道库存。",
+          "note": "HO1607 08:40–12:55；2成人查询，含税¥6,141/人。桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、差价另计，起飞后不得更改。未公开对应票档余票。"
         }
       ],
       "ctrip": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
+        "checkedAt": "2026-11-14T02:01:29.000+00:00",
         "baseCny": 12282,
         "perPersonCny": 6141,
         "url": "https://flights.ctrip.com/online/list/oneway-pvg-hel?depdate=2027-02-06&cabin=y&adult=2&child=0&infant=0",
-        "note": "HO1607 08:40–12:55；2成人，含税¥6,141/人。携程国内桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、补差价，起飞后不得更改；未公开票档余票。",
+        "note": "HO1607 08:40–12:55；2成人查询，含税¥6,141/人。桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、差价另计，起飞后不得更改。未公开对应票档余票。",
         "seats": null,
         "fare": "经济舱 · Q舱 · 含1件23kg托运",
         "currency": "CNY",
@@ -253,9 +292,23 @@
           "baggage": "每人1件23kg托运行李",
           "baggageVerified": true,
           "sourceSurface": "携程国内桌面网页"
+        },
+        {
+          "checkedAt": "2026-11-14T02:01:29.000+00:00",
+          "baseCny": 12282,
+          "perPersonCny": 6141,
+          "url": "https://flights.ctrip.com/online/list/oneway-pvg-hel?depdate=2027-02-06&cabin=y&adult=2&child=0&infant=0",
+          "note": "HO1607 08:40–12:55；2成人查询，含税¥6,141/人。桌面页Q舱票规明确每人1件23kg托运；不得退票（可退税¥90/人），起飞前免改期费、差价另计，起飞后不得更改。未公开对应票档余票。",
+          "seats": null,
+          "fare": "经济舱 · Q舱 · 含1件23kg托运",
+          "currency": "CNY",
+          "fxRate": 1,
+          "baggage": "每人1件23kg托运行李",
+          "baggageVerified": true,
+          "sourceSurface": "携程国内桌面网页"
         }
       ],
-      "lastAttemptAt": "2026-11-13T10:08:49+08:00"
+      "lastAttemptAt": "2026-11-14T02:01:29.000+00:00"
     },
     {
       "id": "hel-tos",
@@ -267,30 +320,30 @@
       "time": "07:35–08:35",
       "budgetCny": 4530,
       "latest": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "amount": 4616,
+        "checkedAt": "2026-11-14T02:03:33.945+00:00",
+        "amount": 4600,
         "currency": "CNY",
-        "cny": 4616,
+        "cny": 4600,
         "fxRate": 1,
         "provider": "携程国内站",
         "fare": "经济舱 · 含1件23kg托运",
         "url": "https://flights.ctrip.com/online/list/oneway-hel-tos?depdate=2027-02-07&cabin=y&adult=2&child=0&infant=0",
         "baggage": "每人1件23kg托运行李",
         "seats": 3,
-        "seatsNote": "该携程¥2,308票档明确显示剩3张，非全机余座。",
-        "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，含税¥2,308/人。选价页明确每人1件23kg托运，该¥2,308票档明确剩3张；不得退票、提前改期免费（差价另计）。72小时内出票，仅提供境外电子凭证。"
+        "seatsNote": "该¥2,300含23kg票档明确剩3张，不代表全机余座。",
+        "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，官方手机选价页含税¥2,300/人，每人1件23kg托运；该¥2,300票档明确剩3张，非全机余座。不得退票、提前改期免费（差价另计）；72小时内出票，仅提供境外电子凭证。桌面起价¥1,992未核实行李，另一个桌面票档¥2,282需登录查票规，均不作为本次含23kg报价。"
       },
       "ctripStatus": "含税及每人1件23kg托运行李已核实；该票档剩3张",
       "google": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
+        "checkedAt": "2026-11-14T02:05:05.788+00:00",
         "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTA3Ih8KA0hFTBIKMjAyNy0wMi0wNxoDVE9TKgJBWTIDOTM1agcIARIDSEVMcgcIARIDVE9TQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJVjFWS01GQlVRbXhCYUVsQlJXVkliV2RDUnkwdExTMHRMUzB0YzJWaVluTXlORUZCUVVGQlIzSjVOa2QzVGxSWmVGRkJFZ1ZCV1Rrek5Sb0tDSTBjRUFBYUEwTk9XVGdjY0pHbEF3PT0SAggAIgA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": "正常",
-        "baseCny": 3540,
+        "baseCny": 3530,
         "typicalRange": [
           1650,
           4650
         ],
-        "note": "AY935同日07:35–08:35基础票，首件托运另付费；所选基础票价格正常，通常区间不适用于携程含23kg票档。",
+        "note": "AY935 07:35–08:35基础票；首件托运另付费。所选基础票价格正常，通常区间不能直接套用携程含23kg票档。",
         "judgmentScope": "flight",
         "provider": "Finnair",
         "status": "verified",
@@ -299,8 +352,8 @@
         "originalQuote": {
           "amount": 481,
           "currency": "EUR",
-          "cny": 3540,
-          "fxRate": 7.35966735966736,
+          "cny": 3530,
+          "fxRate": 7.338877338877339,
           "fxSource": "Google Flights页面参考折算",
           "passengers": 2
         },
@@ -360,12 +413,36 @@
               "fxSource": "Google Flights页面参考折算",
               "passengers": 2
             }
+          },
+          {
+            "checkedAt": "2026-11-13T10:08:49+08:00",
+            "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTA3Ih8KA0hFTBIKMjAyNy0wMi0wNxoDVE9TKgJBWTIDOTM1agcIARIDSEVMcgcIARIDVE9TQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJVjFWS01GQlVRbXhCYUVsQlJXVkliV2RDUnkwdExTMHRMUzB0YzJWaVluTXlORUZCUVVGQlIzSjVOa2QzVGxSWmVGRkJFZ1ZCV1Rrek5Sb0tDSTBjRUFBYUEwTk9XVGdjY0pHbEF3PT0SAggAIgA&hl=zh-CN&gl=HK&curr=CNY",
+            "judgment": "正常",
+            "baseCny": 3540,
+            "typicalRange": [
+              1650,
+              4650
+            ],
+            "note": "AY935同日07:35–08:35基础票，首件托运另付费；所选基础票价格正常，通常区间不适用于携程含23kg票档。",
+            "judgmentScope": "flight",
+            "provider": "Finnair",
+            "status": "verified",
+            "currency": "CNY",
+            "passengers": 2,
+            "originalQuote": {
+              "amount": 481,
+              "currency": "EUR",
+              "cny": 3540,
+              "fxRate": 7.35966735966736,
+              "fxSource": "Google Flights页面参考折算",
+              "passengers": 2
+            }
           }
         ]
       },
       "strategy": {
         "action": "可考虑购买",
-        "reason": "携程同含23kg票档¥2,308，较昨日低¥21（0.9%），较预算高¥43（1.9%）；该票档明确剩3张，行程确定可考虑购买。Google正常针对基础票，不含免费托运。"
+        "reason": "携程含23kg报价¥2,300，较昨日低¥8，较预算高¥35（1.5%）；该票档明确剩3张。行程确定可考虑购买；Google正常针对另付托运的基础票。"
       },
       "history": [
         {
@@ -421,14 +498,28 @@
           "seats": 3,
           "seatsNote": "该携程¥2,308票档明确显示剩3张，非全机余座。",
           "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，含税¥2,308/人。选价页明确每人1件23kg托运，该¥2,308票档明确剩3张；不得退票、提前改期免费（差价另计）。72小时内出票，仅提供境外电子凭证。"
+        },
+        {
+          "checkedAt": "2026-11-14T02:03:33.945+00:00",
+          "amount": 4600,
+          "currency": "CNY",
+          "cny": 4600,
+          "fxRate": 1,
+          "provider": "携程国内站",
+          "fare": "经济舱 · 含1件23kg托运",
+          "url": "https://flights.ctrip.com/online/list/oneway-hel-tos?depdate=2027-02-07&cabin=y&adult=2&child=0&infant=0",
+          "baggage": "每人1件23kg托运行李",
+          "seats": 3,
+          "seatsNote": "该¥2,300含23kg票档明确剩3张，不代表全机余座。",
+          "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，官方手机选价页含税¥2,300/人，每人1件23kg托运；该¥2,300票档明确剩3张，非全机余座。不得退票、提前改期免费（差价另计）；72小时内出票，仅提供境外电子凭证。桌面起价¥1,992未核实行李，另一个桌面票档¥2,282需登录查票规，均不作为本次含23kg报价。"
         }
       ],
       "ctrip": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "baseCny": 4616,
-        "perPersonCny": 2308,
+        "checkedAt": "2026-11-14T02:03:33.945+00:00",
+        "baseCny": 4600,
+        "perPersonCny": 2300,
         "url": "https://flights.ctrip.com/online/list/oneway-hel-tos?depdate=2027-02-07&cabin=y&adult=2&child=0&infant=0",
-        "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，含税¥2,308/人。选价页明确每人1件23kg托运，该¥2,308票档明确剩3张；不得退票、提前改期免费（差价另计）。72小时内出票，仅提供境外电子凭证。",
+        "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，官方手机选价页含税¥2,300/人，每人1件23kg托运；该¥2,300票档明确剩3张，非全机余座。不得退票、提前改期免费（差价另计）；72小时内出票，仅提供境外电子凭证。桌面起价¥1,992未核实行李，另一个桌面票档¥2,282需登录查票规，均不作为本次含23kg报价。",
         "seats": 3,
         "fare": "经济舱 · 含1件23kg托运",
         "currency": "CNY",
@@ -486,9 +577,23 @@
           "baggage": "每人1件23kg托运行李",
           "baggageVerified": true,
           "sourceSurface": "携程国内官方手机网页"
+        },
+        {
+          "checkedAt": "2026-11-14T02:03:33.945+00:00",
+          "baseCny": 4600,
+          "perPersonCny": 2300,
+          "url": "https://flights.ctrip.com/online/list/oneway-hel-tos?depdate=2027-02-07&cabin=y&adult=2&child=0&infant=0",
+          "note": "AY935 07:35–08:35，Nordic Reg for Finnair承运；2成人，官方手机选价页含税¥2,300/人，每人1件23kg托运；该¥2,300票档明确剩3张，非全机余座。不得退票、提前改期免费（差价另计）；72小时内出票，仅提供境外电子凭证。桌面起价¥1,992未核实行李，另一个桌面票档¥2,282需登录查票规，均不作为本次含23kg报价。",
+          "seats": 3,
+          "fare": "经济舱 · 含1件23kg托运",
+          "currency": "CNY",
+          "fxRate": 1,
+          "baggage": "每人1件23kg托运行李",
+          "baggageVerified": true,
+          "sourceSurface": "携程国内官方手机网页"
         }
       ],
-      "lastAttemptAt": "2026-11-13T10:08:49+08:00"
+      "lastAttemptAt": "2026-11-14T02:03:33.945+00:00"
     },
     {
       "id": "tos-kef",
@@ -513,14 +618,14 @@
         "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
         "note": "WF621 07:50–10:00接FI335 12:50–14:20，经BGO停留2h50m且需重新托运行李；2成人，含税¥1,455/人，每人1件23kg托运。全程不得退票、改期710元起，差价另计；72小时内出票，仅提供境外电子凭证。未公开票档余票。"
       },
-      "ctripStatus": "含税及每人1件23kg托运行李已核实；余票未公开",
+      "ctripStatus": "今日仅核实同时间BGO组合起价，航班号及23kg托运待核实；上次含托运成功核实于11月13日",
       "google": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
+        "checkedAt": "2026-11-14T02:02:06.410+00:00",
         "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI3LTAyLTE0agcIARIDVE9TcgcIARIDS0VGegNCR09AAUABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAAiAA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": null,
         "baseCny": null,
         "typicalRange": null,
-        "note": "同日TOS–KEF、2成人、BGO中转筛选无匹配结果，未返回WF621+FI335原组合；其他日期的建议不记作本航段报价。",
+        "note": "已核对2月14日、TOS–KEF、2成人及BGO中转筛选；Google无与过滤条件相符的选项，未返回WF621+FI335原组合。其他日期建议不作本航段报价。",
         "judgmentScope": null,
         "provider": null,
         "status": "no_matching_itinerary",
@@ -563,12 +668,25 @@
             "status": "no_matching_itinerary",
             "currency": "CNY",
             "passengers": 2
+          },
+          {
+            "checkedAt": "2026-11-13T10:08:49+08:00",
+            "url": "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI3LTAyLTE0agcIARIDVE9TcgcIARIDS0VGegNCR09AAUABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAAiAA&hl=zh-CN&gl=HK&curr=CNY",
+            "judgment": null,
+            "baseCny": null,
+            "typicalRange": null,
+            "note": "同日TOS–KEF、2成人、BGO中转筛选无匹配结果，未返回WF621+FI335原组合；其他日期的建议不记作本航段报价。",
+            "judgmentScope": null,
+            "provider": null,
+            "status": "no_matching_itinerary",
+            "currency": "CNY",
+            "passengers": 2
           }
         ]
       },
       "strategy": {
-        "action": "可考虑购买",
-        "reason": "携程WF621+FI335含23kg报价¥1,455，较预算低¥32（2.2%），较昨日低¥3；须接受BGO提取重托及不可退票条件。Google无同款组合。"
+        "action": "先确认托运行李",
+        "reason": "今日¥1,453仅为同时间BGO组合起价；票规登录阻碍，未重新核实航班号及23kg。最近含托运报价仍为11月13日¥1,455，不以今日起价判断同票档降价；Google无原组合。"
       },
       "history": [
         {
@@ -627,18 +745,18 @@
         }
       ],
       "ctrip": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "baseCny": 2910,
-        "perPersonCny": 1455,
+        "checkedAt": "2026-11-14T02:04:33.110+00:00",
+        "baseCny": 2906,
+        "perPersonCny": 1453,
         "url": "https://flights.ctrip.com/online/list/oneway-tos-kef?depdate=2027-02-14&cabin=y&adult=2&child=0&infant=0",
-        "note": "WF621 07:50–10:00接FI335 12:50–14:20，经BGO停留2h50m且需重新托运行李；2成人，含税¥1,455/人，每人1件23kg托运。全程不得退票、改期710元起，差价另计；72小时内出票，仅提供境外电子凭证。未公开票档余票。",
+        "note": "2月14日TOS–KEF、2成人，桌面卑尔根筛选返回07:50–14:20、BGO中转2h50m组合，含税起价¥1,453/人。票规要求登录，未能重新核实WF621+FI335航班号、每人23kg及退改条件；官方手机搜索同日无结果。仅记录该时刻组合起价，保留11月13日含23kg成功记录，不视为今日含托运价；余票未公开。",
         "seats": null,
-        "fare": "经济舱 · WF621+FI335经BGO · 含1件23kg托运",
+        "fare": "经济舱 · BGO中转起价（航班号及托运待核实）",
         "currency": "CNY",
         "fxRate": 1,
-        "baggage": "每人1件23kg托运行李",
-        "baggageVerified": true,
-        "sourceSurface": "携程国内官方手机网页"
+        "baggage": "待核实，不能视作含23kg票档",
+        "baggageVerified": false,
+        "sourceSurface": "携程国内桌面网页"
       },
       "ctripHistory": [
         {
@@ -689,9 +807,24 @@
           "baggage": "每人1件23kg托运行李",
           "baggageVerified": true,
           "sourceSurface": "携程国内官方手机网页"
+        },
+        {
+          "checkedAt": "2026-11-14T02:04:33.110+00:00",
+          "baseCny": 2906,
+          "perPersonCny": 1453,
+          "url": "https://flights.ctrip.com/online/list/oneway-tos-kef?depdate=2027-02-14&cabin=y&adult=2&child=0&infant=0",
+          "note": "2月14日TOS–KEF、2成人，桌面卑尔根筛选返回07:50–14:20、BGO中转2h50m组合，含税起价¥1,453/人。票规要求登录，未能重新核实WF621+FI335航班号、每人23kg及退改条件；官方手机搜索同日无结果。仅记录该时刻组合起价，保留11月13日含23kg成功记录，不视为今日含托运价；余票未公开。",
+          "seats": null,
+          "fare": "经济舱 · BGO中转起价（航班号及托运待核实）",
+          "currency": "CNY",
+          "fxRate": 1,
+          "baggage": "待核实，不能视作含23kg票档",
+          "baggageVerified": false,
+          "sourceSurface": "携程国内桌面网页"
         }
       ],
-      "lastAttemptAt": "2026-11-13T10:08:49+08:00"
+      "lastAttemptAt": "2026-11-14T02:04:33.110+00:00",
+      "lastError": "携程桌面票规要求登录；官方手机搜索无结果，未完成WF621+FI335含23kg票档复核。已保留最近含托运成功记录及其核实时间。"
     },
     {
       "id": "kef-cph",
@@ -703,40 +836,40 @@
       "time": "07:30–11:45",
       "budgetCny": 3384,
       "latest": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "amount": 3938,
+        "checkedAt": "2026-11-14T02:03:33.965+00:00",
+        "amount": 3884,
         "currency": "CNY",
-        "cny": 3938,
+        "cny": 3884,
         "fxRate": 1,
         "provider": "携程国内站",
         "fare": "经济舱 · 含1件23kg托运",
         "url": "https://flights.ctrip.com/online/list/oneway-kef-cph?depdate=2027-02-19&cabin=y&adult=2&child=0&infant=0",
         "baggage": "每人1件23kg托运行李",
         "seats": null,
-        "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
-        "note": "FI204 07:30–11:45；2成人。含税¥1,969/人票档明确每人1件23kg托运，不得退票、改期710元起（差价另计），72小时内出票，仅提供境外电子凭证。¥1,678起价无免费托运，不作为同口径报价；含23kg票档余票未公开。"
+        "seatsNote": "携程未公开对应票档余票，不推测或引用其他渠道库存。",
+        "note": "FI204 07:30–11:45；2成人，官方手机选价页含税¥1,942/人，明确每人1件23kg托运。不得退票、改期710元起，差价另计；24小时内出票，提供电子发票。¥1,646为无托运票档，不作为本次含23kg价格。未公开对应票档余票。"
       },
       "ctripStatus": "含税及每人1件23kg托运行李已核实；余票未公开",
       "google": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
+        "checkedAt": "2026-11-14T02:05:06.120+00:00",
         "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTE5Ih8KA0tFRhIKMjAyNy0wMi0xORoDQ1BIKgJGSTIDMjA0agcIARIDS0VGcgcIARIDQ1BIQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJT0RsWGNqRjJValYzWlZsQlJWWnZkbmRDUnkwdExTMHRjMlZpZFc0eE5pMXVNVUZCUVVGQlIzSjVObWRCUkVGTFMwTkJFZ1ZHU1RJd05Cb0tDTDRhRUFBYUEwTk9XVGdjY1BPTUF3PT0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": "正常",
-        "baseCny": 3255,
+        "baseCny": 3240,
         "typicalRange": [
           2400,
           8500
         ],
-        "note": "FI204同日07:30–11:45基础报价；所选基础票价格正常，不能直接与含23kg票档比较。航司Economy Light首件托运每人另付373元（6900 ISK）；Standard首件托运免费但未显示重量。",
+        "note": "FI204 07:30–11:45基础最低报价，托运条件需按具体供应商确认。Google所选基础票价格正常；官网Economy Light为两人3,341元（62,062 ISK），每人首件托运另付371元；Economy Standard为两人3,879元（72,062 ISK），首件托运免费但页面未列重量。上述票档不能混为同一含23kg报价。",
         "judgmentScope": "flight",
-        "provider": "Wing On Travel",
+        "provider": "Alitrip",
         "status": "verified",
         "currency": "CNY",
         "passengers": 2,
         "originalQuote": {
-          "amount": 3828,
+          "amount": 3810,
           "currency": "HKD",
-          "cny": 3255,
-          "fxRate": 0.8503134796238244,
+          "cny": 3240,
+          "fxRate": 0.8503937007874016,
           "fxSource": "Google Flights页面参考折算",
           "passengers": 2
         },
@@ -835,12 +968,49 @@
               "baggageKg": null,
               "seats": null
             }
+          },
+          {
+            "checkedAt": "2026-11-13T10:08:49+08:00",
+            "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTE5Ih8KA0tFRhIKMjAyNy0wMi0xORoDQ1BIKgJGSTIDMjA0agcIARIDS0VGcgcIARIDQ1BIQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJT0RsWGNqRjJValYzWlZsQlJWWnZkbmRDUnkwdExTMHRjMlZpZFc0eE5pMXVNVUZCUVVGQlIzSjVObWRCUkVGTFMwTkJFZ1ZHU1RJd05Cb0tDTDRhRUFBYUEwTk9XVGdjY1BPTUF3PT0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
+            "judgment": "正常",
+            "baseCny": 3255,
+            "typicalRange": [
+              2400,
+              8500
+            ],
+            "note": "FI204同日07:30–11:45基础报价；所选基础票价格正常，不能直接与含23kg票档比较。航司Economy Light首件托运每人另付373元（6900 ISK）；Standard首件托运免费但未显示重量。",
+            "judgmentScope": "flight",
+            "provider": "Wing On Travel",
+            "status": "verified",
+            "currency": "CNY",
+            "passengers": 2,
+            "originalQuote": {
+              "amount": 3828,
+              "currency": "HKD",
+              "cny": 3255,
+              "fxRate": 0.8503134796238244,
+              "fxSource": "Google Flights页面参考折算",
+              "passengers": 2
+            },
+            "alternativeFare": {
+              "checkedAt": "2026-11-13T10:08:49+08:00",
+              "provider": "Icelandair（Google Flights展示）",
+              "fare": "Economy Standard",
+              "amount": 72062,
+              "currency": "ISK",
+              "cny": 3891,
+              "fxRate": 0.05399517082512281,
+              "fxSource": "Google Flights页面参考折算",
+              "baggage": "每人首件托运免费，未显示重量",
+              "baggageKg": null,
+              "seats": null
+            }
           }
         ]
       },
       "strategy": {
-        "action": "继续比较含托运票档",
-        "reason": "携程含23kg票档¥1,969，较预算高¥277（16.4%），较昨日高¥2；¥1,678不含托运。Google正常对应基础报价；航司Standard约¥1,946含首件但未核实重量。"
+        "action": "继续观察",
+        "reason": "携程含23kg报价¥1,942，较昨日低¥27，仍较预算高¥250（14.8%）；可继续观察。Google正常针对基础票；含托运Standard价格另列，不直接套用基础票区间。"
       },
       "history": [
         {
@@ -882,14 +1052,28 @@
           "seats": null,
           "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
           "note": "FI204 07:30–11:45；2成人。含税¥1,969/人票档明确每人1件23kg托运，不得退票、改期710元起（差价另计），72小时内出票，仅提供境外电子凭证。¥1,678起价无免费托运，不作为同口径报价；含23kg票档余票未公开。"
+        },
+        {
+          "checkedAt": "2026-11-14T02:03:33.965+00:00",
+          "amount": 3884,
+          "currency": "CNY",
+          "cny": 3884,
+          "fxRate": 1,
+          "provider": "携程国内站",
+          "fare": "经济舱 · 含1件23kg托运",
+          "url": "https://flights.ctrip.com/online/list/oneway-kef-cph?depdate=2027-02-19&cabin=y&adult=2&child=0&infant=0",
+          "baggage": "每人1件23kg托运行李",
+          "seats": null,
+          "seatsNote": "携程未公开对应票档余票，不推测或引用其他渠道库存。",
+          "note": "FI204 07:30–11:45；2成人，官方手机选价页含税¥1,942/人，明确每人1件23kg托运。不得退票、改期710元起，差价另计；24小时内出票，提供电子发票。¥1,646为无托运票档，不作为本次含23kg价格。未公开对应票档余票。"
         }
       ],
       "ctrip": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "baseCny": 3938,
-        "perPersonCny": 1969,
+        "checkedAt": "2026-11-14T02:03:33.965+00:00",
+        "baseCny": 3884,
+        "perPersonCny": 1942,
         "url": "https://flights.ctrip.com/online/list/oneway-kef-cph?depdate=2027-02-19&cabin=y&adult=2&child=0&infant=0",
-        "note": "FI204 07:30–11:45；2成人。含税¥1,969/人票档明确每人1件23kg托运，不得退票、改期710元起（差价另计），72小时内出票，仅提供境外电子凭证。¥1,678起价无免费托运，不作为同口径报价；含23kg票档余票未公开。",
+        "note": "FI204 07:30–11:45；2成人，官方手机选价页含税¥1,942/人，明确每人1件23kg托运。不得退票、改期710元起，差价另计；24小时内出票，提供电子发票。¥1,646为无托运票档，不作为本次含23kg价格。未公开对应票档余票。",
         "seats": null,
         "fare": "经济舱 · 含1件23kg托运",
         "currency": "CNY",
@@ -947,9 +1131,23 @@
           "baggage": "每人1件23kg托运行李",
           "baggageVerified": true,
           "sourceSurface": "携程国内官方手机网页"
+        },
+        {
+          "checkedAt": "2026-11-14T02:03:33.965+00:00",
+          "baseCny": 3884,
+          "perPersonCny": 1942,
+          "url": "https://flights.ctrip.com/online/list/oneway-kef-cph?depdate=2027-02-19&cabin=y&adult=2&child=0&infant=0",
+          "note": "FI204 07:30–11:45；2成人，官方手机选价页含税¥1,942/人，明确每人1件23kg托运。不得退票、改期710元起，差价另计；24小时内出票，提供电子发票。¥1,646为无托运票档，不作为本次含23kg价格。未公开对应票档余票。",
+          "seats": null,
+          "fare": "经济舱 · 含1件23kg托运",
+          "currency": "CNY",
+          "fxRate": 1,
+          "baggage": "每人1件23kg托运行李",
+          "baggageVerified": true,
+          "sourceSurface": "携程国内官方手机网页"
         }
       ],
-      "lastAttemptAt": "2026-11-13T10:08:49+08:00"
+      "lastAttemptAt": "2026-11-14T02:03:33.965+00:00"
     },
     {
       "id": "cph-pvg",
@@ -961,41 +1159,41 @@
       "time": "20:00–次日13:30",
       "budgetCny": 8752,
       "latest": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "amount": 8714,
+        "checkedAt": "2026-11-14T02:03:33.978+00:00",
+        "amount": 8672,
         "currency": "CNY",
-        "cny": 8714,
+        "cny": 8672,
         "fxRate": 1,
         "provider": "携程国内站",
         "fare": "经济舱 · 含1件23kg托运",
         "url": "https://flights.ctrip.com/online/list/oneway-cph-pvg?depdate=2027-02-20&cabin=y&adult=2&child=0&infant=0",
         "baggage": "每人1件23kg托运行李",
         "seats": null,
-        "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
-        "note": "MU708 20:00–次日13:30；2成人，含税¥4,357/人，每人1件23kg托运。不得退票、改期1120元起（差价另计）；45分钟内出票，提供行程单或电子发票；未公开票档余票。"
+        "seatsNote": "携程未公开对应票档余票，不推测或引用其他渠道库存。",
+        "note": "MU708 20:00–次日13:30；2成人，官方手机选价页含税¥4,336/人，每人1件23kg托运；不得退票、改期1,110元起，差价另计。45分钟内出票，提供行程单或电子发票。桌面起价¥4,317的票规要求登录，未将其当作含23kg报价。未公开对应票档余票。"
       },
       "ctripStatus": "含税及每人1件23kg托运行李已核实；余票未公开",
       "google": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTIwIh8KA0NQSBIKMjAyNy0wMi0yMBoDUFZHKgJNVTIDNzA4agcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJWkhGZlVFZHRTMU5VU1dOQlFtcHJlRkZDUnkwdExTMHRMUzF6WlhONE1TMXVNa0ZCUVVGQlIzSXlZMG80UW5SalFqQkJFZ1ZOVlRjd09Cb0tDTjlDRUFBYUEwTk9XVGdjY01Ub0J3PT0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
+        "checkedAt": "2026-11-14T02:05:06.440+00:00",
+        "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTIwIh8KA0NQSBIKMjAyNy0wMi0yMBoDUFZHKgJNVTIDNzA4agcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJWjJ0RGJXOU9hMnMzYTFWQlFVeEVORUZDUnkwdExTMHRMWE5sY25ZeU9DMXVNa0ZCUVVGQlIzSXpkMWM0UlV4TGIyZEJFZ1ZOVlRjd09Cb0tDS2xDRUFBYUEwTk9XVGdjY0liaUJ3PT0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
         "judgment": "低",
-        "baseCny": 8543,
+        "baseCny": 8489,
         "typicalRange": [
           6600,
           10500
         ],
-        "note": "MU708同日20:00–次日13:30基础报价，首件托运需付费，费用未显示。低价及通常区间为同日航线整体判断，涵盖中转，不代表MU708直飞含23kg票档。已从今日搜索结果重新进入同款；旧入口仅返回eDreams高价，不作为最低价。",
+        "note": "MU708 20:00–次日13:30基础报价；页面首件托运另付费，不能视为已核实含23kg。低价及通常区间为同日航线整体最低价判断，含其他航司及中转，非MU708含23kg票档评级。由今日搜索结果重新进入同款，避免旧入口仅列部分供应商。",
         "judgmentScope": "route",
-        "provider": "Alitrip",
+        "provider": "Gotogate",
         "status": "verified",
         "currency": "CNY",
         "passengers": 2,
         "insightUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTIwagcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=EgIIACIA&hl=zh-CN&gl=HK&curr=CNY",
         "originalQuote": {
-          "amount": 10046,
+          "amount": 9983,
           "currency": "HKD",
-          "cny": 8543,
-          "fxRate": 0.8503882142146127,
+          "cny": 8489,
+          "fxRate": 0.8503455874987479,
           "fxSource": "Google Flights页面参考折算",
           "passengers": 2
         },
@@ -1058,12 +1256,37 @@
               "fxSource": "Google Flights页面参考折算",
               "passengers": 2
             }
+          },
+          {
+            "checkedAt": "2026-11-13T10:08:49+08:00",
+            "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAho_EgoyMDI3LTAyLTIwIh8KA0NQSBIKMjAyNy0wMi0yMBoDUFZHKgJNVTIDNzA4agcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJWkhGZlVFZHRTMU5VU1dOQlFtcHJlRkZDUnkwdExTMHRMUzF6WlhONE1TMXVNa0ZCUVVGQlIzSXlZMG80UW5SalFqQkJFZ1ZOVlRjd09Cb0tDTjlDRUFBYUEwTk9XVGdjY01Ub0J3PT0SAggAIgMKATA&hl=zh-CN&gl=HK&curr=CNY",
+            "judgment": "低",
+            "baseCny": 8543,
+            "typicalRange": [
+              6600,
+              10500
+            ],
+            "note": "MU708同日20:00–次日13:30基础报价，首件托运需付费，费用未显示。低价及通常区间为同日航线整体判断，涵盖中转，不代表MU708直飞含23kg票档。已从今日搜索结果重新进入同款；旧入口仅返回eDreams高价，不作为最低价。",
+            "judgmentScope": "route",
+            "provider": "Alitrip",
+            "status": "verified",
+            "currency": "CNY",
+            "passengers": 2,
+            "insightUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTAyLTIwagcIARIDQ1BIcgcIARIDUFZHQAFAAUgBcAGCAQsI____________AZgBAg&tfu=EgIIACIA&hl=zh-CN&gl=HK&curr=CNY",
+            "originalQuote": {
+              "amount": 10046,
+              "currency": "HKD",
+              "cny": 8543,
+              "fxRate": 0.8503882142146127,
+              "fxSource": "Google Flights页面参考折算",
+              "passengers": 2
+            }
           }
         ]
       },
       "strategy": {
         "action": "可考虑购买",
-        "reason": "携程MU708含23kg报价¥4,357，较预算低¥19（0.4%）、较昨日低¥32（0.7%），行程确定可考虑购买；不可退票。Google低价是含中转的航线判断。"
+        "reason": "携程含23kg报价¥4,336，较昨日低¥21，较预算低¥40（0.9%）；行程确定可考虑购买，需接受不可退票及改期费。Google低价为同日航线整体判断，非MU708含23kg票档评级。"
       },
       "history": [
         {
@@ -1119,14 +1342,28 @@
           "seats": null,
           "seatsNote": "携程未公开该票档余票，不推测或引用其他票档库存。",
           "note": "MU708 20:00–次日13:30；2成人，含税¥4,357/人，每人1件23kg托运。不得退票、改期1120元起（差价另计）；45分钟内出票，提供行程单或电子发票；未公开票档余票。"
+        },
+        {
+          "checkedAt": "2026-11-14T02:03:33.978+00:00",
+          "amount": 8672,
+          "currency": "CNY",
+          "cny": 8672,
+          "fxRate": 1,
+          "provider": "携程国内站",
+          "fare": "经济舱 · 含1件23kg托运",
+          "url": "https://flights.ctrip.com/online/list/oneway-cph-pvg?depdate=2027-02-20&cabin=y&adult=2&child=0&infant=0",
+          "baggage": "每人1件23kg托运行李",
+          "seats": null,
+          "seatsNote": "携程未公开对应票档余票，不推测或引用其他渠道库存。",
+          "note": "MU708 20:00–次日13:30；2成人，官方手机选价页含税¥4,336/人，每人1件23kg托运；不得退票、改期1,110元起，差价另计。45分钟内出票，提供行程单或电子发票。桌面起价¥4,317的票规要求登录，未将其当作含23kg报价。未公开对应票档余票。"
         }
       ],
       "ctrip": {
-        "checkedAt": "2026-11-13T10:08:49+08:00",
-        "baseCny": 8714,
-        "perPersonCny": 4357,
+        "checkedAt": "2026-11-14T02:03:33.978+00:00",
+        "baseCny": 8672,
+        "perPersonCny": 4336,
         "url": "https://flights.ctrip.com/online/list/oneway-cph-pvg?depdate=2027-02-20&cabin=y&adult=2&child=0&infant=0",
-        "note": "MU708 20:00–次日13:30；2成人，含税¥4,357/人，每人1件23kg托运。不得退票、改期1120元起（差价另计）；45分钟内出票，提供行程单或电子发票；未公开票档余票。",
+        "note": "MU708 20:00–次日13:30；2成人，官方手机选价页含税¥4,336/人，每人1件23kg托运；不得退票、改期1,110元起，差价另计。45分钟内出票，提供行程单或电子发票。桌面起价¥4,317的票规要求登录，未将其当作含23kg报价。未公开对应票档余票。",
         "seats": null,
         "fare": "经济舱 · 含1件23kg托运",
         "currency": "CNY",
@@ -1184,9 +1421,23 @@
           "baggage": "每人1件23kg托运行李",
           "baggageVerified": true,
           "sourceSurface": "携程国内官方手机网页"
+        },
+        {
+          "checkedAt": "2026-11-14T02:03:33.978+00:00",
+          "baseCny": 8672,
+          "perPersonCny": 4336,
+          "url": "https://flights.ctrip.com/online/list/oneway-cph-pvg?depdate=2027-02-20&cabin=y&adult=2&child=0&infant=0",
+          "note": "MU708 20:00–次日13:30；2成人，官方手机选价页含税¥4,336/人，每人1件23kg托运；不得退票、改期1,110元起，差价另计。45分钟内出票，提供行程单或电子发票。桌面起价¥4,317的票规要求登录，未将其当作含23kg报价。未公开对应票档余票。",
+          "seats": null,
+          "fare": "经济舱 · 含1件23kg托运",
+          "currency": "CNY",
+          "fxRate": 1,
+          "baggage": "每人1件23kg托运行李",
+          "baggageVerified": true,
+          "sourceSurface": "携程国内官方手机网页"
         }
       ],
-      "lastAttemptAt": "2026-11-13T10:08:49+08:00"
+      "lastAttemptAt": "2026-11-14T02:03:33.978+00:00"
     }
   ]
 }
