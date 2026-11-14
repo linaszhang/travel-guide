@@ -364,3 +364,18 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .budget-stay-alternatives .budget-row{color:var(--ink,#242321)}
 .budget-stay-alternatives .stay-country-heading{padding-left:22px}
 .budget-stay-alternatives .budget-project strong{text-decoration:none}
+
+/* Full-screen accommodation viewer, above the all-photos dialog. */
+.stay-lightbox{position:fixed;inset:0;width:100%;max-width:none;height:100%;height:100dvh;max-height:none;margin:0;padding:0;border:0;background:#101210;color:#fff;overflow:hidden;box-sizing:border-box}
+.stay-lightbox[open]{display:grid;grid-template-rows:auto minmax(0,1fr) auto}
+.stay-lightbox::backdrop{background:#101210}
+.stay-lightbox-header{display:flex;align-items:center;justify-content:space-between;padding:calc(12px + env(safe-area-inset-top)) 16px 12px;gap:12px}
+.stay-lightbox-count{font-size:14px;font-variant-numeric:tabular-nums}
+.stay-lightbox-close,.stay-lightbox-arrow{display:grid;place-items:center;flex:none;width:40px;height:40px;min-width:40px;padding:0;border:0;border-radius:50%;background:#0009;color:#fff;cursor:pointer;line-height:1}
+.stay-lightbox svg{display:block;width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.stay-lightbox-stage{position:relative;min-height:0;min-width:0;display:grid;place-items:center;touch-action:pan-y pinch-zoom;user-select:none}
+.stay-lightbox-stage>img{display:block;width:100%;height:100%;min-height:0;object-fit:contain}
+.stay-lightbox-arrow{position:absolute;top:50%;transform:translateY(-50%)}
+.stay-lightbox-arrow.prev{left:12px}.stay-lightbox-arrow.next{right:12px}.stay-lightbox-arrow[hidden]{display:none}
+.stay-lightbox-caption{margin:0;padding:16px 24px calc(20px + env(safe-area-inset-bottom));text-align:center;font-size:14px;line-height:1.5;min-height:52px;color:#eee}
+.stay-lightbox button:focus-visible{outline:2px solid #fff;outline-offset:3px}
