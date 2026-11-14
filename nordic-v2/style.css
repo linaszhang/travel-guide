@@ -359,3 +359,8 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .dining-visit-legend{font-size:12px;color:var(--muted);line-height:1.8;margin:-10px 0 22px}
 .dining-visit-note{font-size:13px;line-height:1.8;color:#566777;background:#f1f4f6;padding:12px 14px;border-radius:10px;margin:18px 0}
 .dining-visit-note>span{display:block;font-weight:500;margin-bottom:4px}
+
+/* Alternative stays remain readable and separate from excluded activities. */
+.budget-stay-alternatives .budget-row{color:var(--ink,#242321)}
+.budget-stay-alternatives .stay-country-heading{padding-left:22px}
+.budget-stay-alternatives .budget-project strong{text-decoration:none}
