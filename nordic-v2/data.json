@@ -883,7 +883,7 @@
             "title": "机场取车 · 早餐与补给",
             "body": [
               {
-                "t": "在特罗姆瑟机场取行李、验车，确认冬胎与保险；买好水和简餐，约10:15出发。",
+                "t": "在特罗姆瑟机场取车、验车，确认冬胎与保险；买好水和简餐，约10:15出发。",
                 "links": []
               }
             ],
@@ -1757,10 +1757,10 @@
       {
         "num": 6,
         "id": "v2-revised-6",
-        "title": "塞尼亚海岸自驾 → 罗弗敦 Stamsund",
-        "date": "2月11日（周四） · 上午短停海岸，转场入住私人桑拿渔屋",
+        "title": "塞尼亚海岸自驾 → 罗弗敦 Ballstad",
+        "date": "2月11日（周四） · 上午海岸短停，前往Solsiden连住两晚",
         "tags": [
-          "约9–11h自驾与海岸短停；按Stamsund新终点导航"
+          "约9–11h自驾与海岸短停；终点为Ballstad"
         ],
         "photos": [
           {
@@ -1872,18 +1872,18 @@
               "10:00出发"
             ],
             "emoji": "🚗",
-            "title": "塞尼亚 → Stamsund · 入住 Ytterviks Rorbu",
+            "title": "塞尼亚 → Ballstad · 入住 Solsiden",
             "body": [
               {
-                "t": "经Finnsnes、Bjerkvik沿主干道和E10直接前往罗弗敦南部；中途午餐、加油与休息。当天以转场为主，提前确认晚入住，风雪时减少上午停留。",
+                "t": "经Finnsnes、Bjerkvik沿主干道和E10前往Ballstad；中途午餐、充电与休息。今晚入住Solsiden，连住两晚，出发前与酒店确认晚抵达安排。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
                 {
-                  "label": "Ytterviks Rorbu",
-                  "query": "Buøyveien 17 Stamsund Norway"
+                  "label": "Solsiden Brygge",
+                  "query": "Moloveien 41 Ballstad Norway"
                 },
                 {
                   "label": "Finnsnes",
@@ -1895,16 +1895,16 @@
                 }
               ],
               "note": "住宿入口与停车位置按房东指引；本段走陆路。",
-              "description": "目的地为Ytterviks Rorbu，按房东指引找到入口、钥匙盒和停车位。"
+              "description": "目的地为Solsiden Brygge，使用酒店私人停车位；提前告知预计抵达时间。"
             },
             "drives": [
               {
                 "from": "Bergsbotn",
-                "to": "Ytterviks Rorbu",
-                "distance": "约450–470km",
-                "duration": "冬季预留8–10小时（估算）",
+                "to": "Solsiden Brygge",
+                "distance": "450–470km",
+                "duration": "冬季预留8–10小时（规划估算）",
                 "origin": "Bergsbotn viewpoint Senja Norway",
-                "destination": "Buøyveien 17 Stamsund Norway",
+                "destination": "Moloveien 41 Ballstad Norway",
                 "checkedAt": "2026-11-14",
                 "waypoints": [
                   "Finnsnes Norway",
@@ -1915,19 +1915,19 @@
             "infoCard": {
               "time": "白天 · 10:00出发",
               "price": "stay",
-              "stayId": "ytterviks"
+              "stayId": "solsiden"
             }
           }
         ],
-        "stayId": "ytterviks"
+        "stayId": "solsiden"
       },
       {
         "num": 7,
         "id": "262:612",
-        "title": "罗弗敦南部 · 雷纳／渔村海岸 → 斯沃尔维尔",
-        "date": "2月12日（周五） · 从Stamsund游览南部，傍晚北上住海景套房",
+        "title": "罗弗敦南部 · 雷纳／渔村海岸 → Ballstad",
+        "date": "2月12日（周五） · Ballstad往返南部渔村，续住Solsiden",
         "tags": [
-          "约4–6h（约190–210km，冬季规划估算）"
+          "约3–4.5h自驾（约120–140km，冬季规划估算）"
         ],
         "photos": [
           {
@@ -1953,7 +1953,7 @@
               "09:00–12:00"
             ],
             "emoji": "🏘️",
-            "title": "Stamsund → Hamnøy → Sakrisøy → Reine",
+            "title": "Ballstad → Hamnøy → Sakrisøy → Reine",
             "body": [
               {
                 "t": "桥梁、红色渔屋、黄色渔屋与雷纳海湾。只在指定停车点短走；Reinebringen冬季登山不安排。",
@@ -1997,11 +1997,11 @@
             },
             "drives": [
               {
-                "from": "Ytterviks Rorbu",
+                "from": "Solsiden Brygge",
                 "to": "Hamnøy",
-                "distance": "约65–70km",
-                "duration": "冬季预留1.5–2小时（估算）",
-                "origin": "Buøyveien 17 Stamsund Norway",
+                "distance": "55–65km",
+                "duration": "冬季预留1–1.5小时（规划估算）",
+                "origin": "Moloveien 41 Ballstad Norway",
                 "destination": "Hamnøy bridge Norway",
                 "checkedAt": "2026-11-14"
               },
@@ -2040,7 +2040,7 @@
             "title": "北返海岸 · Ramberg／Skagsanden",
             "body": [
               {
-                "t": "午餐后沿E10北上，在Ramberg或Skagsanden海滩择一拍雪山海湾；时间和支路条件允许再加Nusfjord。",
+                "t": "午餐后沿E10返回，在Ramberg、Skagsanden海滩拍雪山海湾，再前往Nusfjord渔村。",
                 "links": []
               }
             ],
@@ -2073,11 +2073,11 @@
                   "query": "Nusfjord parking Norway"
                 }
               ],
-              "note": "海滩择一；Nusfjord为可选支线，先确认支路可通行。",
+              "note": "使用标示游客停车区。",
               "sources": [
                 "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/"
               ],
-              "description": "海滩停车可选Rambergstranda停车区或Skagsanden停车区；若加Nusfjord支线，使用Nusfjord游客停车区。"
+              "description": "使用Rambergstranda、Skagsanden及Nusfjord游客停车区。"
             },
             "drives": [
               {
@@ -2104,7 +2104,7 @@
                 "from": "Skagsanden",
                 "to": "Nusfjord",
                 "distance": "12km",
-                "duration": "20–30分钟（可选）",
+                "duration": "20–30分钟",
                 "origin": "Skagsanden beach Norway",
                 "destination": "Nusfjord Norway",
                 "routeDistanceKm": 12.4,
@@ -2122,53 +2122,41 @@
               "14:30出发"
             ],
             "emoji": "🚗",
-            "title": "沿E10北上 · 入住 Lofoten Rorbuer",
+            "title": "返回 Ballstad · 续住 Solsiden",
             "body": [
               {
-                "t": "前往斯沃尔维尔，晚餐后入住海景套房，窗外看渔船与港口。Henningsvær和Kabelvåg留给次日上午。",
+                "t": "返回Solsiden续住，无需搬运行李或再次办理入住。晚餐可在酒店餐厅安排，公共桑拿按酒店安排使用；Henningsvær和Kabelvåg留给次日上午。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
                 {
-                  "label": "Lofoten Rorbuer",
-                  "query": "Lofoten Rorbuer Svolvaer Norway"
+                  "label": "Solsiden Brygge",
+                  "query": "Moloveien 41 Ballstad Norway"
                 }
               ],
-              "note": "使用住宿确认的停车位，勿占用港口作业车道。",
-              "description": "抵达Lofoten Rorbuer后使用住宿确认的车位，别占用港口作业车道。"
+              "description": "返回Moloveien 41的Solsiden Brygge，使用酒店私人停车位。"
             },
             "drives": [
               {
-                "from": "Skagsanden",
-                "to": "Lofoten Rorbuer",
-                "distance": "92km",
-                "duration": "1.5–2小时",
-                "origin": "Skagsanden beach Norway",
-                "destination": "Lofoten Rorbuer Svolvaer Norway",
-                "routeDistanceKm": 91.7,
-                "checkedAt": "2026-11-10"
-              },
-              {
                 "from": "Nusfjord",
-                "to": "Lofoten Rorbuer",
-                "distance": "92km",
-                "duration": "1.5–2小时（选支线时）",
+                "to": "Solsiden Brygge",
                 "origin": "Nusfjord Norway",
-                "destination": "Lofoten Rorbuer Svolvaer Norway",
-                "routeDistanceKm": 91.5,
-                "checkedAt": "2026-11-10"
+                "destination": "Moloveien 41 Ballstad Norway",
+                "distance": "30–40km",
+                "duration": "冬季预留45–60分钟（规划估算）",
+                "checkedAt": "2026-11-14"
               }
             ],
             "infoCard": {
               "time": "下午 · 14:30出发",
               "price": "stay",
-              "stayId": "svolvaer"
+              "stayId": "solsiden"
             }
           }
         ],
-        "stayId": "svolvaer"
+        "stayId": "solsiden"
       },
       {
         "num": 8,
@@ -2176,7 +2164,7 @@
         "title": "罗弗敦北部 · 亨宁斯维尔／港口 → 特罗姆瑟",
         "date": "2月13日（周六） · 上午看北部渔村，午前出发返回特罗姆瑟",
         "tags": [
-          "约8–10h（约480–500km）"
+          "约9–11h（约530–560km，冬季规划估算）"
         ],
         "photos": [
           {
@@ -2199,13 +2187,13 @@
           {
             "time": [
               "上午",
-              "08:30–10:00"
+              "08:00–10:00"
             ],
             "emoji": "🏘️",
             "title": "Henningsvær · 海港与桥梁",
             "body": [
               {
-                "t": "从斯沃尔维尔出发，沿港湾短走拍渔屋与雪山；不额外叠加远处海滩支线。",
+                "t": "从Ballstad的Solsiden退房出发，行李随车携带，前往Henningsvær，沿港湾短走拍渔屋与雪山。",
                 "links": []
               }
             ],
@@ -2230,18 +2218,17 @@
             },
             "drives": [
               {
-                "from": "Lofoten Rorbuer",
+                "from": "Solsiden Brygge",
                 "to": "Henningsvær",
-                "distance": "25km",
-                "duration": "30–40分钟",
-                "origin": "Lofoten Rorbuer Svolvaer Norway",
+                "distance": "65–75km",
+                "duration": "冬季预留1–1.5小时（规划估算）",
+                "origin": "Moloveien 41 Ballstad Norway",
                 "destination": "Henningsvaer Norway",
-                "routeDistanceKm": 24.5,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-14"
               }
             ],
             "infoCard": {
-              "time": "上午 · 08:30–10:00",
+              "time": "上午 · 08:00–10:00",
               "price": "停车费另计"
             }
           },
@@ -2484,10 +2471,10 @@
               "14:20–15:30"
             ],
             "emoji": "🚗",
-            "title": "取行李 · 机场取车",
+            "title": "机场取车",
             "body": [
               {
-                "t": "取行李，按订单于15:00取车并记录车况。目标15:30离开机场，先去雷市教堂门口拍秋千，再前往Hveragerði的INNI精品公寓。",
+                "t": "按订单于15:00取车并记录车况，行李随车携带。目标15:30离开机场，先去雷市教堂门口拍秋千，再前往Hveragerði的INNI精品公寓。",
                 "links": []
               }
             ],
@@ -3228,7 +3215,7 @@
               {
                 "from": "Kirkjubæjarklaustur",
                 "to": "冰川湖酒店",
-                "distance": "约135–140km",
+                "distance": "135–140km",
                 "duration": "冬季预留2–2.5小时（估算）",
                 "origin": "Kirkjubaejarklaustur Iceland",
                 "destination": "Hotel Jokulsarlon Glacier Lagoon Hotel Iceland",
@@ -3311,7 +3298,7 @@
               {
                 "from": "冰川湖酒店",
                 "to": "钻石沙滩",
-                "distance": "约15km",
+                "distance": "15km",
                 "duration": "冬季预留20–30分钟",
                 "origin": "Hotel Jokulsarlon Glacier Lagoon Hotel Iceland",
                 "destination": "Diamond Beach Parking South Iceland",

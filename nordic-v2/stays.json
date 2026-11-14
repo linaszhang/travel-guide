@@ -853,9 +853,7 @@
   },
   {
     "id": "ytterviks",
-    "days": [
-      6
-    ],
+    "days": [],
     "country": "norway",
     "location": "Stamsund · 罗弗敦",
     "dates": "2.11–2.12",
@@ -864,12 +862,12 @@
       {
         "name": "Ytterviks Rorbu · 私人桑拿渔屋",
         "features": "50㎡两卧室整屋 · 私人桑拿 · 厨房 · 洗衣机 · 免费电车充电",
-        "description": "Stamsund海边的50㎡两卧室整租渔屋，设客厅、设施齐全的厨房、私人浴室和海景露台。卧室1为一张双人床，卧室2为两张单人床；带私人桑拿、洗衣机及免费私人停车。2月11日两笔有效预订中价格较低，作为当晚默认住宿。",
+        "description": "Stamsund海边的50㎡两卧室整租渔屋，设客厅、设施齐全的厨房、私人浴室和海景露台。卧室1为一张双人床，卧室2为两张单人床；带私人桑拿、洗衣机及免费私人停车。当前作为2月11–12日的已订备选。",
         "url": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
         "total": 1535,
         "originalTotal": 2200,
         "currency": "NOK",
-        "status": "已预订",
+        "status": "已预订 · 备选",
         "roomLayout": "50㎡ · 2卧室 · 1张双人床＋2张单人床",
         "maxGuests": 4,
         "cancellation": "2027.1.27 23:59前免费取消；之后按订单阶梯收取费用",
@@ -879,8 +877,8 @@
           "自助钥匙盒入住；入口与停车按房东指引。",
           "1月28日起取消费用NOK 1,100，2月12日起NOK 2,200；截止按住宿当地时间。"
         ],
-        "userNote": "2.11–2.12默认住宿；另已预订Solsiden海景设计套房作为备选。",
-        "budgetSummary": "两卧室渔屋，配私人桑拿、厨房、洗衣机及免费电车充电；价格低于同日备选。",
+        "userNote": "原方案已订备选；2.11–2.13默认连住Solsiden两晚，不计入默认住宿预算。",
+        "budgetSummary": "两卧室渔屋，配私人桑拿、厨房、洗衣机及免费电车充电；已订备选。",
         "address": "Buøyveien 17, 8340 Stamsund, Norway",
         "checkInTime": "16:00–23:00",
         "checkOutTime": "07:00–11:00",
@@ -1051,37 +1049,40 @@
           }
         ]
       }
-    ]
+    ],
+    "backup": true
   },
   {
     "id": "solsiden",
-    "backup": true,
-    "days": [],
+    "days": [
+      6,
+      7
+    ],
     "country": "norway",
     "location": "Ballstad · 罗弗敦",
-    "dates": "2.11–2.12",
-    "nights": 1,
+    "dates": "2.11–2.13",
+    "nights": 2,
     "options": [
       {
         "name": "Solsiden Brygge Rorbuer · 海景设计套房",
         "features": "25㎡海景设计套房 · 含早餐 · 餐厅与酒吧 · 公共桑拿与热水浴缸",
-        "description": "Ballstad渔港旁的25㎡海景设计套房，一张大号双人床、私人浴室、休息区、冰箱和咖啡机。所订套房不含厨房，早餐已包含；住宿设餐厅、酒吧、桑拿及热水浴缸。保留为2月11日较贵的已预订备选。",
+        "description": "Ballstad渔港旁的25㎡海景设计套房，一张大号双人床、私人浴室、休息区、冰箱和咖啡机。所订套房不含厨房，早餐已包含；住宿设餐厅、酒吧、桑拿及热水浴缸。2月11–13日连住两晚，为罗弗敦默认住宿。",
         "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-        "total": 1685,
-        "originalTotal": 2415,
+        "total": 3370,
+        "originalTotal": 4830,
         "currency": "NOK",
-        "status": "已预订 · 备选",
+        "status": "已预订",
         "roomLayout": "25㎡ · 海景设计套房 · 1张大号双人床",
         "maxGuests": 2,
         "cancellation": "2027.2.3 23:59前免费取消",
         "notes": [
-          "2月11日15:00–21:00入住，2月12日08:00–11:00退房；2位成人、1晚，含早餐。",
-          "订单总额NOK 2,415，Booking当前折算约¥1,685。",
-          "至少提前一天告知预计抵达时间。",
-          "公共桑拿与热水浴缸的开放、预约和收费按住宿安排。"
+          "2月11日15:00–21:00入住，2月13日08:00–11:00退房；2位成人、2晚，含早餐。",
+          "订单总额NOK 4,830，Booking当前折算约¥3,370。",
+          "至少提前一天告知预计抵达时间，首日晚入住提前与酒店协调。",
+          "公共桑拿按住宿安排使用，热水浴缸额外收费。"
         ],
-        "userNote": "2.11–2.12已订备选；默认使用价格较低的Ytterviks。",
-        "budgetSummary": "含早餐的25㎡海景设计套房，设餐厅、酒吧和公共康体设施；不计入默认住宿预算。",
+        "userNote": "2.11–2.13默认连住两晚；Ytterviks、Lofoten Rorbuer及Lofoten Paradise Cabins保留为已订备选。",
+        "budgetSummary": "含早餐的25㎡海景设计套房，连住两晚；设餐厅、酒吧、公共桑拿、热水浴缸及电车充电。",
         "address": "Moloveien 41, 8373 Ballstad, Norway",
         "checkInTime": "15:00–21:00",
         "checkOutTime": "08:00–11:00",
@@ -1255,9 +1256,7 @@
   },
   {
     "id": "svolvaer",
-    "days": [
-      7
-    ],
+    "days": [],
     "country": "norway",
     "location": "斯沃尔维尔",
     "dates": "2.12–2.13",
@@ -1358,7 +1357,7 @@
             "bookingPhotoId": "465060392"
           }
         ],
-        "status": "已预订",
+        "status": "已预订 · 备选",
         "notes": [
           "2月12日入住、2月13日退房，海景套房；卧室1为2张单人床，卧室2为上下铺的2个床位。",
           "订单总额 NOK 2,682.90，Booking当前折算约¥1,872；含订单列出的停车服务。",
@@ -1367,7 +1366,7 @@
         ],
         "roomLayout": "2卧室 · 2张单人床＋1张双层床（共4床位）",
         "cancellation": "2027.2.6 23:59前免费取消",
-        "userNote": "渔民套房，窗外是海景+渔船，有露台",
+        "userNote": "原方案已订备选；2.11–2.13默认连住Solsiden两晚，不计入默认住宿预算。",
         "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船；住宿有公共户外火塘，可电车充电。",
         "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707",
         "facilitySources": [
@@ -1435,7 +1434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "backup": true
   },
   {
     "id": "tromso-airport",
@@ -2844,7 +2844,7 @@
           ],
           "checked": "2026-11-14"
         },
-        "priceNote": "默认冰川景观双人间订单房价 €495，约¥3,641；三人间另计，不计入默认预算。",
+        "priceNote": "默认冰川景观双人间订单房价 €495，约¥3,641；三人间另计，不计入默认预算",
         "hotelFacilities": [
           {
             "name": "餐厅",
@@ -3705,193 +3705,172 @@
     ]
   },
   {
-    "id": "laukvik-senja",
+    "id": "lofoten-paradise",
     "backup": true,
     "days": [],
     "country": "norway",
-    "location": "Botnhamn · 塞尼亚",
-    "dates": "2.7–2.9",
+    "location": "Napp · 罗弗敦",
+    "dates": "2.11–2.13",
     "nights": 2,
     "options": [
       {
-        "name": "Laukvik Senja",
-        "features": "海景三卧室公寓 · 桑拿 · 厨房 · 洗衣机",
-        "description": "海景三卧室整租公寓，带阳台、露台、桑拿和厨房；订单最多入住7位成人。",
-        "url": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-        "total": 3813,
-        "roomLayout": "3卧室 · 床型以订单为准",
-        "maxGuests": 7,
-        "cancellation": "2027.1.23 23:59前免费取消",
+        "name": "Lofoten Paradise Cabins Sea View · 海景公寓",
+        "features": "56㎡两卧室公寓 · 厨房 · 洗衣机 · 烘干机 · 海景露台",
+        "description": "Napp海边的56㎡两卧室整租公寓，设一张大号双人床、两张单人床及客厅沙发床，最多6位成人。带私人厨房、洗碗机、洗衣机和滚筒式烘干机，另有露台、烧烤设施及免费私人停车。",
+        "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+        "total": 4710,
+        "originalTotal": 6750,
+        "currency": "NOK",
+        "status": "已预订 · 备选",
+        "roomLayout": "56㎡ · 2卧室 · 1张大号双人床＋2张单人床＋1张沙发床",
+        "maxGuests": 6,
+        "cancellation": "2027.1.27 23:59前免费取消；之后收取NOK 6,750",
         "notes": [
-          "Booking显示已确认；当前主行程同期住EIRA，此处仅作备选，不计入预算。",
-          "日期为订单原定2月7–9日，地点在塞尼亚，尚未调整为主行程的塞尼亚住宿日期。",
-          "价格按订单列表显示的2人2晚合计；增加入住人数的费用需另向住宿确认。"
+          "2月11日15:00–20:00入住，2月13日08:00–11:00退房；1套公寓、2晚，不含餐。",
+          "订单总额NOK 6,750，Booking折算约¥4,710；该价格按订单所选1位成人计算。",
+          "增加住客可能加收费用，房型最多6位成人。",
+          "2.11–2.13默认入住Solsiden，本预订作为备选，不计入默认预算。"
         ],
+        "userNote": "已订备选；当前订单为1位成人，增加住客费用以住宿确认为准。",
+        "budgetSummary": "56㎡两卧室海景公寓，配厨房与洗烘设备；当前订单为1位成人、2晚。",
+        "address": "Hauan 25, 8382 Napp, Norway",
+        "checkInTime": "15:00–20:00",
+        "checkOutTime": "08:00–11:00",
         "photos": [
           {
-            "label": "BotnhamnLaukvik Senja的客厅里摆放着皮质家具，还有一扇大窗户。",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930331905",
-            "src": "assets/stays/booking-laukvik-senja-930331905-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-laukvik-senja-930331905-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930331905-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930331905-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
+            "label": "海景客厅",
+            "caption": "海景客厅",
+            "category": "海景客厅",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962575"
           },
           {
-            "label": "Laukvik Senja的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930440040",
-            "src": "assets/stays/booking-laukvik-senja-930440040-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-laukvik-senja-930440040-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930440040-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930440040-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
+            "label": "厨房与餐厅",
+            "caption": "厨房与餐厅",
+            "category": "厨房与餐厅",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962621"
           },
           {
-            "label": "BotnhamnLaukvik Senja的厨房里有一张桌子和一个白色冰箱",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930341485",
-            "src": "assets/stays/booking-laukvik-senja-930341485-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-laukvik-senja-930341485-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930341485-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930341485-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
+            "label": "双人床卧室",
+            "caption": "双人床卧室",
+            "category": "双人床卧室",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962689"
           },
           {
-            "label": "BotnhamnLaukvik Senja的浴室里有马桶、淋浴和洗手池。",
-            "caption": "卫生间",
-            "category": "卫生间",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930337306",
-            "src": "assets/stays/booking-laukvik-senja-930337306-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-laukvik-senja-930337306-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930337306-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930337306-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
+            "label": "双床卧室",
+            "caption": "双床卧室",
+            "category": "双床卧室",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962630"
           },
           {
-            "label": "BotnhamnLaukvik Senja的一个木制桑拿房，里面放着一个篮子",
-            "caption": "桑拿与温泉",
-            "category": "桑拿与温泉",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930450553",
-            "src": "assets/stays/booking-laukvik-senja-930450553-960.webp",
-            "width": 960,
-            "height": 675,
-            "mobile": "assets/stays/booking-laukvik-senja-930450553-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930450553-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930450553-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
+            "label": "浴室与洗烘设备",
+            "caption": "浴室与洗烘设备",
+            "category": "浴室与洗烘设备",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962439"
           },
           {
-            "label": "BotnhamnLaukvik Senja的相册照片",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930338266",
-            "src": "assets/stays/booking-laukvik-senja-930338266-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-laukvik-senja-930338266-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930338266-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930338266-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
+            "label": "浴室洗漱区",
+            "caption": "浴室洗漱区",
+            "category": "浴室洗漱区",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962500"
           },
           {
-            "label": "BotnhamnLaukvik Senja的相册照片",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "922543220",
-            "src": "assets/stays/booking-laukvik-senja-922543220-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-laukvik-senja-922543220-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-922543220-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-922543220-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
+            "label": "咖啡与烧水设备",
+            "caption": "咖啡与烧水设备",
+            "category": "咖啡与烧水设备",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962714"
           },
           {
-            "label": "BotnhamnLaukvik Senja的相册照片",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "160487661",
-            "src": "assets/stays/booking-laukvik-senja-160487661-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/booking-laukvik-senja-160487661-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-160487661-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-160487661-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
+            "label": "临窗用餐区",
+            "caption": "临窗用餐区",
+            "category": "临窗用餐区",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962542"
           },
           {
-            "label": "度假园所在大楼",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html",
-            "bookingPhotoId": "930448304",
-            "src": "assets/stays/booking-laukvik-senja-930448304-960.webp",
-            "width": 960,
-            "height": 638,
-            "mobile": "assets/stays/booking-laukvik-senja-930448304-640.webp",
-            "medium": "assets/stays/booking-laukvik-senja-930448304-480.webp",
-            "thumb": "assets/stays/booking-laukvik-senja-930448304-240.webp"
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
+            "label": "公寓入口",
+            "caption": "公寓入口",
+            "category": "公寓入口",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "905248857"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
+            "label": "建筑与露台",
+            "caption": "建筑与露台",
+            "category": "建筑与露台",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "905221994"
           }
         ],
-        "status": "已确认 · 待备选",
-        "capacitySource": "Booking预订确认页：所订房型",
-        "capacityCheckedAt": "2026-11-14",
-        "budgetSummary": "海景三卧室公寓 · 桑拿 · 厨房 · 洗衣机",
-        "galleryCheckedAt": "2026-11-14",
-        "gallerySource": "Booking所订房型相册与公共设施；已剔除其他房型、近似重复及无关风景",
+        "priceNote": "订单按1位成人计价 · NOK 6,750，约¥4,710",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
-            "detail": "三卧室公寓私人厨房"
+            "detail": "私人厨房，含冰箱、烤箱、炉灶及洗碗机"
           },
           "washer": {
             "status": "有",
-            "detail": "房型列有洗衣机"
+            "detail": "所订公寓列有洗衣机"
           },
           "dryer": {
-            "status": "未确认",
-            "detail": "房型未列出烘干机"
+            "status": "有",
+            "detail": "所订公寓列有滚筒式烘干机"
           },
           "charging": {
             "status": "未确认",
-            "detail": "房源未明确列出电车充电"
+            "detail": "公开设施未列出电车充电站"
           },
           "notes": [],
           "sources": [
             {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/no/laukvik-havfiskecamp.zh-cn.html"
+              "label": "Booking公开房源与对应公寓设施",
+              "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html"
             }
           ],
           "checked": "2026-11-14"
         },
         "hotelFacilities": [
           {
-            "name": "桑拿",
-            "detail": "公寓桑拿"
+            "name": "露台与户外用餐",
+            "detail": "私人海景露台、户外家具、烧烤设施"
           },
           {
-            "name": "阳台与露台",
-            "detail": "海景户外空间"
+            "name": "停车与网络",
+            "detail": "免费私人停车、免费WiFi"
           },
           {
-            "name": "停车",
-            "detail": "私人停车"
+            "name": "餐饮与康体",
+            "detail": "未列出住宿内餐厅、酒吧或桑拿；所订房价不含餐"
           }
-        ]
+        ],
+        "gallerySource": "Booking对应公寓房型与整体设施；去除其他房型、相似照片及无关风景",
+        "galleryCheckedAt": "2026-11-14"
       }
     ]
   }

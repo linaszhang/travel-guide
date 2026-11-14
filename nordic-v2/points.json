@@ -635,8 +635,6 @@
     "query": "Svolvær Norway",
     "name": "Svolvær 斯沃尔维尔",
     "days": [
-      6,
-      7,
       8
     ],
     "kind": "sight",
@@ -1730,24 +1728,25 @@
     "rating": null
   },
   {
-    "query": "Buøyveien 17 Stamsund Norway",
-    "name": "Ytterviks Rorbu · Stamsund住宿",
+    "query": "Moloveien 41 Ballstad Norway",
+    "name": "Solsiden Brygge · Ballstad住宿",
     "days": [
       6,
-      7
+      7,
+      8
     ],
     "kind": "stay",
     "coord": [
-      13.8571333,
-      68.1261167
+      13.551249504089355,
+      68.07261723885583
     ],
     "id": "p-fredvang",
     "countryName": "挪威",
     "countryId": "norway",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/619855548.jpg?k=0dad88f4beb2cf5e07ec04ce0b221d4bb77325ce816ef4427eba10e01885c8fa&o=",
-    "imageLabel": "Ytterviks Rorbu · 客厅",
-    "imageSource": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-    "description": "2月11–12日入住Ytterviks两卧室渔屋，私人桑拿及免费电车充电。",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96082602.jpg?k=49accf6f5b4157b0c40e0f0f2e4d90752079ef58072c619c12b28faac97665a8&o=",
+    "imageLabel": "Solsiden · 海景设计套房",
+    "imageSource": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+    "description": "2月11–13日连住Solsiden海景设计套房两晚，含早餐；设餐厅、酒吧、公共桑拿及电车充电。",
     "rating": null
   },
   {
