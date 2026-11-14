@@ -852,6 +852,178 @@
     ]
   },
   {
+    "id": "lofoten-paradise",
+    "days": [
+      6,
+      7
+    ],
+    "country": "norway",
+    "location": "Napp · 罗弗敦",
+    "dates": "2.11–2.13",
+    "nights": 2,
+    "options": [
+      {
+        "name": "Lofoten Paradise Cabins Sea View · 海景公寓",
+        "features": "56㎡两卧室公寓 · 厨房 · 洗衣机 · 烘干机 · 海景露台",
+        "description": "Napp海边的56㎡两卧室整租公寓，设一张大号双人床、两张单人床及客厅沙发床，最多6位成人。带私人厨房、洗碗机、洗衣机和滚筒式烘干机，另有露台、烧烤设施及免费私人停车。",
+        "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+        "total": 4710,
+        "originalTotal": 6750,
+        "currency": "NOK",
+        "status": "已预订",
+        "roomLayout": "56㎡ · 2卧室 · 1张大号双人床＋2张单人床＋1张沙发床",
+        "maxGuests": 6,
+        "cancellation": "2027.1.27 23:59前免费取消；之后收取NOK 6,750",
+        "notes": [
+          "2月11日15:00–20:00入住，2月13日08:00–11:00退房；1套公寓、2晚，不含餐。",
+          "订单总额NOK 6,750，Booking折算约¥4,710；该价格按订单所选1位成人计算。",
+          "增加住客可能加收费用，房型最多6位成人。",
+          "2.11–2.13默认连住本公寓两晚，Solsiden保留为已订备选。"
+        ],
+        "userNote": "2.11–2.13默认连住两晚，标记为强烈推荐；当前订单为1位成人，增加住客费用以住宿确认为准。",
+        "budgetSummary": "56㎡两卧室海景公寓，配厨房与洗烘设备；当前订单为1位成人、2晚。",
+        "address": "Hauan 25, 8382 Napp, Norway",
+        "checkInTime": "15:00–20:00",
+        "checkOutTime": "08:00–11:00",
+        "photos": [
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
+            "label": "海景客厅",
+            "caption": "海景客厅",
+            "category": "海景客厅",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962575"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
+            "label": "厨房与餐厅",
+            "caption": "厨房与餐厅",
+            "category": "厨房与餐厅",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962621"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
+            "label": "双人床卧室",
+            "caption": "双人床卧室",
+            "category": "双人床卧室",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962689"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
+            "label": "双床卧室",
+            "caption": "双床卧室",
+            "category": "双床卧室",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962630"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
+            "label": "浴室与洗烘设备",
+            "caption": "浴室与洗烘设备",
+            "category": "浴室与洗烘设备",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962439"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
+            "label": "浴室洗漱区",
+            "caption": "浴室洗漱区",
+            "category": "浴室洗漱区",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962500"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
+            "label": "咖啡与烧水设备",
+            "caption": "咖啡与烧水设备",
+            "category": "咖啡与烧水设备",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962714"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
+            "label": "临窗用餐区",
+            "caption": "临窗用餐区",
+            "category": "临窗用餐区",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "855962542"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
+            "label": "公寓入口",
+            "caption": "公寓入口",
+            "category": "公寓入口",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "905248857"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
+            "label": "建筑与露台",
+            "caption": "建筑与露台",
+            "category": "建筑与露台",
+            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
+            "bookingPhotoId": "905221994"
+          }
+        ],
+        "priceNote": "订单按1位成人计价 · NOK 6,750，约¥4,710",
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "私人厨房，含冰箱、烤箱、炉灶及洗碗机"
+          },
+          "washer": {
+            "status": "有",
+            "detail": "所订公寓列有洗衣机"
+          },
+          "dryer": {
+            "status": "有",
+            "detail": "所订公寓列有滚筒式烘干机"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "公开设施未列出电车充电站"
+          },
+          "notes": [],
+          "sources": [
+            {
+              "label": "Booking公开房源与对应公寓设施",
+              "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-14"
+        },
+        "hotelFacilities": [
+          {
+            "name": "露台与户外用餐",
+            "detail": "私人海景露台、户外家具、烧烤设施"
+          },
+          {
+            "name": "停车与网络",
+            "detail": "免费私人停车、免费WiFi"
+          },
+          {
+            "name": "餐饮与康体",
+            "detail": "未列出住宿内餐厅、酒吧或桑拿；所订房价不含餐"
+          }
+        ],
+        "gallerySource": "Booking对应公寓房型与整体设施；去除其他房型、相似照片及无关风景",
+        "galleryCheckedAt": "2026-11-14"
+      }
+    ]
+  },
+  {
     "id": "ytterviks",
     "days": [],
     "country": "norway",
@@ -877,7 +1049,7 @@
           "自助钥匙盒入住；入口与停车按房东指引。",
           "1月28日起取消费用NOK 1,100，2月12日起NOK 2,200；截止按住宿当地时间。"
         ],
-        "userNote": "原方案已订备选；2.11–2.13默认连住Solsiden两晚，不计入默认住宿预算。",
+        "userNote": "原方案已订备选；2.11–2.13默认连住Lofoten Paradise Cabins两晚，不计入默认住宿预算。",
         "budgetSummary": "两卧室渔屋，配私人桑拿、厨房、洗衣机及免费电车充电；已订备选。",
         "address": "Buøyveien 17, 8340 Stamsund, Norway",
         "checkInTime": "16:00–23:00",
@@ -1054,10 +1226,7 @@
   },
   {
     "id": "solsiden",
-    "days": [
-      6,
-      7
-    ],
+    "days": [],
     "country": "norway",
     "location": "Ballstad · 罗弗敦",
     "dates": "2.11–2.13",
@@ -1066,12 +1235,12 @@
       {
         "name": "Solsiden Brygge Rorbuer · 海景设计套房",
         "features": "25㎡海景设计套房 · 含早餐 · 餐厅与酒吧 · 公共桑拿与热水浴缸",
-        "description": "Ballstad渔港旁的25㎡海景设计套房，一张大号双人床、私人浴室、休息区、冰箱和咖啡机。所订套房不含厨房，早餐已包含；住宿设餐厅、酒吧、桑拿及热水浴缸。2月11–13日连住两晚，为罗弗敦默认住宿。",
+        "description": "Ballstad渔港旁的25㎡海景设计套房，一张大号双人床、私人浴室、休息区、冰箱和咖啡机。所订套房不含厨房，早餐已包含；住宿设餐厅、酒吧、桑拿及热水浴缸。2月11–13日连住两晚，作为已订备选。",
         "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
         "total": 3370,
         "originalTotal": 4830,
         "currency": "NOK",
-        "status": "已预订",
+        "status": "已预订 · 备选",
         "roomLayout": "25㎡ · 海景设计套房 · 1张大号双人床",
         "maxGuests": 2,
         "cancellation": "2027.2.3 23:59前免费取消",
@@ -1081,8 +1250,8 @@
           "至少提前一天告知预计抵达时间，首日晚入住提前与酒店协调。",
           "公共桑拿按住宿安排使用，热水浴缸额外收费。"
         ],
-        "userNote": "2.11–2.13默认连住两晚；Ytterviks、Lofoten Rorbuer及Lofoten Paradise Cabins保留为已订备选。",
-        "budgetSummary": "含早餐的25㎡海景设计套房，连住两晚；设餐厅、酒吧、公共桑拿、热水浴缸及电车充电。",
+        "userNote": "2.11–2.13已订备选；默认连住Lofoten Paradise Cabins两晚，不计入默认住宿预算。",
+        "budgetSummary": "含早餐的25㎡海景设计套房，连住两晚；设餐厅、酒吧、公共桑拿、热水浴缸及电车充电。已订备选。",
         "address": "Moloveien 41, 8373 Ballstad, Norway",
         "checkInTime": "15:00–21:00",
         "checkOutTime": "08:00–11:00",
@@ -1252,7 +1421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "backup": true
   },
   {
     "id": "svolvaer",
@@ -1366,7 +1536,7 @@
         ],
         "roomLayout": "2卧室 · 2张单人床＋1张双层床（共4床位）",
         "cancellation": "2027.2.6 23:59前免费取消",
-        "userNote": "原方案已订备选；2.11–2.13默认连住Solsiden两晚，不计入默认住宿预算。",
+        "userNote": "原方案已订备选；2.11–2.13默认连住Lofoten Paradise Cabins两晚，不计入默认住宿预算。",
         "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船；住宿有公共户外火塘，可电车充电。",
         "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707",
         "facilitySources": [
@@ -3701,176 +3871,6 @@
             "detail": "提供行李寄存"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "lofoten-paradise",
-    "backup": true,
-    "days": [],
-    "country": "norway",
-    "location": "Napp · 罗弗敦",
-    "dates": "2.11–2.13",
-    "nights": 2,
-    "options": [
-      {
-        "name": "Lofoten Paradise Cabins Sea View · 海景公寓",
-        "features": "56㎡两卧室公寓 · 厨房 · 洗衣机 · 烘干机 · 海景露台",
-        "description": "Napp海边的56㎡两卧室整租公寓，设一张大号双人床、两张单人床及客厅沙发床，最多6位成人。带私人厨房、洗碗机、洗衣机和滚筒式烘干机，另有露台、烧烤设施及免费私人停车。",
-        "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-        "total": 4710,
-        "originalTotal": 6750,
-        "currency": "NOK",
-        "status": "已预订 · 备选",
-        "roomLayout": "56㎡ · 2卧室 · 1张大号双人床＋2张单人床＋1张沙发床",
-        "maxGuests": 6,
-        "cancellation": "2027.1.27 23:59前免费取消；之后收取NOK 6,750",
-        "notes": [
-          "2月11日15:00–20:00入住，2月13日08:00–11:00退房；1套公寓、2晚，不含餐。",
-          "订单总额NOK 6,750，Booking折算约¥4,710；该价格按订单所选1位成人计算。",
-          "增加住客可能加收费用，房型最多6位成人。",
-          "2.11–2.13默认入住Solsiden，本预订作为备选，不计入默认预算。"
-        ],
-        "userNote": "已订备选；当前订单为1位成人，增加住客费用以住宿确认为准。",
-        "budgetSummary": "56㎡两卧室海景公寓，配厨房与洗烘设备；当前订单为1位成人、2晚。",
-        "address": "Hauan 25, 8382 Napp, Norway",
-        "checkInTime": "15:00–20:00",
-        "checkOutTime": "08:00–11:00",
-        "photos": [
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
-            "label": "海景客厅",
-            "caption": "海景客厅",
-            "category": "海景客厅",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962575"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
-            "label": "厨房与餐厅",
-            "caption": "厨房与餐厅",
-            "category": "厨房与餐厅",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962621"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
-            "label": "双人床卧室",
-            "caption": "双人床卧室",
-            "category": "双人床卧室",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962689"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
-            "label": "双床卧室",
-            "caption": "双床卧室",
-            "category": "双床卧室",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962630"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
-            "label": "浴室与洗烘设备",
-            "caption": "浴室与洗烘设备",
-            "category": "浴室与洗烘设备",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962439"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
-            "label": "浴室洗漱区",
-            "caption": "浴室洗漱区",
-            "category": "浴室洗漱区",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962500"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
-            "label": "咖啡与烧水设备",
-            "caption": "咖啡与烧水设备",
-            "category": "咖啡与烧水设备",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962714"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
-            "label": "临窗用餐区",
-            "caption": "临窗用餐区",
-            "category": "临窗用餐区",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962542"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
-            "label": "公寓入口",
-            "caption": "公寓入口",
-            "category": "公寓入口",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "905248857"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
-            "label": "建筑与露台",
-            "caption": "建筑与露台",
-            "category": "建筑与露台",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "905221994"
-          }
-        ],
-        "priceNote": "订单按1位成人计价 · NOK 6,750，约¥4,710",
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "私人厨房，含冰箱、烤箱、炉灶及洗碗机"
-          },
-          "washer": {
-            "status": "有",
-            "detail": "所订公寓列有洗衣机"
-          },
-          "dryer": {
-            "status": "有",
-            "detail": "所订公寓列有滚筒式烘干机"
-          },
-          "charging": {
-            "status": "未确认",
-            "detail": "公开设施未列出电车充电站"
-          },
-          "notes": [],
-          "sources": [
-            {
-              "label": "Booking公开房源与对应公寓设施",
-              "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-14"
-        },
-        "hotelFacilities": [
-          {
-            "name": "露台与户外用餐",
-            "detail": "私人海景露台、户外家具、烧烤设施"
-          },
-          {
-            "name": "停车与网络",
-            "detail": "免费私人停车、免费WiFi"
-          },
-          {
-            "name": "餐饮与康体",
-            "detail": "未列出住宿内餐厅、酒吧或桑拿；所订房价不含餐"
-          }
-        ],
-        "gallerySource": "Booking对应公寓房型与整体设施；去除其他房型、相似照片及无关风景",
-        "galleryCheckedAt": "2026-11-14"
       }
     ]
   }
