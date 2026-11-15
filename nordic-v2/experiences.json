@@ -155,10 +155,50 @@
       {
         "src": "../nordic/assets/experiences/cross-country-ski.jpg",
         "label": "Tromsøya越野滑雪 · 雪道景观参考"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/4ddecac3f94df9e43ef94e58d8bf77466197bd4174b6722146bada55775245bc.png",
+        "label": "越野滑雪 · 雪道入门教学参考",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/19f61ecac2a3e31462b39e54dd9850c4cd322aa1d724c5feb15bcfaa6e88545c.jpeg",
+        "label": "越野滑雪 · 雾凇林间雪道",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/5601ad5cea5d253ece556099b4b376927b7bff68aeb7f391273bcc6272737111.jpeg",
+        "label": "越野滑雪 · 暮色林间滑行",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/f2e8c10ff973e4046149a851937a36339022df1c4b2f647ed4d1551188d8c16c.jpg",
+        "label": "越野滑雪 · 向导讲解场景参考",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/e78726834b520106776daaeaf70b82b54aaf962c5c1761c8aa9e54d33edd2df2.png",
+        "label": "越野滑雪 · 小组练习场景参考",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/27b272c49c904d3c15cd19135a60dc72d54635a5120e3f02caa8d1d79b6f228a.png",
+        "label": "越野滑雪 · 林间下坡滑行",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/501ed716d0464c03813405838aae1f22c1451e64cf56be3221320f10c441143a.png",
+        "label": "越野滑雪 · 雪道合影",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
+      },
+      {
+        "src": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=770%2Cdpr=2/tour_img/7a17bf623357ed24016152fd7a902ca11ff611c5afb65abd1537bc2c198dd429.jpg",
+        "label": "越野滑雪 · 雪具与站姿准备",
+        "source": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
       }
     ],
-    "imageCredit": "Tromsø Outdoor 越野滑雪场景参考",
-    "imageSource": "https://www.tromsooutdoor.no/activities/002-guided-cross-country-ski-trip-beginner-ski-course-tromso-outdoor"
+    "imageCredit": "Tromsø Outdoor／GetYourGuide 越野滑雪场景参考（课程照片仅供场景参考，当前安排为自主租具滑雪）",
+    "imageSource": "https://www.getyourguide.com/zh-cn/tromso-l32375/tromso-try-cross-country-skiing-beginner-ski-course-t938931/"
   },
   {
     "id": "lofoten-fishing",
