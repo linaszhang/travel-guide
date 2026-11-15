@@ -1773,6 +1773,336 @@
       9
     ],
     "country": "iceland",
+    "location": "Reykjavík · 雷克雅未克",
+    "dates": "2.14–2.15",
+    "nights": 1,
+    "options": [
+      {
+        "name": "Reykjavik Residence Hotel · 雷克雅未克公寓酒店 · 一室房",
+        "features": "26㎡一室房 · 私人小厨房 · 2位成人 · 不含早餐 · 市中心步行往返酒吧",
+        "description": "雷克雅未克市中心的公寓式酒店，客房分布在多栋历史建筑中。一室房设私人小厨房与浴室；2月14日晚步行到ÆGIR 101 Bar，结束后步行回酒店。",
+        "url": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&no_rooms=1&selected_currency=CNY",
+        "total": 1686.48,
+        "originalTotal": 1686.48,
+        "currency": "CNY",
+        "estimated": false,
+        "status": "已预订 · Trip",
+        "roomLayout": "26㎡（Trip订单） · 2张单人床或1张特大床 · 2位成人",
+        "cancellation": "2027.2.12 23:59前免费取消（酒店当地时间）",
+        "photos": [
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634814.jpg?k=fde63df6267703dc8b52406002c8177b77483916e5dc31ddd93361dcd5ff0923&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634814.jpg?k=fde63df6267703dc8b52406002c8177b77483916e5dc31ddd93361dcd5ff0923&o=",
+            "label": "一室房（Studio） · 卧室",
+            "caption": "Booking一室公寓房型 · 卧室",
+            "category": "卧室",
+            "bookingPhotoId": "647634814",
+            "roomName": "一室公寓（Studio）",
+            "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/224698515.jpg?k=4624fb2b8ad6e7f34ace6d4ad1e7a1017008b1fc7cd4f943b7c1abc7b9fc1181&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/224698515.jpg?k=4624fb2b8ad6e7f34ace6d4ad1e7a1017008b1fc7cd4f943b7c1abc7b9fc1181&o=",
+            "label": "一室房（Studio） · 客房",
+            "caption": "Booking一室公寓房型 · 客房",
+            "category": "客房",
+            "bookingPhotoId": "224698515",
+            "roomName": "一室公寓（Studio）",
+            "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/224698536.jpg?k=8cb1a08cb65f1bbbf4dcd5adf5af382f3b18420ee016a4a08b6e0d53c953a276&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/224698536.jpg?k=8cb1a08cb65f1bbbf4dcd5adf5af382f3b18420ee016a4a08b6e0d53c953a276&o=",
+            "label": "一室房（Studio） · 厨房",
+            "caption": "Booking一室公寓房型 · 厨房",
+            "category": "厨房",
+            "bookingPhotoId": "224698536",
+            "roomName": "一室公寓（Studio）",
+            "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634804.jpg?k=2786fba6672691702dbc0b4d841183b3f4738231082c03c2d0a494d1f4dd41b2&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634804.jpg?k=2786fba6672691702dbc0b4d841183b3f4738231082c03c2d0a494d1f4dd41b2&o=",
+            "label": "一室房（Studio） · 卧室",
+            "caption": "Booking一室公寓房型 · 卧室",
+            "category": "卧室",
+            "bookingPhotoId": "647634804",
+            "roomName": "一室公寓（Studio）",
+            "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634806.jpg?k=854918fbfc2cef8ed6954c75f003db455fc392d0c0a35b73373f1241ff10e822&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634806.jpg?k=854918fbfc2cef8ed6954c75f003db455fc392d0c0a35b73373f1241ff10e822&o=",
+            "label": "一室房（Studio） · 厨房",
+            "caption": "Booking一室公寓房型 · 厨房",
+            "category": "厨房",
+            "bookingPhotoId": "647634806",
+            "roomName": "一室公寓（Studio）",
+            "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/224698532.jpg?k=48d9938c87187c3668503852a37909e4ef39ac124cf6b0f664d4ef286d2fcfc0&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/224698532.jpg?k=48d9938c87187c3668503852a37909e4ef39ac124cf6b0f664d4ef286d2fcfc0&o=",
+            "label": "一室房（Studio） · 厨房",
+            "caption": "Booking一室公寓房型 · 厨房",
+            "category": "厨房",
+            "bookingPhotoId": "224698532",
+            "roomName": "一室公寓（Studio）",
+            "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
+          }
+        ],
+        "budgetSummary": "市中心一室房，配私人小厨房；2人1晚，不含早餐，Trip实付¥1,686.48。",
+        "checkInTime": "15:00后",
+        "checkOutTime": "11:00前",
+        "address": "Vatnsstígur 2, 101 Reykjavík, Iceland",
+        "addressNote": "酒店接待处；客房分布于附近多栋建筑，实际入住门牌以分配为准。前台位于步行街，公共停车另计。",
+        "addressSource": "https://www.floracollection.is/hotels/reykjavik-residence",
+        "addressCheckedAt": "2026-11-15",
+        "maxGuests": 2,
+        "capacitySource": "Trip预订房型：2位成人、一室房",
+        "capacityCheckedAt": "2026-11-15",
+        "galleryCheckedAt": "2026-11-15",
+        "gallerySource": "Booking一室公寓（Studio）相册；已剔除近似局部照片。实际楼栋、布局以酒店分配为准。",
+        "notes": [
+          "2027年2月14日入住、2月15日退房；2位成人、1间一室房（Studio）、1晚，不含餐食。",
+          "Trip已支付人民币¥1,686.48，含全部订单税费；其中税费¥206.12。",
+          "入住15:00后，退房11:00前；2月15日07:15退房后出发去黄金圈，行李随车携带。",
+          "2027年2月12日23:59前可免费取消，以酒店当地时间为准。",
+          "接待处位于Vatnsstígur 2。酒店客房分布在附近多栋建筑中，实际入住楼栋及门牌以酒店分配为准。",
+          "Vatnsstígur 2位于步行街，普通车辆不能开到前台门口；在附近合法公共收费车位停车后步行办理入住。酒店无专属停车场。",
+          "床型为2张单人床或1张特大床，具体安排以酒店确认为准。Trip订单面积26㎡；Booking同名一室公寓页面标24㎡，照片仅作Studio房型参考，实际布局随楼栋不同。",
+          "2月14日19:30–21:30到ÆGIR 101 Bar；从酒吧沿Laugavegur步行约300米、4分钟到酒店接待处，实际房间位置以分配楼栋为准。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "房内私人小厨房，含炉灶、冰箱、微波炉、烤面包机及咖啡机"
+          },
+          "washer": {
+            "status": "共用",
+            "detail": "酒店提供共用洗衣设施；所订Studio未列房内洗衣机"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "所订Studio及公开房源未明确烘干机配置"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "未确认酒店专属充电设施；周边公共停车及充电另查"
+          },
+          "notes": [
+            "共用洗衣设施不等同于房内独立洗烘机。"
+          ],
+          "sources": [
+            {
+              "label": "Booking房型与设施",
+              "url": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html"
+            },
+            {
+              "label": "酒店官网",
+              "url": "https://www.floracollection.is/hotels/reykjavik-residence"
+            }
+          ],
+          "checked": "2026-11-15"
+        },
+        "hotelFacilities": [
+          {
+            "name": "24小时前台",
+            "detail": "在Vatnsstígur 2接待；房间分布在附近多栋建筑"
+          },
+          {
+            "name": "洗衣设施",
+            "detail": "共用设施，具体位置及使用安排入住时询问前台"
+          },
+          {
+            "name": "早餐",
+            "detail": "可另购早餐篮，本订单不含早餐"
+          },
+          {
+            "name": "停车",
+            "detail": "无酒店专属停车场；附近公共收费停车，前台门口为步行街"
+          },
+          {
+            "name": "桑拿／泡池／充电",
+            "detail": "未确认，当前订单不按包含此类设施展示"
+          }
+        ]
+      },
+      {
+        "name": "Apartments Reykjavik",
+        "features": "一卧室公寓 · 厨房 · 城市短住",
+        "description": "雷克雅未克市区的一卧室公寓，设一张双人床，带客厅、厨房、私人浴室和阳台，可看花园及庭院景观，适合作为南岸行程前后的中转住宿。",
+        "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+        "total": 1059.83,
+        "originalTotal": 141.31,
+        "currency": "EUR",
+        "conversionRate": 7.5,
+        "estimated": true,
+        "photos": [
+          {
+            "src": "assets/stays/reykjavik-gallery-1-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-1-240.webp",
+            "label": "Apartments Reykjavik · 客厅 · 一卧室公寓房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "客厅 · 一卧室公寓房型参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-1-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-1-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-2-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-2-240.webp",
+            "label": "Apartments Reykjavik · 卧室 · 一卧室公寓房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "卧室 · 一卧室公寓房型参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-2-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-2-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-3-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-3-240.webp",
+            "label": "Apartments Reykjavik · 卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "卧室 · 房型参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-3-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-3-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-4-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-4-240.webp",
+            "label": "Apartments Reykjavik · 卧室 · 储物空间参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "卧室 · 储物空间参考",
+            "width": 960,
+            "height": 960,
+            "mobile": "assets/stays/reykjavik-gallery-4-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-4-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-5-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-5-240.webp",
+            "label": "Apartments Reykjavik · 厨房与用餐区 · 房型参考",
+            "category": "厨房与用餐区",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "厨房与用餐区 · 房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-5-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-5-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-6-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-6-240.webp",
+            "label": "Apartments Reykjavik · 浴室 · 淋浴与厕所房型参考",
+            "category": "浴室",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "浴室 · 淋浴与厕所房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-6-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-6-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-7-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-7-240.webp",
+            "label": "Apartments Reykjavik · 公共门厅",
+            "category": "公共门厅",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "公共门厅",
+            "width": 733,
+            "height": 1100,
+            "mobile": "assets/stays/reykjavik-gallery-7-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-7-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-8-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-8-240.webp",
+            "label": "Apartments Reykjavik · 公共走廊",
+            "category": "公共走廊",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "公共走廊",
+            "width": 689,
+            "height": 1100,
+            "mobile": "assets/stays/reykjavik-gallery-8-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-8-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-9-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-9-240.webp",
+            "label": "Apartments Reykjavik · 室外露台 · 房型参考",
+            "category": "室外露台",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "室外露台 · 房型参考",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-9-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-9-480.webp"
+          },
+          {
+            "src": "assets/stays/reykjavik-gallery-10-960.webp",
+            "thumb": "assets/stays/reykjavik-gallery-10-240.webp",
+            "label": "Apartments Reykjavik · 建筑外观",
+            "category": "建筑外观",
+            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
+            "caption": "建筑外观",
+            "width": 960,
+            "height": 539,
+            "mobile": "assets/stays/reykjavik-gallery-10-640.webp",
+            "medium": "assets/stays/reykjavik-gallery-10-480.webp"
+          }
+        ],
+        "status": "已取消",
+        "notes": [
+          "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
+          "蓝湖后前往公寓；预计晚到须提前确认入住。"
+        ],
+        "roomLayout": "1卧室 · 1张双人床",
+        "cancellation": "2027.2.8 23:59前免费取消",
+        "userNote": "中转站，随便住住",
+        "budgetSummary": "带厨房的一卧室公寓，作为城市中转落脚点，以简单实用为主。",
+        "roomSource": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html#RD913380204",
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "所订一卧室公寓配厨房"
+          },
+          "washer": {
+            "status": "有",
+            "detail": "房源简介列有，房内或共用未注明"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "房源设施清单未列出"
+          },
+          "notes": [
+            "备选房源：洗衣机位置以房东安排为准。"
+          ],
+          "sources": [
+            {
+              "label": "公开房源设施",
+              "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-14"
+        }
+      }
+    ]
+  },
+  {
+    "id": "inni-backup",
+    "days": [
+      9
+    ],
+    "country": "iceland",
     "location": "Hveragerði · 惠拉盖尔济",
     "dates": "2.14–2.15",
     "nights": 1,
@@ -1780,7 +2110,7 @@
       {
         "name": "INNI · Boutique Apartments · 一卧室公寓",
         "features": "一卧室公寓 · 厨房 · 免费停车 · 住客共用地热泡池与桑拿",
-        "description": "位于Hveragerði镇内的精品公寓，设厨房和私人浴室，住客共用两个户外地热泡池、桑拿与蒸汽房。附近有餐厅和超市，适合抵达冰岛后休息，次日直接沿南岸向维克出发。",
+        "description": "位于Hveragerði镇内的精品公寓，设厨房和私人浴室，住客共用两个户外地热泡池、桑拿与蒸汽房。附近有餐厅和超市，保留为惠拉盖尔济住宿备选。",
         "url": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
         "total": 1702,
         "photos": [
@@ -2224,6 +2554,7 @@
         "roomLayout": "1卧室 · 厨房与私人浴室",
         "cancellation": "2027.2.8 23:59前免费取消",
         "notes": [
+          "保留的已预订备选住宿；当前2月14日主行程改住雷克雅未克公寓酒店，此项不计主行程住宿预算。",
           "2027年2月14日入住、2月15日退房；2位成人、1套一卧室公寓、1晚，不含餐食。",
           "入住15:00–22:00，退房08:00–11:00；晚到请提前联系住宿。",
           "订单原价€250.38，扣除Booking.com补贴€18.96后应付€231.42，含税费及清洁费；尚未付款，按订单安排自动扣款。人民币为Booking核对时的折算参考值，最终以实际扣款为准。",
@@ -2231,8 +2562,6 @@
           "地址：Frumskógar 3, 810 Hveragerði。每次预订含1辆车免费自助停车。",
           "房价含每位成人每日Spa使用：两个住客共用户外地热泡池、桑拿与蒸汽房，并非公寓私人泡池。泡池与桑拿16:00–23:30开放，蒸汽房09:00–23:30开放，提供浴袍和拖鞋。",
           "附近可在Ölverk、Matkráin及The Greenhouse用晚餐；可步行前往，冬季按路况选择开车。",
-          "2月14日取车后直接前往Hveragerði入住INNI；KEF机场出发冬季先预留约1.5–2小时，按当天路况调整。",
-          "2月15日07:15从INNI退房出发，依次游览辛格维利尔、间歇泉、黄金瀑布；下午在天光中看南岸双瀑布，晚上入住Black Beach Suites。",
           "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥1,702。"
         ],
         "userNote": "酒店公寓，可以泡汤",
@@ -2301,175 +2630,9 @@
             "detail": "每次预订含一辆车免费停车"
           }
         ]
-      },
-      {
-        "name": "Apartments Reykjavik",
-        "features": "一卧室公寓 · 厨房 · 城市短住",
-        "description": "雷克雅未克市区的一卧室公寓，设一张双人床，带客厅、厨房、私人浴室和阳台，可看花园及庭院景观，适合作为南岸行程前后的中转住宿。",
-        "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-        "total": 1059.83,
-        "originalTotal": 141.31,
-        "currency": "EUR",
-        "conversionRate": 7.5,
-        "estimated": true,
-        "photos": [
-          {
-            "src": "assets/stays/reykjavik-gallery-1-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-1-240.webp",
-            "label": "Apartments Reykjavik · 客厅 · 一卧室公寓房型参考",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "客厅 · 一卧室公寓房型参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-1-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-1-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-2-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-2-240.webp",
-            "label": "Apartments Reykjavik · 卧室 · 一卧室公寓房型参考",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 一卧室公寓房型参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-2-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-2-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-3-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-3-240.webp",
-            "label": "Apartments Reykjavik · 卧室 · 房型参考",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 房型参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-3-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-3-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-4-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-4-240.webp",
-            "label": "Apartments Reykjavik · 卧室 · 储物空间参考",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 储物空间参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-4-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-4-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-5-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-5-240.webp",
-            "label": "Apartments Reykjavik · 厨房与用餐区 · 房型参考",
-            "category": "厨房与用餐区",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "厨房与用餐区 · 房型参考",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-5-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-5-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-6-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-6-240.webp",
-            "label": "Apartments Reykjavik · 浴室 · 淋浴与厕所房型参考",
-            "category": "浴室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "浴室 · 淋浴与厕所房型参考",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-6-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-6-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-7-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-7-240.webp",
-            "label": "Apartments Reykjavik · 公共门厅",
-            "category": "公共门厅",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "公共门厅",
-            "width": 733,
-            "height": 1100,
-            "mobile": "assets/stays/reykjavik-gallery-7-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-7-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-8-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-8-240.webp",
-            "label": "Apartments Reykjavik · 公共走廊",
-            "category": "公共走廊",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "公共走廊",
-            "width": 689,
-            "height": 1100,
-            "mobile": "assets/stays/reykjavik-gallery-8-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-8-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-9-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-9-240.webp",
-            "label": "Apartments Reykjavik · 室外露台 · 房型参考",
-            "category": "室外露台",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "室外露台 · 房型参考",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-9-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-9-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-10-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-10-240.webp",
-            "label": "Apartments Reykjavik · 建筑外观",
-            "category": "建筑外观",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "建筑外观",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-10-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-10-480.webp"
-          }
-        ],
-        "status": "已取消",
-        "notes": [
-          "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
-          "蓝湖后前往公寓；预计晚到须提前确认入住。"
-        ],
-        "roomLayout": "1卧室 · 1张双人床",
-        "cancellation": "2027.2.8 23:59前免费取消",
-        "userNote": "中转站，随便住住",
-        "budgetSummary": "带厨房的一卧室公寓，作为城市中转落脚点，以简单实用为主。",
-        "roomSource": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html#RD913380204",
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "所订一卧室公寓配厨房"
-          },
-          "washer": {
-            "status": "有",
-            "detail": "房源简介列有，房内或共用未注明"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "房源设施清单未列出"
-          },
-          "notes": [
-            "备选房源：洗衣机位置以房东安排为准。"
-          ],
-          "sources": [
-            {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-14"
-        }
       }
-    ]
+    ],
+    "backup": true
   },
   {
     "id": "vik",

@@ -2385,10 +2385,10 @@
       {
         "num": 9,
         "id": "262:702",
-        "title": "特罗姆瑟 → 冰岛 · 教堂秋千 → INNI",
-        "date": "2月14日（周日） · 14:20抵达，取车后拍教堂秋千，再去INNI泡汤",
+        "title": "特罗姆瑟 → 冰岛 · 教堂秋千 → 雷市酒吧",
+        "date": "2月14日（周日） · 14:20抵达，市区入住，晚间ÆGIR 101 Bar",
         "tags": [
-          "约2–2.5h（机场 → 教堂 → INNI，约95–105km）",
+          "约1–1.5h自驾（机场 → 教堂 → 雷市酒店，约50–55km）",
           "✈️ 07:50 飞冰岛 · 经卑尔根"
         ],
         "photos": [
@@ -2474,7 +2474,7 @@
             "title": "机场取车",
             "body": [
               {
-                "t": "按订单于15:00取车并记录车况，行李随车携带。目标15:30离开机场，先去雷市教堂门口拍秋千，再前往Hveragerði的INNI精品公寓。",
+                "t": "按订单于15:00取车并记录车况，行李随车携带。目标15:30离开机场，先去雷市教堂门口拍秋千，再到市中心雷克雅未克公寓酒店办理入住。",
                 "links": []
               }
             ],
@@ -2506,7 +2506,7 @@
                 "links": []
               },
               {
-                "t": "拍完直接开往INNI，争取18:00–18:15抵达。若航班、取车延误或天气影响驾驶，缩短或跳过这段拍照。",
+                "t": "拍照后前往市中心雷克雅未克公寓酒店，约17:15办理入住；先在附近合法公共收费车位停车，再步行到Vatnsstígur 2接待处。",
                 "links": []
               },
               {
@@ -2558,59 +2558,114 @@
           {
             "time": [
               "傍晚",
-              "约18:00–18:15抵达"
+              "约17:15–18:00"
             ],
             "emoji": "🏨",
-            "title": "教堂 → INNI精品公寓 · 晚餐与泡汤",
+            "title": "雷克雅未克公寓酒店 · 办理入住",
             "body": [
               {
-                "t": "教堂拍照后前往Hveragerði镇内的INNI精品公寓入住（已预订）。休息后可使用住客共用泡池、桑拿与蒸汽房；晚餐可选镇内餐厅。具体入住时段与晚到安排以订单及房东确认为准。",
+                "t": "入住Reykjavik Residence Hotel已预订的一室房，2位成人、1晚、不含早餐，含税实付¥1,686.48。房内配私人小厨房；接待处在Vatnsstígur 2，实际房间位于酒店分配的附近楼栋。",
+                "links": []
+              },
+              {
+                "t": "接待处位于步行街，不能开车到前台门口；使用附近合法公共收费车位。办妥入住后把车停好，晚上全程步行。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
                 {
-                  "label": "INNI精品公寓",
-                  "query": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland"
-                },
-                {
-                  "label": "Ölverk",
-                  "query": "Olverk Pizza Brewery Hveragerdi"
-                },
-                {
-                  "label": "Matkráin",
-                  "query": "Matkrain Hveragerdi"
-                },
-                {
-                  "label": "The Greenhouse",
-                  "query": "The Greenhouse Hveragerdi"
+                  "label": "酒店接待处 · Vatnsstígur 2",
+                  "query": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
                 }
               ],
-              "parking": [
-                {
-                  "label": "INNI精品公寓",
-                  "query": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland"
-                }
-              ],
-              "note": "公寓地址Frumskógar 3，使用住宿车位；餐厅择一，可步行前往。",
-              "description": "INNI精品公寓在Frumskógar 3，使用住宿车位；晚餐可步行去Ölverk、Matkráin或The Greenhouse，择一即可。"
+              "description": "先在市中心附近合法公共收费车位停车，再步行到Vatnsstígur 2前台办理入住。实际入住楼栋以酒店分配为准，停车收费与限制按现场标识。"
             },
             "drives": [
               {
                 "from": "Hallgrímskirkja",
-                "to": "INNI",
-                "distance": "45–55km",
-                "duration": "50–70分钟（冬季规划）",
+                "to": "雷克雅未克市中心停车区",
+                "distance": "约1–2km",
+                "duration": "约5–10分钟，另留找车位与步行时间",
                 "origin": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland",
-                "destination": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland",
-                "checkedAt": "2026-11-13"
+                "destination": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
+                "checkedAt": "2026-11-15"
               }
             ],
             "infoCard": {
-              "time": "傍晚 · 约18:00–18:15抵达",
+              "time": "傍晚 · 约17:15–18:00",
               "price": "stay",
               "stayId": "reykjavik"
+            }
+          },
+          {
+            "time": [
+              "晚上",
+              "19:30–21:30"
+            ],
+            "emoji": "🍻",
+            "title": "ÆGIR 101 Bar · 晚餐与精酿",
+            "body": [
+              {
+                "t": "入住后步行到Laugavegur 2的ÆGIR 101 Bar - Taproom，点本地精酿和冰岛羊肉汤、鱼炖菜等餐食。当日周日常规营业12:00–23:00，19:30到店，21:30结束。",
+                "links": []
+              },
+              {
+                "t": "汽车留在停车处，去酒吧和返回酒店均步行。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "ÆGIR 101 Bar - Taproom",
+                  "query": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland"
+                }
+              ],
+              "description": "从酒店分配的入住楼栋步行前往Laugavegur 2；以Vatnsstígur 2接待处计，约300米、4分钟。",
+              "walking": {
+                "origin": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
+                "destination": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland"
+              }
+            },
+            "infoCard": {
+              "time": "晚上 · 19:30–21:30",
+              "price": "餐饮自理"
+            }
+          },
+          {
+            "time": [
+              "晚上",
+              "21:30后"
+            ],
+            "emoji": "🚶",
+            "title": "酒吧结束 · 步行回酒店",
+            "body": [
+              {
+                "t": "从ÆGIR 101 Bar沿Laugavegur步行返回雷克雅未克公寓酒店，以Vatnsstígur 2接待处计约300米、4分钟。实际入住楼栋不同，步行路线与时间按房间地址调整。次日07:15退房出发。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "ÆGIR 101 Bar（出发）",
+                  "query": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland"
+                },
+                {
+                  "label": "酒店接待处 · Vatnsstígur 2",
+                  "query": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
+                }
+              ],
+              "description": "步行路线：Laugavegur 2 → Laugavegur → Vatnsstígur 2；约300米、4分钟，到已分配房间的具体路线按酒店门牌调整。",
+              "walking": {
+                "origin": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland",
+                "destination": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
+              }
+            },
+            "infoCard": {
+              "time": "晚上 · 21:30后",
+              "price": "步行返回"
             }
           }
         ],
@@ -2655,10 +2710,10 @@
               "07:15–09:15"
             ],
             "emoji": "🏞️",
-            "title": "INNI → Þingvellir 辛格维利尔国家公园",
+            "title": "雷克雅未克公寓酒店 → Þingvellir 辛格维利尔国家公园",
             "body": [
               {
-                "t": "07:15从INNI退房出发，冬季留约1–1.25小时车程与余量；约08:30抵达，等晨光后短逛至09:15。到达时可能尚未日出，不在全黑时走结冰步道。",
+                "t": "07:15从雷克雅未克公寓酒店退房出发（行李随车携带），冬季留约1–1.25小时车程与余量；约08:30抵达，等晨光后短逛至09:15。到达时可能尚未日出，不在全黑时走结冰步道。",
                 "links": []
               },
               {
@@ -2683,14 +2738,14 @@
             },
             "drives": [
               {
-                "from": "INNI",
+                "from": "雷克雅未克公寓酒店",
                 "to": "辛格维利尔",
-                "distance": "55km",
+                "distance": "约50km",
                 "duration": "1–1.25小时",
-                "origin": "INNI Boutique Apartments Frumskogar 3 Hveragerdi Iceland",
+                "origin": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
                 "destination": "Thingvellir National Park P1 parking Iceland",
-                "routeDistanceKm": 55,
-                "checkedAt": "2026-11-11"
+                "routeDistanceKm": 50,
+                "checkedAt": "2026-11-15"
               }
             ],
             "infoCard": {

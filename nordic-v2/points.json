@@ -881,7 +881,7 @@
     "imageLabel": "雷克雅未克 · 大教堂",
     "imageSource": "https://tanabotalog.com/iceland/",
     "rating": null,
-    "description": "D9约16:30–17:00短停：在教堂正面与门口秋千拍照，面对教堂左侧寻找；秋千以现场是否保留、开放为准。随后直接去INNI入住。"
+    "description": "D9约16:30–17:00短停：在教堂正面与门口秋千拍照，面对教堂左侧寻找；秋千以现场是否保留、开放为准。随后前往雷克雅未克公寓酒店办理入住，晚间步行去ÆGIR 101 Bar。"
   },
   {
     "query": "Harpa Reykjavik",
@@ -1787,7 +1787,7 @@
     "image": "../nordic-v2/assets/attractions/winter/thingvellir-960.webp",
     "imageLabel": "Þingvellir 辛格维利尔国家公园",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg",
-    "description": "2月15日07:15从INNI出发，晨光时段短逛P1／Hakið观景区与裂谷步道；约09:15继续东行。天光或路况不佳时缩短／跳过，优先下午双瀑布。",
+    "description": "2月15日07:15从雷克雅未克公寓酒店出发，晨光时段短逛P1／Hakið观景区与裂谷步道；约09:15继续东行。天光或路况不佳时缩短／跳过，优先下午双瀑布。",
     "rating": null
   },
   {
@@ -1831,24 +1831,25 @@
     "rating": null
   },
   {
-    "id": "p-hveragerdi",
-    "query": "Hveragerdi Iceland",
-    "name": "Hveragerði · INNI住宿区域",
+    "id": "p-reykjavik-residence",
+    "query": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
+    "name": "雷克雅未克公寓酒店 · 接待处",
     "days": [
       9,
       10
     ],
     "kind": "stay",
     "coord": [
-      -21.187,
-      64.0
+      -21.9268461,
+      64.1454689
     ],
     "countryName": "冰岛",
     "countryId": "iceland",
-    "image": "../nordic-v2/assets/stays/inni-bedroom-960.webp",
-    "imageLabel": "INNI一卧室公寓",
-    "description": "2月14日入住INNI；2月15日07:15退房出发，走黄金圈后接南岸。地图标记为镇内住宿区域，准确入口按订单导航。",
-    "rating": null
+    "image": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/647634814.jpg?k=fde63df6267703dc8b52406002c8177b77483916e5dc31ddd93361dcd5ff0923&o=",
+    "imageLabel": "Reykjavik Residence Hotel · Studio房型参考",
+    "description": "2月14日入住；接待处在Vatnsstígur 2步行街，房间分布在附近楼栋。晚间步行到ÆGIR 101 Bar并步行返回；2月15日07:15退房出发去黄金圈。",
+    "rating": null,
+    "imageSource": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html"
   },
   {
     "id": "p-jokulsarlon-hotel",
@@ -1869,6 +1870,26 @@
     "imageLabel": "冰川湖酒店 · 冰川景观双人间",
     "imageSource": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
     "description": "2月16–17日默认入住双人间，另订三人间；酒店设桑拿、热水池、餐厅、酒吧及健身房。",
+    "rating": null
+  },
+  {
+    "id": "p-aegir-101",
+    "name": "ÆGIR 101 Bar - Taproom",
+    "query": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland",
+    "days": [
+      9
+    ],
+    "kind": "sight",
+    "coord": [
+      -21.9327994,
+      64.1463763
+    ],
+    "countryName": "冰岛",
+    "countryId": "iceland",
+    "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmH1YLJNl69yFRhfzLYtNaadJYHbLdwW8vXaLQW4oh2_sXQ9o3evepWwLfme8zkpN9ZQ7oULxotZcMFj7OqGVatq910NEKZqPKeSlmVIvPhUlEgCEY_kFTnVHg-gO_wtKN00IhXCnhBPQ=w600-h450-p-k-no",
+    "imageLabel": "ÆGIR 101 · 本地精酿",
+    "imageSource": "https://aegirbrugghus.is/101",
+    "description": "2月14日19:30–21:30晚餐与精酿，结束后步行回雷克雅未克公寓酒店。至Vatnsstígur 2接待处约300米、4分钟。",
     "rating": null
   }
 ]
