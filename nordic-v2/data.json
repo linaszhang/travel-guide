@@ -1757,10 +1757,10 @@
       {
         "num": 6,
         "id": "v2-revised-6",
-        "title": "塞尼亚海岸自驾 → 罗弗敦 Napp",
-        "date": "2月11日（周四） · 上午海岸短停，前往Lofoten Paradise Cabins连住两晚",
+        "title": "塞尼亚海岸自驾 → 罗弗敦 Ballstad",
+        "date": "2月11日（周四） · 上午海岸短停，前往Ballstad，谢尔斯塔一卧室公寓连住两晚",
         "tags": [
-          "约9–11h自驾与海岸短停；终点为Napp"
+          "约9–11h自驾与海岸短停；终点为Ballstad"
         ],
         "photos": [
           {
@@ -1872,18 +1872,18 @@
               "10:00出发"
             ],
             "emoji": "🚗",
-            "title": "塞尼亚 → Napp · 入住 Lofoten Paradise Cabins",
+            "title": "塞尼亚 → Ballstad · 入住 谢尔斯塔渔人码头公寓",
             "body": [
               {
-                "t": "经Finnsnes、Bjerkvik沿主干道和E10前往Napp；中途午餐、充电与休息。今晚入住Lofoten Paradise Cabins，连住两晚，提前与房东确认晚抵达安排。",
+                "t": "经Finnsnes、Bjerkvik沿主干道和E10前往Ballstad，中途午餐、充电与休息。今晚入住谢尔斯塔渔人码头公寓已预订的一卧室公寓，连住两晚、含早餐。入住截止21:00，至少提前一天告知预计抵达时间，晚抵达提前与住宿确认。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
                 {
-                  "label": "Lofoten Paradise Cabins",
-                  "query": "Hauan 25 Napp Norway"
+                  "label": "谢尔斯塔渔人码头公寓",
+                  "query": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway"
                 },
                 {
                   "label": "Finnsnes",
@@ -1895,17 +1895,17 @@
                 }
               ],
               "note": "使用住宿私人停车位，提前与房东确认入住安排；本段走陆路。",
-              "description": "目的地为Hauan 25的Lofoten Paradise Cabins，使用住宿免费私人停车位，入口按房东指引。"
+              "description": "目的地为Moloveien 41的谢尔斯塔渔人码头公寓，使用住宿免费私人停车位，入口按房东指引。"
             },
             "drives": [
               {
                 "from": "Bergsbotn",
-                "to": "Lofoten Paradise Cabins",
-                "distance": "440–460km",
+                "to": "谢尔斯塔渔人码头公寓",
+                "distance": "450–470km",
                 "duration": "冬季预留8–10小时（规划估算）",
                 "origin": "Bergsbotn viewpoint Senja Norway",
-                "destination": "Hauan 25 Napp Norway",
-                "checkedAt": "2026-11-14",
+                "destination": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
+                "checkedAt": "2026-11-15",
                 "waypoints": [
                   "Finnsnes Norway",
                   "Bjerkvik Norway"
@@ -1915,19 +1915,19 @@
             "infoCard": {
               "time": "白天 · 10:00出发",
               "price": "stay",
-              "stayId": "lofoten-paradise"
+              "stayId": "solsiden"
             }
           }
         ],
-        "stayId": "lofoten-paradise"
+        "stayId": "solsiden"
       },
       {
         "num": 7,
         "id": "262:612",
-        "title": "罗弗敦南部 · 雷纳／渔村海岸 → Napp",
-        "date": "2月12日（周五） · Napp往返南部渔村，续住Lofoten Paradise Cabins",
+        "title": "罗弗敦南部 · 雷纳／渔村海岸 → Ballstad",
+        "date": "2月12日（周五） · Ballstad往返南部渔村，续住谢尔斯塔渔人码头公寓",
         "tags": [
-          "约2.5–4h自驾（约100–120km，冬季规划估算）"
+          "约3–4.5h自驾（约130–150km，冬季规划估算）"
         ],
         "photos": [
           {
@@ -1953,7 +1953,7 @@
               "09:00–12:00"
             ],
             "emoji": "🏘️",
-            "title": "Napp → Hamnøy → Sakrisøy → Reine",
+            "title": "Ballstad → Hamnøy → Sakrisøy → Reine",
             "body": [
               {
                 "t": "桥梁、红色渔屋、黄色渔屋与雷纳海湾。只在指定停车点短走；Reinebringen冬季登山不安排。",
@@ -1997,13 +1997,13 @@
             },
             "drives": [
               {
-                "from": "Lofoten Paradise Cabins",
+                "from": "谢尔斯塔渔人码头公寓",
                 "to": "Hamnøy",
-                "distance": "45–55km",
+                "distance": "60–70km",
                 "duration": "冬季预留1–1.5小时（规划估算）",
-                "origin": "Hauan 25 Napp Norway",
+                "origin": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
                 "destination": "Hamnøy bridge Norway",
-                "checkedAt": "2026-11-14"
+                "checkedAt": "2026-11-15"
               },
               {
                 "from": "Hamnøy",
@@ -2122,41 +2122,41 @@
               "14:30出发"
             ],
             "emoji": "🚗",
-            "title": "返回 Napp · 续住 Lofoten Paradise Cabins",
+            "title": "返回 Ballstad · 续住 谢尔斯塔渔人码头公寓",
             "body": [
               {
-                "t": "返回Lofoten Paradise Cabins续住，无需搬运行李或再次办理入住。公寓内用厨房准备晚餐，使用洗衣机和烘干机；Henningsvær和Kabelvåg留给次日上午。",
+                "t": "返回Ballstad的谢尔斯塔渔人码头公寓续住，无需再次办理入住。可用房内厨房准备晚餐，或在住宿餐厅用餐；公共桑拿、热水浴缸按酒店安排与收费使用。房型未确认洗衣机和烘干机，不安排房内洗烘。Henningsvær和Kabelvåg留给次日上午。",
                 "links": []
               }
             ],
             "navigation": {
               "locations": [
                 {
-                  "label": "Lofoten Paradise Cabins",
-                  "query": "Hauan 25 Napp Norway"
+                  "label": "谢尔斯塔渔人码头公寓",
+                  "query": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway"
                 }
               ],
-              "description": "返回Hauan 25的Lofoten Paradise Cabins，使用住宿免费私人停车位。"
+              "description": "返回Moloveien 41的谢尔斯塔渔人码头公寓，使用住宿免费私人停车位。"
             },
             "drives": [
               {
                 "from": "Nusfjord",
-                "to": "Lofoten Paradise Cabins",
+                "to": "谢尔斯塔渔人码头公寓",
                 "origin": "Nusfjord Norway",
-                "destination": "Hauan 25 Napp Norway",
-                "distance": "20–30km",
-                "duration": "冬季预留30–45分钟（规划估算）",
-                "checkedAt": "2026-11-14"
+                "destination": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
+                "distance": "35–45km",
+                "duration": "冬季预留45–60分钟（规划估算）",
+                "checkedAt": "2026-11-15"
               }
             ],
             "infoCard": {
               "time": "下午 · 14:30出发",
               "price": "stay",
-              "stayId": "lofoten-paradise"
+              "stayId": "solsiden"
             }
           }
         ],
-        "stayId": "lofoten-paradise"
+        "stayId": "solsiden"
       },
       {
         "num": 8,
@@ -2193,7 +2193,7 @@
             "title": "Henningsvær · 海港与桥梁",
             "body": [
               {
-                "t": "从Napp的Lofoten Paradise Cabins退房出发，行李随车携带，前往Henningsvær，沿港湾短走拍渔屋与雪山。",
+                "t": "从Ballstad的谢尔斯塔渔人码头公寓退房出发，行李随车携带，前往Henningsvær，沿港湾短走拍渔屋与雪山。",
                 "links": []
               }
             ],
@@ -2218,13 +2218,13 @@
             },
             "drives": [
               {
-                "from": "Lofoten Paradise Cabins",
+                "from": "谢尔斯塔渔人码头公寓",
                 "to": "Henningsvær",
-                "distance": "65–75km",
+                "distance": "60–70km",
                 "duration": "冬季预留1–1.5小时（规划估算）",
-                "origin": "Hauan 25 Napp Norway",
+                "origin": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
                 "destination": "Henningsvaer Norway",
-                "checkedAt": "2026-11-14"
+                "checkedAt": "2026-11-15"
               }
             ],
             "infoCard": {

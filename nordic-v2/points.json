@@ -1728,8 +1728,8 @@
     "rating": null
   },
   {
-    "query": "Hauan 25 Napp Norway",
-    "name": "Lofoten Paradise Cabins · Napp住宿",
+    "query": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
+    "name": "谢尔斯塔渔人码头公寓 · Ballstad",
     "days": [
       6,
       7,
@@ -1737,16 +1737,16 @@
     ],
     "kind": "stay",
     "coord": [
-      13.4512781,
-      68.1371607
+      13.5512495,
+      68.0726172
     ],
-    "id": "p-fredvang",
+    "id": "p-solsiden",
     "countryName": "挪威",
     "countryId": "norway",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
-    "imageLabel": "Lofoten Paradise Cabins · 海景客厅",
-    "imageSource": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-    "description": "2月11–13日连住两晚，56㎡海景公寓，带厨房、洗衣机、烘干机及免费停车。",
+    "image": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362144981.jpg?k=a81b83ed2e9887a52d5b4a33d03b4322e812b0e7e43e7f7840d33a7482f26183&o=",
+    "imageLabel": "Solsiden一卧室公寓 · 海景客厅",
+    "imageSource": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+    "description": "2月11–13日默认连住两晚：35㎡一卧室公寓、2位成人，含早餐，设私人厨房与海景露台。住宿有公共桑拿、热水浴缸、餐厅及电车充电设施；洗衣机、烘干机未确认。",
     "rating": null
   },
   {

@@ -853,10 +853,7 @@
   },
   {
     "id": "lofoten-paradise",
-    "days": [
-      6,
-      7
-    ],
+    "days": [],
     "country": "norway",
     "location": "Napp · 罗弗敦",
     "dates": "2.11–2.13",
@@ -870,7 +867,7 @@
         "total": 4710,
         "originalTotal": 6750,
         "currency": "NOK",
-        "status": "已预订",
+        "status": "已预订 · 备选",
         "roomLayout": "56㎡ · 2卧室 · 1张大号双人床＋2张单人床＋1张沙发床",
         "maxGuests": 6,
         "cancellation": "2027.1.27 23:59前免费取消；之后收取NOK 6,750",
@@ -878,9 +875,9 @@
           "2月11日15:00–20:00入住，2月13日08:00–11:00退房；1套公寓、2晚，不含餐。",
           "订单总额NOK 6,750，Booking折算约¥4,710；该价格按订单所选1位成人计算。",
           "增加住客可能加收费用，房型最多6位成人。",
-          "2.11–2.13默认连住本公寓两晚，Solsiden保留为已订备选。"
+          "2.11–2.13主行程改为Solsiden Brygge Rorbuer一卧室公寓；本订单保留备选，不计入默认预算。"
         ],
-        "userNote": "2.11–2.13默认连住两晚，标记为强烈推荐；当前订单为1位成人，增加住客费用以住宿确认为准。",
+        "userNote": "已订备选；当前默认连住谢尔斯塔一卧室公寓两晚，不计入默认住宿预算。",
         "budgetSummary": "56㎡两卧室海景公寓，配厨房与洗烘设备；当前订单为1位成人、2晚。",
         "address": "Hauan 25, 8382 Napp, Norway",
         "checkInTime": "15:00–20:00",
@@ -1021,7 +1018,8 @@
         "gallerySource": "Booking对应公寓房型与整体设施；去除其他房型、相似照片及无关风景",
         "galleryCheckedAt": "2026-11-14"
       }
-    ]
+    ],
+    "backup": true
   },
   {
     "id": "ytterviks",
@@ -1049,7 +1047,7 @@
           "自助钥匙盒入住；入口与停车按房东指引。",
           "1月28日起取消费用NOK 1,100，2月12日起NOK 2,200；截止按住宿当地时间。"
         ],
-        "userNote": "原方案已订备选；2.11–2.13默认连住Lofoten Paradise Cabins两晚，不计入默认住宿预算。",
+        "userNote": "原方案已订备选；2.11–2.13默认连住谢尔斯塔一卧室公寓两晚，不计入默认住宿预算。",
         "budgetSummary": "两卧室渔屋，配私人桑拿、厨房、洗衣机及免费电车充电；已订备选。",
         "address": "Buøyveien 17, 8340 Stamsund, Norway",
         "checkInTime": "16:00–23:00",
@@ -1226,6 +1224,254 @@
   },
   {
     "id": "solsiden",
+    "days": [
+      6,
+      7
+    ],
+    "country": "norway",
+    "location": "Ballstad · 罗弗敦",
+    "dates": "2.11–2.13",
+    "nights": 2,
+    "options": [
+      {
+        "name": "Solsiden Brygge Rorbuer · 谢尔斯塔渔人码头公寓 · 一卧室公寓",
+        "features": "35㎡一卧室公寓 · 1张双人床 · 私人厨房 · 海景露台 · 含早餐",
+        "description": "Ballstad渔港旁的35㎡整租一卧室公寓，设一张双人床、客厅、私人厨房和浴室，可看海景与山景，带露台及户外用餐区。2月11–13日默认连住两晚，订单含早餐；住宿设餐厅、酒吧、公共桑拿、热水浴缸及电车充电设施。",
+        "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+        "total": 3629,
+        "originalTotal": 5200,
+        "currency": "NOK",
+        "status": "已预订",
+        "roomLayout": "35㎡ · 1卧室 · 1张双人床",
+        "maxGuests": 2,
+        "cancellation": "2027.2.3 23:59前免费取消（住宿当地时间）",
+        "notes": [
+          "2027年2月11日入住、2月13日退房；2位成人、1套一卧室公寓、2晚，含早餐。",
+          "入住15:00–21:00，退房08:00–11:00；至少提前一天告知预计抵达时间，首日晚抵达须提前与住宿确认。",
+          "订单总额NOK 5,200，已付清；含12%增值税及每次入住NOK 400清洁费。Booking参考折合约¥3,629，人民币最终以支付账单为准。",
+          "2027年2月3日23:59前可免费取消，2月4日00:00起取消收取全额；均为住宿当地时间。",
+          "地址Moloveien 41, 8373 Ballstad，使用住宿免费私人停车位。",
+          "所订35㎡一卧室公寓设私人厨房、炉灶、烤箱、冰箱、洗碗机、咖啡机及厨具，配海景露台。所订房型未列洗衣机或烘干机。",
+          "公共桑拿、热水浴缸按酒店安排及收费政策使用，不是所订公寓的私人桑拿或私人泡池。",
+          "当前默认连住本公寓；同酒店海景设计套房、Lofoten Paradise Cabins、Ytterviks Rorbu和Lofoten Rorbuer均保留为备选，不计入主行程住宿预算。"
+        ],
+        "userNote": "2.11–2.13默认连住一卧室公寓两晚；海景设计套房及其余重叠日期订单保留备选。",
+        "budgetSummary": "35㎡一卧室公寓，带厨房、洗碗机、海景露台，含2人早餐；连住两晚，订单NOK 5,200，约¥3,629。",
+        "address": "Moloveien 41, 8373 Ballstad, Norway",
+        "checkInTime": "15:00–21:00",
+        "checkOutTime": "08:00–11:00",
+        "photos": [
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362144981.jpg?k=a81b83ed2e9887a52d5b4a33d03b4322e812b0e7e43e7f7840d33a7482f26183&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/362144981.jpg?k=a81b83ed2e9887a52d5b4a33d03b4322e812b0e7e43e7f7840d33a7482f26183&o=",
+            "label": "一卧室公寓 · 客厅",
+            "caption": "35㎡一卧室公寓 · 客厅",
+            "category": "客厅",
+            "bookingPhotoId": "362144981",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362144927.jpg?k=0acec2954c862955ecdf241d38b320dcd51cb48de84da5b34cbb4b2441fba176&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/362144927.jpg?k=0acec2954c862955ecdf241d38b320dcd51cb48de84da5b34cbb4b2441fba176&o=",
+            "label": "一卧室公寓 · 卧室",
+            "caption": "35㎡一卧室公寓 · 卧室",
+            "category": "卧室",
+            "bookingPhotoId": "362144927",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362145052.jpg?k=6ff70c87c4bf604a7133b332e28af3f25361f91ec2c8be58baee750d622257be&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/362145052.jpg?k=6ff70c87c4bf604a7133b332e28af3f25361f91ec2c8be58baee750d622257be&o=",
+            "label": "一卧室公寓 · 厨房",
+            "caption": "35㎡一卧室公寓 · 厨房",
+            "category": "厨房",
+            "bookingPhotoId": "362145052",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/466016565.jpg?k=2b590c9671d2515b11b27f644194caeaf6e488147a790256f334ca046fcbbc0b&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/466016565.jpg?k=2b590c9671d2515b11b27f644194caeaf6e488147a790256f334ca046fcbbc0b&o=",
+            "label": "一卧室公寓 · 客厅",
+            "caption": "35㎡一卧室公寓 · 客厅",
+            "category": "客厅",
+            "bookingPhotoId": "466016565",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362144843.jpg?k=3edb95a1b622d0e7254f96bbcac58c400bed6f80bffa1301929bba75363df7e0&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/362144843.jpg?k=3edb95a1b622d0e7254f96bbcac58c400bed6f80bffa1301929bba75363df7e0&o=",
+            "label": "一卧室公寓 · 厨房",
+            "caption": "35㎡一卧室公寓 · 厨房",
+            "category": "厨房",
+            "bookingPhotoId": "362144843",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362146826.jpg?k=f82573c73af718b1cce25b670f6b8e09d2d689d46c5840ca202c79832264202c&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/362146826.jpg?k=f82573c73af718b1cce25b670f6b8e09d2d689d46c5840ca202c79832264202c&o=",
+            "label": "一卧室公寓 · 浴室",
+            "caption": "35㎡一卧室公寓 · 浴室",
+            "category": "浴室",
+            "bookingPhotoId": "362146826",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/362145283.jpg?k=a5c9666a0014d6edcfffed76b3692f02a59750231d2b6139674624b89209e549&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/362145283.jpg?k=a5c9666a0014d6edcfffed76b3692f02a59750231d2b6139674624b89209e549&o=",
+            "label": "一卧室公寓 · 露台",
+            "caption": "35㎡一卧室公寓 · 露台",
+            "category": "露台",
+            "bookingPhotoId": "362145283",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://ac-a.static.booking.cn/xdata/images/hotel/max1024x768/466014583.jpg?k=70c712ad168363a0eb650d0f5e7d3d1e32abc3f6be042435f800d8cc1cc1052a&o=",
+            "thumb": "https://ac-a.static.booking.cn/xdata/images/hotel/square60/466014583.jpg?k=70c712ad168363a0eb650d0f5e7d3d1e32abc3f6be042435f800d8cc1cc1052a&o=",
+            "label": "一卧室公寓 · 露台",
+            "caption": "35㎡一卧室公寓 · 露台",
+            "category": "露台",
+            "bookingPhotoId": "466014583",
+            "roomName": "一卧室公寓",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465942821.jpg?k=e42c6f1268415be0196f23d5ed6176ff19381e6a0705a1184716c98c28f643e4&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465942821.jpg?k=e42c6f1268415be0196f23d5ed6176ff19381e6a0705a1184716c98c28f643e4&o=",
+            "label": "桑拿",
+            "caption": "桑拿",
+            "category": "桑拿",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "465942821"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/863166745.jpg?k=362b2039904362e19b9c962371b2222b7dd0eaae9d43b46a16f240dd8930ee34&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/863166745.jpg?k=362b2039904362e19b9c962371b2222b7dd0eaae9d43b46a16f240dd8930ee34&o=",
+            "label": "餐厅与用餐空间",
+            "caption": "餐厅与用餐空间",
+            "category": "餐厅与用餐空间",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "863166745"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465935807.jpg?k=21b0ec7dce579952872220e6ba72eeaa71b1072b401782b45065f023cab399c4&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465935807.jpg?k=21b0ec7dce579952872220e6ba72eeaa71b1072b401782b45065f023cab399c4&o=",
+            "label": "餐厅与用餐空间",
+            "caption": "餐厅与用餐空间",
+            "category": "餐厅与用餐空间",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "465935807"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466014240.jpg?k=a6eaa4e12cfe571ee637313201c6a888c5bb3320c988be46abc6a6d3a5a24701&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/466014240.jpg?k=a6eaa4e12cfe571ee637313201c6a888c5bb3320c988be46abc6a6d3a5a24701&o=",
+            "label": "酒吧",
+            "caption": "酒吧",
+            "category": "酒吧",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "466014240"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/863167565.jpg?k=4b5c34ef7d16c7eb3fa6e8f362f1eeda21e7b4bf33483bd48651e39defee3922&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/863167565.jpg?k=4b5c34ef7d16c7eb3fa6e8f362f1eeda21e7b4bf33483bd48651e39defee3922&o=",
+            "label": "餐厅与用餐空间",
+            "caption": "餐厅与用餐空间",
+            "category": "餐厅与用餐空间",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "863167565"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465936524.jpg?k=f97b7fc7a871b60cb5d18b2c43c1aba40cc8b7389974a76b5fbaa646c3b7c093&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465936524.jpg?k=f97b7fc7a871b60cb5d18b2c43c1aba40cc8b7389974a76b5fbaa646c3b7c093&o=",
+            "label": "餐厅与用餐空间",
+            "caption": "餐厅与用餐空间",
+            "category": "餐厅与用餐空间",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "465936524"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466014328.jpg?k=282016a8796f7372f822d780ef05e6cab337b9333131f592415a3f86fb62ddb3&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/466014328.jpg?k=282016a8796f7372f822d780ef05e6cab337b9333131f592415a3f86fb62ddb3&o=",
+            "label": "餐厅与用餐空间",
+            "caption": "餐厅与用餐空间",
+            "category": "餐厅与用餐空间",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "466014328"
+          },
+          {
+            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/863167372.jpg?k=09fc02f43248f1bb99a297f1e14aeb79c404287b9ca6ab9a4f03779cfbc3ae96&o=",
+            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/863167372.jpg?k=09fc02f43248f1bb99a297f1e14aeb79c404287b9ca6ab9a4f03779cfbc3ae96&o=",
+            "label": "餐厅与用餐空间",
+            "caption": "餐厅与用餐空间",
+            "category": "餐厅与用餐空间",
+            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
+            "bookingPhotoId": "863167372"
+          }
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "所订一卧室公寓配私人厨房、洗碗机、炉灶、烤箱、冰箱与咖啡机"
+          },
+          "washer": {
+            "status": "未确认",
+            "detail": "所订一卧室公寓未列出洗衣机"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "所订一卧室公寓未列出烘干机"
+          },
+          "charging": {
+            "status": "有",
+            "detail": "住宿停车区提供电车充电；收费及接口待现场确认"
+          },
+          "notes": [
+            "所订房型有厨房；洗衣和烘干设施未确认，行程不安排房内洗烘。"
+          ],
+          "sources": [
+            {
+              "label": "公开房源设施",
+              "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-15"
+        },
+        "galleryCheckedAt": "2026-11-15",
+        "gallerySource": "Booking一卧室公寓（35㎡，房型43193701）相册及整体公共设施；房型封面与订单一致，剔除其他房型、相似细节与无关风景。",
+        "hotelFacilities": [
+          {
+            "name": "餐厅",
+            "detail": "住宿设2家餐厅；订单含早餐"
+          },
+          {
+            "name": "酒吧",
+            "detail": "公共酒吧／酒廊"
+          },
+          {
+            "name": "桑拿与热水浴缸",
+            "detail": "住宿公共设施，使用及收费按酒店安排"
+          },
+          {
+            "name": "停车",
+            "detail": "免费私人停车"
+          }
+        ],
+        "estimated": true,
+        "conversionRate": 0.6978846153846154,
+        "roomSource": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701",
+        "priceNote": "2位成人、2晚，含早餐、增值税及NOK 400清洁费；已付NOK 5,200，人民币为Booking参考折算。"
+      }
+    ],
+    "backup": false
+  },
+  {
+    "id": "solsiden-suite",
     "days": [],
     "country": "norway",
     "location": "Ballstad · 罗弗敦",
@@ -1248,9 +1494,10 @@
           "2月11日15:00–21:00入住，2月13日08:00–11:00退房；2位成人、2晚，含早餐。",
           "订单总额NOK 4,830，Booking当前折算约¥3,370。",
           "至少提前一天告知预计抵达时间，首日晚入住提前与酒店协调。",
-          "公共桑拿按住宿安排使用，热水浴缸额外收费。"
+          "公共桑拿按住宿安排使用，热水浴缸额外收费。",
+          "当前保留为海景设计套房备选；另一笔一卧室公寓订单作为主行程。"
         ],
-        "userNote": "2.11–2.13已订备选；默认连住Lofoten Paradise Cabins两晚，不计入默认住宿预算。",
+        "userNote": "2.11–2.13海景设计套房已订备选；主行程选择同酒店的一卧室公寓，不计入默认住宿预算。",
         "budgetSummary": "含早餐的25㎡海景设计套房，连住两晚；设餐厅、酒吧、公共桑拿、热水浴缸及电车充电。已订备选。",
         "address": "Moloveien 41, 8373 Ballstad, Norway",
         "checkInTime": "15:00–21:00",
@@ -1536,7 +1783,7 @@
         ],
         "roomLayout": "2卧室 · 2张单人床＋1张双层床（共4床位）",
         "cancellation": "2027.2.6 23:59前免费取消",
-        "userNote": "原方案已订备选；2.11–2.13默认连住Lofoten Paradise Cabins两晚，不计入默认住宿预算。",
+        "userNote": "原方案已订备选；2.11–2.13默认连住谢尔斯塔一卧室公寓两晚，不计入默认住宿预算。",
         "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船；住宿有公共户外火塘，可电车充电。",
         "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707",
         "facilitySources": [
