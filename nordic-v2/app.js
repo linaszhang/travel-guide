@@ -1,4 +1,5 @@
 'use strict';
+let flightMonitorData=null;
 let countries=[],days=[],points=[],experiences=[],lodgings=[],backupLodgings=[],currentCountry='finland',view={type:'home'},maps=[],observer=null,expanded=null,expandedPoints=[],navLock=false,lastFocus=null,keepNavOnRoute=false,budgetReturnState=null;
 function syncNavigationUI(){document.querySelectorAll('.mobile-packing,.packing-icon').forEach(el=>{const active=location.hash==='#packing';el.classList.toggle('active',active);if(active)el.setAttribute('aria-current','page');else el.removeAttribute('aria-current');});}
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -79,9 +80,7 @@ async function populateBudgetFlightDetails(){
  const section=[...$('#main').querySelectorAll('.budget-section')].find(s=>s.querySelector('h2')?.textContent==='机票');
  if(!section)return;
  try{
-  const response=await fetch('../nordic-v2/flight-monitor.json?t='+Date.now(),{cache:'no-store'});
-  if(!response.ok)throw Error('flight details');
-  const data=await response.json();if(!section.isConnected)return;
+  const data=flightMonitorData||await fetch('../nordic-v2/flight-monitor.json?t='+Date.now(),{cache:'no-store'}).then(response=>{if(!response.ok)throw Error('flight details');return response.json();});if(!section.isConnected)return;
   const ids=['pvg-hel','hel-tos','tos-kef','kef-cph','cph-pvg'];
   [...section.querySelectorAll(':scope>.budget-row')].forEach((row,i)=>{
    const flight=data.flights.find(f=>f.id===ids[i]);if(!flight)return;
@@ -156,7 +155,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(!$('#point-sheet
 window.addEventListener('hashchange',route);
 // Cache immutable, versioned itinerary data separately from personal packing state.
 const itineraryCachePrefix='nordic-public-data:';
-const itineraryCacheBuild=new URL(document.currentScript.src).searchParams.get('v')||'current';
+const itineraryCacheBuild=document.documentElement.dataset.itineraryBuild||new URL(document.currentScript?.src||location.href).searchParams.get('v')||'current';
 async function loadItineraryJSON(url){
  const key=itineraryCachePrefix+url+'@'+itineraryCacheBuild;
  try{const cached=localStorage.getItem(key);if(cached)return JSON.parse(cached);}catch{}
@@ -169,7 +168,14 @@ let lodgingRequest=null,experienceRequest=null,routeRequest=0;
 function ensureLodgings(){return lodgingRequest||(lodgingRequest=loadItineraryJSON('../nordic-v2/stays.json?v=33').then(hs=>{lodgings=hs.filter(s=>!s.backup);backupLodgings=hs.filter(s=>s.backup);}).catch(error=>{lodgingRequest=null;throw error;}));}
 function ensureExperiences(){return experienceRequest||(experienceRequest=loadItineraryJSON('../nordic-v2/experiences.json?v=19').then(xs=>{experiences=xs;}).catch(error=>{experienceRequest=null;throw error;}));}
 function loadingFailure(){if(!$('#main').querySelector('.loading'))return;$('#main').innerHTML='<div class="loading"><h1>行程暂时无法加载</h1><p>请检查网络后重试。</p><button onclick="countries.length?route():location.reload()">重新加载</button></div>';}
-Promise.all([loadItineraryJSON('../nordic-v2/data.json?v=48'),loadItineraryJSON('../nordic-v2/points.json?v=26')]).then(([cs,ps])=>{countries=cs;days=cs.flatMap(c=>c.days);points=ps;buildPlaceLinks();route();}).catch(loadingFailure);
+function initializeItinerary(payload){flightMonitorData=payload['flight-monitor']||null;lodgings=payload.stays.filter(s=>!s.backup);backupLodgings=payload.stays.filter(s=>s.backup);experiences=payload.experiences;countries=payload.data;days=countries.flatMap(c=>c.days);points=payload.points;attractionData=payload.attractions||null;diningData=payload.dining||null;buildPlaceLinks();route();}
+// Production embeds the current catalogs during publishing; keep a source-preview fallback.
+Promise.resolve().then(async()=>{
+ const inline=document.getElementById('itinerary-bootstrap');
+ if(inline){const payload=JSON.parse(inline.textContent);inline.remove();initializeItinerary(payload);return;}
+ const [data,points,stays,experiences]=await Promise.all([loadItineraryJSON('../nordic-v2/data.json?v=48'),loadItineraryJSON('../nordic-v2/points.json?v=26'),loadItineraryJSON('../nordic-v2/stays.json?v=33'),loadItineraryJSON('../nordic-v2/experiences.json?v=19')]);
+ initializeItinerary({data,points,stays,experiences});
+}).catch(loadingFailure);
 
 
 function renderExperience(item){const c=countryById(item.country),photo=item.photos[0];$('#main').innerHTML=`<div class="page-wrap experience-page" style="--theme:${c.color}"><nav class="breadcrumb"><a href="#budget">预算单</a><span>/ 游玩项目</span></nav><article class="experience-card"><div class="experience-gallery" data-experience="${item.id}" data-photo-index="0"><div class="experience-stage"><img id="experience-photo" src="${photo.src}" alt="${esc(photo.label)}" fetchpriority="high"><button class="gallery-arrow gallery-prev" data-gallery-step="-1" aria-label="上一张图片"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m14 6-6 6 6 6"/></svg></button><button class="gallery-arrow gallery-next" data-gallery-step="1" aria-label="下一张图片"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m10 6 6 6-6 6"/></svg></button><span class="gallery-count" aria-live="polite">1 / ${item.photos.length}</span></div><div class="gallery-caption" id="gallery-caption">${esc(photo.label)}</div><div class="experience-thumbnails" aria-label="选择项目图片">${item.photos.map((p,i)=>`<button data-gallery-photo="${i}" aria-label="查看图片${i+1}：${esc(p.label)}" aria-pressed="${i===0}"><img src="${p.src}" alt="" loading="lazy"></button>`).join('')}</div></div><div class="experience-content"><p class="experience-location">${esc(item.location)}${item.day?` · DAY ${String(item.day).padStart(2,'0')}`:' · 日期待安排'}</p>${item.excluded?'<p class="experience-status">已排除 · 不计入预算</p>':''}<h1>${esc(item.title)}</h1><p class="experience-intro">${esc(item.intro)}</p><div class="experience-facts"><div><small>游玩时长</small><strong>${esc(item.duration)}</strong></div><div><small>${item.excluded?'原参考价格':'每人预算'}</small><strong>${money(item.price)}<small>／人</small></strong></div></div><section><h2>项目体验</h2><ul>${item.includes.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></section><section><h2>集合与安排</h2><p>${esc(item.meeting)}</p></section><section><h2>价格说明</h2><p>${esc(item.priceNote)}</p></section><section><h2>行前准备</h2><ul>${item.notes.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></section><div class="experience-links">${item.day?`<a href="#day/${item.day}">查看 DAY ${String(item.day).padStart(2,'0')} 行程 ↗</a>`:''}<a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.operator)} 项目官网 ↗</a></div><p class="experience-credit">项目资料：原旅行计划与${esc(item.operator)}；图片为项目景观参考${item.imageCredit?`，补充图片来自 <a href="${esc(item.imageSource)}" target="_blank" rel="noopener">${esc(item.imageCredit)}</a>`:item.id==='blue-lagoon'?'，蓝湖地貌图片来自 <a href="https://www.visitreykjanes.is/en/moya/gallery/index/index/myndir-fra-reykjanesi/natturan/blue-lagoon-nature-3-1" target="_blank" rel="noopener">Visit Reykjanes</a>':'，补充图片来自运营方官网'}。已订项目价格按订单折算，其余为计划预算。</p></div></article><a class="experience-back" href="#budget">← 返回旅行预算单</a></div>`;}
@@ -266,9 +272,7 @@ async function renderFlightMonitor(){
  const main=$('#main');
  main.innerHTML='<div class="page-wrap flight-monitor"><header class="monitor-heading"><div class="monitor-title"><a class="monitor-back" href="#budget" aria-label="返回预算单"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h14"/></svg></a><h1>机票价格监测</h1></div></header><p role="status">正在读取最近一次核实记录…</p></div>';
  try{
-  const response=await fetch('../nordic-v2/flight-monitor.json?t='+Date.now(),{cache:'no-store'});
-  if(!response.ok)throw Error('monitor');
-  const data=await response.json();
+  const data=flightMonitorData||await fetch('../nordic-v2/flight-monitor.json?t='+Date.now(),{cache:'no-store'}).then(response=>{if(!response.ok)throw Error('monitor');return response.json();});
   if(view.type!=='flights')return;
   const fmt=d=>new Date(d).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false});
   const link=(url,label)=>/^https:\/\//.test(url||'')?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`:esc(label);
@@ -386,7 +390,7 @@ async function loadAttractions(){
 }
 async function renderAttractions(countryId,attractionId){
  const c=countryById(countryId),expectedHash=location.hash;
- $('#main').innerHTML='<div class="page-wrap"><p class="attraction-loading" role="status">正在整理景点…</p></div>';
+ if(!attractionData)$('#main').innerHTML='<div class="page-wrap"><p class="attraction-loading" role="status">正在整理景点…</p></div>';
  try{
   const data=await loadAttractions();if(location.hash!==expectedHash)return;
   if(attractionId){const a=data.items.find(x=>x.id===attractionId);if(!a){renderAttractionMissing(c);return;}renderAttractionDetail(a,data);return;}
@@ -458,7 +462,7 @@ function diningTags(a){const rank=diningTopRank(a);return `<span class="attracti
 function diningRating(a,linked=false){const text=`<strong>${a.google.rating.toFixed(1)}<small> / 5</small></strong><span>${a.google.reviewCount.toLocaleString('zh-CN')} 条评论</span>`;return linked?`<a class="dining-rating" href="${esc(a.google.url)}" target="_blank" rel="noopener noreferrer" aria-label="Google Maps ${a.google.rating}分，${a.google.reviewCount}条评论">${text}</a>`:`<span class="dining-rating" aria-label="Google Maps ${a.google.rating}分，${a.google.reviewCount}条评论">${text}</span>`;}
 async function renderDining(countryId,itemId){
  const expectedHash=location.hash;
- $('#main').innerHTML='<div class="page-wrap"><p role="status">正在整理餐厅与酒吧…</p></div>';
+ if(!diningData)$('#main').innerHTML='<div class="page-wrap"><p role="status">正在整理餐厅与酒吧…</p></div>';
  try{
   if(!diningData){if(!diningRequest)diningRequest=fetch('../nordic-v2/dining.json?v=11').then(r=>{if(!r.ok)throw Error('dining');return r.json();}).then(x=>diningData=x).catch(e=>{diningRequest=null;throw e;});await diningRequest;}
   if(location.hash!==expectedHash)return;
