@@ -1,3 +1,4 @@
+@font-face{font-family:'Noto Serif SC';font-style:normal;font-weight:600;font-display:swap;src:url('assets/fonts/noto-serif-sc-headings.woff2') format('woff2')}
 .mobile-title{display:flex;align-items:center;min-width:0;margin-left:8px;margin-right:auto;font:600 16px/28px var(--serif);color:#26251f}.mobile-title .mobile-brand{font:inherit;white-space:nowrap;margin:0}.home-intro h1{white-space:nowrap}@media(max-width:860px){.home-intro h1{font-size:clamp(25px,6vw,38px)}}
 /* One scroller for the complete table; no frozen columns. */
 .stay-summary{overflow:hidden}
