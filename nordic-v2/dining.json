@@ -2735,6 +2735,127 @@
       ]
     },
     {
+      "id": "aegir-101",
+      "name": "ÆGIR 101 Bar - Taproom",
+      "country": "iceland",
+      "stage": "凯夫拉维克 → 惠拉盖尔济 · D9",
+      "days": [
+        9,
+        13
+      ],
+      "kind": "精酿啤酒／冰岛菜／酒吧",
+      "meal": "雷市逛街后的简餐或小酌",
+      "summary": "彩虹街尽头的本地精酿酒吧，配冰岛羊肉汤、鱼炖菜和桌游，适合市区散步后歇脚。",
+      "description": [
+        "位于Laugavegur 2，彩虹街与主购物街交汇处。店内生啤来自自家位于Grandi的ÆGIR酒厂，可以选品鉴盘尝试不同风格，也有桌游和不定期现场音乐。",
+        "除了喝酒，还能点冰岛羊肉汤、传统鱼炖菜、烟熏羊肉薄饼和炸鱼薯条。音乐活动以店方公布为准；自驾当天驾驶员选择无酒精饮品。"
+      ],
+      "route": "D9游览哈尔格林姆教堂、彩虹街与Laugavegur时顺路选择；D13进雷市时也可作为用餐备选。",
+      "address": "Laugavegur 2, 101 Reykjavík, Iceland",
+      "google": {
+        "rating": 4.8,
+        "reviewCount": 330,
+        "url": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n",
+        "checkedAt": "2026-11-15",
+        "note": "评分及评论数于2026-11-15核对。"
+      },
+      "hours": {
+        "lines": [
+          "周日至周四 12:00–23:00",
+          "周五、周六 12:00–次日01:00"
+        ],
+        "note": "当地时间；官网常规营业时间，厨房时段未单列。",
+        "sourceUrl": "https://aegirbrugghus.is/101",
+        "checkedAt": "2026-11-15"
+      },
+      "menu": {
+        "items": [
+          "ÆGIR本地生啤／精酿品鉴盘 · 依当日酒单",
+          "冰岛羊肉汤配黑麦面包 · 2,790 ISK",
+          "传统冰岛鱼炖菜配黑麦面包 · 2,890 ISK",
+          "炸鱼薯条 · 3,490 ISK",
+          "烟熏羊肉薄饼 · 2,290 ISK",
+          "维京拼盘（羊肉汤、鱼炖菜、烟熏羊肉、Skyr）· 3,490 ISK"
+        ],
+        "url": "https://aegirbrugghus.is/101",
+        "note": "餐食价格据官网菜单；生啤酒头定期轮换，具体酒款与价格以当日酒单为准。"
+      },
+      "website": "https://aegirbrugghus.is/101",
+      "sources": [
+        {
+          "title": "Google Maps 店铺实景、评分与人均消费",
+          "url": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n"
+        },
+        {
+          "title": "ÆGIR 101 官网菜单、营业时间与地址",
+          "url": "https://aegirbrugghus.is/101"
+        },
+        {
+          "title": "冰岛旅游局店铺介绍",
+          "url": "https://www.visiticeland.com/things-to-do/aegir-101-bar-taproom/"
+        }
+      ],
+      "photos": [
+        {
+          "src": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl6pLnPpIwtZ1uKPCF5H6vJJ4FmhbmVwrTaveWxLQl_Q7x-_W3OpylZbt2oMTOHC8CGoldjq8nYQp-H7kmTaTrCZWYQ5MLDX_9xgTh8SNx8yAMZ9kPVwux8wH8gS9Ba3oUeBz_=w408-h306-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl6pLnPpIwtZ1uKPCF5H6vJJ4FmhbmVwrTaveWxLQl_Q7x-_W3OpylZbt2oMTOHC8CGoldjq8nYQp-H7kmTaTrCZWYQ5MLDX_9xgTh8SNx8yAMZ9kPVwux8wH8gS9Ba3oUeBz_=w408-h306-k-no",
+          "label": "ÆGIR 101 · 店铺实景",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl6pLnPpIwtZ1uKPCF5H6vJJ4FmhbmVwrTaveWxLQl_Q7x-_W3OpylZbt2oMTOHC8CGoldjq8nYQp-H7kmTaTrCZWYQ5MLDX_9xgTh8SNx8yAMZ9kPVwux8wH8gS9Ba3oUeBz_=w408-h306-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcnwhyW2WnefTUUYiTfKjwet2JD88NYbyf22Oo10dzXS7hYR2uL7u_jcppHyX6cuKywXV56TxpObBjJB8XsNwSeNs_Ex68517J8aaOcP4NFC2NM2rDD75z02gGDYY-2t0JqJQ=w224-h398-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcnwhyW2WnefTUUYiTfKjwet2JD88NYbyf22Oo10dzXS7hYR2uL7u_jcppHyX6cuKywXV56TxpObBjJB8XsNwSeNs_Ex68517J8aaOcP4NFC2NM2rDD75z02gGDYY-2t0JqJQ=w224-h398-k-no",
+          "label": "ÆGIR 101 · 店内环境",
+          "sourceImage": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcnwhyW2WnefTUUYiTfKjwet2JD88NYbyf22Oo10dzXS7hYR2uL7u_jcppHyX6cuKywXV56TxpObBjJB8XsNwSeNs_Ex68517J8aaOcP4NFC2NM2rDD75z02gGDYY-2t0JqJQ=w224-h398-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmH1YLJNl69yFRhfzLYtNaadJYHbLdwW8vXaLQW4oh2_sXQ9o3evepWwLfme8zkpN9ZQ7oULxotZcMFj7OqGVatq910NEKZqPKeSlmVIvPhUlEgCEY_kFTnVHg-gO_wtKN00IhXCnhBPQ=w600-h450-p-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmH1YLJNl69yFRhfzLYtNaadJYHbLdwW8vXaLQW4oh2_sXQ9o3evepWwLfme8zkpN9ZQ7oULxotZcMFj7OqGVatq910NEKZqPKeSlmVIvPhUlEgCEY_kFTnVHg-gO_wtKN00IhXCnhBPQ=w600-h450-p-k-no",
+          "label": "ÆGIR 101 · 本地精酿啤酒",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmH1YLJNl69yFRhfzLYtNaadJYHbLdwW8vXaLQW4oh2_sXQ9o3evepWwLfme8zkpN9ZQ7oULxotZcMFj7OqGVatq910NEKZqPKeSlmVIvPhUlEgCEY_kFTnVHg-gO_wtKN00IhXCnhBPQ=w600-h450-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n",
+            "license": "图片权利归原作者"
+          }
+        },
+        {
+          "src": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7boUryEQX1skB4XS53UK4nmsEu91GqLIDHUN_NH6tiYGpRNXkGf9w_73D12Jhqc6XF_YQnsJQbWJmkTEeMOM9Uf5UwsRaT0z3V3TtOJbulJRzD0370eBHtKmayT0McPrzNBSwWIGHDtz9=w600-h450-p-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7boUryEQX1skB4XS53UK4nmsEu91GqLIDHUN_NH6tiYGpRNXkGf9w_73D12Jhqc6XF_YQnsJQbWJmkTEeMOM9Uf5UwsRaT0z3V3TtOJbulJRzD0370eBHtKmayT0McPrzNBSwWIGHDtz9=w600-h450-p-k-no",
+          "label": "ÆGIR 101 · 冰岛鱼炖菜",
+          "sourceImage": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7boUryEQX1skB4XS53UK4nmsEu91GqLIDHUN_NH6tiYGpRNXkGf9w_73D12Jhqc6XF_YQnsJQbWJmkTEeMOM9Uf5UwsRaT0z3V3TtOJbulJRzD0370eBHtKmayT0McPrzNBSwWIGHDtz9=w600-h450-p-k-no",
+          "credit": {
+            "author": "Google Maps 店方／贡献者",
+            "url": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n",
+            "license": "图片权利归原作者"
+          }
+        }
+      ],
+      "xiaohongshu": {
+        "recommended": false,
+        "evidence": []
+      },
+      "averagePrice": {
+        "min": 2000,
+        "max": 4000,
+        "currency": "ISK",
+        "basis": "Google Maps人均消费区间",
+        "note": "34位访客报送；饮酒与餐食选择会影响消费。",
+        "sourceUrl": "https://www.google.com/maps/place/%C3%86GIR+101+Bar+-+Taproom/@64.1463763,-21.9327994,17z/data=!3m1!4b1!4m6!3m5!1s0x48d675064c7e06b1:0xb3f20674e54f05b0!8m2!3d64.1463763!4d-21.9327994!16s%2Fg%2F11s8zclb9n",
+        "checkedAt": "2026-11-15"
+      }
+    },
+    {
       "id": "olverk",
       "name": "Ölverk Pizza & Brewery",
       "country": "iceland",
