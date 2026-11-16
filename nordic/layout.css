@@ -85,3 +85,30 @@
 @media(max-width:700px){.stay-option-tabs{padding:14px 12px;gap:8px}.stay-option-tab{max-width:250px;padding:10px 12px}}
 
 .stay-budget-main .stay-budget-tag{display:inline-block;margin-left:8px;padding:1px 7px;border-radius:5px;background:#e7ece6;color:#526859;font-size:11px;font-weight:500;line-height:1.7;vertical-align:middle;white-space:nowrap}
+
+.budget-scenarios{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 24px}
+.budget-scenarios>h2{grid-column:1/-1;margin:0;font-size:14px;font-weight:500;color:#e5eee8}
+.budget-scenario{min-width:0}.budget-scenario>strong{display:block;font-variant-numeric:tabular-nums}
+.budget-scenario>strong>small{font-size:12px;font-weight:400;margin-left:6px}
+.budget-scenario-description{display:block;font-size:11px;line-height:1.8;color:#d8e5de}
+.budget-scenarios>p{margin:0;padding-top:12px;border-top:1px solid #ffffff30}
+.budget-base.budget-base-scenarios{display:block}
+.budget-base-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:14px}
+.budget-base-options>div{display:flex;flex-direction:column;gap:6px}
+.budget-base-options>div>span{font-size:12px;color:#355c49}
+.budget-base-options strong{font-size:21px;font-variant-numeric:tabular-nums}
+.budget-calculation{margin:0 0 24px;border:1px solid #d9ded6;border-radius:12px;background:#faf9f5;overflow:hidden}
+.budget-calculation>summary{padding:14px 20px;font-size:13px;color:#3d6653;cursor:pointer}
+.budget-calculation-content{padding:0 20px 18px;font-size:12px;color:#646c62;line-height:1.8}
+.budget-calculation-content table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.budget-calculation-content caption{text-align:left;font-weight:600;color:#283e31;margin-bottom:8px}
+.budget-calculation-content th,.budget-calculation-content td{padding:9px 4px;border-bottom:1px solid #e2e2d9;text-align:right}
+.budget-calculation-content th:first-child{text-align:left;font-weight:500}
+.budget-calculation-content td{white-space:nowrap}.budget-calculation-content h3{font-size:13px;margin:22px 0 8px;color:#283e31}
+.budget-room-choices>a{display:flex;gap:12px;justify-content:space-between;padding:10px 0;color:inherit;text-decoration:none;border-bottom:1px solid #e2e2d9}
+.budget-room-choices>a>span:first-child{min-width:0}.budget-room-choices>a>span:last-child{flex-shrink:0;text-align:right;font-variant-numeric:tabular-nums}
+.budget-room-choices small{display:block;font-size:11px}.budget-room-choices strong{font-size:12px;font-weight:500;overflow-wrap:anywhere}
+.budget-section-note{margin:6px 0 0;font-size:11px;line-height:1.7;color:#787c73}
+@media(max-width:540px){.budget-scenarios{grid-template-columns:1fr;gap:14px}.budget-scenario+.budget-scenario{padding-top:14px;border-top:1px solid #ffffff30}.budget-base-options{grid-template-columns:1fr;gap:12px}.budget-base-options>div{flex-direction:row;align-items:center;justify-content:space-between;gap:10px}.budget-base-options>div>span{font-size:11px}.budget-base-options strong{font-size:18px}.budget-calculation-content{padding:0 14px 16px;font-size:11px}.budget-calculation>summary{padding:13px 14px}.budget-calculation-content th,.budget-calculation-content td{padding:8px 2px}}
+
+.budget-section>.stay-budget-heading{flex-wrap:wrap}.stay-budget-heading>.budget-section-note{flex-basis:100%;margin-top:0}
