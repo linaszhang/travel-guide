@@ -185,7 +185,10 @@
             "name": "公寓设施",
             "detail": "独立厨房与房内洗衣机、烘干机"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Airbnb"
       }
     ]
   },
@@ -682,7 +685,12 @@
             "name": "停车",
             "detail": "免费私人停车"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "roomType": "两卧室公寓",
+        "tabLabel": "两卧室公寓"
       }
     ]
   },
@@ -847,7 +855,10 @@
             "name": "停车",
             "detail": "免费停车"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Airbnb"
       }
     ]
   },
@@ -867,7 +878,7 @@
         "total": 4710,
         "originalTotal": 6750,
         "currency": "NOK",
-        "status": "已预订 · 备选",
+        "status": "已取消",
         "roomLayout": "56㎡ · 2卧室 · 1张大号双人床＋2张单人床＋1张沙发床",
         "maxGuests": 6,
         "cancellation": "2027.1.27 23:59前免费取消；之后收取NOK 6,750",
@@ -1037,7 +1048,7 @@
         "total": 1535,
         "originalTotal": 2200,
         "currency": "NOK",
-        "status": "已预订 · 备选",
+        "status": "已取消",
         "roomLayout": "50㎡ · 2卧室 · 1张双人床＋2张单人床",
         "maxGuests": 4,
         "cancellation": "2027.1.27 23:59前免费取消；之后按订单阶梯收取费用",
@@ -1244,7 +1255,7 @@
         "status": "已预订",
         "roomLayout": "35㎡ · 1卧室 · 1张双人床",
         "maxGuests": 2,
-        "cancellation": "2027.2.3 23:59前免费取消（住宿当地时间）",
+        "cancellation": "2027.2.3 23:59前免费取消",
         "notes": [
           "2027年2月11日入住、2月13日退房；2位成人、1套一卧室公寓、2晚，含早餐。",
           "入住15:00–21:00，退房08:00–11:00；至少提前一天告知预计抵达时间，首日晚抵达须提前与住宿确认。",
@@ -1255,7 +1266,7 @@
           "公共桑拿、热水浴缸按酒店安排及收费政策使用，不是所订公寓的私人桑拿或私人泡池。",
           "当前默认连住本公寓；同酒店海景设计套房、Lofoten Paradise Cabins、Ytterviks Rorbu和Lofoten Rorbuer均保留为备选，不计入主行程住宿预算。"
         ],
-        "userNote": "2.11–2.13默认连住一卧室公寓两晚；海景设计套房及其余重叠日期订单保留备选。",
+        "userNote": "2.11–2.13连住一卧室公寓两晚，含早餐。",
         "budgetSummary": "35㎡一卧室公寓，带厨房、洗碗机、海景露台，含2人早餐；连住两晚，订单NOK 5,200，约¥3,629。",
         "address": "Moloveien 41, 8373 Ballstad, Norway",
         "checkInTime": "15:00–21:00",
@@ -1465,7 +1476,12 @@
         "estimated": true,
         "conversionRate": 0.6978846153846154,
         "roomSource": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701",
-        "priceNote": "2位成人、2晚，含早餐、增值税及NOK 400清洁费；已付NOK 5,200，人民币为Booking参考折算。"
+        "priceNote": "2位成人、2晚，含早餐、增值税及NOK 400清洁费；已付NOK 5,200，人民币为Booking参考折算。",
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "roomType": "一卧室公寓",
+        "tabLabel": "一卧室公寓"
       }
     ],
     "backup": false
@@ -1486,7 +1502,7 @@
         "total": 3370,
         "originalTotal": 4830,
         "currency": "NOK",
-        "status": "已预订 · 备选",
+        "status": "已取消",
         "roomLayout": "25㎡ · 海景设计套房 · 1张大号双人床",
         "maxGuests": 2,
         "cancellation": "2027.2.3 23:59前免费取消",
@@ -1774,7 +1790,7 @@
             "bookingPhotoId": "465060392"
           }
         ],
-        "status": "已预订 · 备选",
+        "status": "已取消",
         "notes": [
           "2月12日入住、2月13日退房，海景套房；卧室1为2张单人床，卧室2为上下铺的2个床位。",
           "订单总额 NOK 2,682.90，Booking当前折算约¥1,872；含订单列出的停车服务。",
@@ -2010,7 +2026,12 @@
             "name": "公寓设施",
             "detail": "带厨房的一晚中转公寓；未列明额外公共康体设施"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "roomType": "一卧室公寓",
+        "tabLabel": "一卧室公寓"
       }
     ]
   },
@@ -2173,7 +2194,11 @@
             "name": "桑拿／泡池／充电",
             "detail": "未确认，当前订单不按包含此类设施展示"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Trip",
+        "tabLabel": "Reykjavik Residence · 一室房"
       },
       {
         "name": "Apartments Reykjavik",
@@ -2341,6 +2366,559 @@
           ],
           "checked": "2026-11-14"
         }
+      },
+      {
+        "name": "Hlemmur Suites · 豪华两卧室公寓",
+        "optionId": "reykjavik-hlemmur",
+        "tabLabel": "Hlemmur · 两卧室公寓",
+        "roomType": "豪华两卧室公寓",
+        "features": "65㎡ · 两卧室 · 厨房 · 洗烘机",
+        "description": "雷克雅未克65㎡两卧室公寓，独立厨房与浴室，配洗衣机、烘干机及洗碗机。",
+        "url": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+        "total": 3179,
+        "originalTotal": 432.14,
+        "currency": "EUR",
+        "conversionRate": 7.356412,
+        "estimated": false,
+        "status": "已预订 · 备选",
+        "roomLayout": "2卧室 · 1张双人床＋1张单人床",
+        "maxGuests": 3,
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-16",
+        "cancellation": "2027.1.30 23:59前免费取消",
+        "photos": [
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540693632-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540693632-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540693632-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540693632-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287718-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287718-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287718-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287718-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287717-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287717-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287717-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287717-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287722-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287722-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287722-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287722-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287723-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287723-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287723-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287723-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287733-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287733-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287733-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287733-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287730-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287730-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287730-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287730-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540683233-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540683233-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540683233-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540683233-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540683240-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540683240-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540683240-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540683240-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540683230-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540683230-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540683230-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540683230-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287719-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287719-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287719-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287719-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287734-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287734-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287734-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287734-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287735-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287735-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287735-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287735-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287736-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287736-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287736-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287736-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287741-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287741-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287741-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287741-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540694045-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540694045-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540694045-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540694045-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540694049-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540694049-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540694049-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540694049-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287743-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287743-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287743-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287743-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287727-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287727-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287727-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287727-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287724-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287724-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287724-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287724-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 用餐区 · 房型参考",
+            "caption": "用餐区 · 房型参考",
+            "category": "用餐区",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287731-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287731-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287731-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287731-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287744-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287744-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287744-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287744-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540704157-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540704157-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540704157-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540704157-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540699902-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540699902-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540699902-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540699902-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540704158-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540704158-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540704158-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540704158-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287725-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287725-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287725-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287725-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287728-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287728-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287728-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287728-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 洗衣 · 房型参考",
+            "caption": "洗衣 · 房型参考",
+            "category": "洗衣",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287705-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287705-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287705-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287705-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 玄关 · 房型参考",
+            "caption": "玄关 · 房型参考",
+            "category": "玄关",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540682838-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540682838-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540682838-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540682838-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 玄关 · 房型参考",
+            "caption": "玄关 · 房型参考",
+            "category": "玄关",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-540693844-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-540693844-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-540693844-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-540693844-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 玄关 · 房型参考",
+            "caption": "玄关 · 房型参考",
+            "category": "玄关",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287713-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287713-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287713-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287713-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 玄关 · 房型参考",
+            "caption": "玄关 · 房型参考",
+            "category": "玄关",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287707-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287707-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287707-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287707-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287715-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287715-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287715-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287715-240.webp"
+          },
+          {
+            "label": "豪华两卧室公寓 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "豪华两卧室公寓",
+            "src": "assets/stays/refresh-hlemmur-665287740-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665287740-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665287740-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665287740-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-hlemmur-663759648-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-663759648-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-663759648-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-663759648-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-hlemmur-519235886-960.webp",
+            "width": 960,
+            "height": 639,
+            "mobile": "assets/stays/refresh-hlemmur-519235886-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-519235886-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-519235886-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-hlemmur-663759643-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-663759643-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-663759643-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-663759643-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-hlemmur-665290386-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-hlemmur-665290386-640.webp",
+            "medium": "assets/stays/refresh-hlemmur-665290386-480.webp",
+            "thumb": "assets/stays/refresh-hlemmur-665290386-240.webp"
+          }
+        ],
+        "address": "Laugavegur, 105 雷克雅未克, 冰岛",
+        "addressSource": "Booking订单地址",
+        "budgetSummary": "雷克雅未克65㎡两卧室公寓，独立厨房与浴室，配洗衣机、烘干机及洗碗机。",
+        "notes": [
+          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
+          "取消时限按住宿当地时间计时。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "房内配厨房及厨具。"
+          },
+          "washer": {
+            "status": "有",
+            "detail": "房内配洗衣机。"
+          },
+          "dryer": {
+            "status": "有",
+            "detail": "房内配烘干机。"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "订单未列明充电设施。"
+          },
+          "sources": [
+            {
+              "label": "Booking公开房源",
+              "url": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-16"
+        },
+        "checkInTime": "16:00起",
+        "checkOutTime": "11:00前",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
       }
     ]
   },
@@ -3059,7 +3637,469 @@
             "name": "停车",
             "detail": "免费停车"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "roomType": "豪华特大号床一室公寓",
+        "tabLabel": "豪华特大号床一室公寓"
+      },
+      {
+        "name": "Vík Apartments · 带露台公寓",
+        "optionId": "vik-apartments",
+        "tabLabel": "Vík Apartments · 露台公寓",
+        "roomType": "公寓 - 带露台",
+        "features": "70㎡ · 两卧室 · 露台 · 厨房",
+        "description": "维克70㎡带露台两卧室公寓，设厨房、洗碗机和独立浴室；当前订单登记3位成人。",
+        "url": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+        "total": 4046,
+        "originalTotal": 550,
+        "currency": "EUR",
+        "conversionRate": 7.356364,
+        "estimated": false,
+        "status": "已预订 · 备选",
+        "roomLayout": "2卧室 · 1张大号双人床＋2张单人床",
+        "maxGuests": 4,
+        "bookedGuests": 3,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-16",
+        "cancellation": "2027.1.31 23:59前免费取消",
+        "photos": [
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068880-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068880-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068880-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068880-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068896-960.webp",
+            "width": 512,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-557068896-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068896-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068896-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068861-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068861-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068861-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068861-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068803-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068803-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068803-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068803-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783855-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-vik-apartments-891783855-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783855-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783855-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783880-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-vik-apartments-891783880-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783880-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783880-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557069054-960.webp",
+            "width": 512,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-557069054-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557069054-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557069054-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068949-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068949-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068949-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068949-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783967-960.webp",
+            "width": 935,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-891783967-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783967-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783967-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783830-960.webp",
+            "width": 576,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-891783830-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783830-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783830-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783984-960.webp",
+            "width": 576,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-891783984-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783984-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783984-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068976-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068976-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068976-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068976-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068826-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068826-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068826-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068826-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783905-960.webp",
+            "width": 613,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-891783905-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783905-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783905-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557068892-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557068892-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557068892-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557068892-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783958-960.webp",
+            "width": 576,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-891783958-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783958-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783958-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-557069053-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-vik-apartments-557069053-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-557069053-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-557069053-240.webp"
+          },
+          {
+            "label": "公寓 - 带露台 · 洗衣 · 房型参考",
+            "caption": "洗衣 · 房型参考",
+            "category": "洗衣",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "公寓 - 带露台",
+            "src": "assets/stays/refresh-vik-apartments-891783944-960.webp",
+            "width": 576,
+            "height": 768,
+            "mobile": "assets/stays/refresh-vik-apartments-891783944-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-891783944-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-891783944-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-vik-apartments-701119323-960.webp",
+            "width": 960,
+            "height": 563,
+            "mobile": "assets/stays/refresh-vik-apartments-701119323-640.webp",
+            "medium": "assets/stays/refresh-vik-apartments-701119323-480.webp",
+            "thumb": "assets/stays/refresh-vik-apartments-701119323-240.webp"
+          }
+        ],
+        "address": "Sléttuvegur 4-8, 870 维克, 冰岛",
+        "addressSource": "Booking订单地址",
+        "budgetSummary": "维克70㎡带露台两卧室公寓，设厨房、洗碗机和独立浴室；当前订单登记3位成人。",
+        "notes": [
+          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
+          "取消时限按住宿当地时间计时。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "房内配厨房及厨具。"
+          },
+          "washer": {
+            "status": "有",
+            "detail": "房内配洗衣机。"
+          },
+          "dryer": {
+            "status": "有",
+            "detail": "房内配烘干机。"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "订单未列明充电设施。"
+          },
+          "sources": [
+            {
+              "label": "Booking公开房源",
+              "url": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-16"
+        },
+        "checkInTime": "15:00起",
+        "checkOutTime": "11:00前",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
+      },
+      {
+        "name": "Hótel Jökulsárlón · 三人间",
+        "optionId": "jokulsarlon-triple",
+        "tabLabel": "冰湖酒店 · 三人间",
+        "roomType": "三人间",
+        "features": "三人间 · 独立浴室 · 冰湖附近",
+        "description": "冰湖附近23㎡三人间，独立浴室；日期为2.15–2.16，与维克住宿重叠，非次日双人间订单。",
+        "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+        "total": 3342.22,
+        "originalTotal": 454.37,
+        "currency": "EUR",
+        "conversionRate": 7.355723,
+        "estimated": false,
+        "status": "已预订 · 备选",
+        "roomLayout": "1间客房 · 1张大号双人床或2张单人床＋1张日式床垫",
+        "maxGuests": 3,
+        "bookedGuests": 3,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-16",
+        "cancellation": "2027.2.7 23:59前免费取消",
+        "photos": [
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-916819791-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-916819791-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-916819791-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-916819791-240.webp"
+          },
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-903003790-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-903003790-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-903003790-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-903003790-240.webp"
+          },
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645361071-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361071-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645361071-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361071-240.webp"
+          },
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645361069-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361069-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645361069-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361069-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645362625-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362625-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645362625-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362625-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-triple-656396646-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-656396646-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-656396646-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-656396646-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645362341-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362341-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645362341-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362341-240.webp"
+          }
+        ],
+        "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
+        "addressSource": "Booking订单地址",
+        "budgetSummary": "冰湖附近23㎡三人间，独立浴室；日期为2.15–2.16，与维克住宿重叠，非次日双人间订单。",
+        "notes": [
+          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
+          "取消时限按住宿当地时间计时。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "washer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "订单未列明充电设施。"
+          },
+          "sources": [
+            {
+              "label": "Booking公开房源",
+              "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-16"
+        },
+        "location": "Jökulsárlón · 冰河湖附近",
+        "checkInTime": "15:00起",
+        "checkOutTime": "11:00前",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
       }
     ]
   },
@@ -3084,7 +4124,6 @@
         "cancellation": "入住日7天前可免费取消",
         "notes": [
           "2月16日入住、2月17日退房，默认冰川景观双人间；订单不含餐。",
-          "双人间订单房价€495，Booking折算约¥3,641；另订三人间€522.60，约¥3,844。住宿预算只计默认双人间，不计两间房合计。",
           "住客共用热水池与桑拿，官网当前开放07:00–22:00；需穿泳衣，按到场顺序使用。",
           "2月17日退房后前往冰河湖，10:45前抵达Ice Walkers Tours集合点；冰川活动后入住REY Stays。"
         ],
@@ -3382,13 +4421,13 @@
         "status": "已预订",
         "capacitySource": "Booking预订确认页：所订房型",
         "capacityCheckedAt": "2026-11-14",
-        "budgetSummary": "23㎡冰川景观双人间，配公共桑拿、热水池、餐厅、酒吧和健身房；另订三人间。",
+        "budgetSummary": "23㎡冰川景观双人间，独立浴室；订单当前登记1位成人，第二位入住需酒店确认。",
         "capacityLabel": "双人间最多2人",
         "galleryCheckedAt": "2026-11-14",
         "gallerySource": "Booking所订房型相册与公共设施；已剔除其他房型、近似重复及无关风景",
         "originalTotal": 495,
         "currency": "EUR",
-        "userNote": "2.16–2.17默认展示2人间；还预订了3人间（1张大号双人床或2张单人床＋1张日式床垫）。",
+        "userNote": "冰川景观双人间；当前订单登记1位成人，第二位入住需酒店确认。",
         "address": "Reynivellir, 781 Jökulsárlón, Iceland",
         "checkInTime": "16:00后",
         "checkOutTime": "11:00前",
@@ -3422,7 +4461,7 @@
           ],
           "checked": "2026-11-14"
         },
-        "priceNote": "默认冰川景观双人间订单房价 €495，约¥3,641；三人间另计，不计入默认预算",
+        "priceNote": "冰川景观双人间订单€495／¥3,641，当前订单登记1位成人；第二位入住及费用需向酒店确认。",
         "hotelFacilities": [
           {
             "name": "餐厅",
@@ -3445,7 +4484,215 @@
             "detail": "免费私人停车"
           }
         ],
-        "conversionRate": 7.35556
+        "conversionRate": 7.35556,
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 1,
+        "bookingPlatform": "Booking",
+        "roomType": "双人间 - 冰川景观",
+        "tabLabel": "冰川景观双人间 · 1人订单",
+        "occupancyNote": "房型最多2人，当前订单仅登记1位成人；第二位入住及费用需向酒店确认"
+      },
+      {
+        "name": "Hótel Jökulsárlón · 家庭套房",
+        "optionId": "jokulsarlon-family",
+        "tabLabel": "冰湖酒店 · 家庭套房",
+        "roomType": "家庭套房",
+        "features": "50㎡ · 家庭套房 · 浴缸 · 独立浴室",
+        "description": "冰湖附近50㎡家庭套房，双人床与沙发床，配浴缸、咖啡机及独立浴室；当前订单登记3位成人。",
+        "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+        "total": 5666,
+        "originalTotal": 770.23,
+        "currency": "EUR",
+        "conversionRate": 7.356244,
+        "estimated": false,
+        "status": "已预订 · 备选",
+        "roomLayout": "1间家庭套房 · 1张双人床＋1张沙发床",
+        "maxGuests": 3,
+        "bookedGuests": 3,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-16",
+        "cancellation": "2027.2.8 23:59前免费取消",
+        "photos": [
+          {
+            "label": "家庭套房 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-645365297-960.webp",
+            "width": 512,
+            "height": 768,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-645365297-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-645365297-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-645365297-240.webp"
+          },
+          {
+            "label": "家庭套房 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-645365326-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-645365326-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-645365326-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-645365326-240.webp"
+          },
+          {
+            "label": "家庭套房 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-645365328-960.webp",
+            "width": 512,
+            "height": 768,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-645365328-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-645365328-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-645365328-240.webp"
+          },
+          {
+            "label": "家庭套房 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-812766947-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-812766947-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-812766947-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-812766947-240.webp"
+          },
+          {
+            "label": "家庭套房 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-662502314-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-662502314-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-662502314-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-662502314-240.webp"
+          },
+          {
+            "label": "家庭套房 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-656398231-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-656398231-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-656398231-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-656398231-240.webp"
+          },
+          {
+            "label": "家庭套房 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-656400139-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-656400139-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-656400139-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-656400139-240.webp"
+          },
+          {
+            "label": "家庭套房 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "家庭套房",
+            "src": "assets/stays/refresh-jokulsarlon-family-662501982-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-662501982-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-662501982-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-662501982-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-family-645362625-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-645362625-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-645362625-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-645362625-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-family-656396646-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-656396646-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-656396646-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-656396646-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-family-645362341-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-family-645362341-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-family-645362341-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-family-645362341-240.webp"
+          }
+        ],
+        "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
+        "addressSource": "Booking订单地址",
+        "budgetSummary": "冰湖附近50㎡家庭套房，双人床与沙发床，配浴缸、咖啡机及独立浴室；当前订单登记3位成人。",
+        "notes": [
+          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
+          "取消时限按住宿当地时间计时。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "washer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "订单未列明充电设施。"
+          },
+          "sources": [
+            {
+              "label": "Booking公开房源",
+              "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-16"
+        },
+        "checkInTime": "15:00起",
+        "checkOutTime": "11:00前",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
       }
     ]
   },
@@ -3464,7 +4711,7 @@
         "features": "两卧室整租公寓 · 窗景 · 厨房 · 露台 · 免费停车",
         "description": "霍芬附近的52㎡两卧室整租公寓，配厨房、起居区、私人浴室和露台。2月17日冰川徒步结束后向东前往入住，2月18日退房后前往Stokksnes蝙蝠山。",
         "url": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-        "total": 2207,
+        "total": 2018.26,
         "currency": "EUR",
         "photos": [
           {
@@ -3658,12 +4905,14 @@
           "最新订单已调整为2月17日15:00后入住，2月18日10:30前退房；2位成人1晚。",
           "Booking最新订单列表折算约¥2,207，最终以订单结算为准。",
           "冰河湖活动约17:00结束后，沿1号公路向东至REY Stays，约65公里，冬季预留1–1.5小时。",
-          "次日退房后前往Stokksnes蝙蝠山，再沿南岸向西返回凯夫拉维克。"
+          "次日退房后前往Stokksnes蝙蝠山，再沿南岸向西返回凯夫拉维克。",
+          "按用户最新计划，仅保留2.17–2.18一晚；平台当前仍为两晚订单，用户将取消前一晚。",
+          "当前单晚预算为原订单应付总价的一半，实际金额以改期后订单为准。"
         ],
         "roomLayout": "2卧室 · 1张双人床＋2张单人床＋1张沙发床",
         "cancellation": "2027.2.8 23:59前免费取消",
         "userNote": "这个小镇都一般，但是这个窗景还不错",
-        "budgetSummary": "带厨房、露台和免费停车的两卧室整租公寓，当地房源整体吸引力一般，这家的窗景相对更合心意。",
+        "budgetSummary": "带厨房、露台和免费停车的两卧室整租公寓，窗景不错；计划仅留2.17–2.18，改期后待核价。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
@@ -3709,7 +4958,20 @@
             "name": "停车",
             "detail": "免费私人停车"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "roomType": "两卧室公寓",
+        "tabLabel": "REY Stays · 两卧室公寓",
+        "originalTotal": 274.38,
+        "estimated": true,
+        "bookingDates": "2.16–2.18",
+        "bookingNights": 2,
+        "bookingTotal": 4036.52,
+        "bookingOriginalTotal": 548.76,
+        "priceNote": "计划仅住2.17–2.18一晚；原订单仍为两晚，应付€548.76／¥4,036.52。单晚暂按总价÷2估算为¥2,018，改期后待核价。",
+        "pricePending": true
       }
     ]
   },
@@ -4023,7 +5285,331 @@
             "name": "送机与停车",
             "detail": "免费单程送往KEF机场，入住时登记；免费停车"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Booking",
+        "roomType": "双人间或双床间",
+        "tabLabel": "双人间或双床间"
+      },
+      {
+        "name": "Castle Inn Apartments · 市中心公寓",
+        "optionId": "kef-castle-inn",
+        "tabLabel": "Castle Inn · 两卧室公寓",
+        "roomType": "公寓",
+        "features": "72㎡ · 两卧室 · 厨房 · 露台",
+        "description": "凯夫拉维克市中心72㎡两卧室公寓，配厨房、露台、洗碗机和独立浴室；当前订单登记3位成人。",
+        "url": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+        "total": 2014,
+        "originalTotal": 273.75,
+        "currency": "EUR",
+        "conversionRate": 7.357078,
+        "estimated": false,
+        "status": "已预订 · 备选",
+        "roomLayout": "2卧室 · 1张大号双人床＋3张单人床＋1张沙发床",
+        "maxGuests": 5,
+        "bookedGuests": 3,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-16",
+        "cancellation": "2027.2.16 23:59前免费取消",
+        "photos": [
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770112861-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770112861-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770112861-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770112861-240.webp"
+          },
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109608-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109608-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109608-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109608-240.webp"
+          },
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109610-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109610-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109610-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109610-240.webp"
+          },
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109615-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109615-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109615-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109615-240.webp"
+          },
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109619-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109619-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109619-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109619-240.webp"
+          },
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109600-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109600-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109600-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109600-240.webp"
+          },
+          {
+            "label": "公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109563-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109563-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109563-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109563-240.webp"
+          },
+          {
+            "label": "公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109562-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109562-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109562-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109562-240.webp"
+          },
+          {
+            "label": "公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109558-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109558-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109558-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109558-240.webp"
+          },
+          {
+            "label": "公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109661-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109661-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109661-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109661-240.webp"
+          },
+          {
+            "label": "公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109686-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109686-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109686-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109686-240.webp"
+          },
+          {
+            "label": "公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109675-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109675-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109675-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109675-240.webp"
+          },
+          {
+            "label": "公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109581-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109581-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109581-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109581-240.webp"
+          },
+          {
+            "label": "公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109595-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109595-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109595-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109595-240.webp"
+          },
+          {
+            "label": "公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109578-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109578-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109578-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109578-240.webp"
+          },
+          {
+            "label": "公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109556-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109556-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109556-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109556-240.webp"
+          },
+          {
+            "label": "公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109575-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109575-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109575-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109575-240.webp"
+          },
+          {
+            "label": "公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109565-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109565-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109565-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109565-240.webp"
+          },
+          {
+            "label": "公寓 · 卫生间 · 房型参考",
+            "caption": "卫生间 · 房型参考",
+            "category": "卫生间",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "公寓",
+            "src": "assets/stays/refresh-castle-inn-770109566-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770109566-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770109566-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770109566-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-castle-inn-770108254-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-castle-inn-770108254-640.webp",
+            "medium": "assets/stays/refresh-castle-inn-770108254-480.webp",
+            "thumb": "assets/stays/refresh-castle-inn-770108254-240.webp"
+          }
+        ],
+        "address": "39 Hafnargata, 230 凯夫拉维克, 冰岛",
+        "addressSource": "Booking订单地址",
+        "budgetSummary": "凯夫拉维克市中心72㎡两卧室公寓，配厨房、露台、洗碗机和独立浴室；当前订单登记3位成人。",
+        "notes": [
+          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
+          "取消时限按住宿当地时间计时。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "房内配厨房及厨具。"
+          },
+          "washer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "订单未列明充电设施。"
+          },
+          "sources": [
+            {
+              "label": "Booking公开房源",
+              "url": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-16"
+        },
+        "checkInTime": "15:00起",
+        "checkOutTime": "03:00–11:00",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
       }
     ]
   },
@@ -4278,9 +5864,316 @@
             "name": "寄存行李",
             "detail": "提供行李寄存"
           }
-        ]
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 2,
+        "bookingPlatform": "Airbnb",
+        "maxGuests": 4,
+        "tabLabel": "一卧室公寓 · 2人订单"
+      },
+      {
+        "name": "Aperon · One-Bedroom Attic Apartment for 4",
+        "features": "三楼阁楼 · 两处睡眠区 · 厨房 · 共用庭院和露台",
+        "description": "哥本哈根市中心三楼阁楼公寓，独立卧室加楼梯通往的高架睡眠区，设两张双人床、起居餐区、厨房和浴室；可使用共用庭院及露台。",
+        "url": "https://www.airbnb.cn/rooms/42560289",
+        "total": 3265.72,
+        "photos": [
+          {
+            "label": "一卧室阁楼公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-96c7f703-1236-4483-b8e1-b355ad1fdff4-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-96c7f703-1236-4483-b8e1-b355ad1fdff4-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-96c7f703-1236-4483-b8e1-b355ad1fdff4-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-96c7f703-1236-4483-b8e1-b355ad1fdff4-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-fa03c04a-a875-4e10-809d-1a80554e6f2a-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-fa03c04a-a875-4e10-809d-1a80554e6f2a-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-fa03c04a-a875-4e10-809d-1a80554e6f2a-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-fa03c04a-a875-4e10-809d-1a80554e6f2a-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-236841ac-816d-43b7-8f55-cb0e2543dedf-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-236841ac-816d-43b7-8f55-cb0e2543dedf-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-236841ac-816d-43b7-8f55-cb0e2543dedf-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-236841ac-816d-43b7-8f55-cb0e2543dedf-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-cc005bdd-6ee0-4a83-aee8-a637d56bcdde-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-cc005bdd-6ee0-4a83-aee8-a637d56bcdde-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-cc005bdd-6ee0-4a83-aee8-a637d56bcdde-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-cc005bdd-6ee0-4a83-aee8-a637d56bcdde-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-1790dda8-8591-4c48-885a-57a82f1f1c7b-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-1790dda8-8591-4c48-885a-57a82f1f1c7b-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-1790dda8-8591-4c48-885a-57a82f1f1c7b-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-1790dda8-8591-4c48-885a-57a82f1f1c7b-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 客厅 · 房型参考",
+            "caption": "客厅 · 房型参考",
+            "category": "客厅",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-d89ea334-07bd-4d4e-a0b0-bdd8f2f7aaf7-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-d89ea334-07bd-4d4e-a0b0-bdd8f2f7aaf7-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-d89ea334-07bd-4d4e-a0b0-bdd8f2f7aaf7-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-d89ea334-07bd-4d4e-a0b0-bdd8f2f7aaf7-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-0397bb29-e3ee-463c-994a-749b5186ea69-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-0397bb29-e3ee-463c-994a-749b5186ea69-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-0397bb29-e3ee-463c-994a-749b5186ea69-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-0397bb29-e3ee-463c-994a-749b5186ea69-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-890de4a7-08ca-47dc-aefa-70328d2eb1d2-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-890de4a7-08ca-47dc-aefa-70328d2eb1d2-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-890de4a7-08ca-47dc-aefa-70328d2eb1d2-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-890de4a7-08ca-47dc-aefa-70328d2eb1d2-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 卧室 · 房型参考",
+            "caption": "卧室 · 房型参考",
+            "category": "卧室",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-a77c051f-6339-4cb3-9b83-1bd872be87c9-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-a77c051f-6339-4cb3-9b83-1bd872be87c9-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-a77c051f-6339-4cb3-9b83-1bd872be87c9-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-a77c051f-6339-4cb3-9b83-1bd872be87c9-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-e5f03519-6c55-4ea9-802f-0e794280eca0-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-e5f03519-6c55-4ea9-802f-0e794280eca0-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-e5f03519-6c55-4ea9-802f-0e794280eca0-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-e5f03519-6c55-4ea9-802f-0e794280eca0-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 厨房 · 房型参考",
+            "caption": "厨房 · 房型参考",
+            "category": "厨房",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-54d1890c-92da-4fc1-95d2-33f2dc087d55-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-54d1890c-92da-4fc1-95d2-33f2dc087d55-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-54d1890c-92da-4fc1-95d2-33f2dc087d55-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-54d1890c-92da-4fc1-95d2-33f2dc087d55-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 卫生间用品 · 房型参考",
+            "caption": "卫生间用品 · 房型参考",
+            "category": "卫生间用品",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-6e2e5dc2-6953-4d4f-93a9-117d7e975108-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-6e2e5dc2-6953-4d4f-93a9-117d7e975108-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-6e2e5dc2-6953-4d4f-93a9-117d7e975108-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-6e2e5dc2-6953-4d4f-93a9-117d7e975108-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 洗衣 · 房型参考",
+            "caption": "洗衣 · 房型参考",
+            "category": "洗衣",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-da0b7851-5c4b-480f-b04a-78b6a09a602a-960.webp",
+            "width": 960,
+            "height": 643,
+            "mobile": "assets/stays/refresh-copenhagen-attic-da0b7851-5c4b-480f-b04a-78b6a09a602a-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-da0b7851-5c4b-480f-b04a-78b6a09a602a-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-da0b7851-5c4b-480f-b04a-78b6a09a602a-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-f8df5573-2ed0-4fda-8bfa-5717373b2940-960.webp",
+            "width": 960,
+            "height": 642,
+            "mobile": "assets/stays/refresh-copenhagen-attic-f8df5573-2ed0-4fda-8bfa-5717373b2940-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-f8df5573-2ed0-4fda-8bfa-5717373b2940-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-f8df5573-2ed0-4fda-8bfa-5717373b2940-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-a0c6ac2e-3b83-412e-8977-53a996c49371-960.webp",
+            "width": 960,
+            "height": 720,
+            "mobile": "assets/stays/refresh-copenhagen-attic-a0c6ac2e-3b83-412e-8977-53a996c49371-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-a0c6ac2e-3b83-412e-8977-53a996c49371-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-a0c6ac2e-3b83-412e-8977-53a996c49371-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-77043097-e677-4679-a661-5b5dfb596d93-960.webp",
+            "width": 960,
+            "height": 641,
+            "mobile": "assets/stays/refresh-copenhagen-attic-77043097-e677-4679-a661-5b5dfb596d93-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-77043097-e677-4679-a661-5b5dfb596d93-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-77043097-e677-4679-a661-5b5dfb596d93-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-0ce94762-df69-4df1-8f67-f3127993ee07-960.webp",
+            "width": 960,
+            "height": 631,
+            "mobile": "assets/stays/refresh-copenhagen-attic-0ce94762-df69-4df1-8f67-f3127993ee07-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-0ce94762-df69-4df1-8f67-f3127993ee07-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-0ce94762-df69-4df1-8f67-f3127993ee07-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.airbnb.cn/rooms/42560289",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-copenhagen-attic-b9f7aa17-84e5-4cef-a596-e24da0cfb7ca-960.webp",
+            "width": 960,
+            "height": 1280,
+            "mobile": "assets/stays/refresh-copenhagen-attic-b9f7aa17-84e5-4cef-a596-e24da0cfb7ca-640.webp",
+            "medium": "assets/stays/refresh-copenhagen-attic-b9f7aa17-84e5-4cef-a596-e24da0cfb7ca-480.webp",
+            "thumb": "assets/stays/refresh-copenhagen-attic-b9f7aa17-84e5-4cef-a596-e24da0cfb7ca-240.webp"
+          }
+        ],
+        "status": "已预订 · 备选",
+        "notes": [
+          "位于三楼，第二处睡眠区需走室内楼梯。",
+          "当前订单登记3位客人；价格为整笔订单总价。"
+        ],
+        "roomLayout": "独立卧室＋阁楼睡眠区 · 2张双人床",
+        "cancellation": "2027.2.14 15:00前免费取消",
+        "budgetSummary": "市中心三楼阁楼公寓，独立卧室和高架睡眠区共2张双人床，配厨房并可使用共用庭院及露台。",
+        "householdFacilities": {
+          "kitchen": {
+            "status": "有",
+            "detail": "房内独立厨房"
+          },
+          "washer": {
+            "status": "有",
+            "detail": "地下室共用洗衣房，免费"
+          },
+          "dryer": {
+            "status": "有",
+            "detail": "地下室共用洗衣房，免费"
+          },
+          "notes": [],
+          "sources": [
+            {
+              "label": "Airbnb阁楼公寓公开房源",
+              "url": "https://www.airbnb.cn/rooms/42560289"
+            }
+          ],
+          "checked": "2026-11-16",
+          "charging": {
+            "status": "未确认",
+            "detail": "公开房源未列明电车充电设施"
+          }
+        },
+        "address": "Pustervig 8, 1126 København, Denmark",
+        "addressSource": "Airbnb 已预订行程",
+        "addressCheckedAt": "2026-11-11",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
+        "hotelFacilities": [
+          {
+            "name": "公共庭院与露台",
+            "detail": "共用庭院和可看圆塔的屋顶露台"
+          },
+          {
+            "name": "免费洗衣房",
+            "detail": "地下室共用洗衣机与烘干机"
+          },
+          {
+            "name": "寄存行李",
+            "detail": "提供行李寄存"
+          }
+        ],
+        "bookingCheckedAt": "2026-11-16",
+        "bookedGuests": 3,
+        "bookingPlatform": "Airbnb",
+        "maxGuests": 4,
+        "tabLabel": "阁楼公寓 · 3人订单",
+        "optionId": "copenhagen-attic",
+        "roomType": "一卧室阁楼公寓"
       }
     ]
   }
 ]
-
