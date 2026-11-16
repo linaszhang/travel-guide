@@ -3976,15 +3976,16 @@
         "name": "Hótel Jökulsárlón · 冰川湖酒店 · 冰川景观双人间",
         "features": "23㎡冰川景观双人间 · 桑拿与热水池 · 餐厅 · 酒吧 · 健身房",
         "description": "冰河湖附近的Glacier Lagoon Hotel。默认入住23㎡冰川景观双人间，配一张双人床、私人浴室、咖啡机和电热水壶。住客可使用公共热水池与桑拿，酒店另设餐厅、酒吧及健身房。",
-        "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-        "total": 3641,
+        "url": "https://www.trip.com/hotels/detail/?hotelId=119123772&cityId=684257&curr=CNY",
+        "total": 3312.08,
         "roomLayout": "23㎡ · 冰川景观双人间 · 1张双人床",
         "maxGuests": 2,
-        "cancellation": "入住日7天前可免费取消",
+        "cancellation": "2027.2.9 23:59前免费取消",
         "notes": [
           "2月16日入住、2月17日退房，默认冰川景观双人间；订单不含餐。",
           "住客共用热水池与桑拿，官网当前开放07:00–22:00；需穿泳衣，按到场顺序使用。",
-          "2月17日退房后游览冰河湖与钻石沙滩，下午前往REY Stays入住。"
+          "2月17日退房后游览冰河湖与钻石沙滩，下午前往REY Stays入住。",
+          "Trip订单特殊要求：邻近电梯、非角落房间，以酒店实际安排为准。"
         ],
         "photos": [
           {
@@ -4277,16 +4278,16 @@
             "thumb": "assets/stays/booking-jokulsarlon-hotel-656398463-240.webp"
           }
         ],
-        "status": "已预订",
+        "status": "已预订 · Trip",
         "capacitySource": "Booking预订确认页：所订房型",
         "capacityCheckedAt": "2026-11-14",
-        "budgetSummary": "23㎡冰川景观双人间，独立浴室；订单当前登记1位成人，第二位入住需酒店确认。",
+        "budgetSummary": "Trip预订的23㎡冰川景观双人间，1张双人床、独立浴室和咖啡机；2位成人，不含餐食。",
         "capacityLabel": "双人间最多2人",
         "galleryCheckedAt": "2026-11-14",
         "gallerySource": "Booking所订房型相册与公共设施；已剔除其他房型、近似重复及无关风景",
-        "originalTotal": 495,
-        "currency": "EUR",
-        "userNote": "冰川景观双人间；当前订单登记1位成人，第二位入住需酒店确认。",
+        "originalTotal": 3312.08,
+        "currency": "CNY",
+        "userNote": "冰川景观双人间，Trip订单登记2位成人。",
         "address": "Reynivellir, 781 Jökulsárlón, Iceland",
         "checkInTime": "16:00后",
         "checkOutTime": "11:00前",
@@ -4320,7 +4321,7 @@
           ],
           "checked": "2026-11-14"
         },
-        "priceNote": "冰川景观双人间订单€495／¥3,641，当前订单登记1位成人；第二位入住及费用需向酒店确认。",
+        "priceNote": "Trip已付款¥3,312.08，2位成人、1间冰川景观双人间、1晚，含税费及附加费；优惠已扣除，Trip Coins奖励不抵减本次实付。",
         "hotelFacilities": [
           {
             "name": "餐厅",
@@ -4343,13 +4344,20 @@
             "detail": "免费私人停车"
           }
         ],
-        "conversionRate": 7.35556,
-        "bookingCheckedAt": "2026-11-16",
-        "bookedGuests": 1,
-        "bookingPlatform": "Booking",
+        "conversionRate": 1,
+        "bookingCheckedAt": "2026-11-17",
+        "bookedGuests": 2,
+        "bookingPlatform": "Trip",
         "roomType": "双人间 - 冰川景观",
-        "tabLabel": "冰川景观双人间 · 1人订单",
-        "occupancyNote": "房型最多2人，当前订单仅登记1位成人；第二位入住及费用需向酒店确认"
+        "tabLabel": "冰川景观双人间 · Trip",
+        "estimated": false,
+        "paymentStatus": "已付款",
+        "priceBreakdown": {
+          "roomCNY": 3257.2,
+          "taxAndFeesCNY": 366.88,
+          "discountCNY": 312,
+          "paidTotalCNY": 3312.08
+        }
       },
       {
         "name": "Hótel Jökulsárlón · 家庭套房",
