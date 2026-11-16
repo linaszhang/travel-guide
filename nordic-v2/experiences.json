@@ -242,42 +242,6 @@
     "imageSource": "https://xxlofoten.no/en/experiences/fishing-trip-svolvaer/"
   },
   {
-    "id": "vatnajokull-ice-cave",
-    "country": "iceland",
-    "day": 12,
-    "title": "Jökulsárlón 偏远冰洞＋冰川徒步",
-    "location": "冰岛 · Jökulsárlón／Breiðamerkurjökull",
-    "duration": "约6h · 2.17 11:00–约17:00",
-    "price": 2150.7,
-    "intro": "从冰河湖主停车场乘四驱车接近Breiðamerkurjökull冰川，随向导徒步深入冰川，探索当天适合进入的天然蓝冰洞与冰层纹理。冰上及冰洞停留约3–3.5小时，全程含往返交通与装备讲解约6小时。",
-    "meeting": "2027年2月17日10:45前到Jökulsárlón Main Parking（Þjóðvegur, 781, Iceland）集合；坐标64.0480353, -16.1797389。在主停车场寻找带Ice Walkers Tours标志的改装四驱巴士，11:00出发，结束后返回原集合点。",
-    "includes": [
-      "集合点往返冰川的四驱车交通",
-      "英语专业向导、冰川装备与头灯",
-      "冰川徒步与天然冰洞探索；具体洞穴、数量与路线按当天条件安排"
-    ],
-    "notes": [
-      "2位成人订单已确认，活动日期为2027年2月17日；预计11:00–约17:00。",
-      "需具备完成约8公里、含上坡徒步的体力；穿覆盖脚踝、鞋底较硬的登山靴。",
-      "自备午餐、饮水、保暖防水衣物、帽子和手套；餐饮及冬季服装不包含。",
-      "2027年2月16日11:00前取消可获全额退款（当地时间，以订单为准）。",
-      "上午先安排冰河湖和钻石沙滩观景，活动结束后直接回住宿；不再去Hof的Tröll基地。"
-    ],
-    "priceNote": "订单总价¥4,301.40／2位成人，折合¥2,150.70／人。",
-    "url": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/",
-    "operator": "Ice Walkers Tours",
-    "photos": [
-      {
-        "src": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
-        "label": "Ice Walkers Tours · 天然蓝冰洞参考",
-        "source": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
-      }
-    ],
-    "booked": true,
-    "imageCredit": "Ice Walkers Tours 对应 Jökulsárlón 偏远冰洞与冰川徒步项目（GetYourGuide公开产品页）",
-    "imageSource": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
-  },
-  {
     "id": "blue-lagoon",
     "country": "iceland",
     "day": 9,
@@ -320,7 +284,7 @@
     "location": "冰岛 · 维克 Vík",
     "duration": "约3h · 2.17 08:30–11:30",
     "price": 1616.8,
-    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。本次行程已排除，改用Jökulsárlón的Ice Walkers Tours方案。",
+    "intro": "从维克乘超级吉普车接近Katla冰洞，再跟随向导步行探索蓝冰与火山灰纹理。本次行程已排除，不计入预算。",
     "meeting": "2月17日08:15在维克Icewear Magasin后方面海的巴士停车场集合（Austurvegur 20），08:30出发并返回原处。",
     "includes": [
       "维克往返超级吉普车接送",

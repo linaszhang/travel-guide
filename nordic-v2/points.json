@@ -1111,28 +1111,7 @@
     "image": "../nordic/assets/day-12-2.jpg",
     "imageLabel": "Hofskirkja 草皮教堂",
     "imageSource": "https://guidetoiceland.is/book-holiday-trips/11-day-self-drive-tour-circle-of-iceland-budget-friendly",
-    "description": "沿途草皮教堂与冰洞集合区域；本次已订住宿实际在霍芬Höfn周边，2月17日需清晨西行到Hof集合。",
-    "rating": null
-  },
-  {
-    "query": "64.0480353,-16.1797389",
-    "name": "Ice Walkers Tours · 冰川徒步集合点",
-    "days": [
-      12
-    ],
-    "kind": "nature",
-    "coord": [
-      -16.1797389,
-      64.0480353
-    ],
-    "id": "p66",
-    "countryName": "冰岛",
-    "countryId": "iceland",
-    "imageReference": true,
-    "image": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
-    "imageLabel": "Ice Walkers Tours · 天然蓝冰洞参考",
-    "imageSource": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/",
-    "description": "2月17日10:45前在Jökulsárlón主停车场寻找Ice Walkers Tours四驱巴士；11:00–约17:00冰川徒步与偏远冰洞，结束返回同一停车场。",
+    "description": "南岸自驾途中可顺路短停的草皮教堂，位于前往冰河湖的沿线路段。",
     "rating": null
   },
   {
@@ -1147,10 +1126,6 @@
     "id": "p67",
     "countryName": "冰岛",
     "countryId": "iceland",
-    "imageReference": true,
-    "image": "../nordic/assets/day-13-0.jpg",
-    "imageLabel": "瓦特纳冰川 · 蓝冰洞参考",
-    "imageSource": "https://www.gocarrental.is/nature/caves/iceland-ice-caves/",
     "description": "顺路经过 Fjallsárlón 菲亚尔冰川湖，可在前往杰古沙龙途中短停。",
     "rating": null
   },
@@ -1767,7 +1742,7 @@
     "image": "../nordic-v2/assets/stays/rey-stays-1.jpg",
     "imageLabel": "REY Stays - House",
     "imageSource": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-    "description": "2月17–18日入住一晚，冰川活动后前往；2月18日退房后先去Stokksnes再西返。",
+    "description": "2月17–18日入住一晚，游览冰河湖与钻石沙滩后前往；2月18日退房后先去Stokksnes再西返。",
     "rating": null
   },
   {
