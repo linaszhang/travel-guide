@@ -2031,7 +2031,10 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "一卧室公寓",
-        "tabLabel": "一卧室公寓"
+        "tabLabel": "一卧室公寓",
+        "tags": [
+          "中转"
+        ]
       }
     ]
   },
@@ -2198,7 +2201,10 @@
         "bookingCheckedAt": "2026-11-16",
         "bookedGuests": 2,
         "bookingPlatform": "Trip",
-        "tabLabel": "Reykjavik Residence · 一室房"
+        "tabLabel": "Reykjavik Residence · 一室房",
+        "tags": [
+          "中转"
+        ]
       },
       {
         "name": "Apartments Reykjavik",
@@ -2918,7 +2924,10 @@
         "checkInTime": "16:00起",
         "checkOutTime": "11:00前",
         "galleryCheckedAt": "2026-11-16",
-        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
+        "tags": [
+          "中转"
+        ]
       }
     ]
   },
@@ -5328,7 +5337,10 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "双人间或双床间",
-        "tabLabel": "双人间或双床间"
+        "tabLabel": "双人间或双床间",
+        "tags": [
+          "中转"
+        ]
       },
       {
         "name": "Castle Inn Apartments · 市中心公寓",
@@ -5647,7 +5659,10 @@
         "checkInTime": "15:00起",
         "checkOutTime": "03:00–11:00",
         "galleryCheckedAt": "2026-11-16",
-        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
+        "tags": [
+          "中转"
+        ]
       }
     ]
   },
