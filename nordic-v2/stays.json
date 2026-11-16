@@ -3645,32 +3645,32 @@
         "tabLabel": "豪华特大号床一室公寓"
       },
       {
-        "name": "Vík Apartments · 带露台公寓",
+        "name": "Vík Apartments · 两卧室公寓",
         "optionId": "vik-apartments",
-        "tabLabel": "Vík Apartments · 露台公寓",
-        "roomType": "公寓 - 带露台",
-        "features": "70㎡ · 两卧室 · 露台 · 厨房",
-        "description": "维克70㎡带露台两卧室公寓，设厨房、洗碗机和独立浴室；当前订单登记3位成人。",
+        "tabLabel": "Vík Apartments · Agoda两卧室",
+        "roomType": "Apartment Two Bedrooms · 两卧室公寓",
+        "features": "两卧室 · 3张床 · 禁烟 · 免费WiFi",
+        "description": "维克两卧室公寓，1张双人床和2张单人床，禁烟并提供免费WiFi。Agoda订单为2.15–2.16一晚，登记4位成人。",
         "url": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-        "total": 4046,
-        "originalTotal": 550,
-        "currency": "EUR",
-        "conversionRate": 7.356364,
+        "total": 3250.15,
+        "originalTotal": 3250.15,
+        "currency": "CNY",
+        "conversionRate": 1,
         "estimated": false,
-        "status": "已预订 · 备选",
-        "roomLayout": "2卧室 · 1张大号双人床＋2张单人床",
+        "status": "已预订 · Agoda · 备选",
+        "roomLayout": "2卧室 · 1张双人床＋2张单人床",
         "maxGuests": 4,
-        "bookedGuests": 3,
-        "bookingPlatform": "Booking",
-        "bookingCheckedAt": "2026-11-16",
-        "cancellation": "2027.1.31 23:59前免费取消",
+        "bookedGuests": 4,
+        "bookingPlatform": "Agoda",
+        "bookingCheckedAt": "2026-11-17",
+        "cancellation": "2027.1.24 23:59前免费取消",
         "photos": [
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068880-960.webp",
             "width": 960,
             "height": 640,
@@ -3679,11 +3679,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068880-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068896-960.webp",
             "width": 512,
             "height": 768,
@@ -3692,11 +3692,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068896-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068861-960.webp",
             "width": 960,
             "height": 640,
@@ -3705,11 +3705,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068861-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068803-960.webp",
             "width": 960,
             "height": 640,
@@ -3718,11 +3718,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068803-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783855-960.webp",
             "width": 960,
             "height": 720,
@@ -3731,11 +3731,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783855-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783880-960.webp",
             "width": 960,
             "height": 720,
@@ -3744,11 +3744,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783880-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557069054-960.webp",
             "width": 512,
             "height": 768,
@@ -3757,11 +3757,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557069054-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 客厅 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 客厅 · 房型参考",
             "caption": "客厅 · 房型参考",
             "category": "客厅",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068949-960.webp",
             "width": 960,
             "height": 640,
@@ -3770,11 +3770,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068949-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卧室 · 房型参考",
             "caption": "卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783967-960.webp",
             "width": 935,
             "height": 768,
@@ -3783,11 +3783,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783967-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卧室 · 房型参考",
             "caption": "卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783830-960.webp",
             "width": 576,
             "height": 768,
@@ -3796,11 +3796,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783830-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卧室 · 房型参考",
             "caption": "卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783984-960.webp",
             "width": 576,
             "height": 768,
@@ -3809,11 +3809,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783984-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卧室 · 房型参考",
             "caption": "卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068976-960.webp",
             "width": 960,
             "height": 640,
@@ -3822,11 +3822,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068976-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卧室 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卧室 · 房型参考",
             "caption": "卧室 · 房型参考",
             "category": "卧室",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068826-960.webp",
             "width": 960,
             "height": 640,
@@ -3835,11 +3835,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068826-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 厨房 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 厨房 · 房型参考",
             "caption": "厨房 · 房型参考",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783905-960.webp",
             "width": 613,
             "height": 768,
@@ -3848,11 +3848,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783905-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 厨房 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 厨房 · 房型参考",
             "caption": "厨房 · 房型参考",
             "category": "厨房",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557068892-960.webp",
             "width": 960,
             "height": 640,
@@ -3861,11 +3861,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557068892-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卫生间 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卫生间 · 房型参考",
             "caption": "卫生间 · 房型参考",
             "category": "卫生间",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783958-960.webp",
             "width": 576,
             "height": 768,
@@ -3874,11 +3874,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783958-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 卫生间 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 卫生间 · 房型参考",
             "caption": "卫生间 · 房型参考",
             "category": "卫生间",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-557069053-960.webp",
             "width": 960,
             "height": 640,
@@ -3887,11 +3887,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-557069053-240.webp"
           },
           {
-            "label": "公寓 - 带露台 · 洗衣 · 房型参考",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 洗衣 · 房型参考",
             "caption": "洗衣 · 房型参考",
             "category": "洗衣",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "公寓 - 带露台",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-891783944-960.webp",
             "width": 576,
             "height": 768,
@@ -3900,11 +3900,11 @@
             "thumb": "assets/stays/refresh-vik-apartments-891783944-240.webp"
           },
           {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "label": "Apartment Two Bedrooms · 两卧室公寓 - 外观与周边 · 公共区域与外观",
             "caption": "外观与周边 · 公共区域与外观",
             "category": "外观与周边",
             "source": "https://www.booking.com/hotel/is/vik-apartments.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
+            "roomName": "Apartment Two Bedrooms · 两卧室公寓",
             "src": "assets/stays/refresh-vik-apartments-701119323-960.webp",
             "width": 960,
             "height": 563,
@@ -3915,10 +3915,12 @@
         ],
         "address": "Sléttuvegur 4-8, 870 维克, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "维克70㎡带露台两卧室公寓，设厨房、洗碗机和独立浴室；当前订单登记3位成人。",
+        "budgetSummary": "Agoda预订的两卧室公寓，1张双人床＋2张单人床，4位成人，禁烟并含免费WiFi。",
         "notes": [
-          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
-          "取消时限按住宿当地时间计时。"
+          "2.15–2.16，1晚，4位成人；已改为Agoda两卧室公寓订单。",
+          "订单禁烟，包含免费WiFi。",
+          "预计2027.1.23自动扣款，当前尚未付款。",
+          "2027.1.24 23:59前免费取消，按酒店当地时间计时。"
         ],
         "householdFacilities": {
           "kitchen": {
@@ -3948,7 +3950,15 @@
         "checkInTime": "15:00起",
         "checkOutTime": "11:00前",
         "galleryCheckedAt": "2026-11-16",
-        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
+        "paymentStatus": "待扣款",
+        "paymentDate": "2027-01-23",
+        "priceNote": "Agoda订单总价¥3,250.15，1间两卧室公寓、4位成人、1晚，含税费及服务费；尚未扣款，预计2027.1.23自动扣款。",
+        "priceBreakdown": {
+          "roomCNY": 2928.06,
+          "taxAndFeesCNY": 322.09,
+          "totalCNY": 3250.15
+        }
       }
     ]
   },
