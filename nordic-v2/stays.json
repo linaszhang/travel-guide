@@ -3949,157 +3949,6 @@
         "checkOutTime": "11:00前",
         "galleryCheckedAt": "2026-11-16",
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
-      },
-      {
-        "name": "Hótel Jökulsárlón · 三人间",
-        "optionId": "jokulsarlon-triple",
-        "tabLabel": "冰湖酒店 · 三人间",
-        "roomType": "三人间",
-        "features": "三人间 · 独立浴室 · 冰湖附近",
-        "description": "冰湖附近23㎡三人间，独立浴室；日期为2.15–2.16，与维克住宿重叠，非次日双人间订单。",
-        "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-        "total": 3342.22,
-        "originalTotal": 454.37,
-        "currency": "EUR",
-        "conversionRate": 7.355723,
-        "estimated": false,
-        "status": "已预订 · 备选",
-        "roomLayout": "1间客房 · 1张大号双人床或2张单人床＋1张日式床垫",
-        "maxGuests": 3,
-        "bookedGuests": 3,
-        "bookingPlatform": "Booking",
-        "bookingCheckedAt": "2026-11-16",
-        "cancellation": "2027.2.7 23:59前免费取消",
-        "photos": [
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-916819791-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-916819791-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-916819791-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-916819791-240.webp"
-          },
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-903003790-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-903003790-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-903003790-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-903003790-240.webp"
-          },
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645361071-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361071-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645361071-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361071-240.webp"
-          },
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645361069-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361069-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645361069-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361069-240.webp"
-          },
-          {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
-            "caption": "外观与周边 · 公共区域与外观",
-            "category": "外观与周边",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645362625-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362625-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645362625-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362625-240.webp"
-          },
-          {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
-            "caption": "外观与周边 · 公共区域与外观",
-            "category": "外观与周边",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
-            "src": "assets/stays/refresh-jokulsarlon-triple-656396646-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-656396646-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-656396646-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-656396646-240.webp"
-          },
-          {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
-            "caption": "外观与周边 · 公共区域与外观",
-            "category": "外观与周边",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645362341-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362341-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645362341-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362341-240.webp"
-          }
-        ],
-        "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
-        "addressSource": "Booking订单地址",
-        "budgetSummary": "冰湖附近23㎡三人间，独立浴室；日期为2.15–2.16，与维克住宿重叠，非次日双人间订单。",
-        "notes": [
-          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
-          "取消时限按住宿当地时间计时。"
-        ],
-        "householdFacilities": {
-          "kitchen": {
-            "status": "未确认",
-            "detail": "订单未列明，入住前可向住宿确认。"
-          },
-          "washer": {
-            "status": "未确认",
-            "detail": "订单未列明，入住前可向住宿确认。"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "订单未列明，入住前可向住宿确认。"
-          },
-          "charging": {
-            "status": "未确认",
-            "detail": "订单未列明充电设施。"
-          },
-          "sources": [
-            {
-              "label": "Booking公开房源",
-              "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-16"
-        },
-        "location": "Jökulsárlón · 冰河湖附近",
-        "checkInTime": "15:00起",
-        "checkOutTime": "11:00前",
-        "galleryCheckedAt": "2026-11-16",
-        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
       }
     ]
   },
@@ -4693,6 +4542,167 @@
         "checkOutTime": "11:00前",
         "galleryCheckedAt": "2026-11-16",
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
+      },
+      {
+        "name": "Hótel Jökulsárlón · 三人间",
+        "optionId": "jokulsarlon-triple",
+        "tabLabel": "冰湖酒店 · 三人间",
+        "roomType": "三人间",
+        "features": "三人间 · 独立浴室 · 冰湖附近",
+        "description": "冰河湖附近23㎡三人间，配独立浴室、淋浴与咖啡机；已改期至2.16–2.17，当前订单登记3位成人。",
+        "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+        "total": 3519.35,
+        "originalTotal": 478.45,
+        "currency": "EUR",
+        "conversionRate": 7.355732,
+        "estimated": false,
+        "status": "已预订 · 备选",
+        "roomLayout": "1间客房 · 1张大号双人床＋1张日式床垫",
+        "maxGuests": 3,
+        "bookedGuests": 3,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-17",
+        "cancellation": "2027.2.8 23:59前免费取消",
+        "photos": [
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-916819791-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-916819791-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-916819791-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-916819791-240.webp"
+          },
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-903003790-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-903003790-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-903003790-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-903003790-240.webp"
+          },
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645361071-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361071-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645361071-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361071-240.webp"
+          },
+          {
+            "label": "三人间 · 客房 · 房型参考",
+            "caption": "客房 · 房型参考",
+            "category": "客房",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "三人间",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645361069-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361069-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645361069-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361069-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645362625-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362625-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645362625-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362625-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-triple-656396646-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-656396646-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-656396646-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-656396646-240.webp"
+          },
+          {
+            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
+            "caption": "外观与周边 · 公共区域与外观",
+            "category": "外观与周边",
+            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
+            "roomName": "一卧室阁楼公寓",
+            "src": "assets/stays/refresh-jokulsarlon-triple-645362341-960.webp",
+            "width": 960,
+            "height": 640,
+            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362341-640.webp",
+            "medium": "assets/stays/refresh-jokulsarlon-triple-645362341-480.webp",
+            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362341-240.webp"
+          }
+        ],
+        "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
+        "addressSource": "Booking订单地址",
+        "budgetSummary": "冰河湖附近23㎡三人间，配独立浴室；2.16–2.17入住，订单登记3位成人。",
+        "notes": [
+          "已从2.15–2.16改期为2.16–2.17，1晚，3位成人。",
+          "房价不含餐食，包含免费停车与网络。",
+          "取消时限按住宿当地时间计时。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "washer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "dryer": {
+            "status": "未确认",
+            "detail": "订单未列明，入住前可向住宿确认。"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "订单未列明充电设施。"
+          },
+          "sources": [
+            {
+              "label": "Booking公开房源",
+              "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html"
+            }
+          ],
+          "checked": "2026-11-16"
+        },
+        "location": "Jökulsárlón · 冰河湖附近",
+        "checkInTime": "16:00起",
+        "checkOutTime": "11:00前",
+        "galleryCheckedAt": "2026-11-16",
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
+        "priceNote": "3位成人、1晚：房价含税¥3,846.24，扣除Booking支付的¥326.89后，应付€478.45／¥3,519.35。",
+        "priceBreakdown": {
+          "grossTotalCNY": 3846.24,
+          "bookingContributionCNY": 326.89,
+          "netTotalCNY": 3519.35,
+          "grossTotalEUR": 522.89,
+          "bookingContributionEUR": 44.44,
+          "netTotalEUR": 478.45
+        }
       }
     ]
   },
