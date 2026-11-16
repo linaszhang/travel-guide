@@ -4344,23 +4344,23 @@
       {
         "name": "Hótel Jökulsárlón · 家庭套房",
         "optionId": "jokulsarlon-family",
-        "tabLabel": "冰湖酒店 · 家庭套房",
+        "tabLabel": "家庭套房 · Trip",
         "roomType": "家庭套房",
-        "features": "50㎡ · 家庭套房 · 浴缸 · 独立浴室",
-        "description": "冰湖附近50㎡家庭套房，双人床与沙发床，配浴缸、咖啡机及独立浴室；当前订单登记3位成人。",
+        "features": "50㎡ · 家庭套房 · 双人床＋沙发床 · 独立浴室",
+        "description": "冰川湖酒店50㎡家庭套房，1张双人床和1张沙发床，配独立浴室及地标景观。已通过Trip预订2.16–2.17一晚，登记3位成人，不含餐食。",
         "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-        "total": 5666,
-        "originalTotal": 770.23,
-        "currency": "EUR",
-        "conversionRate": 7.356244,
+        "total": 4888.04,
+        "originalTotal": 4888.04,
+        "currency": "CNY",
+        "conversionRate": 1,
         "estimated": false,
-        "status": "已预订 · 备选",
+        "status": "已预订 · Trip · 备选",
         "roomLayout": "1间家庭套房 · 1张双人床＋1张沙发床",
         "maxGuests": 3,
         "bookedGuests": 3,
-        "bookingPlatform": "Booking",
-        "bookingCheckedAt": "2026-11-16",
-        "cancellation": "2027.2.8 23:59前免费取消",
+        "bookingPlatform": "Trip",
+        "bookingCheckedAt": "2026-11-17",
+        "cancellation": "2027.2.9 23:59前免费取消",
         "photos": [
           {
             "label": "家庭套房 · 客厅 · 房型参考",
@@ -4508,10 +4508,12 @@
         ],
         "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "冰湖附近50㎡家庭套房，双人床与沙发床，配浴缸、咖啡机及独立浴室；当前订单登记3位成人。",
+        "budgetSummary": "Trip预订的50㎡家庭套房，双人床＋沙发床、独立浴室及地标景观，3位成人，不含餐食。",
         "notes": [
-          "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
-          "取消时限按住宿当地时间计时。"
+          "2.16–2.17，1晚，3位成人；原Booking家庭套房订单已取消，现使用Trip订单。",
+          "订单特殊要求：邻近电梯，以酒店实际安排为准。",
+          "房价不含餐食。",
+          "免费取消截止为2027.2.9 23:59，按酒店当地时间计时。"
         ],
         "householdFacilities": {
           "kitchen": {
@@ -4538,10 +4540,18 @@
           ],
           "checked": "2026-11-16"
         },
-        "checkInTime": "15:00起",
+        "checkInTime": "16:00后",
         "checkOutTime": "11:00前",
         "galleryCheckedAt": "2026-11-16",
-        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片"
+        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
+        "previousBookingStatus": "Booking订单已取消",
+        "priceNote": "Trip已付款¥4,888.04，3位成人、1间家庭套房、1晚，含税费及附加费；优惠已扣除，Trip Coins奖励不抵减本次实付。",
+        "priceBreakdown": {
+          "roomCNY": 5112.98,
+          "taxAndFeesCNY": 523.06,
+          "discountCNY": 748,
+          "paidTotalCNY": 4888.04
+        }
       },
       {
         "name": "Hótel Jökulsárlón · 三人间",
