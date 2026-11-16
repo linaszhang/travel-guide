@@ -2201,10 +2201,13 @@
         "bookingCheckedAt": "2026-11-16",
         "bookedGuests": 2,
         "bookingPlatform": "Trip",
-        "tabLabel": "Reykjavik Residence · 一室房",
+        "tabLabel": "Reykjavik Residence Hotel · 一室房",
         "tags": [
           "中转"
-        ]
+        ],
+        "hotelKey": "reykjavik-residence",
+        "hotelName": "Reykjavik Residence Hotel",
+        "tabRoomType": "一室房"
       },
       {
         "name": "Apartments Reykjavik",
@@ -2376,7 +2379,7 @@
       {
         "name": "Hlemmur Suites · 豪华两卧室公寓",
         "optionId": "reykjavik-hlemmur",
-        "tabLabel": "Hlemmur · 两卧室公寓",
+        "tabLabel": "Hlemmur Suites · 豪华两卧室公寓",
         "roomType": "豪华两卧室公寓",
         "features": "65㎡ · 两卧室 · 厨房 · 洗烘机",
         "description": "雷克雅未克65㎡两卧室公寓，独立厨房与浴室，配洗衣机、烘干机及洗碗机。",
@@ -2927,7 +2930,10 @@
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
         "tags": [
           "中转"
-        ]
+        ],
+        "hotelKey": "hlemmur",
+        "hotelName": "Hlemmur Suites",
+        "tabRoomType": "豪华两卧室公寓"
       }
     ]
   },
@@ -3651,12 +3657,15 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "豪华特大号床一室公寓",
-        "tabLabel": "豪华特大号床一室公寓"
+        "tabLabel": "Black Beach Suites · 豪华特大床一室公寓",
+        "hotelKey": "black-beach-suites",
+        "hotelName": "Black Beach Suites",
+        "tabRoomType": "豪华特大床一室公寓"
       },
       {
         "name": "Vík Apartments · 两卧室公寓",
         "optionId": "vik-apartments",
-        "tabLabel": "Vík Apartments · Agoda两卧室",
+        "tabLabel": "Vík Apartments · 两卧室公寓",
         "roomType": "Apartment Two Bedrooms · 两卧室公寓",
         "features": "两卧室 · 3张床 · 禁烟 · 免费WiFi",
         "description": "维克两卧室公寓，1张双人床和2张单人床，禁烟并提供免费WiFi。Agoda订单为2.15–2.16一晚，登记4位成人。",
@@ -3967,7 +3976,10 @@
           "roomCNY": 2928.06,
           "taxAndFeesCNY": 322.09,
           "totalCNY": 3250.15
-        }
+        },
+        "hotelKey": "vik-apartments",
+        "hotelName": "Vík Apartments",
+        "tabRoomType": "两卧室公寓"
       }
     ]
   },
@@ -4358,7 +4370,7 @@
         "bookedGuests": 2,
         "bookingPlatform": "Trip",
         "roomType": "双人间 - 冰川景观",
-        "tabLabel": "冰川景观双人间 · Trip",
+        "tabLabel": "Hótel Jökulsárlón · 冰川景观双人间",
         "estimated": false,
         "paymentStatus": "已付款",
         "priceBreakdown": {
@@ -4366,12 +4378,15 @@
           "taxAndFeesCNY": 366.88,
           "discountCNY": 312,
           "paidTotalCNY": 3312.08
-        }
+        },
+        "hotelKey": "jokulsarlon",
+        "hotelName": "Hótel Jökulsárlón",
+        "tabRoomType": "冰川景观双人间"
       },
       {
         "name": "Hótel Jökulsárlón · 家庭套房",
         "optionId": "jokulsarlon-family",
-        "tabLabel": "家庭套房 · Trip",
+        "tabLabel": "Hótel Jökulsárlón · 家庭套房",
         "roomType": "家庭套房",
         "features": "50㎡ · 家庭套房 · 双人床＋沙发床 · 独立浴室",
         "description": "冰川湖酒店50㎡家庭套房，1张双人床和1张沙发床，配独立浴室及地标景观。已通过Trip预订2.16–2.17一晚，登记3位成人，不含餐食。",
@@ -4578,12 +4593,15 @@
           "taxAndFeesCNY": 523.06,
           "discountCNY": 748,
           "paidTotalCNY": 4888.04
-        }
+        },
+        "hotelKey": "jokulsarlon",
+        "hotelName": "Hótel Jökulsárlón",
+        "tabRoomType": "家庭套房"
       },
       {
         "name": "Hótel Jökulsárlón · 三人间",
         "optionId": "jokulsarlon-triple",
-        "tabLabel": "冰湖酒店 · 三人间",
+        "tabLabel": "Hótel Jökulsárlón · 三人间",
         "roomType": "三人间",
         "features": "三人间 · 独立浴室 · 冰湖附近",
         "description": "冰河湖附近23㎡三人间，配独立浴室、淋浴与咖啡机；已改期至2.16–2.17，当前订单登记3位成人。",
@@ -4739,7 +4757,10 @@
           "grossTotalEUR": 522.89,
           "bookingContributionEUR": 44.44,
           "netTotalEUR": 478.45
-        }
+        },
+        "hotelKey": "jokulsarlon",
+        "hotelName": "Hótel Jökulsárlón",
+        "tabRoomType": "三人间"
       }
     ]
   },
@@ -5337,15 +5358,18 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "双人间或双床间",
-        "tabLabel": "双人间或双床间",
+        "tabLabel": "Hotel Berg · 双人间／双床间",
         "tags": [
           "中转"
-        ]
+        ],
+        "hotelKey": "hotel-berg",
+        "hotelName": "Hotel Berg",
+        "tabRoomType": "双人间／双床间"
       },
       {
         "name": "Castle Inn Apartments · 市中心公寓",
         "optionId": "kef-castle-inn",
-        "tabLabel": "Castle Inn · 两卧室公寓",
+        "tabLabel": "Castle Inn Apartments · 两卧室公寓",
         "roomType": "公寓",
         "features": "72㎡ · 两卧室 · 厨房 · 露台",
         "description": "凯夫拉维克市中心72㎡两卧室公寓，配厨房、露台、洗碗机和独立浴室；当前订单登记3位成人。",
@@ -5662,7 +5686,10 @@
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
         "tags": [
           "中转"
-        ]
+        ],
+        "hotelKey": "castle-inn",
+        "hotelName": "Castle Inn Apartments",
+        "tabRoomType": "两卧室公寓"
       }
     ]
   },
@@ -5922,7 +5949,10 @@
         "bookedGuests": 2,
         "bookingPlatform": "Airbnb",
         "maxGuests": 4,
-        "tabLabel": "一卧室公寓 · 2人订单"
+        "tabLabel": "Aperon · 一卧室公寓",
+        "hotelKey": "aperon",
+        "hotelName": "Aperon",
+        "tabRoomType": "一卧室公寓"
       },
       {
         "name": "Aperon · One-Bedroom Attic Apartment for 4",
@@ -6223,9 +6253,12 @@
         "bookedGuests": 3,
         "bookingPlatform": "Airbnb",
         "maxGuests": 4,
-        "tabLabel": "阁楼公寓 · 3人订单",
+        "tabLabel": "Aperon · 一卧室阁楼公寓",
         "optionId": "copenhagen-attic",
-        "roomType": "一卧室阁楼公寓"
+        "roomType": "一卧室阁楼公寓",
+        "hotelKey": "aperon",
+        "hotelName": "Aperon",
+        "tabRoomType": "一卧室阁楼公寓"
       }
     ]
   }
