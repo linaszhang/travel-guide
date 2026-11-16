@@ -428,5 +428,40 @@
       }
     ],
     "excluded": true
+  },
+  {
+    "id": "vatnajokull-ice-cave",
+    "country": "iceland",
+    "day": 12,
+    "title": "Jökulsárlón 蓝冰洞＋冰川徒步",
+    "location": "冰岛 · Jökulsárlón／Breiðamerkurjökull",
+    "duration": "约6h",
+    "price": 2150.7,
+    "intro": "原方案为从冰河湖主停车场乘四驱车接近Breiðamerkurjökull冰川，跟随向导徒步探索天然蓝冰洞与冰层纹理。现已从本次行程排除，不计入预算。",
+    "meeting": "原集合点为Jökulsárlón冰河湖主停车场，寻找Ice Walkers Tours运营方车辆；本次行程不安排集合与出发。",
+    "includes": [
+      "集合点往返冰川的四驱车交通",
+      "英语专业向导、冰川装备与头灯",
+      "冰川徒步与天然冰洞探索；具体洞穴、数量与路线按当天条件安排"
+    ],
+    "notes": [
+      "已从2月17日行程移除，仅保留项目详情供参考。",
+      "原方案包括向导、四驱接送、冰川装备和头灯；餐饮及冬季服装不包含。",
+      "路线、洞穴与时长由运营方根据当天条件安排。"
+    ],
+    "priceNote": "原项目参考总价¥4,301.40／2位成人，折合¥2,150.70／人；现已排除，不计入总预算。",
+    "url": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/",
+    "operator": "Ice Walkers Tours",
+    "photos": [
+      {
+        "src": "../nordic-v2/assets/experiences/ice-walkers-cave.webp",
+        "label": "Ice Walkers Tours · 天然蓝冰洞参考",
+        "source": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/"
+      }
+    ],
+    "booked": true,
+    "imageCredit": "Ice Walkers Tours 对应 Jökulsárlón 偏远冰洞与冰川徒步项目（GetYourGuide公开产品页）",
+    "imageSource": "https://www.getyourguide.com/north-iceland-l32553/jokulsarlon-glacier-hike-to-a-remote-ice-cave-t552485/",
+    "excluded": true
   }
 ]
