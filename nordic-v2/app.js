@@ -177,7 +177,7 @@ async function loadItineraryJSON(url){
  return data;
 }
 let lodgingRequest=null,experienceRequest=null,routeRequest=0;
-function ensureLodgings(){return lodgingRequest||(lodgingRequest=loadItineraryJSON('../nordic-v2/stays.json?v=34').then(hs=>{lodgings=hs.filter(s=>!s.backup);backupLodgings=hs.filter(s=>s.backup);}).catch(error=>{lodgingRequest=null;throw error;}));}
+function ensureLodgings(){return lodgingRequest||(lodgingRequest=loadItineraryJSON('../nordic-v2/stays.json?v=35').then(hs=>{lodgings=hs.filter(s=>!s.backup);backupLodgings=hs.filter(s=>s.backup);}).catch(error=>{lodgingRequest=null;throw error;}));}
 function ensureExperiences(){return experienceRequest||(experienceRequest=loadItineraryJSON('../nordic-v2/experiences.json?v=20').then(xs=>{experiences=xs;}).catch(error=>{experienceRequest=null;throw error;}));}
 function loadingFailure(){if(!$('#main').querySelector('.loading'))return;$('#main').innerHTML='<div class="loading"><h1>行程暂时无法加载</h1><p>请检查网络后重试。</p><button onclick="countries.length?route():location.reload()">重新加载</button></div>';}
 function initializeItinerary(payload){flightMonitorData=payload['flight-monitor']||null;lodgings=payload.stays.filter(s=>!s.backup);backupLodgings=payload.stays.filter(s=>s.backup);experiences=payload.experiences;countries=payload.data;days=countries.flatMap(c=>c.days);points=payload.points;attractionData=payload.attractions||null;diningData=payload.dining||null;buildPlaceLinks();route();}
@@ -185,7 +185,7 @@ function initializeItinerary(payload){flightMonitorData=payload['flight-monitor'
 Promise.resolve().then(async()=>{
  const inline=document.getElementById('itinerary-bootstrap');
  if(inline){const payload=JSON.parse(inline.textContent);inline.remove();initializeItinerary(payload);return;}
- const [data,points,stays,experiences]=await Promise.all([loadItineraryJSON('../nordic-v2/data.json?v=49'),loadItineraryJSON('../nordic-v2/points.json?v=27'),loadItineraryJSON('../nordic-v2/stays.json?v=34'),loadItineraryJSON('../nordic-v2/experiences.json?v=20')]);
+ const [data,points,stays,experiences]=await Promise.all([loadItineraryJSON('../nordic-v2/data.json?v=50'),loadItineraryJSON('../nordic-v2/points.json?v=27'),loadItineraryJSON('../nordic-v2/stays.json?v=35'),loadItineraryJSON('../nordic-v2/experiences.json?v=20')]);
  initializeItinerary({data,points,stays,experiences});
 }).catch(loadingFailure);
 

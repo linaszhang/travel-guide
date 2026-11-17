@@ -208,7 +208,7 @@
         "features": "2卧室 · 私人桑拿 · 峡湾户外火塘 · 秋千 · 电车充电",
         "description": "两卧室整租公寓，含厨房、洗衣机、私人浴室与桑拿；文档另备注有秋千。免费私人停车。实际为特罗姆瑟周边峡湾住宿，并非市中心步行范围。 道路对面的峡湾边设户外火塘；房源内可为电车充电，房东标价80 NOK／次。",
         "url": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
-        "total": 5513,
+        "total": 5460,
         "photos": [
           {
             "src": "assets/stays/tromso-fjord-gallery-1-960.webp",
@@ -616,11 +616,11 @@
         "status": "已预订",
         "notes": [
           "2月7日入住、2月9日退房，2位成人、2晚。",
-          "订单总额 NOK 7,900，含清洁费；Booking当前折算约¥5,513，汇率会影响人民币结算。",
+          "订单总额 NOK 7,900，含清洁费；Booking当前折算约¥5,460，汇率会影响人民币结算。",
           "房源页面显示距机场约30公里、缆车约25公里；市区活动后需自驾回住处。",
           "峡湾生火设施为道路对面的户外火塘，配座椅；并非公寓内壁炉。",
           "房东标注房源内提供电车充电，80 NOK／次；接口、功率和使用安排请入住前确认。",
-          "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥5,513。"
+          "最新有效订单：NOK 7900；人民币预算约¥5460。"
         ],
         "roomLayout": "2卧室 · 2张双人床",
         "cancellation": "2026.12.8 23:59前免费取消",
@@ -690,7 +690,10 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "两卧室公寓",
-        "tabLabel": "两卧室公寓"
+        "tabLabel": "两卧室公寓",
+        "originalTotal": 7900,
+        "currency": "NOK",
+        "priceNote": "按最新有效订单更新；人民币为参考折算，最终以订单原币结算。"
       }
     ]
   },
@@ -878,7 +881,7 @@
         "features": "35㎡一卧室公寓 · 1张双人床 · 私人厨房 · 海景露台 · 含早餐",
         "description": "Ballstad渔港旁的35㎡整租一卧室公寓，设一张双人床、客厅、私人厨房和浴室，可看海景与山景，带露台及户外用餐区。2月11–13日默认连住两晚，订单含早餐；住宿设餐厅、酒吧、公共桑拿、热水浴缸及电车充电设施。",
         "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-        "total": 3629,
+        "total": 3594,
         "originalTotal": 5200,
         "currency": "NOK",
         "status": "已预订",
@@ -888,12 +891,12 @@
         "notes": [
           "2027年2月11日入住、2月13日退房；2位成人、1套一卧室公寓、2晚，含早餐。",
           "入住15:00–21:00，退房08:00–11:00；至少提前一天告知预计抵达时间，首日晚抵达须提前与住宿确认。",
-          "订单总额NOK 5,200，已付清；含12%增值税及每次入住NOK 400清洁费。Booking参考折合约¥3,629，人民币最终以支付账单为准。",
+          "订单总额NOK 5,200，已付清；含12%增值税及每次入住NOK 400清洁费。Booking参考折合约¥3,594，人民币最终以支付账单为准。",
           "2027年2月3日23:59前可免费取消，2月4日00:00起取消收取全额；均为住宿当地时间。",
           "地址Moloveien 41, 8373 Ballstad，使用住宿免费私人停车位。",
           "所订35㎡一卧室公寓设私人厨房、炉灶、烤箱、冰箱、洗碗机、咖啡机及厨具，配海景露台。所订房型未列洗衣机或烘干机。",
           "公共桑拿、热水浴缸按酒店安排及收费政策使用，不是所订公寓的私人桑拿或私人泡池。",
-          "当前默认连住本公寓；同酒店海景设计套房、Lofoten Paradise Cabins、Ytterviks Rorbu和Lofoten Rorbuer均保留为备选，不计入主行程住宿预算。"
+          "最新有效订单：NOK 5200；人民币预算约¥3594。"
         ],
         "userNote": "2.11–2.13连住一卧室公寓两晚，含早餐。",
         "budgetSummary": "带厨房、洗碗机和海景露台，含双人早餐。",
@@ -1103,9 +1106,9 @@
           }
         ],
         "estimated": true,
-        "conversionRate": 0.6978846153846154,
+        "conversionRate": 0.6911538461538461,
         "roomSource": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701",
-        "priceNote": "2位成人、2晚，含早餐、增值税及NOK 400清洁费；已付NOK 5,200，人民币为Booking参考折算。",
+        "priceNote": "按最新有效订单更新；人民币为参考折算，最终以订单原币结算。",
         "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
@@ -1130,7 +1133,7 @@
         "features": "市中心小公寓 · 厨房 · 适合中转",
         "description": "特罗姆瑟市中心的一卧室小公寓，适合罗弗敦返程后短住一晚，次晨自驾去机场还车。",
         "url": "https://www.booking.com/hotel/no/super-central-studio-apartment.zh-cn.html",
-        "total": 1674,
+        "total": 1658,
         "originalTotal": 2399,
         "currency": "NOK",
         "photos": [
@@ -1224,9 +1227,9 @@
         "cancellation": "2027.2.11 23:59前免费取消",
         "notes": [
           "2月13日15:00后入住，2月14日11:00前退房；2位成人1晚。",
-          "订单应付NOK 2,399，Booking当前折算约¥1,674。",
+          "订单应付NOK 2,399，Booking当前折算约¥1,658。",
           "次晨07:50起飞，提前确认清晨还车和机场接驳，目标约05:30抵达航站楼。",
-          "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥1,674。"
+          "最新有效订单：NOK 2399；人民币预算约¥1658。"
         ],
         "userNote": "市区小房间，中转随便住住",
         "budgetSummary": "带厨房，适合中转，简单住住即可。",
@@ -1276,7 +1279,8 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "一卧室公寓",
-        "tabLabel": "一卧室公寓"
+        "tabLabel": "一卧室公寓",
+        "priceNote": "按最新有效订单更新；人民币为参考折算，最终以订单原币结算。"
       }
     ]
   },
@@ -2025,10 +2029,10 @@
         "features": "豪华特大床一室公寓 · 大窗景观 · 厨房 · 露台 · 电车充电",
         "description": "已订豪华特大号床一室公寓，带私人浴室、厨房与露台；含一辆车的停车位。位于维克镇外黑沙滩一侧，适合次晨去Reynisfjara。 住宿提供电车充电设施。",
         "url": "https://www.booking.com/hotel/is/black-beach-suites.zh-cn.html",
-        "total": 2473,
+        "total": 2467.66,
         "originalTotal": 336.25,
         "currency": "EUR",
-        "conversionRate": 7.35465,
+        "conversionRate": 7.338765799256505,
         "estimated": true,
         "photos": [
           {
@@ -2130,7 +2134,7 @@
           "优惠后应付€336.25；不是优惠前€369。人民币为Booking核对时的折算参考值，最终以扣款为准。",
           "当晚在维克补给后再回公寓，次晨直接前往黑沙滩。",
           "住宿设施列有电车充电站，使用位置、收费和接口需向前台确认。",
-          "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥2,473。"
+          "最新有效订单：EUR 336.25；人民币预算约¥2467.66。"
         ],
         "roomLayout": "开放式一室 · 1张特大床＋1张沙发床",
         "cancellation": "入住前7天可免费取消",
@@ -2200,7 +2204,8 @@
         "hotelName": "Black Beach Suites",
         "tabRoomType": "豪华特大床一室公寓",
         "bedrooms": 0,
-        "isStudio": true
+        "isStudio": true,
+        "priceNote": "按最新有效订单更新；人民币为参考折算，最终以订单原币结算。"
       },
       {
         "name": "Vík Apartments · 两卧室公寓",
@@ -3438,7 +3443,7 @@
         "features": "18㎡双人／双床间 · 屋顶热水池 · 公共休息区壁炉 · 免费停车",
         "description": "凯夫拉维克小港口旁的四星精品酒店，地址Bakkavegur 17。所订标准双人／双床间约18㎡，配私人浴室、冰箱及咖啡机，不含餐；住客可免费使用屋顶共用热水池，公共休息区设壁炉，酒店提供免费停车及前往KEF机场的免费送机服务。",
         "url": "https://www.booking.com/hotel/is/berg.zh-cn.html",
-        "total": 1660,
+        "total": 1655.99,
         "originalTotal": 225.65,
         "currency": "EUR",
         "photos": [
@@ -3660,11 +3665,11 @@
           "住客免费使用屋顶共用热水池，可看港口；公共休息区设壁炉。客房无独立厨房。",
           "酒店提供前往KEF机场的免费送机，需在入住时登记；当前行程仍按自驾到Zero Car还车点，再前往航站楼安排。",
           "次晨07:30起飞；约03:40从酒店出发、04:00还车，预留接驳时间，目标05:00到航站楼。酒店至还车点地图参考约5.6公里、7分钟，冬季预留10–15分钟。",
-          "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥1,660。"
+          "最新有效订单：EUR 225.65；人民币预算约¥1655.99。"
         ],
         "userNote": "机场附近的公寓，楼下有超市和街区，屋顶有热水池",
         "budgetSummary": "屋顶共用热水池、公共壁炉休息区及免费停车，不含餐。",
-        "conversionRate": 7.35653,
+        "conversionRate": 7.338754708619543,
         "estimated": true,
         "householdFacilities": {
           "kitchen": {
@@ -3743,7 +3748,8 @@
         "hotelName": "Hotel Berg",
         "tabRoomType": "双人间／双床间",
         "bedrooms": 1,
-        "isStudio": false
+        "isStudio": false,
+        "priceNote": "按最新有效订单更新；人民币为参考折算，最终以订单原币结算。"
       },
       {
         "name": "Castle Inn Apartments · 市中心公寓",
