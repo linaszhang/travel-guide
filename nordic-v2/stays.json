@@ -145,7 +145,7 @@
         "roomLayout": "1卧室 · 1张床",
         "cancellation": "2027.2.5 15:00前免费取消",
         "userNote": "中央车站附近的最高分",
-        "budgetSummary": "中央车站步行约4分钟的一卧室公寓，配洗烘机，是个人比较中评分最高的房源。",
+        "budgetSummary": "中央车站步行约4分钟，配洗烘机，是个人比较中评分最高的房源。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
@@ -625,7 +625,7 @@
         "roomLayout": "2卧室 · 2张双人床",
         "cancellation": "2026.12.8 23:59前免费取消",
         "userNote": "桑拿房、秋千",
-        "budgetSummary": "两卧室峡湾住宿，带私人桑拿、户外火塘和秋千；可电车充电（80 NOK／次）。",
+        "budgetSummary": "带私人桑拿、户外火塘和秋千；可电车充电（80 NOK／次）。",
         "facilitySources": [
           {
             "url": "https://www.booking.com/hotel/no/the-ramfjord-experience-snowshoes-and-ice-fishing-included.zh-cn.html",
@@ -806,7 +806,7 @@
         "roomLayout": "2卧室 · 3张床",
         "cancellation": "2027.2.8 15:00前免费取消",
         "userNote": "装修不错、门口能生火",
-        "budgetSummary": "Botnhamn海边两卧室整屋，装修还ok，可使用海边船屋及门口户外火塘，免费停车。",
+        "budgetSummary": "海边整屋，装修不错，可使用船屋及门口户外火塘，免费停车。",
         "facilitySources": [
           {
             "url": "https://www.airbnb.cn/rooms/1197235632451861936",
@@ -1267,7 +1267,7 @@
           "当前默认连住本公寓；同酒店海景设计套房、Lofoten Paradise Cabins、Ytterviks Rorbu和Lofoten Rorbuer均保留为备选，不计入主行程住宿预算。"
         ],
         "userNote": "2.11–2.13连住一卧室公寓两晚，含早餐。",
-        "budgetSummary": "35㎡一卧室公寓，带厨房、洗碗机、海景露台，含2人早餐；连住两晚，订单NOK 5,200，约¥3,629。",
+        "budgetSummary": "带厨房、洗碗机和海景露台，含双人早餐。",
         "address": "Moloveien 41, 8373 Ballstad, Norway",
         "checkInTime": "15:00–21:00",
         "checkOutTime": "08:00–11:00",
@@ -1984,7 +1984,7 @@
           "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥1,674。"
         ],
         "userNote": "市区小房间，中转随便住住",
-        "budgetSummary": "市中心带厨房的小公寓，作为一晚中转，简单住住即可。",
+        "budgetSummary": "带厨房，适合中转，简单住住即可。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
@@ -2055,7 +2055,7 @@
         "currency": "CNY",
         "estimated": false,
         "status": "已预订 · Trip",
-        "roomLayout": "26㎡（Trip订单） · 2张单人床或1张特大床 · 2位成人",
+        "roomLayout": "26㎡ · 2张单人床或1张特大床",
         "cancellation": "2027.2.12 23:59前免费取消（酒店当地时间）",
         "photos": [
           {
@@ -2119,7 +2119,7 @@
             "source": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html#RD27118801"
           }
         ],
-        "budgetSummary": "市中心一室房，配私人小厨房；2人1晚，不含早餐，Trip实付¥1,686.48。",
+        "budgetSummary": "配私人小厨房，位于市中心步行街，不含早餐。",
         "checkInTime": "15:00后",
         "checkOutTime": "11:00前",
         "address": "Vatnsstígur 2, 101 Reykjavík, Iceland",
@@ -2386,7 +2386,7 @@
         "conversionRate": 7.356412,
         "estimated": false,
         "status": "已预订 · 备选",
-        "roomLayout": "2卧室 · 1张双人床＋1张单人床",
+        "roomLayout": "65㎡ · 2卧室 · 1张双人床＋1张单人床",
         "maxGuests": 3,
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
@@ -2890,7 +2890,7 @@
         ],
         "address": "Laugavegur, 105 雷克雅未克, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "雷克雅未克65㎡两卧室公寓，独立厨房与浴室，配洗衣机、烘干机及洗碗机。",
+        "budgetSummary": "独立厨房与浴室，配洗衣机、烘干机及洗碗机。",
         "notes": [
           "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
           "取消时限按住宿当地时间计时。"
@@ -3591,7 +3591,7 @@
         ],
         "roomLayout": "开放式一室 · 1张特大床＋1张沙发床",
         "cancellation": "入住前7天可免费取消",
-        "budgetSummary": "带厨房、露台和大窗景观的豪华特大床一室公寓。 住宿可电车充电。",
+        "budgetSummary": "带厨房、露台和大窗景观，可电车充电。",
         "facilitySources": [
           {
             "url": "https://guide.michelin.com/ie/en/hotels-stays/vik/black-beach-suites-16445",
@@ -3930,7 +3930,7 @@
         ],
         "address": "Sléttuvegur 4-8, 870 维克, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "Agoda预订的两卧室公寓，1张双人床＋2张单人床，4位成人，禁烟并含免费WiFi。",
+        "budgetSummary": "配独立厨房与浴室，禁烟并含免费WiFi。",
         "notes": [
           "2.15–2.16，1晚，4位成人；已改为Agoda两卧室公寓订单。",
           "订单禁烟，包含免费WiFi。",
@@ -3998,7 +3998,7 @@
         "description": "冰河湖附近的Glacier Lagoon Hotel。默认入住23㎡冰川景观双人间，配一张双人床、私人浴室、咖啡机和电热水壶。住客可使用公共热水池与桑拿，酒店另设餐厅、酒吧及健身房。",
         "url": "https://www.trip.com/hotels/detail/?hotelId=119123772&cityId=684257&curr=CNY",
         "total": 3312.08,
-        "roomLayout": "23㎡ · 冰川景观双人间 · 1张双人床",
+        "roomLayout": "23㎡ · 1张双人床",
         "maxGuests": 2,
         "cancellation": "2027.2.9 23:59前免费取消",
         "notes": [
@@ -4301,8 +4301,8 @@
         "status": "已预订 · Trip",
         "capacitySource": "Booking预订确认页：所订房型",
         "capacityCheckedAt": "2026-11-14",
-        "budgetSummary": "Trip预订的23㎡冰川景观双人间，1张双人床、独立浴室和咖啡机；2位成人，不含餐食。",
-        "capacityLabel": "双人间最多2人",
+        "budgetSummary": "独立浴室和咖啡机，不含餐食。",
+        "capacityLabel": "最多入住2人",
         "galleryCheckedAt": "2026-11-14",
         "gallerySource": "Booking所订房型相册与公共设施；已剔除其他房型、近似重复及无关风景",
         "originalTotal": 3312.08,
@@ -4398,7 +4398,7 @@
         "conversionRate": 1,
         "estimated": false,
         "status": "已预订 · Trip · 备选",
-        "roomLayout": "1间家庭套房 · 1张双人床＋1张沙发床",
+        "roomLayout": "50㎡ · 1张双人床＋1张沙发床",
         "maxGuests": 3,
         "bookedGuests": 3,
         "bookingPlatform": "Trip",
@@ -4551,7 +4551,7 @@
         ],
         "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "Trip预订的50㎡家庭套房，双人床＋沙发床、独立浴室及地标景观，3位成人，不含餐食。",
+        "budgetSummary": "独立浴室及地标景观，不含餐食。",
         "notes": [
           "2.16–2.17，1晚，3位成人；原Booking家庭套房订单已取消，现使用Trip订单。",
           "订单特殊要求：邻近电梯，以酒店实际安排为准。",
@@ -4615,7 +4615,7 @@
         "conversionRate": 7.355732,
         "estimated": false,
         "status": "已预订 · 备选",
-        "roomLayout": "1间客房 · 1张大号双人床＋1张日式床垫",
+        "roomLayout": "23㎡ · 1张大号双人床＋1张日式床垫",
         "maxGuests": 3,
         "bookedGuests": 3,
         "bookingPlatform": "Booking",
@@ -4716,7 +4716,7 @@
         ],
         "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "冰河湖附近23㎡三人间，配独立浴室；2.16–2.17入住，订单登记3位成人。",
+        "budgetSummary": "配独立浴室，不含餐食。",
         "notes": [
           "已从2.15–2.16改期为2.16–2.17，1晚，3位成人。",
           "房价不含餐食，包含免费停车与网络。",
@@ -4985,7 +4985,7 @@
         "roomLayout": "2卧室 · 1张双人床＋2张单人床＋1张沙发床",
         "cancellation": "2027.2.8 23:59前免费取消",
         "userNote": "这个小镇都一般，但是这个窗景还不错",
-        "budgetSummary": "带厨房、露台和免费停车的两卧室整租公寓，窗景不错；计划仅留2.17–2.18，改期后待核价。",
+        "budgetSummary": "带厨房、露台和免费停车，窗景不错；单晚价格待改期核实。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
@@ -5288,7 +5288,7 @@
           "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥1,660。"
         ],
         "userNote": "机场附近的公寓，楼下有超市和街区，屋顶有热水池",
-        "budgetSummary": "凯夫拉维克港口旁的18㎡双人／双床间，带屋顶共用热水池、公共壁炉休息区及免费停车，不含餐。",
+        "budgetSummary": "屋顶共用热水池、公共壁炉休息区及免费停车，不含餐。",
         "conversionRate": 7.35653,
         "estimated": true,
         "householdFacilities": {
@@ -5384,7 +5384,7 @@
         "conversionRate": 7.357078,
         "estimated": false,
         "status": "已预订 · 备选",
-        "roomLayout": "2卧室 · 1张大号双人床＋3张单人床＋1张沙发床",
+        "roomLayout": "72㎡ · 2卧室 · 1张大号双人床＋3张单人床＋1张沙发床",
         "maxGuests": 5,
         "bookedGuests": 3,
         "bookingPlatform": "Booking",
@@ -5654,7 +5654,7 @@
         ],
         "address": "39 Hafnargata, 230 凯夫拉维克, 冰岛",
         "addressSource": "Booking订单地址",
-        "budgetSummary": "凯夫拉维克市中心72㎡两卧室公寓，配厨房、露台、洗碗机和独立浴室；当前订单登记3位成人。",
+        "budgetSummary": "配厨房、露台、洗碗机和独立浴室。",
         "notes": [
           "预订价格按订单登记人数计算；额外入住是否收费以住宿确认为准。",
           "取消时限按住宿当地时间计时。"
@@ -5902,7 +5902,7 @@
         "roomLayout": "1卧室 · 1张双人床＋1张沙发床",
         "cancellation": "2027.2.14 15:00前免费取消",
         "userNote": "市中心一居室，有户外露台，距离购物街超级近",
-        "budgetSummary": "市中心步行街附近的一卧室公寓，共用庭院与露台可看圆塔，逛街方便。",
+        "budgetSummary": "共用庭院与露台可看圆塔，购物街就在附近。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
@@ -6208,7 +6208,7 @@
         ],
         "roomLayout": "独立卧室＋阁楼睡眠区 · 2张双人床",
         "cancellation": "2027.2.14 15:00前免费取消",
-        "budgetSummary": "市中心三楼阁楼公寓，独立卧室和高架睡眠区共2张双人床，配厨房并可使用共用庭院及露台。",
+        "budgetSummary": "位于三楼，配厨房，可使用共用庭院及露台。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
