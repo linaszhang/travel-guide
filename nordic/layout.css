@@ -87,7 +87,6 @@
 .stay-budget-main .stay-budget-tag{display:inline-block;margin-left:8px;padding:1px 7px;border-radius:5px;background:#e7ece6;color:#526859;font-size:11px;font-weight:500;line-height:1.7;vertical-align:middle;white-space:nowrap}
 
 .budget-scenarios{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 24px}
-.budget-scenarios>h2{grid-column:1/-1;margin:0;font-size:14px;font-weight:500;color:#e5eee8}
 .budget-scenario{min-width:0}.budget-scenario>strong{display:block;font-variant-numeric:tabular-nums}
 .budget-scenario>strong>small{font-size:12px;font-weight:400;margin-left:6px}
 .budget-scenario-description{display:block;font-size:11px;line-height:1.8;color:#d8e5de}
@@ -97,8 +96,6 @@
 .budget-base-options>div{display:flex;flex-direction:column;gap:6px}
 .budget-base-options>div>span{font-size:12px;color:#355c49}
 .budget-base-options strong{font-size:21px;font-variant-numeric:tabular-nums}
-.budget-calculation{margin:0 0 24px;border:1px solid #d9ded6;border-radius:12px;background:#faf9f5;overflow:hidden}
-.budget-calculation>summary{padding:14px 20px;font-size:13px;color:#3d6653;cursor:pointer}
 .budget-calculation-content{padding:0 20px 18px;font-size:12px;color:#646c62;line-height:1.8}
 .budget-calculation-content table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
 .budget-calculation-content caption{text-align:left;font-weight:600;color:#283e31;margin-bottom:8px}
@@ -109,7 +106,7 @@
 .budget-room-choices>a>span:first-child{min-width:0}.budget-room-choices>a>span:last-child{flex-shrink:0;text-align:right;font-variant-numeric:tabular-nums}
 .budget-room-choices small{display:block;font-size:11px}.budget-room-choices strong{font-size:12px;font-weight:500;overflow-wrap:anywhere}
 .budget-section-note{margin:6px 0 0;font-size:11px;line-height:1.7;color:#787c73}
-@media(max-width:540px){.budget-scenarios{grid-template-columns:1fr;gap:14px}.budget-scenario+.budget-scenario{padding-top:14px;border-top:1px solid #ffffff30}.budget-base-options{grid-template-columns:1fr;gap:12px}.budget-base-options>div{flex-direction:row;align-items:center;justify-content:space-between;gap:10px}.budget-base-options>div>span{font-size:11px}.budget-base-options strong{font-size:18px}.budget-calculation-content{padding:0 14px 16px;font-size:11px}.budget-calculation>summary{padding:13px 14px}.budget-calculation-content th,.budget-calculation-content td{padding:8px 2px}}
+@media(max-width:540px){.budget-scenarios{grid-template-columns:1fr;gap:14px}.budget-scenario+.budget-scenario{padding-top:14px;border-top:1px solid #ffffff30}.budget-base-options{grid-template-columns:1fr;gap:12px}.budget-base-options>div{flex-direction:row;align-items:center;justify-content:space-between;gap:10px}.budget-base-options>div>span{font-size:11px}.budget-base-options strong{font-size:18px}.budget-calculation-content{padding:0 14px 16px;font-size:11px}.budget-calculation-content th,.budget-calculation-content td{padding:8px 2px}}
 
 .budget-section>.stay-budget-heading{flex-wrap:wrap}.stay-budget-heading>.budget-section-note{flex-basis:100%;margin-top:0}
 
@@ -119,3 +116,25 @@
 
 .stay-option-tab small>.stay-option-booking{display:flex;flex-wrap:wrap;gap:0 5px}.stay-option-booking>span{display:inline-block;white-space:nowrap}
 @media(max-width:540px){.stay-option-tabs-many small>.stay-option-booking{display:block}.stay-option-tabs-many .stay-option-booking>span{display:block}}
+
+.budget-summary-header{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.budget-summary-header>h2{margin:0;font-size:14px;font-weight:500;color:#e5eee8}
+.budget-calculation-trigger{flex-shrink:0;display:inline-flex;align-items:center;gap:5px;min-height:36px;padding:6px 9px;border:1px solid #ffffff45;border-radius:8px;background:transparent;color:#eff5f1;font:inherit;font-size:12px;cursor:pointer}
+.budget-calculation-trigger:hover{background:#ffffff14}.budget-calculation-trigger:focus-visible{outline:2px solid #fff;outline-offset:3px}
+.budget-calculation-trigger svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+body.budget-calculation-open{overflow:hidden}
+.budget-calculation-drawer{position:fixed;inset:0 0 0 auto;margin:0;width:min(600px,100vw);max-width:100vw;height:100%;height:100dvh;max-height:100dvh;padding:0;border:0;border-radius:18px 0 0 18px;overflow-y:auto;overscroll-behavior:contain;background:#faf9f5;color:#293b30;box-shadow:-12px 0 40px #10231c26;animation:budget-drawer-enter .22s ease-out}
+.budget-calculation-drawer::backdrop{background:#10231c66;animation:budget-backdrop-enter .22s ease-out}
+.budget-calculation-drawer.is-closing{animation:budget-drawer-exit .18s ease-in forwards}
+.budget-calculation-drawer.is-closing::backdrop{animation:budget-backdrop-exit .18s ease-in forwards}
+.budget-drawer-header{position:sticky;top:0;z-index:1;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px 24px 16px;background:#faf9f5;border-bottom:1px solid #e0e2d9}
+.budget-drawer-header h2{margin:0;font-size:18px;line-height:1.5}.budget-drawer-header p{margin:4px 0 0;color:#7a8277;font-size:12px}
+.budget-drawer-close{display:grid;place-items:center;flex-shrink:0;width:40px;height:40px;padding:0;border:0;border-radius:50%;background:#e6ebe4;color:#294f3b;cursor:pointer}
+.budget-drawer-close svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round}
+.budget-calculation-drawer .budget-calculation-content{padding:18px 24px 32px;font-size:13px;line-height:1.85}
+@keyframes budget-drawer-enter{from{transform:translateX(100%)}to{transform:translateX(0)}}
+@keyframes budget-drawer-exit{from{transform:translateX(0)}to{transform:translateX(100%)}}
+@keyframes budget-backdrop-enter{from{background:#10231c00}to{background:#10231c66}}
+@keyframes budget-backdrop-exit{from{background:#10231c66}to{background:#10231c00}}
+@media(max-width:600px){.budget-calculation-drawer{border-radius:0}.budget-drawer-header{padding:16px 18px 14px}.budget-drawer-header h2{font-size:16px}.budget-calculation-drawer .budget-calculation-content{padding:14px 18px 26px;font-size:12px}}
+@media(prefers-reduced-motion:reduce){.budget-calculation-drawer,.budget-calculation-drawer::backdrop,.budget-calculation-drawer.is-closing,.budget-calculation-drawer.is-closing::backdrop{animation:none}}
