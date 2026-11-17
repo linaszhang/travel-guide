@@ -2031,10 +2031,7 @@
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "一卧室公寓",
-        "tabLabel": "一卧室公寓",
-        "tags": [
-          "中转"
-        ]
+        "tabLabel": "一卧室公寓"
       }
     ]
   },
@@ -2202,9 +2199,6 @@
         "bookedGuests": 2,
         "bookingPlatform": "Trip",
         "tabLabel": "Reykjavik Residence Hotel · 一室房",
-        "tags": [
-          "中转"
-        ],
         "hotelKey": "reykjavik-residence",
         "hotelName": "Reykjavik Residence Hotel",
         "tabRoomType": "一室房"
@@ -2928,9 +2922,6 @@
         "checkOutTime": "11:00前",
         "galleryCheckedAt": "2026-11-16",
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
-        "tags": [
-          "中转"
-        ],
         "hotelKey": "hlemmur",
         "hotelName": "Hlemmur Suites",
         "tabRoomType": "豪华两卧室公寓"
@@ -5359,9 +5350,6 @@
         "bookingPlatform": "Booking",
         "roomType": "双人间或双床间",
         "tabLabel": "Hotel Berg · 双人间／双床间",
-        "tags": [
-          "中转"
-        ],
         "hotelKey": "hotel-berg",
         "hotelName": "Hotel Berg",
         "tabRoomType": "双人间／双床间"
@@ -5684,9 +5672,6 @@
         "checkOutTime": "03:00–11:00",
         "galleryCheckedAt": "2026-11-16",
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
-        "tags": [
-          "中转"
-        ],
         "hotelKey": "castle-inn",
         "hotelName": "Castle Inn Apartments",
         "tabRoomType": "两卧室公寓"

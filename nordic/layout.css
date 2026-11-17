@@ -84,7 +84,6 @@
 .stay-option-tab:focus-visible{outline:3px solid #5a8aab;outline-offset:2px}
 @media(max-width:700px){.stay-option-tabs{padding:14px 12px;gap:8px}.stay-option-tab{padding:10px 9px}.stay-option-tab strong{font-size:12px}.stay-option-room{font-size:12px}}
 
-.stay-budget-main .stay-budget-tag{display:inline-block;margin-left:8px;padding:1px 7px;border-radius:5px;background:#e7ece6;color:#526859;font-size:11px;font-weight:500;line-height:1.7;vertical-align:middle;white-space:nowrap}
 
 .budget-scenarios{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 24px}
 .budget-scenario{min-width:0}.budget-scenario>strong{display:block;font-variant-numeric:tabular-nums}
