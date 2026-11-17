@@ -1593,9 +1593,9 @@
         "num": 5,
         "id": "v2-revised-5",
         "title": "塞尼亚岛 · Hesten 徒步看 Segla",
-        "date": "2月10日（周三） · 当地向导带队，把白天留给雪山与峡湾",
+        "date": "2月10日（周三） · 自主徒步，把白天留给雪山与峡湾",
         "tags": [
-          "约1–1.5h（约35–40km，视集合点）"
+          "约1–1.5h自驾（约35–40km）"
         ],
         "photos": [
           {
@@ -1618,36 +1618,18 @@
           {
             "time": [
               "白天",
-              "按向导确认"
+              "按天气与路况安排"
             ],
             "emoji": "🥾",
-            "title": "Hesten／Segla 雪山徒步",
+            "title": "Hesten／Segla · 自主雪山徒步",
             "body": [
               {
-                "t": "从Fjordgård方向跟随当地冬季向导前往Hesten观景路线，欣赏Segla侧面与峡湾；不默认登顶Segla。",
+                "t": "从Fjordgård的Hesten起点自主徒步，沿Hesten方向欣赏Segla与峡湾；不安排登顶Segla。",
                 "links": []
               },
               {
-                "t": "给活动连同交通、装备检查预留白天约4–6小时。Storm Adventure官网通用参考约2.5–3小时，2月是否开团、实际路线与时长必须单独确认；雪崩、强风或结冰时改线或取消。",
+                "t": "给交通、装备检查和徒步预留白天约4–6小时，按积雪、天光与体力决定折返位置。强风、结冰或雪崩条件不适合时取消山地路线，改在Fjordgård村内与海岸观景。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "具体团期与冬季时长待确认",
-                        "links": []
-                      },
-                      {
-                        "t": "当前预算暂列¥0；向导及装备费用以实际安排为准",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -1667,8 +1649,8 @@
                   "query": "Hesten trailhead parking Fjordgard Senja Norway"
                 }
               ],
-              "note": "停车及出发点先与冬季向导确认；导航到徒步起点，不导航到Segla山顶。",
-              "description": "导航到Fjordgård的Hesten徒步起点，在Fjordgård徒步停车区停车；实际集合位置先与冬季向导确认。"
+              "note": "导航至Hesten徒步起点，在Fjordgård徒步停车区停车；不导航到Segla山顶。",
+              "description": "导航到Fjordgård的Hesten徒步起点，在徒步停车区停车后自主出发。"
             },
             "drives": [
               {
@@ -1683,9 +1665,9 @@
               }
             ],
             "infoCard": {
-              "time": "白天 · 按向导确认",
-              "price": "费用待确认",
-              "note": "向导团期、冬季时长及装备费用均以确认方案为准，不代表免费。",
+              "time": "白天 · 按天气与路况安排",
+              "price": "自主徒步 · 无向导费",
+              "note": "装备租赁、停车等费用另计。",
               "type": "experience"
             }
           },

@@ -3,25 +3,23 @@
     "id": "hesten-segla-snowshoe",
     "country": "norway",
     "day": 5,
-    "title": "Hesten／Segla 雪山徒步",
+    "title": "Hesten／Segla · 自主雪山徒步",
     "location": "塞尼亚岛 · Fjordgård／Hesten",
-    "duration": "运营方参考约2.5–3h；冬季以确认方案为准",
+    "duration": "含交通与装备检查预留约4–6h；按天气折返",
     "price": 0,
-    "intro": "跟随当地向导在塞尼亚岛雪山徒步，优先选择Hesten方向的观景路线，欣赏Segla刀锋般的山体、峡湾与周围雪峰。Hesten观景和登顶Segla是不同路线，本项目以Hesten看Segla为目标，不默认安排攀登Segla顶峰。",
-    "meeting": "2月10日计划安排；Fjordgård方向集合，准确时间和接送需向向导确认，当前未预订。",
+    "intro": "从Fjordgård自主前往Hesten方向观景，欣赏Segla侧面与峡湾；不安排登顶Segla。",
+    "meeting": "2月10日自行驾车至Fjordgård的Hesten徒步起点，无向导集合安排。",
     "includes": [
-      "当地向导带队，英文或挪威文讲解",
-      "运营方列有雪鞋；其他装备与接送是否包含须预订前确认",
-      "具体路线按冬季天气、积雪和向导评估调整，不保证登顶"
+      "自主徒步，无向导费用",
+      "雪鞋、登山杖及防滑装备自行准备或租赁",
+      "按天气、积雪与天光决定路线及折返位置"
     ],
     "notes": [
-      "2月团期、Hesten观景路线、冬季实际时长与最终价格需向运营方确认，当前未预订。",
-      "准备保暖防水高帮徒步鞋、防风外层、手套帽子、水与食物；是否需要额外防滑装备听从向导。",
-      "冬季山地存在结冰和雪崩风险，应由当地合格向导评估；情况不适合时改线或取消。"
+      "白天活动，提前检查天气、道路与雪崩预报；条件不适合时取消山地徒步。",
+      "保留Fjordgård村内和海岸观景作为天气备选。"
     ],
-    "priceNote": "按当前计划预算暂列¥0；不代表向导项目免费。是否报名、向导及装备费用，以最终安排为准。",
-    "url": "https://www.senjastormadventure.com/snowshoe-walk-hiking-to-segla/hesten/riven",
-    "operator": "Storm Adventure Senja",
+    "priceNote": "自主徒步预算¥0；装备租赁与停车另计。",
+    "operator": "自主安排",
     "imageCredit": "Senja by Heart（Hesten／Segla冬季景观参考，非所列运营方的实拍团次）",
     "imageSource": "https://senjabyheart.no/en/product/snowshoe-hike-to-hesten-with-segla-view/",
     "photos": [

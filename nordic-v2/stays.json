@@ -186,7 +186,7 @@
             "detail": "独立厨房与房内洗衣机、烘干机"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Airbnb"
       }
@@ -686,7 +686,7 @@
             "detail": "免费私人停车"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "两卧室公寓",
@@ -856,382 +856,11 @@
             "detail": "免费停车"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Airbnb"
       }
     ]
-  },
-  {
-    "id": "lofoten-paradise",
-    "days": [],
-    "country": "norway",
-    "location": "Napp · 罗弗敦",
-    "dates": "2.11–2.13",
-    "nights": 2,
-    "options": [
-      {
-        "name": "Lofoten Paradise Cabins Sea View · 海景公寓",
-        "features": "56㎡两卧室公寓 · 厨房 · 洗衣机 · 烘干机 · 海景露台",
-        "description": "Napp海边的56㎡两卧室整租公寓，设一张大号双人床、两张单人床及客厅沙发床，最多6位成人。带私人厨房、洗碗机、洗衣机和滚筒式烘干机，另有露台、烧烤设施及免费私人停车。",
-        "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-        "total": 4710,
-        "originalTotal": 6750,
-        "currency": "NOK",
-        "status": "已取消",
-        "roomLayout": "56㎡ · 2卧室 · 1张大号双人床＋2张单人床＋1张沙发床",
-        "maxGuests": 6,
-        "cancellation": "2027.1.27 23:59前免费取消；之后收取NOK 6,750",
-        "notes": [
-          "2月11日15:00–20:00入住，2月13日08:00–11:00退房；1套公寓、2晚，不含餐。",
-          "订单总额NOK 6,750，Booking折算约¥4,710；该价格按订单所选1位成人计算。",
-          "增加住客可能加收费用，房型最多6位成人。",
-          "2.11–2.13主行程改为Solsiden Brygge Rorbuer一卧室公寓；本订单保留备选，不计入默认预算。"
-        ],
-        "userNote": "已订备选；当前默认连住谢尔斯塔一卧室公寓两晚，不计入默认住宿预算。",
-        "budgetSummary": "56㎡两卧室海景公寓，配厨房与洗烘设备；当前订单为1位成人、2晚。",
-        "address": "Hauan 25, 8382 Napp, Norway",
-        "checkInTime": "15:00–20:00",
-        "checkOutTime": "08:00–11:00",
-        "photos": [
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962575.jpg?k=3c6d55ceb541b4a69842b61e5b1ff8cf2d919c7ca52bc235910808c213948944&o=",
-            "label": "海景客厅",
-            "caption": "海景客厅",
-            "category": "海景客厅",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962575"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962621.jpg?k=514639276977dfc521f4572c0cde837ad0a7982d733207676fffacf4569cd6b9&o=",
-            "label": "厨房与餐厅",
-            "caption": "厨房与餐厅",
-            "category": "厨房与餐厅",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962621"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962689.jpg?k=fddf33967daefbbfd0a385d5d6a8d77a952803636e27762354bdff860754df2a&o=",
-            "label": "双人床卧室",
-            "caption": "双人床卧室",
-            "category": "双人床卧室",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962689"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962630.jpg?k=8c6925146271dd18af96fd776156ef4dde980dc5ad7e76e1b9da281f4fa1b413&o=",
-            "label": "双床卧室",
-            "caption": "双床卧室",
-            "category": "双床卧室",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962630"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962439.jpg?k=ff8b04dc6d3bc7e3bb7229b373a7686fe7de03ed5e7af116ad13cc00639fe815&o=",
-            "label": "浴室与洗烘设备",
-            "caption": "浴室与洗烘设备",
-            "category": "浴室与洗烘设备",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962439"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962500.jpg?k=d676b6b0057b46b37b0b4dd357b3732d986854332f568ef25bd2f186039b0773&o=",
-            "label": "浴室洗漱区",
-            "caption": "浴室洗漱区",
-            "category": "浴室洗漱区",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962500"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962714.jpg?k=06dd197f82b50053525a4ecfb3b64cbe5b0e7b388d7645f69d141600297dd171&o=",
-            "label": "咖啡与烧水设备",
-            "caption": "咖啡与烧水设备",
-            "category": "咖啡与烧水设备",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962714"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/855962542.jpg?k=2af6f584bca4ad0a9099080d86b95b32d54fd2fc89bf5771438278df56ef6680&o=",
-            "label": "临窗用餐区",
-            "caption": "临窗用餐区",
-            "category": "临窗用餐区",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "855962542"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905248857.jpg?k=270d2e996f3d9600949eb9e2b9229fd61779c78deea844523f1a46b9a5d75c6c&o=",
-            "label": "公寓入口",
-            "caption": "公寓入口",
-            "category": "公寓入口",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "905248857"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/905221994.jpg?k=99e3ba4998a0d1572992e00fa68a2155256cf544e3ef182a7411b9c082732092&o=",
-            "label": "建筑与露台",
-            "caption": "建筑与露台",
-            "category": "建筑与露台",
-            "source": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html",
-            "bookingPhotoId": "905221994"
-          }
-        ],
-        "priceNote": "订单按1位成人计价 · NOK 6,750，约¥4,710",
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "私人厨房，含冰箱、烤箱、炉灶及洗碗机"
-          },
-          "washer": {
-            "status": "有",
-            "detail": "所订公寓列有洗衣机"
-          },
-          "dryer": {
-            "status": "有",
-            "detail": "所订公寓列有滚筒式烘干机"
-          },
-          "charging": {
-            "status": "未确认",
-            "detail": "公开设施未列出电车充电站"
-          },
-          "notes": [],
-          "sources": [
-            {
-              "label": "Booking公开房源与对应公寓设施",
-              "url": "https://www.booking.com/hotel/no/lofoten-paradise-cabins-sea-view.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-14"
-        },
-        "hotelFacilities": [
-          {
-            "name": "露台与户外用餐",
-            "detail": "私人海景露台、户外家具、烧烤设施"
-          },
-          {
-            "name": "停车与网络",
-            "detail": "免费私人停车、免费WiFi"
-          },
-          {
-            "name": "餐饮与康体",
-            "detail": "未列出住宿内餐厅、酒吧或桑拿；所订房价不含餐"
-          }
-        ],
-        "gallerySource": "Booking对应公寓房型与整体设施；去除其他房型、相似照片及无关风景",
-        "galleryCheckedAt": "2026-11-14"
-      }
-    ],
-    "backup": true
-  },
-  {
-    "id": "ytterviks",
-    "days": [],
-    "country": "norway",
-    "location": "Stamsund · 罗弗敦",
-    "dates": "2.11–2.12",
-    "nights": 1,
-    "options": [
-      {
-        "name": "Ytterviks Rorbu · 私人桑拿渔屋",
-        "features": "50㎡两卧室整屋 · 私人桑拿 · 厨房 · 洗衣机 · 免费电车充电",
-        "description": "Stamsund海边的50㎡两卧室整租渔屋，设客厅、设施齐全的厨房、私人浴室和海景露台。卧室1为一张双人床，卧室2为两张单人床；带私人桑拿、洗衣机及免费私人停车。当前作为2月11–12日的已订备选。",
-        "url": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-        "total": 1535,
-        "originalTotal": 2200,
-        "currency": "NOK",
-        "status": "已取消",
-        "roomLayout": "50㎡ · 2卧室 · 1张双人床＋2张单人床",
-        "maxGuests": 4,
-        "cancellation": "2027.1.27 23:59前免费取消；之后按订单阶梯收取费用",
-        "notes": [
-          "2月11日16:00–23:00入住，2月12日07:00–11:00退房；2位成人、1晚。",
-          "订单应付NOK 2,200，Booking当前折算约¥1,535。",
-          "自助钥匙盒入住；入口与停车按房东指引。",
-          "1月28日起取消费用NOK 1,100，2月12日起NOK 2,200；截止按住宿当地时间。"
-        ],
-        "userNote": "原方案已订备选；2.11–2.13默认连住谢尔斯塔一卧室公寓两晚，不计入默认住宿预算。",
-        "budgetSummary": "两卧室渔屋，配私人桑拿、厨房、洗衣机及免费电车充电；已订备选。",
-        "address": "Buøyveien 17, 8340 Stamsund, Norway",
-        "checkInTime": "16:00–23:00",
-        "checkOutTime": "07:00–11:00",
-        "photos": [
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/619855548.jpg?k=0dad88f4beb2cf5e07ec04ce0b221d4bb77325ce816ef4427eba10e01885c8fa&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/619855548.jpg?k=0dad88f4beb2cf5e07ec04ce0b221d4bb77325ce816ef4427eba10e01885c8fa&o=",
-            "label": "客厅",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "619855548"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618941526.jpg?k=94d7ebadfaae0daeb0108ef574bf256af9c835071fa834d3702b990ea528d99e&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/618941526.jpg?k=94d7ebadfaae0daeb0108ef574bf256af9c835071fa834d3702b990ea528d99e&o=",
-            "label": "客餐厅",
-            "caption": "客餐厅",
-            "category": "客餐厅",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "618941526"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/609872671.jpg?k=ae825d2a5310160b8c39f8f07669c5d323310afbfdd67f56bc985bea79a98bd5&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/609872671.jpg?k=ae825d2a5310160b8c39f8f07669c5d323310afbfdd67f56bc985bea79a98bd5&o=",
-            "label": "客厅 · 电视区",
-            "caption": "客厅 · 电视区",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "609872671"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618939324.jpg?k=51150b0aaf847d33bb4f72ec9665107353138378521735fd31707d5dc43e3cd7&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/618939324.jpg?k=51150b0aaf847d33bb4f72ec9665107353138378521735fd31707d5dc43e3cd7&o=",
-            "label": "客厅 · 沙发",
-            "caption": "客厅 · 沙发",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "618939324"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618961416.jpg?k=891dd19fc103f8baacbe181f013d53666e65c0a926f77d922c9772f38831b344&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/618961416.jpg?k=891dd19fc103f8baacbe181f013d53666e65c0a926f77d922c9772f38831b344&o=",
-            "label": "厨房",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "618961416"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618939336.jpg?k=a0e7fe4043a9e6860f30c8973cbd3c7507ebd8afba805a1779802c98d2ac39e3&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/618939336.jpg?k=a0e7fe4043a9e6860f30c8973cbd3c7507ebd8afba805a1779802c98d2ac39e3&o=",
-            "label": "厨房与用餐区",
-            "caption": "厨房与用餐区",
-            "category": "厨房与用餐区",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "618939336"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/609873160.jpg?k=b5c8642f923b3fad8ffd9adb8678dbcc1daf879aa119b45b39cb65c67559c2e7&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/609873160.jpg?k=b5c8642f923b3fad8ffd9adb8678dbcc1daf879aa119b45b39cb65c67559c2e7&o=",
-            "label": "卧室 · 两张单人床",
-            "caption": "卧室 · 两张单人床",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "609873160"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/802045247.jpg?k=eae1420f337f6b3d3ebeec48b93f51b0a33e3c1f88fa8f20ffeb25cc635923f7&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/802045247.jpg?k=eae1420f337f6b3d3ebeec48b93f51b0a33e3c1f88fa8f20ffeb25cc635923f7&o=",
-            "label": "卧室 · 双人床",
-            "caption": "卧室 · 双人床",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "802045247"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/802045239.jpg?k=ee4871136646e4d5fad523436c9cb372a9d87885e0d6fddcdb4e4d787bba9ebe&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/802045239.jpg?k=ee4871136646e4d5fad523436c9cb372a9d87885e0d6fddcdb4e4d787bba9ebe&o=",
-            "label": "浴室 · 洗衣机",
-            "caption": "浴室 · 洗衣机",
-            "category": "浴室",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "802045239"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/808927481.jpg?k=8d854e10681f073048a8c7bb45a1c51a8015050511b29e86e5500f8f0f9a0a2f&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/808927481.jpg?k=8d854e10681f073048a8c7bb45a1c51a8015050511b29e86e5500f8f0f9a0a2f&o=",
-            "label": "私人桑拿",
-            "caption": "私人桑拿",
-            "category": "私人桑拿",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "808927481"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/808927480.jpg?k=63ec6f4b2783b07d5c53a9543105eb94f52fbbe92e79ad73d03939a72a1764a4&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/808927480.jpg?k=63ec6f4b2783b07d5c53a9543105eb94f52fbbe92e79ad73d03939a72a1764a4&o=",
-            "label": "桑拿与浴室",
-            "caption": "桑拿与浴室",
-            "category": "桑拿与浴室",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "808927480"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618939307.jpg?k=c022bb59b9ed49d3bab957a318a9d44dcbe9f57d20c323189165a8c1fc2a50a6&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/618939307.jpg?k=c022bb59b9ed49d3bab957a318a9d44dcbe9f57d20c323189165a8c1fc2a50a6&o=",
-            "label": "两卧室整屋平面图",
-            "caption": "两卧室整屋平面图",
-            "category": "两卧室整屋平面图",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "618939307"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/567533211.jpg?k=c08629ad13724bd8ec3e468cf1452666afa513714ef19ebcf2f9c9c7c95a386a&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/567533211.jpg?k=c08629ad13724bd8ec3e468cf1452666afa513714ef19ebcf2f9c9c7c95a386a&o=",
-            "label": "入口",
-            "caption": "入口",
-            "category": "入口",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "567533211"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618974641.jpg?k=bafd8b5e26286e56673a22ae9659c6e7d8f01a5e60bb187077207e44a416c160&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/618974641.jpg?k=bafd8b5e26286e56673a22ae9659c6e7d8f01a5e60bb187077207e44a416c160&o=",
-            "label": "建筑与露台",
-            "caption": "建筑与露台",
-            "category": "建筑与露台",
-            "source": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html",
-            "bookingPhotoId": "618974641"
-          }
-        ],
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "整屋私人厨房，含炉灶、烤箱、冰箱和洗碗机"
-          },
-          "washer": {
-            "status": "有",
-            "detail": "浴室内提供洗衣机"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "房型列有晾衣架，未列出烘干机"
-          },
-          "charging": {
-            "status": "有",
-            "detail": "房源提供免费电车充电；接口与功率以现场为准"
-          },
-          "notes": [],
-          "sources": [
-            {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/no/ytterviks-rorbu.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-14"
-        },
-        "galleryCheckedAt": "2026-11-14",
-        "gallerySource": "Booking整屋房型相册及设施照片，已去除重复与无关风景",
-        "hotelFacilities": [
-          {
-            "name": "私人桑拿",
-            "detail": "整租渔屋内使用"
-          },
-          {
-            "name": "露台与停车",
-            "detail": "海景露台、免费私人停车"
-          }
-        ]
-      }
-    ],
-    "backup": true
   },
   {
     "id": "solsiden",
@@ -1477,7 +1106,7 @@
         "conversionRate": 0.6978846153846154,
         "roomSource": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html#RD43193701",
         "priceNote": "2位成人、2晚，含早餐、增值税及NOK 400清洁费；已付NOK 5,200，人民币为Booking参考折算。",
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "一卧室公寓",
@@ -1485,390 +1114,6 @@
       }
     ],
     "backup": false
-  },
-  {
-    "id": "solsiden-suite",
-    "days": [],
-    "country": "norway",
-    "location": "Ballstad · 罗弗敦",
-    "dates": "2.11–2.13",
-    "nights": 2,
-    "options": [
-      {
-        "name": "Solsiden Brygge Rorbuer · 海景设计套房",
-        "features": "25㎡海景设计套房 · 含早餐 · 餐厅与酒吧 · 公共桑拿与热水浴缸",
-        "description": "Ballstad渔港旁的25㎡海景设计套房，一张大号双人床、私人浴室、休息区、冰箱和咖啡机。所订套房不含厨房，早餐已包含；住宿设餐厅、酒吧、桑拿及热水浴缸。2月11–13日连住两晚，作为已订备选。",
-        "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-        "total": 3370,
-        "originalTotal": 4830,
-        "currency": "NOK",
-        "status": "已取消",
-        "roomLayout": "25㎡ · 海景设计套房 · 1张大号双人床",
-        "maxGuests": 2,
-        "cancellation": "2027.2.3 23:59前免费取消",
-        "notes": [
-          "2月11日15:00–21:00入住，2月13日08:00–11:00退房；2位成人、2晚，含早餐。",
-          "订单总额NOK 4,830，Booking当前折算约¥3,370。",
-          "至少提前一天告知预计抵达时间，首日晚入住提前与酒店协调。",
-          "公共桑拿按住宿安排使用，热水浴缸额外收费。",
-          "当前保留为海景设计套房备选；另一笔一卧室公寓订单作为主行程。"
-        ],
-        "userNote": "2.11–2.13海景设计套房已订备选；主行程选择同酒店的一卧室公寓，不计入默认住宿预算。",
-        "budgetSummary": "含早餐的25㎡海景设计套房，连住两晚；设餐厅、酒吧、公共桑拿、热水浴缸及电车充电。已订备选。",
-        "address": "Moloveien 41, 8373 Ballstad, Norway",
-        "checkInTime": "15:00–21:00",
-        "checkOutTime": "08:00–11:00",
-        "photos": [
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96082602.jpg?k=49accf6f5b4157b0c40e0f0f2e4d90752079ef58072c619c12b28faac97665a8&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/96082602.jpg?k=49accf6f5b4157b0c40e0f0f2e4d90752079ef58072c619c12b28faac97665a8&o=",
-            "label": "海景设计套房 · 客房",
-            "caption": "海景设计套房 · 客房",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "96082602"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/811105941.jpg?k=4f8e12d6c5ba08571259bab0d3a23aba79ad316c0a66a359edc7d2dd90e251f2&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/811105941.jpg?k=4f8e12d6c5ba08571259bab0d3a23aba79ad316c0a66a359edc7d2dd90e251f2&o=",
-            "label": "海景设计套房 · 客房",
-            "caption": "海景设计套房 · 客房",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "811105941"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/811105086.jpg?k=77026b8630a366555d824828c63cb57461300d08f8a15526180cf02c3e8c8066&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/811105086.jpg?k=77026b8630a366555d824828c63cb57461300d08f8a15526180cf02c3e8c8066&o=",
-            "label": "海景设计套房 · 浴室",
-            "caption": "海景设计套房 · 浴室",
-            "category": "浴室",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "811105086"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96082566.jpg?k=5a4ec21e85b25370d8fe1a4bbcff15f4103548b64646653a4506be5a4e2aad91&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/96082566.jpg?k=5a4ec21e85b25370d8fe1a4bbcff15f4103548b64646653a4506be5a4e2aad91&o=",
-            "label": "海景设计套房 · 客房",
-            "caption": "海景设计套房 · 客房",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "96082566"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/811105108.jpg?k=1d12570c09ce600082e86f935d2d44ed3c41312741ea7437b8f0981e8d1a19f1&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/811105108.jpg?k=1d12570c09ce600082e86f935d2d44ed3c41312741ea7437b8f0981e8d1a19f1&o=",
-            "label": "海景设计套房 · 浴室",
-            "caption": "海景设计套房 · 浴室",
-            "category": "浴室",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "811105108"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465942821.jpg?k=e42c6f1268415be0196f23d5ed6176ff19381e6a0705a1184716c98c28f643e4&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465942821.jpg?k=e42c6f1268415be0196f23d5ed6176ff19381e6a0705a1184716c98c28f643e4&o=",
-            "label": "桑拿",
-            "caption": "桑拿",
-            "category": "桑拿",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "465942821"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/863166745.jpg?k=362b2039904362e19b9c962371b2222b7dd0eaae9d43b46a16f240dd8930ee34&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/863166745.jpg?k=362b2039904362e19b9c962371b2222b7dd0eaae9d43b46a16f240dd8930ee34&o=",
-            "label": "餐厅与用餐空间",
-            "caption": "餐厅与用餐空间",
-            "category": "餐厅与用餐空间",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "863166745"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465935807.jpg?k=21b0ec7dce579952872220e6ba72eeaa71b1072b401782b45065f023cab399c4&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465935807.jpg?k=21b0ec7dce579952872220e6ba72eeaa71b1072b401782b45065f023cab399c4&o=",
-            "label": "餐厅与用餐空间",
-            "caption": "餐厅与用餐空间",
-            "category": "餐厅与用餐空间",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "465935807"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466014240.jpg?k=a6eaa4e12cfe571ee637313201c6a888c5bb3320c988be46abc6a6d3a5a24701&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/466014240.jpg?k=a6eaa4e12cfe571ee637313201c6a888c5bb3320c988be46abc6a6d3a5a24701&o=",
-            "label": "酒吧",
-            "caption": "酒吧",
-            "category": "酒吧",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "466014240"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/863167565.jpg?k=4b5c34ef7d16c7eb3fa6e8f362f1eeda21e7b4bf33483bd48651e39defee3922&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/863167565.jpg?k=4b5c34ef7d16c7eb3fa6e8f362f1eeda21e7b4bf33483bd48651e39defee3922&o=",
-            "label": "餐厅与用餐空间",
-            "caption": "餐厅与用餐空间",
-            "category": "餐厅与用餐空间",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "863167565"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465936524.jpg?k=f97b7fc7a871b60cb5d18b2c43c1aba40cc8b7389974a76b5fbaa646c3b7c093&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465936524.jpg?k=f97b7fc7a871b60cb5d18b2c43c1aba40cc8b7389974a76b5fbaa646c3b7c093&o=",
-            "label": "餐厅与用餐空间",
-            "caption": "餐厅与用餐空间",
-            "category": "餐厅与用餐空间",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "465936524"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466014328.jpg?k=282016a8796f7372f822d780ef05e6cab337b9333131f592415a3f86fb62ddb3&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/466014328.jpg?k=282016a8796f7372f822d780ef05e6cab337b9333131f592415a3f86fb62ddb3&o=",
-            "label": "餐厅与用餐空间",
-            "caption": "餐厅与用餐空间",
-            "category": "餐厅与用餐空间",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "466014328"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/863167372.jpg?k=09fc02f43248f1bb99a297f1e14aeb79c404287b9ca6ab9a4f03779cfbc3ae96&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/863167372.jpg?k=09fc02f43248f1bb99a297f1e14aeb79c404287b9ca6ab9a4f03779cfbc3ae96&o=",
-            "label": "餐厅与用餐空间",
-            "caption": "餐厅与用餐空间",
-            "category": "餐厅与用餐空间",
-            "source": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html",
-            "bookingPhotoId": "863167372"
-          }
-        ],
-        "householdFacilities": {
-          "kitchen": {
-            "status": "无",
-            "detail": "所订海景设计套房仅有冰箱、咖啡机和电热水壶"
-          },
-          "washer": {
-            "status": "未确认",
-            "detail": "房型未列出自助洗衣机"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "房型未列出烘干机"
-          },
-          "charging": {
-            "status": "有",
-            "detail": "住宿停车区提供电车充电；收费及接口待现场确认"
-          },
-          "notes": [],
-          "sources": [
-            {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/no/solsiden-brygge.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-14"
-        },
-        "galleryCheckedAt": "2026-11-14",
-        "gallerySource": "Booking海景设计套房及公共餐饮、桑拿相册",
-        "hotelFacilities": [
-          {
-            "name": "餐厅",
-            "detail": "住宿设2家餐厅；订单含早餐"
-          },
-          {
-            "name": "酒吧",
-            "detail": "公共酒吧／酒廊"
-          },
-          {
-            "name": "桑拿与热水浴缸",
-            "detail": "住宿公共设施，使用及收费按酒店安排"
-          },
-          {
-            "name": "停车",
-            "detail": "免费私人停车"
-          }
-        ]
-      }
-    ],
-    "backup": true
-  },
-  {
-    "id": "svolvaer",
-    "days": [],
-    "country": "norway",
-    "location": "斯沃尔维尔",
-    "dates": "2.12–2.13",
-    "nights": 1,
-    "options": [
-      {
-        "name": "Lofoten Rorbuer · 海景套房",
-        "features": "渔民套房 · 海景与渔船 · 露台 · 公共户外火塘 · 电车充电",
-        "description": "罗弗敦渔民公寓的约40㎡海景套房，设客厅、两间独立卧室、私人厨房和浴室，带海景露台。卧室1配两张单人床，卧室2为上下铺，共4个床位。2月12日游览南部后北上入住，次日游览北部后直接返特罗姆瑟。 住宿设公共户外火塘及电车充电设施，非套房内私人壁炉。",
-        "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-        "total": 1872,
-        "photos": [
-          {
-            "label": "罗弗敦渔民公寓的厨房或小厨房",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "568743204",
-            "src": "assets/stays/booking-svolvaer-568743204-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-svolvaer-568743204-640.webp",
-            "medium": "assets/stays/booking-svolvaer-568743204-480.webp",
-            "thumb": "assets/stays/booking-svolvaer-568743204-240.webp"
-          },
-          {
-            "label": "罗弗敦渔民公寓客房内的一张或多张床位",
-            "caption": "卧室",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "499094369",
-            "src": "assets/stays/booking-svolvaer-499094369-960.webp",
-            "width": 576,
-            "height": 768,
-            "mobile": "assets/stays/booking-svolvaer-499094369-640.webp",
-            "medium": "assets/stays/booking-svolvaer-499094369-480.webp",
-            "thumb": "assets/stays/booking-svolvaer-499094369-240.webp"
-          },
-          {
-            "label": "罗弗敦渔民公寓客房内的一张或多张床位",
-            "caption": "卧室",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "499094439",
-            "src": "assets/stays/booking-svolvaer-499094439-960.webp",
-            "width": 576,
-            "height": 768,
-            "mobile": "assets/stays/booking-svolvaer-499094439-640.webp",
-            "medium": "assets/stays/booking-svolvaer-499094439-480.webp",
-            "thumb": "assets/stays/booking-svolvaer-499094439-240.webp"
-          },
-          {
-            "label": "罗弗敦渔民公寓的厨房或小厨房",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "499094318",
-            "src": "assets/stays/booking-svolvaer-499094318-960.webp",
-            "width": 576,
-            "height": 768,
-            "mobile": "assets/stays/booking-svolvaer-499094318-640.webp",
-            "medium": "assets/stays/booking-svolvaer-499094318-480.webp",
-            "thumb": "assets/stays/booking-svolvaer-499094318-240.webp"
-          },
-          {
-            "label": "罗弗敦渔民公寓的厨房或小厨房",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "370405007",
-            "src": "assets/stays/booking-svolvaer-370405007-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-svolvaer-370405007-640.webp",
-            "medium": "assets/stays/booking-svolvaer-370405007-480.webp",
-            "thumb": "assets/stays/booking-svolvaer-370405007-240.webp"
-          },
-          {
-            "label": "罗弗敦渔民公寓的一间浴室",
-            "caption": "卫生间",
-            "category": "卫生间",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "568741968",
-            "src": "assets/stays/booking-svolvaer-568741968-960.webp",
-            "width": 960,
-            "height": 720,
-            "mobile": "assets/stays/booking-svolvaer-568741968-640.webp",
-            "medium": "assets/stays/booking-svolvaer-568741968-480.webp",
-            "thumb": "assets/stays/booking-svolvaer-568741968-240.webp"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465060392.jpg?k=46e104f4aa22de32b10c7d08793303262f2e2c627cfcb51cfd0ea5fa69297d8f&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/465060392.jpg?k=46e104f4aa22de32b10c7d08793303262f2e2c627cfcb51cfd0ea5fa69297d8f&o=",
-            "label": "海景套房 · 房型照片",
-            "caption": "海景套房 · 房型照片",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "bookingPhotoId": "465060392"
-          }
-        ],
-        "status": "已取消",
-        "notes": [
-          "2月12日入住、2月13日退房，海景套房；卧室1为2张单人床，卧室2为上下铺的2个床位。",
-          "订单总额 NOK 2,682.90，Booking当前折算约¥1,872；含订单列出的停车服务。",
-          "房源公共区域设户外火塘，并提供电车充电设施；充电收费、接口、功率及可用车位需向前台确认。",
-          "2026.11.14核对Booking有效订单列表：当前人民币参考总价约¥1,872。"
-        ],
-        "roomLayout": "2卧室 · 2张单人床＋1张双层床（共4床位）",
-        "cancellation": "2027.2.6 23:59前免费取消",
-        "userNote": "原方案已订备选；2.11–2.13默认连住谢尔斯塔一卧室公寓两晚，不计入默认住宿预算。",
-        "budgetSummary": "带露台的渔民套房，窗外能看海景和渔船；住宿有公共户外火塘，可电车充电。",
-        "roomSource": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html#RD199882707",
-        "facilitySources": [
-          {
-            "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html",
-            "checked": "2026-11-10"
-          }
-        ],
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "所订海景套房配私人厨房"
-          },
-          "washer": {
-            "status": "未确认",
-            "detail": "提供付费洗衣服务，自助洗衣机未确认"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "官网列有共用衣物干燥室，未确认烘干机"
-          },
-          "notes": [
-            "共用干燥室可悬挂外套等湿装备，配除湿设备；并非已确认的滚筒烘干机。"
-          ],
-          "sources": [
-            {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/no/lofoten-rorbuer-svolvaer.zh-cn.html"
-            },
-            {
-              "label": "官网 · 衣物干燥室",
-              "url": "https://lofoten-rorbuer.no/overnatting/fasiliteter/toerkerom"
-            }
-          ],
-          "checked": "2026-11-14",
-          "charging": {
-            "status": "有",
-            "detail": "住宿提供电车充电，收费、接口与功率以现场为准"
-          }
-        },
-        "address": "Jektveien 10, 8300 Svolvær, Norway",
-        "addressSource": "https://lofoten-rorbuer.no/en/booking",
-        "addressCheckedAt": "2026-11-11",
-        "maxGuests": 4,
-        "capacitySource": "Booking预订确认页：所订房型",
-        "capacityCheckedAt": "2026-11-14",
-        "galleryCheckedAt": "2026-11-14",
-        "gallerySource": "Booking所订房型相册与公共设施；已剔除其他房型、近似重复及无关风景",
-        "hotelFacilities": [
-          {
-            "name": "露台",
-            "detail": "所订套房海景露台"
-          },
-          {
-            "name": "公共户外火塘",
-            "detail": "住宿共用区域"
-          },
-          {
-            "name": "衣物干燥室",
-            "detail": "共用干燥室，适合湿外套等装备；不等于滚筒烘干机"
-          },
-          {
-            "name": "洗衣服务",
-            "detail": "可安排付费洗衣服务"
-          }
-        ]
-      }
-    ],
-    "backup": true
   },
   {
     "id": "tromso-airport",
@@ -2027,7 +1272,7 @@
             "detail": "带厨房的一晚中转公寓；未列明额外公共康体设施"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "一卧室公寓",
@@ -2195,7 +1440,7 @@
             "detail": "未确认，当前订单不按包含此类设施展示"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Trip",
         "tabLabel": "Reykjavik Residence Hotel · 一室房",
@@ -2206,173 +1451,6 @@
         "isStudio": true
       },
       {
-        "name": "Apartments Reykjavik",
-        "features": "一卧室公寓 · 厨房 · 城市短住",
-        "description": "雷克雅未克市区的一卧室公寓，设一张双人床，带客厅、厨房、私人浴室和阳台，可看花园及庭院景观，适合作为南岸行程前后的中转住宿。",
-        "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-        "total": 1059.83,
-        "originalTotal": 141.31,
-        "currency": "EUR",
-        "conversionRate": 7.5,
-        "estimated": true,
-        "photos": [
-          {
-            "src": "assets/stays/reykjavik-gallery-1-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-1-240.webp",
-            "label": "Apartments Reykjavik · 客厅 · 一卧室公寓房型参考",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "客厅 · 一卧室公寓房型参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-1-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-1-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-2-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-2-240.webp",
-            "label": "Apartments Reykjavik · 卧室 · 一卧室公寓房型参考",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 一卧室公寓房型参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-2-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-2-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-3-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-3-240.webp",
-            "label": "Apartments Reykjavik · 卧室 · 房型参考",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 房型参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-3-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-3-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-4-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-4-240.webp",
-            "label": "Apartments Reykjavik · 卧室 · 储物空间参考",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "卧室 · 储物空间参考",
-            "width": 960,
-            "height": 960,
-            "mobile": "assets/stays/reykjavik-gallery-4-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-4-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-5-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-5-240.webp",
-            "label": "Apartments Reykjavik · 厨房与用餐区 · 房型参考",
-            "category": "厨房与用餐区",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "厨房与用餐区 · 房型参考",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-5-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-5-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-6-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-6-240.webp",
-            "label": "Apartments Reykjavik · 浴室 · 淋浴与厕所房型参考",
-            "category": "浴室",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "浴室 · 淋浴与厕所房型参考",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-6-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-6-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-7-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-7-240.webp",
-            "label": "Apartments Reykjavik · 公共门厅",
-            "category": "公共门厅",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "公共门厅",
-            "width": 733,
-            "height": 1100,
-            "mobile": "assets/stays/reykjavik-gallery-7-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-7-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-8-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-8-240.webp",
-            "label": "Apartments Reykjavik · 公共走廊",
-            "category": "公共走廊",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "公共走廊",
-            "width": 689,
-            "height": 1100,
-            "mobile": "assets/stays/reykjavik-gallery-8-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-8-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-9-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-9-240.webp",
-            "label": "Apartments Reykjavik · 室外露台 · 房型参考",
-            "category": "室外露台",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "室外露台 · 房型参考",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-9-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-9-480.webp"
-          },
-          {
-            "src": "assets/stays/reykjavik-gallery-10-960.webp",
-            "thumb": "assets/stays/reykjavik-gallery-10-240.webp",
-            "label": "Apartments Reykjavik · 建筑外观",
-            "category": "建筑外观",
-            "source": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html",
-            "caption": "建筑外观",
-            "width": 960,
-            "height": 539,
-            "mobile": "assets/stays/reykjavik-gallery-10-640.webp",
-            "medium": "assets/stays/reykjavik-gallery-10-480.webp"
-          }
-        ],
-        "status": "已取消",
-        "notes": [
-          "入住16:00–23:00，退房10:00前；2人1晚，应付€141.31。",
-          "蓝湖后前往公寓；预计晚到须提前确认入住。"
-        ],
-        "roomLayout": "1卧室 · 1张双人床",
-        "cancellation": "2027.2.8 23:59前免费取消",
-        "userNote": "中转站，随便住住",
-        "budgetSummary": "带厨房的一卧室公寓，作为城市中转落脚点，以简单实用为主。",
-        "roomSource": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html#RD913380204",
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "所订一卧室公寓配厨房"
-          },
-          "washer": {
-            "status": "有",
-            "detail": "房源简介列有，房内或共用未注明"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "房源设施清单未列出"
-          },
-          "notes": [
-            "备选房源：洗衣机位置以房东安排为准。"
-          ],
-          "sources": [
-            {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/is/apartments-reykjavik.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-14"
-        }
-      },
-      {
         "name": "Hlemmur Suites · 豪华两卧室公寓",
         "optionId": "reykjavik-hlemmur",
         "tabLabel": "Hlemmur Suites · 豪华两卧室公寓",
@@ -2380,7 +1458,7 @@
         "features": "65㎡ · 两卧室 · 厨房 · 洗烘机",
         "description": "雷克雅未克65㎡两卧室公寓，独立厨房与浴室，配洗衣机、烘干机及洗碗机。",
         "url": "https://www.booking.com/hotel/is/hlemmur-loft.zh-cn.html",
-        "total": 3179,
+        "total": 3171,
         "originalTotal": 432.14,
         "currency": "EUR",
         "conversionRate": 7.356412,
@@ -2390,7 +1468,7 @@
         "maxGuests": 3,
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "cancellation": "2027.1.30 23:59前免费取消",
         "photos": [
           {
@@ -2933,541 +2011,6 @@
     ]
   },
   {
-    "id": "inni-backup",
-    "days": [
-      9
-    ],
-    "country": "iceland",
-    "location": "Hveragerði · 惠拉盖尔济",
-    "dates": "2.14–2.15",
-    "nights": 1,
-    "options": [
-      {
-        "name": "INNI · Boutique Apartments · 一卧室公寓",
-        "features": "一卧室公寓 · 厨房 · 免费停车 · 住客共用地热泡池与桑拿",
-        "description": "位于Hveragerði镇内的精品公寓，设厨房和私人浴室，住客共用两个户外地热泡池、桑拿与蒸汽房。附近有餐厅和超市，保留为惠拉盖尔济住宿备选。",
-        "url": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-        "total": 1702,
-        "photos": [
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763021",
-            "src": "assets/stays/booking-reykjavik-283763021-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283763021-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763021-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763021-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763163",
-            "src": "assets/stays/booking-reykjavik-283763163-960.webp",
-            "width": 960,
-            "height": 653,
-            "mobile": "assets/stays/booking-reykjavik-283763163-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763163-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763163-240.webp"
-          },
-          {
-            "label": "惠拉盖尔济INNI - Boutique apartments的客厅里有两把椅子和一个壁炉",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763653",
-            "src": "assets/stays/booking-reykjavik-283763653-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/booking-reykjavik-283763653-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763653-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763653-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763019",
-            "src": "assets/stays/booking-reykjavik-283763019-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283763019-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763019-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763019-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283762196",
-            "src": "assets/stays/booking-reykjavik-283762196-960.webp",
-            "width": 960,
-            "height": 667,
-            "mobile": "assets/stays/booking-reykjavik-283762196-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283762196-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283762196-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763159",
-            "src": "assets/stays/booking-reykjavik-283763159-960.webp",
-            "width": 960,
-            "height": 638,
-            "mobile": "assets/stays/booking-reykjavik-283763159-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763159-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763159-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "173967415",
-            "src": "assets/stays/booking-reykjavik-173967415-960.webp",
-            "width": 960,
-            "height": 706,
-            "mobile": "assets/stays/booking-reykjavik-173967415-640.webp",
-            "medium": "assets/stays/booking-reykjavik-173967415-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-173967415-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "173967211",
-            "src": "assets/stays/booking-reykjavik-173967211-960.webp",
-            "width": 576,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-173967211-640.webp",
-            "medium": "assets/stays/booking-reykjavik-173967211-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-173967211-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的休息区",
-            "caption": "客厅",
-            "category": "客厅",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "173967144",
-            "src": "assets/stays/booking-reykjavik-173967144-960.webp",
-            "width": 576,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-173967144-640.webp",
-            "medium": "assets/stays/booking-reykjavik-173967144-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-173967144-240.webp"
-          },
-          {
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 客房照片",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283762194",
-            "roomName": "一卧室公寓",
-            "src": "assets/stays/booking-reykjavik-283762194-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283762194-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283762194-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283762194-240.webp"
-          },
-          {
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 客房照片",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "173967145",
-            "roomName": "一卧室公寓",
-            "src": "assets/stays/booking-reykjavik-173967145-960.webp",
-            "width": 570,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-173967145-640.webp",
-            "medium": "assets/stays/booking-reykjavik-173967145-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-173967145-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments客房内的一张或多张床位",
-            "caption": "卧室",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763157",
-            "src": "assets/stays/booking-reykjavik-283763157-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283763157-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763157-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763157-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments客房内的一张或多张床位",
-            "caption": "卧室",
-            "category": "卧室",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283762200",
-            "src": "assets/stays/booking-reykjavik-283762200-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283762200-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283762200-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283762200-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的厨房或小厨房",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763158",
-            "src": "assets/stays/booking-reykjavik-283763158-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283763158-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763158-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763158-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的厨房或小厨房",
-            "caption": "厨房",
-            "category": "厨房",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283762195",
-            "src": "assets/stays/booking-reykjavik-283762195-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283762195-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283762195-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283762195-240.webp"
-          },
-          {
-            "label": "惠拉盖尔济INNI - Boutique apartments的壁炉里堆满了柴火，旁边放着一把椅子。",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763658",
-            "src": "assets/stays/booking-reykjavik-283763658-960.webp",
-            "width": 960,
-            "height": 762,
-            "mobile": "assets/stays/booking-reykjavik-283763658-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763658-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763658-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments的咖啡和沏茶工具",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "283763651",
-            "src": "assets/stays/booking-reykjavik-283763651-960.webp",
-            "width": 960,
-            "height": 686,
-            "mobile": "assets/stays/booking-reykjavik-283763651-640.webp",
-            "medium": "assets/stays/booking-reykjavik-283763651-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-283763651-240.webp"
-          },
-          {
-            "label": "入住INNI - Boutique apartments的客人",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "698008950",
-            "src": "assets/stays/booking-reykjavik-698008950-960.webp",
-            "width": 808,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-698008950-640.webp",
-            "medium": "assets/stays/booking-reykjavik-698008950-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-698008950-240.webp"
-          },
-          {
-            "label": "入住INNI - Boutique apartments的客人",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "698008954",
-            "src": "assets/stays/booking-reykjavik-698008954-960.webp",
-            "width": 814,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-698008954-640.webp",
-            "medium": "assets/stays/booking-reykjavik-698008954-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-698008954-240.webp"
-          },
-          {
-            "label": "入住INNI - Boutique apartments的客人",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "698008961",
-            "src": "assets/stays/booking-reykjavik-698008961-960.webp",
-            "width": 869,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-698008961-640.webp",
-            "medium": "assets/stays/booking-reykjavik-698008961-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-698008961-240.webp"
-          },
-          {
-            "label": "入住INNI - Boutique apartments的客人",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "698008962",
-            "src": "assets/stays/booking-reykjavik-698008962-960.webp",
-            "width": 829,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-698008962-640.webp",
-            "medium": "assets/stays/booking-reykjavik-698008962-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-698008962-240.webp"
-          },
-          {
-            "label": "惠拉盖尔济INNI - Boutique apartments的相册照片",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "405350080",
-            "src": "assets/stays/booking-reykjavik-405350080-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/booking-reykjavik-405350080-640.webp",
-            "medium": "assets/stays/booking-reykjavik-405350080-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-405350080-240.webp"
-          },
-          {
-            "label": "惠拉盖尔济INNI - Boutique apartments的相册照片",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "698008966",
-            "src": "assets/stays/booking-reykjavik-698008966-960.webp",
-            "width": 892,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-698008966-640.webp",
-            "medium": "assets/stays/booking-reykjavik-698008966-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-698008966-240.webp"
-          },
-          {
-            "label": "惠拉盖尔济INNI - Boutique apartments的相册照片",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "698008972",
-            "src": "assets/stays/booking-reykjavik-698008972-960.webp",
-            "width": 803,
-            "height": 768,
-            "mobile": "assets/stays/booking-reykjavik-698008972-640.webp",
-            "medium": "assets/stays/booking-reykjavik-698008972-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-698008972-240.webp"
-          },
-          {
-            "label": "INNI - Boutique apartments平面图",
-            "caption": "房源照片",
-            "category": "房源照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-            "bookingPhotoId": "730084617",
-            "src": "assets/stays/booking-reykjavik-730084617-960.webp",
-            "width": 510,
-            "height": 650,
-            "mobile": "assets/stays/booking-reykjavik-730084617-640.webp",
-            "medium": "assets/stays/booking-reykjavik-730084617-480.webp",
-            "thumb": "assets/stays/booking-reykjavik-730084617-240.webp"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173967222.jpg?k=158616a6c6967bd90931bdfe31d01dde9cd4044f11d4efb9372950dad9dbae59&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/173967222.jpg?k=158616a6c6967bd90931bdfe31d01dde9cd4044f11d4efb9372950dad9dbae59&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "173967222"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173967229.jpg?k=8eb4e7c4530ca32abd4c5790eb81967826f524212fd4827afe9b13e6d479bb7a&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/173967229.jpg?k=8eb4e7c4530ca32abd4c5790eb81967826f524212fd4827afe9b13e6d479bb7a&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "173967229"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173967217.jpg?k=ac11aa76c646b6559ac6566a43b151ecb4cf8a8fe00d3a24d5f6815607990cc7&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/173967217.jpg?k=ac11aa76c646b6559ac6566a43b151ecb4cf8a8fe00d3a24d5f6815607990cc7&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "173967217"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283762192.jpg?k=07aa6f215d0a06902644f10b8b425b20b1bffc99c5224fd1c5f1ce6620cfdcbe&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/283762192.jpg?k=07aa6f215d0a06902644f10b8b425b20b1bffc99c5224fd1c5f1ce6620cfdcbe&o=",
-            "label": "浴室",
-            "caption": "浴室",
-            "category": "浴室",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "283762192"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283863753.jpg?k=c8c80c6e34b10688aed066ac387a99ad2b137ffd115e5878bf5ff5422c4f4c4c&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/283863753.jpg?k=c8c80c6e34b10688aed066ac387a99ad2b137ffd115e5878bf5ff5422c4f4c4c&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "283863753"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/698008949.jpg?k=49e16bd789dbedbec5c969bd03a8be4c74b1080338175988acc41a44d79c0054&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/698008949.jpg?k=49e16bd789dbedbec5c969bd03a8be4c74b1080338175988acc41a44d79c0054&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "698008949"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283763154.jpg?k=02f5525a52d25ede87d68c9c129a4a3aa14e6687d4b03656d7c596726fc0352c&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/283763154.jpg?k=02f5525a52d25ede87d68c9c129a4a3aa14e6687d4b03656d7c596726fc0352c&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "283763154"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173967405.jpg?k=9d959df4e049318945e8c8ce7ebc26903e644bc3d0a34262d93292deffa91659&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/173967405.jpg?k=9d959df4e049318945e8c8ce7ebc26903e644bc3d0a34262d93292deffa91659&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "173967405"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173967408.jpg?k=9f3d20447360198c7ab1dbf4755cbb2ae4162de3002421a60ed8288406029421&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/173967408.jpg?k=9f3d20447360198c7ab1dbf4755cbb2ae4162de3002421a60ed8288406029421&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "173967408"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283763652.jpg?k=a95fb4b734a291118ed90c2265e17d065f3c3cd7e8e0001d0001a41e870a6eda&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/283763652.jpg?k=a95fb4b734a291118ed90c2265e17d065f3c3cd7e8e0001d0001a41e870a6eda&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "283763652"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283762191.jpg?k=4af1bc0bc64468edb4f8e7cef6ab7a132b31e9454f14deabe0d21907ef3fdd80&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/283762191.jpg?k=4af1bc0bc64468edb4f8e7cef6ab7a132b31e9454f14deabe0d21907ef3fdd80&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "283762191"
-          },
-          {
-            "src": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283762201.jpg?k=6830e337eaa267d5559b4f6beed5d9d9732b6e94c3c019e236fd78ccc0f7e525&o=",
-            "thumb": "https://cf.bstatic.com/xdata/images/hotel/max300/283762201.jpg?k=6830e337eaa267d5559b4f6beed5d9d9732b6e94c3c019e236fd78ccc0f7e525&o=",
-            "label": "一卧室公寓 · 房型照片",
-            "caption": "一卧室公寓 · 房型照片",
-            "category": "一卧室公寓 · 房型照片",
-            "source": "https://www.booking.com/hotel/is/inni-boutique-apartments.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=CNY",
-            "bookingPhotoId": "283762201"
-          }
-        ],
-        "status": "已取消",
-        "roomLayout": "1卧室 · 厨房与私人浴室",
-        "cancellation": "2027.2.8 23:59前免费取消",
-        "notes": [
-          "2026年11月15日按用户确认更新：INNI订单已取消，不计入主行程或有效备选清单。",
-          "2027年2月14日入住、2月15日退房；2位成人、1套一卧室公寓、1晚，不含餐食。",
-          "入住15:00–22:00，退房08:00–11:00；晚到请提前联系住宿。",
-          "2027年2月8日23:59前可免费取消（住宿当地时间）；2月9日00:00起取消费用€215.38，且不能更改入住日期。",
-          "地址：Frumskógar 3, 810 Hveragerði。每次预订含1辆车免费自助停车。",
-          "房价含每位成人每日Spa使用：两个住客共用户外地热泡池、桑拿与蒸汽房，并非公寓私人泡池。泡池与桑拿16:00–23:30开放，蒸汽房09:00–23:30开放，提供浴袍和拖鞋。",
-          "附近可在Ölverk、Matkráin及The Greenhouse用晚餐；可步行前往，冬季按路况选择开车。"
-        ],
-        "userNote": "用户已取消INNI订单，不再作为当前住宿备选。",
-        "budgetSummary": "Hveragerði镇内的一卧室公寓，带厨房与免费停车，含住客共用地热泡池、桑拿和蒸汽房。",
-        "originalTotal": 231.42,
-        "currency": "EUR",
-        "conversionRate": 7.35459,
-        "estimated": true,
-        "householdFacilities": {
-          "kitchen": {
-            "status": "有",
-            "detail": "房内独立厨房"
-          },
-          "washer": {
-            "status": "有",
-            "detail": "地下室共用洗衣房，2台洗衣机"
-          },
-          "dryer": {
-            "status": "有",
-            "detail": "地下室共用洗衣房，1台烘干机"
-          },
-          "notes": [
-            "按所订40㎡标准公寓核对，使用共用洗衣房，提供洗衣液；不是房内独立洗烘机。"
-          ],
-          "sources": [
-            {
-              "label": "公开房源设施",
-              "url": "https://www.booking.com/hotel/is/inni-boutique-apartments.html"
-            },
-            {
-              "label": "INNI官网 · 标准公寓",
-              "url": "https://www.inniapartments.is/apartments/standard-studios.html"
-            }
-          ],
-          "checked": "2026-11-14",
-          "charging": {
-            "status": "未确认",
-            "detail": "公开房源未列明电车充电设施"
-          }
-        },
-        "checkInTime": "15:00–22:00",
-        "checkOutTime": "08:00–11:00",
-        "address": "Frumskógar 3, 810 Hveragerði, Iceland",
-        "addressSource": "https://www.booking.com/hotel/is/inni-boutique-apartments.html",
-        "addressCheckedAt": "2026-11-11",
-        "maxGuests": 2,
-        "capacitySource": "Booking预订确认页：所订房型",
-        "capacityCheckedAt": "2026-11-14",
-        "galleryCheckedAt": "2026-11-14",
-        "gallerySource": "Booking所订房型相册与公共设施；已剔除其他房型、近似重复及无关风景",
-        "hotelFacilities": [
-          {
-            "name": "地热泡池",
-            "detail": "两个住客共用户外泡池"
-          },
-          {
-            "name": "桑拿与蒸汽房",
-            "detail": "房价含每位成人每日使用；泡池与桑拿16:00–23:30，蒸汽房09:00–23:30"
-          },
-          {
-            "name": "洗衣房",
-            "detail": "共用2台洗衣机及1台烘干机，提供洗衣液"
-          },
-          {
-            "name": "停车",
-            "detail": "每次预订含一辆车免费停车"
-          }
-        ]
-      }
-    ],
-    "backup": true
-  },
-  {
     "id": "vik",
     "days": [
       10
@@ -3648,7 +2191,7 @@
             "detail": "免费停车"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "豪华特大号床一室公寓",
@@ -4600,172 +3143,6 @@
         "tabRoomType": "家庭套房",
         "bedrooms": 1,
         "isStudio": false
-      },
-      {
-        "name": "Hótel Jökulsárlón · 三人间",
-        "optionId": "jokulsarlon-triple",
-        "tabLabel": "Hótel Jökulsárlón · 三人间",
-        "roomType": "三人间",
-        "features": "三人间 · 独立浴室 · 冰湖附近",
-        "description": "冰河湖附近23㎡三人间，配独立浴室、淋浴与咖啡机；已改期至2.16–2.17，当前订单登记3位成人。",
-        "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-        "total": 3519.35,
-        "originalTotal": 478.45,
-        "currency": "EUR",
-        "conversionRate": 7.355732,
-        "estimated": false,
-        "status": "已预订 · 备选",
-        "roomLayout": "23㎡ · 1张大号双人床＋1张日式床垫",
-        "maxGuests": 3,
-        "bookedGuests": 3,
-        "bookingPlatform": "Booking",
-        "bookingCheckedAt": "2026-11-17",
-        "cancellation": "2027.2.8 23:59前免费取消",
-        "photos": [
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-916819791-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-916819791-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-916819791-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-916819791-240.webp"
-          },
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-903003790-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-903003790-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-903003790-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-903003790-240.webp"
-          },
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645361071-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361071-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645361071-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361071-240.webp"
-          },
-          {
-            "label": "三人间 · 客房 · 房型参考",
-            "caption": "客房 · 房型参考",
-            "category": "客房",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "三人间",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645361069-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645361069-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645361069-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645361069-240.webp"
-          },
-          {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
-            "caption": "外观与周边 · 公共区域与外观",
-            "category": "外观与周边",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645362625-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362625-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645362625-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362625-240.webp"
-          },
-          {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
-            "caption": "外观与周边 · 公共区域与外观",
-            "category": "外观与周边",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
-            "src": "assets/stays/refresh-jokulsarlon-triple-656396646-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-656396646-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-656396646-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-656396646-240.webp"
-          },
-          {
-            "label": "一卧室阁楼公寓 · 外观与周边 · 公共区域与外观",
-            "caption": "外观与周边 · 公共区域与外观",
-            "category": "外观与周边",
-            "source": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html",
-            "roomName": "一卧室阁楼公寓",
-            "src": "assets/stays/refresh-jokulsarlon-triple-645362341-960.webp",
-            "width": 960,
-            "height": 640,
-            "mobile": "assets/stays/refresh-jokulsarlon-triple-645362341-640.webp",
-            "medium": "assets/stays/refresh-jokulsarlon-triple-645362341-480.webp",
-            "thumb": "assets/stays/refresh-jokulsarlon-triple-645362341-240.webp"
-          }
-        ],
-        "address": "Reynivellir, 781 Jökulsárlón, 冰岛",
-        "addressSource": "Booking订单地址",
-        "budgetSummary": "配独立浴室，不含餐食。",
-        "notes": [
-          "已从2.15–2.16改期为2.16–2.17，1晚，3位成人。",
-          "房价不含餐食，包含免费停车与网络。",
-          "取消时限按住宿当地时间计时。"
-        ],
-        "householdFacilities": {
-          "kitchen": {
-            "status": "未确认",
-            "detail": "订单未列明，入住前可向住宿确认。"
-          },
-          "washer": {
-            "status": "未确认",
-            "detail": "订单未列明，入住前可向住宿确认。"
-          },
-          "dryer": {
-            "status": "未确认",
-            "detail": "订单未列明，入住前可向住宿确认。"
-          },
-          "charging": {
-            "status": "未确认",
-            "detail": "订单未列明充电设施。"
-          },
-          "sources": [
-            {
-              "label": "Booking公开房源",
-              "url": "https://www.booking.com/hotel/is/jokulsarlon.zh-cn.html"
-            }
-          ],
-          "checked": "2026-11-16"
-        },
-        "location": "Jökulsárlón · 冰河湖附近",
-        "checkInTime": "16:00起",
-        "checkOutTime": "11:00前",
-        "galleryCheckedAt": "2026-11-16",
-        "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
-        "priceNote": "3位成人、1晚：房价含税¥3,846.24，扣除Booking支付的¥326.89后，应付€478.45／¥3,519.35。",
-        "priceBreakdown": {
-          "grossTotalCNY": 3846.24,
-          "bookingContributionCNY": 326.89,
-          "netTotalCNY": 3519.35,
-          "grossTotalEUR": 522.89,
-          "bookingContributionEUR": 44.44,
-          "netTotalEUR": 478.45
-        },
-        "hotelKey": "jokulsarlon",
-        "hotelName": "Hótel Jökulsárlón",
-        "tabRoomType": "三人间",
-        "bedrooms": 1,
-        "isStudio": false
       }
     ]
   },
@@ -4784,7 +3161,7 @@
         "features": "两卧室整租公寓 · 窗景 · 厨房 · 露台 · 免费停车",
         "description": "霍芬附近的52㎡两卧室整租公寓，配厨房、起居区、私人浴室和露台。2月17日游览冰河湖与钻石沙滩后向东前往入住，2月18日退房后前往Stokksnes蝙蝠山。",
         "url": "https://www.booking.com/hotel/is/reystays-lodges.zh-cn.html",
-        "total": 2018.26,
+        "total": 2119.65,
         "currency": "EUR",
         "photos": [
           {
@@ -4975,17 +3352,15 @@
         ],
         "status": "已预订",
         "notes": [
-          "最新订单已调整为2月17日15:00后入住，2月18日10:30前退房；2位成人1晚。",
-          "Booking最新订单列表折算约¥2,207，最终以订单结算为准。",
-          "冰河湖活动约17:00结束后，沿1号公路向东至REY Stays，约65公里，冬季预留1–1.5小时。",
-          "次日退房后前往Stokksnes蝙蝠山，再沿南岸向西返回凯夫拉维克。",
-          "按用户最新计划，仅保留2.17–2.18一晚；平台当前仍为两晚订单，用户将取消前一晚。",
-          "当前单晚预算为原订单应付总价的一半，实际金额以改期后订单为准。"
+          "已确认2月17日15:00后入住、2月18日10:30前退房；2位成人1晚。",
+          "改期后应付€288.83（含税总价€300，Booking补贴€11.17）；人民币预算约¥2,120。",
+          "2月17日下午冰河湖与钻石沙滩观景后，沿1号公路向东前往入住。",
+          "次日退房后前往Stokksnes蝙蝠山，再沿南岸西返凯夫拉维克。"
         ],
         "roomLayout": "2卧室 · 1张双人床＋2张单人床＋1张沙发床",
-        "cancellation": "2027.2.8 23:59前免费取消",
+        "cancellation": "2027.2.9 23:59前免费取消",
         "userNote": "这个小镇都一般，但是这个窗景还不错",
-        "budgetSummary": "带厨房、露台和免费停车，窗景不错；单晚价格待改期核实。",
+        "budgetSummary": "带厨房、露台和免费停车；已确认改为2.17–2.18一晚。",
         "householdFacilities": {
           "kitchen": {
             "status": "有",
@@ -5032,19 +3407,19 @@
             "detail": "免费私人停车"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "两卧室公寓",
         "tabLabel": "REY Stays · 两卧室公寓",
-        "originalTotal": 274.38,
-        "estimated": true,
-        "bookingDates": "2.16–2.18",
-        "bookingNights": 2,
-        "bookingTotal": 4036.52,
-        "bookingOriginalTotal": 548.76,
-        "priceNote": "计划仅住2.17–2.18一晚；原订单仍为两晚，应付€548.76／¥4,036.52。单晚暂按总价÷2估算为¥2,018，改期后待核价。",
-        "pricePending": true
+        "originalTotal": 288.83,
+        "estimated": false,
+        "bookingDates": "2.17–2.18",
+        "bookingNights": 1,
+        "bookingTotal": 2119.65,
+        "bookingOriginalTotal": 288.83,
+        "priceNote": "改期后1晚应付€288.83；订单含税价€300，扣除Booking补贴€11.17。人民币约¥2,120，最终以结算汇率为准。",
+        "pricePending": false
       }
     ]
   },
@@ -5359,7 +3734,7 @@
             "detail": "免费单程送往KEF机场，入住时登记；免费停车"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Booking",
         "roomType": "双人间或双床间",
@@ -5378,7 +3753,7 @@
         "features": "72㎡ · 两卧室 · 厨房 · 露台",
         "description": "凯夫拉维克市中心72㎡两卧室公寓，配厨房、露台、洗碗机和独立浴室；当前订单登记3位成人。",
         "url": "https://www.booking.com/hotel/is/brand-new-apartment-downtown-keflavik-47-reykjanesbaer.zh-cn.html",
-        "total": 2014,
+        "total": 2009,
         "originalTotal": 273.75,
         "currency": "EUR",
         "conversionRate": 7.357078,
@@ -5388,7 +3763,7 @@
         "maxGuests": 5,
         "bookedGuests": 3,
         "bookingPlatform": "Booking",
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "cancellation": "2027.2.16 23:59前免费取消",
         "photos": [
           {
@@ -5948,7 +4323,7 @@
             "detail": "提供行李寄存"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 2,
         "bookingPlatform": "Airbnb",
         "maxGuests": 4,
@@ -6254,7 +4629,7 @@
             "detail": "提供行李寄存"
           }
         ],
-        "bookingCheckedAt": "2026-11-16",
+        "bookingCheckedAt": "2026-11-17",
         "bookedGuests": 3,
         "bookingPlatform": "Airbnb",
         "maxGuests": 4,
@@ -6266,6 +4641,44 @@
         "tabRoomType": "一卧室阁楼公寓",
         "bedrooms": 2,
         "isStudio": false
+      }
+    ]
+  },
+  {
+    "id": "reynivellir-cottage",
+    "days": [
+      11
+    ],
+    "country": "iceland",
+    "location": "Jökulsárlón · 冰河湖附近",
+    "dates": "2.16–2.17",
+    "nights": 1,
+    "backup": true,
+    "options": [
+      {
+        "name": "Old Cottage - Reynivellir II · 单人间（共用卫浴）",
+        "features": "单人间 · 共用浴室与卫生间 · 共用厨房 · 免费停车",
+        "description": "当前有效的单人间备选订单；仅容纳1位成人，不作为双人主行程住宿。",
+        "url": "https://www.booking.com/hotel/is/reynivellir.zh-cn.html",
+        "total": 905.38,
+        "currency": "EUR",
+        "originalTotal": 123.37,
+        "status": "已预订 · 备选",
+        "roomLayout": "单人间 · 共用卫浴",
+        "maxGuests": 1,
+        "bookedGuests": 1,
+        "bookingPlatform": "Booking",
+        "bookingCheckedAt": "2026-11-17",
+        "address": "Reynivellir 2, 781 Jökulsárlón, Iceland",
+        "checkInTime": "17:00–21:00",
+        "checkOutTime": "07:00–11:00",
+        "cancellation": "2027.2.8 23:59前免费取消",
+        "budgetSummary": "有效单人间备选，含共用厨房和停车；不列入双人主行程。",
+        "notes": [
+          "2月16–17日1晚，当前订单为1位成人。",
+          "应付€123.37；人民币约¥905，最终以结算汇率为准。"
+        ],
+        "photos": []
       }
     ]
   }
