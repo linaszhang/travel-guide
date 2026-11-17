@@ -77,12 +77,12 @@
 }
 
 /* Room choices stay above their own gallery and facts. */
-.stay-option-tabs{display:grid;grid-template-columns:repeat(var(--stay-option-count),minmax(0,1fr));gap:10px;padding:18px 20px;background:#f4f2ec;border-bottom:1px solid #dedbd2;scrollbar-width:thin}
+.stay-option-tabs{display:grid;grid-template-columns:repeat(var(--stay-option-count),minmax(0,1fr));gap:10px;padding:0 0 12px;background:#f4f2ec;border-bottom:1px solid #dedbd2;scrollbar-width:thin}
 .stay-option-tab{min-width:0;display:flex;flex-direction:column;gap:5px;max-width:none;padding:12px 16px;border:1px solid #d9ddd7;border-radius:12px;background:#fff;color:#56615a;text-decoration:none}
 .stay-option-tab strong{display:flex;flex-direction:column;gap:4px;font-size:14px;line-height:1.4;white-space:normal;overflow-wrap:anywhere}.stay-option-room{font-size:13px;font-weight:500}.stay-option-tab small{display:block;margin-top:auto;padding-top:3px;font-size:11px;line-height:1.6;white-space:normal;overflow-wrap:anywhere}.stay-option-tab small>span{display:block}
 .stay-option-tab.is-active{background:var(--theme,#386452);border-color:var(--theme,#386452);color:#fff}
 .stay-option-tab:focus-visible{outline:3px solid #5a8aab;outline-offset:2px}
-@media(max-width:700px){.stay-option-tabs{padding:14px 12px;gap:8px}.stay-option-tab{padding:10px 9px}.stay-option-tab strong{font-size:12px}.stay-option-room{font-size:12px}}
+@media(max-width:700px){.stay-option-tabs{padding:0 0 12px;gap:8px}.stay-option-tab{padding:10px 9px}.stay-option-tab strong{font-size:12px}.stay-option-room{font-size:12px}}
 
 
 .budget-scenarios{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 24px}
@@ -136,3 +136,5 @@ body.budget-calculation-open{overflow:hidden}
 @keyframes budget-backdrop-exit{from{background:#10231c66}to{background:#10231c00}}
 @media(max-width:600px){.budget-calculation-drawer{border-radius:0}.budget-drawer-header{padding:16px 18px 14px}.budget-drawer-header h2{font-size:16px}.budget-calculation-drawer .budget-calculation-content{padding:14px 18px 26px;font-size:12px}}
 @media(prefers-reduced-motion:reduce){.budget-calculation-drawer,.budget-calculation-drawer::backdrop,.budget-calculation-drawer.is-closing,.budget-calculation-drawer.is-closing::backdrop{animation:none}}
+
+.stay-option-tab .stay-option-occupancy{margin-top:auto;padding-top:4px}.stay-option-tab .stay-option-occupancy>.stay-option-backup{display:inline;white-space:nowrap}

@@ -2201,7 +2201,9 @@
         "tabLabel": "Reykjavik Residence Hotel · 一室房",
         "hotelKey": "reykjavik-residence",
         "hotelName": "Reykjavik Residence Hotel",
-        "tabRoomType": "一室房"
+        "tabRoomType": "一室房",
+        "bedrooms": 0,
+        "isStudio": true
       },
       {
         "name": "Apartments Reykjavik",
@@ -2924,7 +2926,9 @@
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
         "hotelKey": "hlemmur",
         "hotelName": "Hlemmur Suites",
-        "tabRoomType": "豪华两卧室公寓"
+        "tabRoomType": "豪华两卧室公寓",
+        "bedrooms": 2,
+        "isStudio": false
       }
     ]
   },
@@ -3651,7 +3655,9 @@
         "tabLabel": "Black Beach Suites · 豪华特大床一室公寓",
         "hotelKey": "black-beach-suites",
         "hotelName": "Black Beach Suites",
-        "tabRoomType": "豪华特大床一室公寓"
+        "tabRoomType": "豪华特大床一室公寓",
+        "bedrooms": 0,
+        "isStudio": true
       },
       {
         "name": "Vík Apartments · 两卧室公寓",
@@ -3970,7 +3976,9 @@
         },
         "hotelKey": "vik-apartments",
         "hotelName": "Vík Apartments",
-        "tabRoomType": "两卧室公寓"
+        "tabRoomType": "两卧室公寓",
+        "bedrooms": 2,
+        "isStudio": false
       }
     ]
   },
@@ -4372,7 +4380,9 @@
         },
         "hotelKey": "jokulsarlon",
         "hotelName": "Hótel Jökulsárlón",
-        "tabRoomType": "冰川景观双人间"
+        "tabRoomType": "冰川景观双人间",
+        "bedrooms": 1,
+        "isStudio": false
       },
       {
         "name": "Hótel Jökulsárlón · 家庭套房",
@@ -4587,7 +4597,9 @@
         },
         "hotelKey": "jokulsarlon",
         "hotelName": "Hótel Jökulsárlón",
-        "tabRoomType": "家庭套房"
+        "tabRoomType": "家庭套房",
+        "bedrooms": 1,
+        "isStudio": false
       },
       {
         "name": "Hótel Jökulsárlón · 三人间",
@@ -4751,7 +4763,9 @@
         },
         "hotelKey": "jokulsarlon",
         "hotelName": "Hótel Jökulsárlón",
-        "tabRoomType": "三人间"
+        "tabRoomType": "三人间",
+        "bedrooms": 1,
+        "isStudio": false
       }
     ]
   },
@@ -5352,7 +5366,9 @@
         "tabLabel": "Hotel Berg · 双人间／双床间",
         "hotelKey": "hotel-berg",
         "hotelName": "Hotel Berg",
-        "tabRoomType": "双人间／双床间"
+        "tabRoomType": "双人间／双床间",
+        "bedrooms": 1,
+        "isStudio": false
       },
       {
         "name": "Castle Inn Apartments · 市中心公寓",
@@ -5674,7 +5690,9 @@
         "gallerySource": "所订房型公开相册及公共区域，室内优先并去除明显重复照片",
         "hotelKey": "castle-inn",
         "hotelName": "Castle Inn Apartments",
-        "tabRoomType": "两卧室公寓"
+        "tabRoomType": "两卧室公寓",
+        "bedrooms": 2,
+        "isStudio": false
       }
     ]
   },
@@ -5937,7 +5955,9 @@
         "tabLabel": "Aperon · 一卧室公寓",
         "hotelKey": "aperon",
         "hotelName": "Aperon",
-        "tabRoomType": "一卧室公寓"
+        "tabRoomType": "一卧室公寓",
+        "bedrooms": 1,
+        "isStudio": false
       },
       {
         "name": "Aperon · One-Bedroom Attic Apartment for 4",
@@ -6243,7 +6263,9 @@
         "roomType": "一卧室阁楼公寓",
         "hotelKey": "aperon",
         "hotelName": "Aperon",
-        "tabRoomType": "一卧室阁楼公寓"
+        "tabRoomType": "一卧室阁楼公寓",
+        "bedrooms": 2,
+        "isStudio": false
       }
     ]
   }
