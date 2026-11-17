@@ -89,7 +89,6 @@
 .budget-scenario{min-width:0}.budget-scenario>strong{display:block;font-variant-numeric:tabular-nums}
 .budget-scenario>strong>small{font-size:12px;font-weight:400;margin-left:6px}
 .budget-scenario-description{display:block;font-size:11px;line-height:1.8;color:#d8e5de}
-.budget-scenarios>p{margin:0;padding-top:12px;border-top:1px solid #ffffff30}
 .budget-base.budget-base-scenarios{display:block}
 .budget-base-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:14px}
 .budget-base-options>div{display:flex;flex-direction:column;gap:6px}
