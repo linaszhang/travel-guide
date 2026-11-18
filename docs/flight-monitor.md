@@ -27,7 +27,7 @@
 
 ## 固定口径
 
-2成人，经济舱，含税，每人1件23kg托运。比较完全相同日期、机场、航班号及时间；TOS–KEF为WF621+FI335经BGO。不得替换为其他时刻或其他中转的最低起价。已过出发日期的航段不再询价，保留历史；2027-02-20之后暂停任务。
+按单张成人票价查询，经济舱，含税，含1件23kg托运。JSON仍保存单价×2的参考总价，passengers=2仅为展示换算基数，不代表必须用2成人搜索。比较完全相同日期、机场、航班号及时间；TOS–KEF为WF621+FI335经BGO。不得替换为其他时刻或其他中转的最低起价。已过出发日期的航段不再询价，保留历史；2027-02-20之后暂停任务。
 
 先查询携程国内站指定航线（浏览器公开搜索，可使用下列模式），核对2成人和日期，再展开对应航班票档及行李规则：
 `https://flights.ctrip.com/online/list/oneway-pvg-hel?depdate=2027-02-06&cabin=y&adult=2&child=0&infant=0`
@@ -66,3 +66,9 @@ Budget flight rows hydrate date, local departure/arrival times and flight number
 Ctrip’s current public wake-up component invokes `/restapi/soa2/11867/json/getUniversalLink`. For all five routes on both iOS and Android it returns `AwakeSchemaService` with `ctrip://wireless/flight_int_singlelist?c1=1&c2=<origin-city>&c3=<destination-city>&c4=<YYYYMMDD>&c7=5&needguid=1`. The previous taro/interFirst URL falls back to `wireless/h5` with handler `Default`. A swift legacy path with one relative departure-day offset selects singlelist; adding a second offset selects tolist/round-trip, so must not be used for this itinerary. Do not put the absolute YYYYMMDD number into the legacy offset path. The frontend builds absolute-date native links directly from the catalogue, avoiding date drift and a live converter dependency.
 
 The converter ignores the H5 `nop` and airport-filter parameters. Do not claim those are prefilled natively, or add guessed native passenger/filter parameters. Stored quotes, budgets, flight dates, numbers and baggage records are unchanged.
+
+## 2026-11-18用户修正：查询人数及余票
+
+按单张成人票价查询，不必搜索2人。只有航司或平台明确展示对应票档“仅剩X张”，且X小于2，才提示票量不足；未公开库存填null。购买页允许选择2人且没有明确少量票提示时，不判为余量不足。搜索无结果、加载失败、会员或渠道价差都不等于库存不足。Google对照保留其页面实际人数口径，不混淆单价与总价。
+
+发出明显涨跌提醒前必须重新查询并展开同航班票档复核；同一来源在当天前后报价不同，只报告实际取到的报价与时间，不在无证据时归因于渠道、会员或优惠。用户指出更低价时优先重查，核实后更正当日记录与建议。

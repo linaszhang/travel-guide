@@ -296,7 +296,7 @@ async function renderFlightMonitor(){
   // Storage retains the verified booking total; all displayed prices use the same per-person basis.
   const people=Number.isFinite(data.passengers)&&data.passengers>0?data.passengers:2;
   const priceNote=text=>String(text??'').replace(/两人|2人|2位成人|每人|单人/g,'');
-  const quote=q=>q&&Number.isFinite(q.baseCny)?{...q,cny:q.baseCny/people,provider:'携程国内站',fare:q.fare||'经济舱 · 含税起价',seats:q.seats??null}:null;
+  const quote=q=>q&&q.availabilityVerified!==false&&Number.isFinite(q.baseCny)?{...q,cny:q.baseCny/people,provider:'携程国内站',fare:q.fare||'经济舱 · 含税起价',seats:q.seats??null}:null;
   const flights=data.flights.map(f=>({...f,budgetCny:f.budgetCny/people,latest:quote(f.ctrip),history:(f.ctripHistory||[]).map(quote).filter(Boolean),ctrip:f.ctrip?{...f.ctrip,baseCny:f.ctrip.baseCny/people}:null,google:{...f.google,baseCny:f.google.baseCny==null?null:f.google.baseCny/people,typicalRange:f.google.typicalRange?.map(n=>n/people)}})), total=flights.reduce((s,f)=>s+(f.latest?.cny||0),0),baseline=flights.reduce((s,f)=>s+f.budgetCny,0),complete=flights.every(f=>Number.isFinite(f.latest?.cny));
   const delta=n=>`${n>0?'+':n<0?'−':''}${money(Math.abs(n))}`;
   const chart=f=>{
@@ -308,14 +308,14 @@ async function renderFlightMonitor(){
   };
   main.innerHTML=`<div class="page-wrap flight-monitor">
    <header class="monitor-heading"><div class="monitor-title"><a class="monitor-back" href="#budget" aria-label="返回预算单"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h14"/></svg></a><h1>机票价格监测</h1></div><span class="monitor-schedule">${data.schedule.active?'每天10:00检查':'每日检查待启用'}</span></header>
-   <div class="monitor-summary"><div><small>${complete?'最近核实合计':'已核实项目合计'}</small><strong>${money(total)}</strong></div><div><small>原预算</small><div class="monitor-budget-value"><strong>${money(baseline)}</strong><span>与预算 ${delta(total-baseline)}</span></div></div></div>
+   <div class="monitor-summary"><div><small>${complete?'最近核实合计':'已核实项目合计'}</small><strong>${money(total)}</strong></div><div><small>原预算</small><div class="monitor-budget-value"><strong>${money(baseline)}</strong><span>${complete?`与预算 ${delta(total-baseline)}`:'部分航段待核实'}</span></div></div></div>
    ${flights.map(f=>{
     const q=f.latest,g=f.google,history=f.history.filter(h=>Number.isFinite(h.cny)),diff=q?q.cny-f.budgetCny:null,low=history.length?Math.min(...history.map(h=>h.cny)):null;
     return `<article class="monitor-card">
      <header><p class="monitor-eyebrow">${esc(f.date)} · ${esc(f.flight)}</p><h2>${ctripFlightLink(f,people)}</h2><div class="monitor-quote"><strong>${q?money(q.cny):'待核实'}</strong></div><p class="monitor-time">${esc(f.time)}</p></header>
      <div class="monitor-metrics"><div><small>对比预算 ${money(f.budgetCny)}</small><b>${q?`${delta(diff)} · ${diff>0?'+':diff<0?'−':''}${Math.abs(diff/f.budgetCny*100)<.1?'<0.1':Math.abs(diff/f.budgetCny*100).toFixed(1)}%`:'待核实'}</b></div><div><small>票档余票</small><b>${q?.seats!=null?esc(q.seats)+'席':'未公开'}</b></div><div><small>监测期最低</small><b>${low!=null?money(low):'待积累'}</b></div></div>
      <div class="monitor-comparison">
-      <div class="monitor-ctrip"><div class="monitor-row"><b>携程国内站</b><span>${f.ctrip?`含税起价 <strong>${money(f.ctrip.baseCny)}</strong>`:'待核实'}</span>${f.ctrip?link(f.ctrip.url,'查看'):''}</div><small>${f.ctrip?`托运待核实 · ${esc(fmt(f.ctrip.checkedAt))}`:esc(priceNote(f.ctripStatus))}</small></div>
+      <div class="monitor-ctrip"><div class="monitor-row"><b>携程国内站</b><span>${f.ctrip?`含税起价 <strong>${money(f.ctrip.baseCny)}</strong>`:'待核实'}</span>${f.ctrip?link(f.ctrip.url,'查看'):''}</div><small>${f.ctrip?`${f.ctrip.baggageVerified?'含23kg托运已核实':'托运待核实'}${f.ctrip.availabilityVerified===false?' · 票量需复核':''} · ${esc(fmt(f.ctrip.checkedAt))}`:esc(priceNote(f.ctripStatus))}</small></div>
       <div class="monitor-google"><div class="monitor-row"><b>Google Flights</b><span>${g.status==='no_matching_itinerary'?'未返回同款':g.judgment?(g.judgmentScope==='route'?({低:'航线低价',正常:'航线正常',高:'航线高价'}[g.judgment]):'价格'+esc(g.judgment)):g.baseCny?'未提供价格判断':'待核实'}</span>${link(g.url,'查看')}</div><small>${g.baseCny?`基础票价 ${money(g.baseCny)} · `:''}${g.typicalRange?`通常 ${money(g.typicalRange[0])}–${money(g.typicalRange[1])} · `:''}${esc(priceNote(g.note))} · ${esc(fmt(g.checkedAt))}</small></div>
      </div>
      ${f.lastError?`<p class="monitor-error">检查未完成：${esc(f.lastError)}。保留最近记录。</p>`:''}${chart(f)}
