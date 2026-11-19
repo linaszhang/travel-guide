@@ -1295,6 +1295,103 @@
     "nights": 1,
     "options": [
       {
+        "name": "Reykjavik Residence Hotel · 雷克雅未克公寓酒店 · 一卧室公寓 × 2套",
+        "features": "一卧室公寓 × 2套 · 3人保留2套／2人退掉1套",
+        "description": "2.14–2.15预订2套一卧室公寓：3人出行保留2套；2人出行退掉其中1套，仅保留1套。公寓面积、床型、餐食、取消期限及设施按各套Trip订单核对，不沿用旧一室房信息。",
+        "url": "https://www.booking.com/hotel/is/reykjavik-residence.zh-cn.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=2&no_rooms=1&selected_currency=CNY",
+        "total": null,
+        "originalTotal": null,
+        "currency": "CNY",
+        "estimated": false,
+        "status": "已预订 · Trip",
+        "roomLayout": "2套独立一卧室公寓 · 每套1卧室",
+        "cancellation": "新订单取消期限待核对Trip；确定2人出行后，在免费取消期限内退掉1套",
+        "photos": [],
+        "budgetSummary": "2.14–2.15预订2套一卧室公寓：3人出行保留2套；2人出行退掉其中1套，仅保留1套。",
+        "checkInTime": "15:00后",
+        "checkOutTime": "11:00前",
+        "address": "Vatnsstígur 2, 101 Reykjavík, Iceland",
+        "addressNote": "酒店接待处；客房分布于附近多栋建筑，实际入住门牌以分配为准。前台位于步行街，公共停车另计。",
+        "addressSource": "https://www.floracollection.is/hotels/reykjavik-residence",
+        "addressCheckedAt": "2026-11-15",
+        "maxGuests": 4,
+        "capacitySource": "用户指定：3人住2套／2人保留1套",
+        "capacityCheckedAt": "2026-11-19",
+        "galleryCheckedAt": null,
+        "gallerySource": "已移除旧一室房照片；新一卧室公寓的对应相册待核对",
+        "notes": [
+          "2.14–2.15预订2套一卧室公寓：3人出行保留2套；2人出行退掉其中1套，仅保留1套。",
+          "当前已按用户最新安排展示两套一卧室公寓，不再展示原三人住宿方案；此处为行程计划，不代表已代为取消任何订单。",
+          "两套为独立公寓，是否相邻或位于同一栋以酒店分配为准。",
+          "每套房价、餐食、面积、床型和免费取消期限待核对Trip新订单，不沿用旧Studio订单的价格与条件。",
+          "2月15日07:15退房后出发去黄金圈，行李随车携带。",
+          "2月14日晚步行前往ÆGIR 101 Bar，结束后步行回酒店；按酒店实际分配门牌导航。"
+        ],
+        "householdFacilities": {
+          "kitchen": {
+            "status": "待核对",
+            "detail": "按新订一卧室公寓的Trip订单确认"
+          },
+          "washer": {
+            "status": "待核对",
+            "detail": "新房型未核对，不沿用旧房型信息"
+          },
+          "dryer": {
+            "status": "待核对",
+            "detail": "新房型未核对，不沿用旧房型信息"
+          },
+          "charging": {
+            "status": "未确认",
+            "detail": "酒店专属充电设施未确认"
+          },
+          "notes": [
+            "两套一卧室公寓的设施以各自新订单为准。"
+          ],
+          "sources": [],
+          "checked": "2026-11-19"
+        },
+        "hotelFacilities": [
+          {
+            "name": "24小时前台",
+            "detail": "在Vatnsstígur 2接待；房间分布在附近多栋建筑"
+          },
+          {
+            "name": "洗衣设施",
+            "detail": "共用设施，具体位置及使用安排入住时询问前台"
+          },
+          {
+            "name": "早餐",
+            "detail": "可另购早餐篮，本订单不含早餐"
+          },
+          {
+            "name": "停车",
+            "detail": "无酒店专属停车场；附近公共收费停车，前台门口为步行街"
+          },
+          {
+            "name": "桑拿／泡池／充电",
+            "detail": "未确认，当前订单不按包含此类设施展示"
+          }
+        ],
+        "bookingCheckedAt": "2026-11-19",
+        "bookedGuests": null,
+        "bookingPlatform": "Trip",
+        "tabLabel": "Reykjavik Residence Hotel · 一卧室公寓 × 2套",
+        "hotelKey": "reykjavik-residence",
+        "hotelName": "Reykjavik Residence Hotel",
+        "tabRoomType": "一卧室公寓 × 2套",
+        "bedrooms": 1,
+        "isStudio": false,
+        "roomType": "一卧室公寓",
+        "roomCount": 2,
+        "capacityLabel": "3人出行住2套；2人出行保留1套",
+        "pricePending": true,
+        "priceNote": "新订一卧室公寓的金额待核对Trip订单，暂不计入预算；2人方案按1套、3人方案按2套。",
+        "userNote": "2.14–2.15预订2套一卧室公寓：3人出行保留2套；2人出行退掉其中1套，仅保留1套。",
+        "bookingSource": "用户确认的最新住宿安排"
+      }
+    ],
+    "previousOptions": [
+      {
         "name": "Reykjavik Residence Hotel · 雷克雅未克公寓酒店 · 一室房",
         "features": "26㎡一室房 · 私人小厨房 · 2位成人 · 不含早餐 · 市中心步行往返酒吧",
         "description": "雷克雅未克市中心的公寓式酒店，客房分布在多栋历史建筑中。一室房设私人小厨房与浴室；2月14日晚步行到ÆGIR 101 Bar，结束后步行回酒店。",
