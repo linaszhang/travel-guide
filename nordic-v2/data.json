@@ -19,10 +19,10 @@
       {
         "num": 1,
         "id": "v2-helsinki-arrival",
-        "title": "上海 → 12:55抵达赫尔辛基",
-        "date": "2月6日（周六） · 直飞抵达，下午看城市建筑与芬兰设计",
+        "title": "上海 ✈️ 赫尔辛基",
+        "date": "2月6日（周六） · 08:40 - 12:55 直飞抵达，下午看城市建筑与芬兰设计",
         "tags": [
-          "✈️ 08:40 飞赫尔辛基"
+          "✈️ 08:40 - 12:55（10h15m）"
         ],
         "photos": [
           {
@@ -45,36 +45,14 @@
           {
             "time": [
               "上午",
-              "08:40–12:55"
+              "08:40 - 12:55"
             ],
             "emoji": "✈️",
-            "title": "浦东 → 赫尔辛基 · 直飞",
+            "title": "浦东 ✈ 赫尔辛基 · 直飞 10h15m",
             "body": [
               {
-                "t": "2月6日出发，08:40从浦东机场起飞，当地12:55抵达赫尔辛基机场。按图中起降时刻与两地7小时时差计算，全程约11h15m；图片标注的“10h”为概数，实际以机票确认为准。",
+                "t": "08:40从浦东机场T2起飞，当地12:55抵达赫尔辛基机场",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "直飞",
-                        "links": []
-                      },
-                      {
-                        "t": "08:40 → 12:55",
-                        "links": []
-                      },
-                      {
-                        "t": "¥6,141／人",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -94,22 +72,40 @@
           {
             "time": [
               "下午",
-              "约15:00–17:30"
+              "15:00 - 17:30"
             ],
             "emoji": "🏛️",
-            "title": "酒店放行李 → 大教堂外观 → Esplanadi",
+            "title": "酒店放行李 → 赫尔辛基逛街",
             "body": [
               {
-                "t": "入境取行李预留60–90分钟，再乘机场线进城。先入住中央车站或市中心附近，轻装沿参议院广场、大教堂外观走到Esplanadi林荫大道，欣赏历史建筑与橱窗。",
+                "t": "乘 I／P 线到中央车站，先入住酒店放行李\n入住中央车站附近，参议院广场 → 赫尔辛基大教堂 → 港口街区 → Esplanadi → Kämp Galleria／Stockmann",
                 "links": []
               },
               {
-                "t": "逛街择一：Marimekko 市中心店看印花与家居，或 Stockmann 百货集中逛服饰、设计小物；不安排跨城赶路。",
+                "t": "Oodi 中央图书馆：木质立面与通透阅读层，是感受芬兰公共空间设计的好起点（08:00–21:00）\n岩石教堂 Temppeliaukio Church： 直接在天然花岗岩中开凿的教堂，粗粝岩壁与铜质穹顶形成强烈对比，是芬兰最有代表性的现代建筑之一（10:00–17:00）\nEsplanadi 林荫大道：沿 Pohjoisesplanadi 看芬兰设计、橱窗与咖啡馆，适合从港口一路散步逛回来。\nMarimekko 市中心店：喜欢芬兰印花、服饰和家居小物可优先逛；可选 Aleksanterinkatu 50 门店。\nKämp Galleria：位于 Esplanadi 与 Aleksanterinkatu 之间，适合逛时装与设计店，也可作为冬天的室内暖身点。\nStockmann 百货：Aleksanterinkatu 52，服饰、美妆、家居可集中逛，适合抵达日时间有限时优先选。",
                 "links": []
               },
               {
-                "t": "若抵达与入住顺利，Oodi中央图书馆与中央车站优先；随后在Esplanadi周边挑一两家设计店。次日上午前往特罗姆瑟，今天不强行塞满所有建筑。",
-                "links": []
+                "name": "Background",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "c": [
+                      {
+                        "t": " 机场 I／P 线",
+                        "links": []
+                      },
+                      {
+                        "t": "ABC票约¥36/人",
+                        "links": []
+                      },
+                      {
+                        "t": "单程约27–32分钟",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
               }
             ],
             "navigation": {
@@ -136,10 +132,6 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "下午 · 约15:00–17:30",
-              "price": "门票／购物另计"
             }
           },
           {
@@ -150,7 +142,7 @@
             "title": "晚餐 · 入住赫尔辛基市中心",
             "body": [
               {
-                "t": "晚餐后休息，推荐住中央车站、Kluuvi或Kamppi，次日看建筑与去机场都方便。",
+                "t": "推荐：晚餐 Konstan Möljä + 酒吧 Liberty or Death",
                 "links": []
               }
             ],
@@ -166,11 +158,6 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "晚上 · 时间待确认",
-              "price": "stay",
-              "stayId": "helsinki"
             }
           }
         ],
@@ -781,11 +768,11 @@
       {
         "num": 2,
         "id": "v2-revised-2",
-        "title": "赫尔辛基 → 特罗姆瑟 · 峡湾自驾与缆车蓝调",
-        "date": "2月7日（周日） · 08:35抵达，白天看峡湾，15:00前登顶等蓝调",
+        "title": "赫尔辛基 ✈️ 特罗姆瑟 · 峡湾自驾与缆车蓝调",
+        "date": "2月7日（周日） · 07:35 - 08:35 直飞抵达，白天看峡湾，15:00前登顶等蓝调",
         "tags": [
-          "约2–3h（约95–105km）",
-          "✈️ 07:35 飞特罗姆瑟"
+          "✈️ 07:35 - 08:35（2h）",
+          "🚗 2h"
         ],
         "photos": [
           {
@@ -808,36 +795,14 @@
           {
             "time": [
               "上午",
-              "07:35–08:35"
+              "07:35 - 08:35"
             ],
             "emoji": "✈️",
-            "title": "赫尔辛基 → 特罗姆瑟 · 飞行2h",
+            "title": "赫尔辛基 ✈ 特罗姆瑟 · 直飞 2h",
             "body": [
               {
                 "t": "07:35赫尔辛基机场起飞，08:35抵达特罗姆瑟机场；两地时差1小时，实际飞行2小时。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "直飞2h",
-                        "links": []
-                      },
-                      {
-                        "t": "07:35 → 08:35",
-                        "links": []
-                      },
-                      {
-                        "t": "¥2,265／人",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -857,13 +822,13 @@
           {
             "time": [
               "上午",
-              "08:35–10:15"
+              "08:35 - 09:30"
             ],
             "emoji": "🚗",
             "title": "机场取车 · 早餐与补给",
             "body": [
               {
-                "t": "在特罗姆瑟机场取车、验车，确认冬胎与保险；买好水和简餐，约10:15出发。",
+                "t": "在特罗姆瑟机场取车、验车，确认冬胎与保险\n购买水和简餐，Europris Langnes 购买袋装木柴（Ved）、烧烤木炭（Grillkull）和引火块（Tennbriketter）",
                 "links": []
               }
             ],
@@ -875,42 +840,29 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "上午 · 08:35–10:15",
-              "price": "租车见预算"
             }
           },
           {
             "time": [
               "白天",
-              "10:15–13:00"
+              "09:30 - 13:00"
             ],
             "emoji": "🏔️",
             "title": "鲸岛 Kvaløya · Ersfjordbotn 峡湾自驾",
             "body": [
               {
-                "t": "约11:00到Ersfjordbotn，看雪山、海湾与渔村；12:00返城，途中简餐。",
+                "t": "Tromsø → Kvaløysletta → Ersfjordbotn → Grøtfjord → Tromvik → Ersfjordbotn → Tromsø",
                 "links": []
               },
               {
-                "name": "拍照点 · 光线与景色",
+                "t": "Ersfjordbotn 峡湾：鲸岛最经典的峡湾观景点之一，狭长峡湾深入群山之间，两侧陡峭雪山直抵海面，适合拍摄雪山、海湾与倒影。\nGrøtfjord Beach：被高耸雪山环绕的北极海滩，冬季白雪覆盖海岸，深蓝海水与山体形成鲜明对比，是鲸岛非常值得停留的摄影点。\nTromvik 渔村：位于鲸岛西北海岸的小型渔村，彩色木屋、渔船与开阔海湾构成典型的北挪威海岸风光，适合拍摄渔村生活与海边雪山。\nKvaløysletta：位于特罗姆瑟岛西侧、连接鲸岛的沿海居民区，可眺望海峡与周围雪山，适合作为出城后的顺路观景点。\nKaldfjord 峡湾：沿海岸公路欣赏平静海面与连绵雪山，冬季峡湾两岸覆雪，适合沿途拍摄北挪威的峡湾公路风光。\nStorvatnet 湖：通往 Grøtfjord 的山间湖泊，冬季湖面可能结冰，周围雪山与蜿蜒公路构成安静、开阔的冰雪景观。\nGrøtfjord Viewpoint：从高处俯瞰 Grøtfjord 海滩、海湾与周围雪山，比海滩平视角度更适合拍摄峡湾全景。",
+                "links": []
+              },
+              {
+                "name": "拍照点",
                 "c": [
                   {
-                    "name": "拍照点标签",
-                    "c": [
-                      {
-                        "t": "📸",
-                        "links": []
-                      },
-                      {
-                        "t": "拍照点",
-                        "links": []
-                      }
-                    ]
-                  },
-                  {
-                    "t": "峡湾尽头雪峰与海面层次；只在合法停车点拍摄。",
+                    "t": "峡湾尽头雪峰与海面层次",
                     "links": []
                   }
                 ]
@@ -930,40 +882,49 @@
                 }
               ],
               "note": "到村口有标示的停车区后步行看峡湾；导航结果与现场标牌核对，勿停私人车道。",
-              "description": "到Ersfjordbotn观景停车区停车，再步行看峡湾；不占用村民车道。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "特罗姆瑟机场",
-                "to": "Ersfjordbotn",
-                "distance": "15km",
-                "duration": "25–40分钟",
-                "origin": "Tromsø Airport",
-                "destination": "Ersfjordbotn Norway",
-                "routeDistanceKm": 14.5,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 自驾环线 · 3h",
+                "duration": "3h",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E9%A9%BE%E7%8E%AF%E7%BA%BF"
               }
-            ],
-            "infoCard": {
-              "time": "白天 · 10:15–13:00",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "下午",
-              "13:00–13:40"
+              "13:00 - 13:40"
             ],
-            "emoji": "🚗",
-            "title": "Tromsø Outdoor 取雪具",
+            "emoji": "🎿",
+            "title": "Tromsø Outdoor 取雪具（可选）",
             "body": [
               {
-                "t": "取雪板、雪鞋和雪杖，试好尺码后直接前往缆车。 2.7下午取 → 2.8约11:00还；1天最长24h",
+                "t": "门店在Fredrik Langes gate 14，可将车停在Fjellet P-hus后步行取还雪具。",
                 "links": []
               },
               {
-                "t": "门店10:00–17:00；提前预订跨日取还，行李随车。",
-                "links": []
+                "name": "Background",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "c": [
+                      {
+                        "t": "租雪板、雪鞋和雪杖（10:00–17:00）",
+                        "links": []
+                      },
+                      {
+                        "t": "¥325.5/人",
+                        "links": []
+                      },
+                      {
+                        "t": "2.7下午取 → 2.8约11:00还",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
               }
             ],
             "navigation": {
@@ -984,54 +945,58 @@
                 "https://www.tromsooutdoor.no/no/kontakt",
                 "https://www.visittromso.no/travel/getting-around/parking"
               ],
-              "description": "门店在Fredrik Langes gate 14，可将车停在Fjellet P-hus后步行取还雪具。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Ersfjordbotn",
                 "to": "Tromsø Outdoor",
-                "distance": "23km",
-                "duration": "35–50分钟",
+                "duration": "35m",
                 "origin": "Ersfjordbotn Norway",
                 "destination": "Tromsø Outdoor Fredrik Langes gate 14 Tromso",
                 "routeDistanceKm": 23.1,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 Ersfjordbotn → Tromsø Outdoor · 35m"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 13:00–13:40",
-              "price": "465 NOK／人 · 1天",
-              "note": "雪具按最长24小时租赁计费，参考约¥325.5／人；与次日滑雪为同一笔租赁。"
-            }
+            ]
           },
           {
             "time": [
               "下午",
-              "14:00–16:30"
+              "14:00 - 16:30"
             ],
             "emoji": "🚠",
             "title": "Fjellheisen 缆车 · 日落与蓝调",
             "body": [
               {
-                "t": "14:00前到Fjellheisen下站（Solliveien 12）。目前下站不可停车，将车停在Solstrandvegen 30临时停车场，步行约5分钟到站；争取14:30上山、15:00前登顶，约16:30下山。出发前确认运营与停车，低云或停运改港口散步。",
+                "t": "14:00前到Fjellheisen下站（Solliveien 12），将车停在Solstrandvegen 30临时停车场，步行约5分钟到站；15:00前登顶拍摄蓝调时刻，约16:00下山。",
                 "links": []
               },
               {
-                "name": "拍照点 · 光线与景色",
+                "name": "Background",
                 "c": [
                   {
-                    "name": "拍照点标签",
+                    "name": "Paragraph",
                     "c": [
                       {
-                        "t": "📸",
+                        "t": "缆车",
                         "links": []
                       },
                       {
-                        "t": "拍照点",
+                        "t": "645 NOK/往返",
+                        "links": []
+                      },
+                      {
+                        "t": "14:00–16:00",
                         "links": []
                       }
                     ]
-                  },
+                  }
+                ]
+              },
+              {
+                "name": "拍照点",
+                "c": [
                   {
                     "t": "山顶拍海峡、大桥与城市亮灯，等日落后的蓝调。",
                     "links": []
@@ -1062,21 +1027,14 @@
               {
                 "from": "Tromsø Outdoor",
                 "to": "缆车临时停车场",
-                "distance": "11km",
-                "duration": "15–25分钟",
+                "duration": "15m",
                 "origin": "Tromsø Outdoor Fredrik Langes gate 14 Tromso",
                 "destination": "Solstrandvegen 30 Tromsdalen Norway",
                 "routeDistanceKm": 11.2,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 Tromsø Outdoor → 缆车临时停车场 · 15m"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 14:00–16:30",
-              "price": "645 NOK／人 · 往返",
-              "note": "官网成人往返参考价，约¥451.5／人；尚未计入现有预算。",
-              "source": "https://www.fjellheisen.no/",
-              "type": "experience"
-            }
+            ]
           },
           {
             "time": [
@@ -1084,10 +1042,10 @@
               "17:00后"
             ],
             "emoji": "🍽️",
-            "title": "老港口／Skansen · 晚餐后入住 EIRA Fjord Stay",
+            "title": "老港口／Skansen · 晚餐&酒吧后入住 EIRA Fjord Stay",
             "body": [
               {
-                "t": "在Fjellet P-hus停车后，步行逛Skansen老港口30–45分钟；晚餐后自驾回EIRA Fjord Stay（Fagernesvegen 220），入住入口与时间按房东指引。",
+                "t": "在Fjellet P-hus停车后，步行逛 Skansen 老港口、主街 30–45分钟，打卡最北麦当劳\nFINT kafe & bar：有氛围的咖啡厅，周日晚上 8:00-9:00 可听免费的Sunday Jam 即兴爵士",
                 "links": []
               }
             ],
@@ -1115,29 +1073,19 @@
               {
                 "from": "缆车临时停车场",
                 "to": "Skansen",
-                "distance": "11km",
-                "duration": "15–25分钟",
+                "duration": "20m",
                 "origin": "Solstrandvegen 30 Tromsdalen Norway",
                 "destination": "Skansen Tromso",
                 "routeDistanceKm": 11.0,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 缆车临时停车场 → Skansen · 20m"
               },
               {
-                "from": "Skansen",
-                "to": "EIRA Fjord Stay",
-                "distance": "35km",
-                "duration": "35–50分钟",
-                "origin": "Skansen Tromso",
-                "destination": "Fagernesvegen 220 9027 Ramfjordbotn Norway",
-                "routeDistanceKm": 34.7,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 Skansen → EIRA民宿 · 35m",
+                "duration": "35m",
+                "url": "https://www.google.com/maps/search/?api=1&query=Skansen%20%E2%86%92%20EIRA%E6%B0%91%E5%AE%BF"
               }
-            ],
-            "infoCard": {
-              "time": "傍晚 · 17:00后",
-              "price": "stay",
-              "stayId": "tromso-fjord"
-            }
+            ]
           }
         ],
         "stayId": "tromso-fjord"
@@ -1145,10 +1093,10 @@
       {
         "num": 3,
         "id": "v2-revised-3",
-        "title": "特罗姆瑟 · 自主滑雪 → 驯鹿雪橇 → 海港桑拿",
+        "title": "特罗姆瑟 · 滑雪 → 驯鹿雪橇 → 海港桑拿",
         "date": "2月8日（周一） · 天亮后滑雪，下午25–30分钟驯鹿雪橇，晚上桑拿",
         "tags": [
-          "约1.5–2h（约70–80km；营地接送另计）"
+          "🚗 1.5h"
         ],
         "photos": [
           {
@@ -1171,32 +1119,18 @@
           {
             "time": [
               "上午",
-              "09:00–11:15"
+              "09:00 - 11:15"
             ],
             "emoji": "🎿",
-            "title": "Charlottenlund · 自主越野滑雪",
+            "title": "Tromsøbadet · 越野滑雪（可选）",
             "body": [
               {
-                "t": "雪具前一天下午取好；09:00–10:30在平缓雪道自主滑行，顺看公园雪景。 约11:00–11:15还装备，再午餐、换衣，提前到驯鹿集合点。",
+                "t": "雪具前一天下午取好；Tromsøbadet → Vardentoppen 向北滑行，顺看公园森林雪景。 约 11:00 还装备，再午餐、换衣，提前到驯鹿集合点。",
                 "links": []
               },
               {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "租赁雪具 · 1天",
-                        "links": []
-                      },
-                      {
-                        "t": "465 NOK／人 ≈¥325.5",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
+                "t": "还装备时停Fjellet P-hus，步行到Tromsø Outdoor。",
+                "links": []
               }
             ],
             "navigation": {
@@ -1221,47 +1155,26 @@
                 }
               ],
               "note": "滑雪后开回租赁店还装备；公园只使用标示停车位。",
-              "description": "可在Charlottenlund停车区停好车后去雪道；还装备时停Fjellet P-hus，步行到Tromsø Outdoor。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "EIRA Fjord Stay",
-                "to": "Charlottenlund",
-                "distance": "35km",
-                "duration": "40–50分钟",
-                "origin": "Fagernesvegen 220 9027 Ramfjordbotn Norway",
-                "destination": "Charlottenlund aktivitets og friluftspark Tromso",
-                "routeDistanceKm": 34.6,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Charlottenlund",
-                "to": "Tromsø Outdoor",
-                "distance": "2km",
-                "duration": "10–15分钟",
-                "origin": "Charlottenlund aktivitets og friluftspark Tromso",
-                "destination": "Tromsø Outdoor Fredrik Langes gate 14 Tromso",
-                "routeDistanceKm": 2.4,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 EIRA民宿 → Tromsøbadet · 40m",
+                "duration": "40m",
+                "url": "https://www.google.com/maps/search/?api=1&query=EIRA%E6%B0%91%E5%AE%BF%20%E2%86%92%20Troms%C3%B8badet"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 09:00–11:15",
-              "price": "465 NOK／人 · 1天",
-              "note": "参考约¥325.5／人；与前日下午取具为同一笔租赁。",
-              "type": "experience"
-            }
+            ]
           },
           {
             "time": [
               "下午",
-              "13:00–17:00"
+              "13:00 - 17:00"
             ],
             "emoji": "🦌",
             "title": "驯鹿雪橇 · 喂食与萨米文化",
             "body": [
               {
-                "t": "集合时间：2月8日12:40到场，13:00出发；全程约4小时，约17:00返回原集合点。",
+                "t": "集合时间：12:40到场，13:00出发；全程约4小时，约17:00返回原集合点。",
                 "links": []
               },
               {
@@ -1277,17 +1190,25 @@
                 "links": []
               },
               {
+                "t": "将车停在Fjellet P-hus后，步行到Prostneset巴士总站候车，营地段乘运营方巴士。",
+                "links": []
+              },
+              {
                 "name": "Background",
                 "c": [
                   {
                     "name": "Paragraph",
                     "c": [
                       {
-                        "t": "13:00 · 4h",
+                        "t": "驯鹿雪橇&萨米文化",
                         "links": []
                       },
                       {
-                        "t": "¥1,534.20／人 · 已预订",
+                        "t": "¥1,534.20／人",
+                        "links": []
+                      },
+                      {
+                        "t": "13:00–17:00",
                         "links": []
                       }
                     ]
@@ -1309,24 +1230,19 @@
                 }
               ],
               "note": "市区停车后步行到Samuel Arnesens gate 5一楼巴士总站；营地段乘运营方巴士，不自行开往营地。",
-              "description": "将车停在Fjellet P-hus后，步行到Prostneset巴士总站候车，营地段乘运营方巴士。"
-            },
-            "infoCard": {
-              "time": "下午 · 13:00–17:00",
-              "price": "¥1,534.20／人 · 已预订",
-              "type": "experience"
+              "description": ""
             }
           },
           {
             "time": [
               "晚上",
-              "18:00–19:30"
+              "18:00 - 19:30"
             ],
             "emoji": "🧖",
-            "title": "Pust 海港桑拿 · 晚餐",
+            "title": "Pust 海港桑拿（可选） · 晚餐",
             "body": [
               {
-                "t": "浮动桑拿看海港灯光，放松1–1.5小时，之后就近晚餐。带泳衣和两条毛巾。",
+                "t": "浮动桑拿看海港灯光，放松1–1.5小时，之后就近晚餐。带泳衣和两条毛巾。\nPust位于Skippergata 1C，可沿用Fjellet P-hus的停车位，桑拿后取车回民宿。",
                 "links": []
               },
               {
@@ -1336,24 +1252,20 @@
                     "name": "Paragraph",
                     "c": [
                       {
-                        "t": "06:00–23:00",
+                        "t": "Pust 海港桑拿",
                         "links": []
                       },
                       {
-                        "t": "150 NOK／人起 ≈¥105",
+                        "t": "¥105／人",
+                        "links": []
+                      },
+                      {
+                        "t": "需要提前预订",
                         "links": []
                       }
                     ]
                   }
                 ]
-              },
-              {
-                "t": "提前预约；桑拿费用暂未计入预算。",
-                "links": []
-              },
-              {
-                "t": "桑拿后自驾回EIRA Fjord Stay；次日退房进城参加游船。",
-                "links": []
               }
             ],
             "navigation": {
@@ -1374,26 +1286,15 @@
                 }
               ],
               "note": "桑拿位置Skippergata 1C；可沿用市区停车位，活动后取车回民宿。",
-              "description": "Pust位于Skippergata 1C，可沿用Fjellet P-hus的停车位，桑拿后取车回民宿。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "Pust",
-                "to": "EIRA Fjord Stay",
-                "distance": "35km",
-                "duration": "35–50分钟",
-                "origin": "Pust Sauna Skippergata 1C Tromso",
-                "destination": "Fagernesvegen 220 9027 Ramfjordbotn Norway",
-                "routeDistanceKm": 35.2,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 Pust → EIRA民宿 · 40m",
+                "duration": "40m",
+                "url": "https://www.google.com/maps/search/?api=1&query=Pust%20%E2%86%92%20EIRA%E6%B0%91%E5%AE%BF"
               }
-            ],
-            "infoCard": {
-              "time": "晚上 · 18:00–19:30",
-              "price": "150 NOK／人起",
-              "note": "现有参考约¥105／人；实际场次价格待确认，晚餐另计。",
-              "type": "experience"
-            }
+            ]
           }
         ],
         "stayId": "tromso-fjord"
@@ -1404,7 +1305,7 @@
         "title": "特罗姆瑟 · 峡湾游船与海钓 → 塞尼亚岛",
         "date": "2月9日（周二） · 游船后约15:30自驾出发，晚上入住塞尼亚北部",
         "tags": [
-          "约4–5.5h（约255–270km；陆路）"
+          "🚗 4h"
         ],
         "photos": [
           {
@@ -1427,13 +1328,13 @@
           {
             "time": [
               "上午",
-              "09:00–09:45"
+              "09:00 - 09:45"
             ],
             "emoji": "🚗",
             "title": "退房 · 前往游船码头",
             "body": [
               {
-                "t": "早餐后退房，行李随车；停好车，09:45前到码头集合。 Killengreens gate 7–11前方码头，Radisson Blu与Scandic Ishavshotel附近。",
+                "t": "将车停在Fjellet P-hus，步行到Front Pier，在Killengreens gate 7–11前方码头集合。",
                 "links": []
               }
             ],
@@ -1451,29 +1352,20 @@
                 }
               ],
               "note": "码头在Killengreens gate 7–11前方，停车后步行到船外集合。",
-              "description": "将车停在Fjellet P-hus，步行到Front Pier，在Killengreens gate 7–11前方码头集合。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "EIRA Fjord Stay",
-                "to": "Front Pier",
-                "distance": "36km",
-                "duration": "35–50分钟",
-                "origin": "Fagernesvegen 220 9027 Ramfjordbotn Norway",
-                "destination": "Killengreens gate 7 Tromso",
-                "routeDistanceKm": 35.8,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 EIRA民宿 → Front Pier · 35m",
+                "duration": "35m",
+                "url": "https://www.google.com/maps/search/?api=1&query=EIRA%E6%B0%91%E5%AE%BF%20%E2%86%92%20Front%20Pier"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 09:00–09:45",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "白天",
-              "10:00–15:00"
+              "10:00 - 15:00"
             ],
             "emoji": "🚢",
             "title": "Polar Adventures · 峡湾游船与海钓",
@@ -1491,21 +1383,21 @@
                 "links": []
               },
               {
-                "t": "随身准备：保暖衣物与舒适防滑鞋；返港后约15:30取车去塞尼亚，罗弗敦不再重复安排海钓。",
-                "links": []
-              },
-              {
                 "name": "Background",
                 "c": [
                   {
                     "name": "Paragraph",
                     "c": [
                       {
-                        "t": "10:00 · 5h",
+                        "t": "峡湾游船与海钓",
                         "links": []
                       },
                       {
-                        "t": "¥1,358／人 · 已预订",
+                        "t": "¥1,358／人",
+                        "links": []
+                      },
+                      {
+                        "t": "10:00–15:00",
                         "links": []
                       }
                     ]
@@ -1535,24 +1427,19 @@
                 }
               ],
               "note": "集合以订单中的Front Pier为准，不前往其他游船码头。",
-              "description": "市区停车可选Fjellet P-hus，步行到Front Pier登船，以订单中的集合码头为准。"
-            },
-            "infoCard": {
-              "time": "白天 · 10:00–15:00",
-              "price": "¥1,358／人 · 已预订",
-              "type": "experience"
+              "description": ""
             }
           },
           {
             "time": [
               "下午",
-              "约15:30出发"
+              "15:00 - 18:00"
             ],
             "emoji": "🚗",
             "title": "特罗姆瑟 → 塞尼亚 · 入住Botnhamn",
             "body": [
               {
-                "t": "返港后直接取车，经Finnsnes陆路去塞尼亚；预计19:30–21:00入住。如选择181轮渡（Brensholmen → Botnhamn），游船15:00返港、约15:30取车出发，赶17:00班次偏紧，19:00比较从容（出行前再核对班次）。",
+                "t": "返港后直接取车，乘坐181轮渡（Brensholmen → Botnhamn）17:00班次，预计18:00入住。",
                 "links": []
               }
             ],
@@ -1564,27 +1451,28 @@
                 }
               ],
               "note": "房源最终入口按房东指引；陆路经Finnsnes，不把轮渡班次计入保底路线。",
-              "description": "入住Botnhamn民宿的最终入口按房东指引，陆路路线经Finnsnes。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Front Pier",
                 "to": "Botnhamn",
-                "distance": "219km",
-                "duration": "3.5–4.5小时",
+                "duration": "1h",
                 "origin": "Killengreens gate 7 Tromso",
                 "destination": "Botnhamn Senja Norway",
                 "routeDistanceKm": 219.0,
                 "checkedAt": "2026-11-10",
                 "waypoints": [
                   "Finnsnes Norway"
-                ]
+                ],
+                "label": "🚗 Front Pier → Botnhamn ·1h"
+              },
+              {
+                "label": "🚢 Brensholmen → Botnhamn·1h",
+                "duration": "1h",
+                "url": "https://www.google.com/maps/search/?api=1&query=Brensholmen%20%E2%86%92%20Botnhamn"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 约15:30出发",
-              "price": "租车／油费见预算"
-            }
+            ]
           }
         ],
         "stayId": "senja"
@@ -1592,10 +1480,10 @@
       {
         "num": 5,
         "id": "v2-revised-5",
-        "title": "塞尼亚岛 · Hesten 徒步看 Segla",
+        "title": "塞尼亚岛 · Hesten 徒步看 Segla 山",
         "date": "2月10日（周三） · 自主徒步，把白天留给雪山与峡湾",
         "tags": [
-          "约1–1.5h自驾（约35–40km）"
+          "🚗 1h"
         ],
         "photos": [
           {
@@ -1618,10 +1506,10 @@
           {
             "time": [
               "白天",
-              "按天气与路况安排"
+              "9:00 - 13:00"
             ],
             "emoji": "🥾",
-            "title": "Hesten／Segla · 自主雪山徒步",
+            "title": "Hesten／Segla · 雪山徒步",
             "body": [
               {
                 "t": "从Fjordgård的Hesten起点自主徒步，沿Hesten方向欣赏Segla与峡湾；不安排登顶Segla。",
@@ -1630,6 +1518,50 @@
               {
                 "t": "给交通、装备检查和徒步预留白天约4–6小时，按积雪、天光与体力决定折返位置。强风、结冰或雪崩条件不适合时取消山地路线，改在Fjordgård村内与海岸观景。",
                 "links": []
+              },
+              {
+                "name": "Background",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "c": [
+                      {
+                        "t": "Hesten雪山徒步",
+                        "links": []
+                      },
+                      {
+                        "t": "需准备登山杖、冰爪、雪鞋",
+                        "links": []
+                      },
+                      {
+                        "t": "4h",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Background",
+                "c": [
+                  {
+                    "name": "Paragraph",
+                    "c": [
+                      {
+                        "t": "Damperiet Sauna 海上桑拿：漂浮桑拿房面向峡湾和 Segla 山，能从桑拿房直接走到甲板，体验冷水浸泡",
+                        "links": []
+                      },
+                      {
+                        "t": "¥170／人",
+                        "links": []
+                      },
+                      {
+                        "t": "4h",
+                        "links": []
+                      }
+                    ]
+                  }
+                ]
               }
             ],
             "navigation": {
@@ -1650,26 +1582,15 @@
                 }
               ],
               "note": "导航至Hesten徒步起点，在Fjordgård徒步停车区停车；不导航到Segla山顶。",
-              "description": "导航到Fjordgård的Hesten徒步起点，在徒步停车区停车后自主出发。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "Botnhamn",
-                "to": "Hesten徒步起点",
-                "distance": "18km",
-                "duration": "30–40分钟",
-                "origin": "Botnhamn Senja Norway",
-                "destination": "Hesten trailhead Fjordgard Senja Norway",
-                "routeDistanceKm": 18.3,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 Botnhamn → Hesten起点 · 30m",
+                "duration": "30m",
+                "url": "https://www.google.com/maps/search/?api=1&query=Botnhamn%20%E2%86%92%20Hesten%E8%B5%B7%E7%82%B9"
               }
-            ],
-            "infoCard": {
-              "time": "白天 · 按天气与路况安排",
-              "price": "自主徒步 · 无向导费",
-              "note": "装备租赁、停车等费用另计。",
-              "type": "experience"
-            }
+            ]
           },
           {
             "time": [
@@ -1700,18 +1621,14 @@
               {
                 "from": "Fjordgård",
                 "to": "Botnhamn",
-                "distance": "18km",
-                "duration": "30–40分钟",
+                "duration": "30m",
                 "origin": "Fjordgard Senja Norway",
                 "destination": "Botnhamn Senja Norway",
                 "routeDistanceKm": 18.2,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 Fjordgård → Botnhamn · 30m"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 时间待确认",
-              "price": "已含连住住宿"
-            }
+            ]
           }
         ],
         "stayId": "senja"
@@ -1722,7 +1639,7 @@
         "title": "塞尼亚海岸自驾 → 罗弗敦 Ballstad",
         "date": "2月11日（周四） · 上午海岸短停，前往Ballstad，谢尔斯塔一卧室公寓连住两晚",
         "tags": [
-          "约9–11h自驾与海岸短停；终点为Ballstad"
+          "🚗 9h"
         ],
         "photos": [
           {
@@ -1745,13 +1662,17 @@
           {
             "time": [
               "上午",
-              "08:00–10:00"
+              "09:00 - 14:00"
             ],
             "emoji": "🏔️",
-            "title": "塞尼亚海岸 · 观景短停",
+            "title": "塞尼亚海岸环线自驾",
             "body": [
               {
-                "t": "Ersfjordstranda → Tungeneset → Bergsbotn，按路况选1–2处短停；不重复Hesten徒步。",
+                "t": "Bergsbotn → Tungeneset → Ersfjordstranda → Mefjordvær → Husøy",
+                "links": []
+              },
+              {
+                "t": "Tungeneset 观景台：木质栈道延伸至海边岩石，“魔鬼之牙”的 Okshornan 锯齿状雪山，山峰与北冰洋形成极具冲击力的构图\nBergsbotn 观景台：44m 长的悬空观景平台，俯瞰 Bergsfjord 峡湾、雪山与海边村落\nHusøy Viewpoint：从高处俯瞰被群山与峡湾环绕的独立小岛渔村，密集的彩色房屋与壮阔雪山形成鲜明对比\nErsfjordstranda Beach：被高耸雪山环绕的北极白沙滩，冬季白雪、浅色沙滩与深蓝海水交织\nMefjordvær Harbour：坐落于狭长峡湾沿岸的传统渔村，彩色木屋、渔船、防波堤与陡峭雪山构成典型的北挪威海岸风光\nHamn i Senja：由小岛、礁石和海湾组成的海滨港口，白色建筑与周围雪山相映，景观比北部峡湾更加柔和\nGryllefjord：位于塞尼亚岛西部的狭长峡湾渔村，两侧陡峭山壁直抵海面，冬季雪山与彩色渔村形成强烈对比",
                 "links": []
               }
             ],
@@ -1789,55 +1710,26 @@
                 "https://www.nasjonaleturistveger.no/en/routes/senja/tungeneset/",
                 "https://www.nasjonaleturistveger.no/no/turistvegene/senja/ersfjordstranda/"
               ],
-              "description": "沿途分别使用Ersfjordstranda停车区、Tungeneset停车区和Bergsbotn停车区，停好车再步行到海滩或观景平台。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "Botnhamn",
-                "to": "Ersfjordstranda",
-                "distance": "31km",
-                "duration": "45–60分钟",
-                "origin": "Botnhamn Senja Norway",
-                "destination": "Ersfjordstranda Senja Norway",
-                "routeDistanceKm": 30.9,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Ersfjordstranda",
-                "to": "Tungeneset",
-                "distance": "3km",
-                "duration": "5–10分钟",
-                "origin": "Ersfjordstranda Senja Norway",
-                "destination": "Tungeneset Senja Norway",
-                "routeDistanceKm": 3.1,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Tungeneset",
-                "to": "Bergsbotn",
-                "distance": "14km",
-                "duration": "20–30分钟",
-                "origin": "Tungeneset Senja Norway",
-                "destination": "Bergsbotn viewpoint Senja Norway",
-                "routeDistanceKm": 14.2,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 环岛路线 · 3h",
+                "duration": "3h",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E7%8E%AF%E5%B2%9B%E8%B7%AF%E7%BA%BF"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 08:00–10:00",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
-              "白天",
-              "10:00出发"
+              "下午",
+              "14:00 - 22:00"
             ],
             "emoji": "🚗",
             "title": "塞尼亚 → Ballstad · 入住 谢尔斯塔渔人码头公寓",
             "body": [
               {
-                "t": "经Finnsnes、Bjerkvik沿主干道和E10前往Ballstad，中途午餐、充电与休息。今晚入住谢尔斯塔渔人码头公寓已预订的一卧室公寓，连住两晚、含早餐。入住截止21:00，至少提前一天告知预计抵达时间，晚抵达提前与住宿确认。",
+                "t": "长途驾驶7h，中途充电与休息。目的地为Moloveien 41的谢尔斯塔渔人码头公寓，使用住宿免费私人停车位，入口按房东指引。",
                 "links": []
               }
             ],
@@ -1857,28 +1749,23 @@
                 }
               ],
               "note": "使用住宿私人停车位，提前与房东确认入住安排；本段走陆路。",
-              "description": "目的地为Moloveien 41的谢尔斯塔渔人码头公寓，使用住宿免费私人停车位，入口按房东指引。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Bergsbotn",
                 "to": "谢尔斯塔渔人码头公寓",
-                "distance": "450–470km",
-                "duration": "冬季预留8–10小时（规划估算）",
+                "duration": "7h",
                 "origin": "Bergsbotn viewpoint Senja Norway",
                 "destination": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
                 "checkedAt": "2026-11-15",
                 "waypoints": [
                   "Finnsnes Norway",
                   "Bjerkvik Norway"
-                ]
+                ],
+                "label": "🚗 Bergsbotn → 谢尔斯塔渔人码头公寓 · 7h"
               }
-            ],
-            "infoCard": {
-              "time": "白天 · 10:00出发",
-              "price": "stay",
-              "stayId": "solsiden"
-            }
+            ]
           }
         ],
         "stayId": "solsiden"
@@ -1889,7 +1776,7 @@
         "title": "罗弗敦南部 · 雷纳／渔村海岸 → Ballstad",
         "date": "2月12日（周五） · Ballstad往返南部渔村，续住谢尔斯塔渔人码头公寓",
         "tags": [
-          "约3–4.5h自驾（约130–150km，冬季规划估算）"
+          "🚗 3h"
         ],
         "photos": [
           {
@@ -1912,13 +1799,17 @@
           {
             "time": [
               "上午",
-              "09:00–12:00"
+              "09:00 - 15:00"
             ],
             "emoji": "🏘️",
-            "title": "Ballstad → Hamnøy → Sakrisøy → Reine",
+            "title": "南部精华线，罗弗敦最经典的雪山渔村景观",
             "body": [
               {
-                "t": "桥梁、红色渔屋、黄色渔屋与雷纳海湾。只在指定停车点短走；Reinebringen冬季登山不安排。",
+                "t": "Ballstad → Nusfjord → Skagsanden → Ramberg → Fredvang Bridges → Hamnøy → Sakrisøy → Reine → Å → Ballstad",
+                "links": []
+              },
+              {
+                "t": "Nusfjord 渔村： 罗弗敦保存最完整的传统渔村之一，木栈桥、老商店和渔业建筑极具北欧历史氛围，适合深入步行探索\nSkagsanden Beach： 黑色湿沙与浅色沙滩交错，退潮后形成镜面反射，冬季可拍摄雪山倒影和海浪纹理\nRamberg Beach： 宽阔的白色沙滩与碧蓝海水被雪山环绕，海岸线比 Skagsanden 更开阔\nFredvang Bridges： 两座弧形桥梁连接小岛与山间海湾，蜿蜒道路、雪山和海面构成罗弗敦极具辨识度的公路摄影画面\nHamnøy Viewpoint： 罗弗敦最具代表性的明信片机位，红色渔人小屋依偎在海边礁石上，背后是陡峭的 Festhæltinden 雪山\nSakrisøy 渔村： 以鲜艳黄色渔人小屋闻名，小岛四周环绕碧绿色海水和尖锐雪山，色彩对比非常强烈\nReinehalsen Viewpoint： 从公路旁俯瞰 Reine 渔村、峡湾和层叠雪山，是无需徒步即可拍摄罗弗敦经典全景的最佳机位之一\nReine 渔村： 被陡峭雪山环绕的海滨渔村，红色木屋、码头与峡湾倒影构成罗弗敦最经典的风景，建议进入村内沿海岸散步\nÅ 渔村： E10 公路最南端的传统渔村，保留木质鱼干架、红色渔屋与传统渔业建筑",
                 "links": []
               }
             ],
@@ -1955,139 +1846,26 @@
               "sources": [
                 "https://reinebringen.no/parking/"
               ],
-              "description": "Hamnøy和Sakrisøy只停标示公共车位，可分别查看Hamnøy观景停车区、Sakrisøy停车区；到Reine后推荐停Reine外港停车场，再步行逛村。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "谢尔斯塔渔人码头公寓",
-                "to": "Hamnøy",
-                "distance": "60–70km",
-                "duration": "冬季预留1–1.5小时（规划估算）",
-                "origin": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
-                "destination": "Hamnøy bridge Norway",
-                "checkedAt": "2026-11-15"
-              },
-              {
-                "from": "Hamnøy",
-                "to": "Sakrisøy",
-                "distance": "1km",
-                "duration": "3–5分钟",
-                "origin": "Hamnøy bridge Norway",
-                "destination": "Sakrisoy Norway",
-                "routeDistanceKm": 1.1,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Sakrisøy",
-                "to": "Reine",
-                "distance": "4km",
-                "duration": "5–10分钟",
-                "origin": "Sakrisoy Norway",
-                "destination": "Reine Norway",
-                "routeDistanceKm": 4.0,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 自驾环线 4h",
+                "duration": "4h",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E9%A9%BE%E7%8E%AF%E7%BA%BF%204h"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 09:00–12:00",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "下午",
-              "12:00–14:30"
-            ],
-            "emoji": "🏖️",
-            "title": "北返海岸 · Ramberg／Skagsanden",
-            "body": [
-              {
-                "t": "午餐后沿E10返回，在Ramberg、Skagsanden海滩拍雪山海湾，再前往Nusfjord渔村。",
-                "links": []
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "Ramberg",
-                  "query": "Rambergstranda Norway"
-                },
-                {
-                  "label": "Skagsanden",
-                  "query": "Skagsanden beach Norway"
-                },
-                {
-                  "label": "Nusfjord",
-                  "query": "Nusfjord Norway"
-                }
-              ],
-              "parking": [
-                {
-                  "label": "Rambergstranda停车区",
-                  "query": "Rambergstranda rest area Norway"
-                },
-                {
-                  "label": "Skagsanden停车区",
-                  "query": "Skagsanden beach parking Norway"
-                },
-                {
-                  "label": "Nusfjord游客停车区",
-                  "query": "Nusfjord parking Norway"
-                }
-              ],
-              "note": "使用标示游客停车区。",
-              "sources": [
-                "https://www.nasjonaleturistveger.no/en/routes/lofoten/rambergstranda/"
-              ],
-              "description": "使用Rambergstranda、Skagsanden及Nusfjord游客停车区。"
-            },
-            "drives": [
-              {
-                "from": "Reine",
-                "to": "Ramberg",
-                "distance": "27km",
-                "duration": "35–45分钟",
-                "origin": "Reine Norway",
-                "destination": "Rambergstranda Norway",
-                "routeDistanceKm": 26.6,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Ramberg",
-                "to": "Skagsanden",
-                "distance": "3km",
-                "duration": "5–10分钟",
-                "origin": "Rambergstranda Norway",
-                "destination": "Skagsanden beach Norway",
-                "routeDistanceKm": 2.7,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Skagsanden",
-                "to": "Nusfjord",
-                "distance": "12km",
-                "duration": "20–30分钟",
-                "origin": "Skagsanden beach Norway",
-                "destination": "Nusfjord Norway",
-                "routeDistanceKm": 12.4,
-                "checkedAt": "2026-11-10"
-              }
-            ],
-            "infoCard": {
-              "time": "下午 · 12:00–14:30",
-              "price": "门票／停车费另计"
-            }
-          },
-          {
-            "time": [
-              "下午",
-              "14:30出发"
+              "15:00"
             ],
             "emoji": "🚗",
             "title": "返回 Ballstad · 续住 谢尔斯塔渔人码头公寓",
             "body": [
               {
-                "t": "返回Ballstad的谢尔斯塔渔人码头公寓续住，无需再次办理入住。可用房内厨房准备晚餐，或在住宿餐厅用餐；公共桑拿、热水浴缸按酒店安排与收费使用。房型未确认洗衣机和烘干机，不安排房内洗烘。Henningsvær和Kabelvåg留给次日上午。",
+                "t": "返回Ballstad的谢尔斯塔渔人码头公寓续住，无需再次办理入住。可用房内厨房准备晚餐，或在住宿餐厅用餐；公共桑拿、热水浴缸按酒店安排与收费使用。",
                 "links": []
               }
             ],
@@ -2098,7 +1876,7 @@
                   "query": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway"
                 }
               ],
-              "description": "返回Moloveien 41的谢尔斯塔渔人码头公寓，使用住宿免费私人停车位。"
+              "description": ""
             },
             "drives": [
               {
@@ -2106,16 +1884,11 @@
                 "to": "谢尔斯塔渔人码头公寓",
                 "origin": "Nusfjord Norway",
                 "destination": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
-                "distance": "35–45km",
-                "duration": "冬季预留45–60分钟（规划估算）",
-                "checkedAt": "2026-11-15"
+                "duration": "45m",
+                "checkedAt": "2026-11-15",
+                "label": "🚗 Nusfjord → 谢尔斯塔渔人码头公寓 · 45m"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 14:30出发",
-              "price": "stay",
-              "stayId": "solsiden"
-            }
+            ]
           }
         ],
         "stayId": "solsiden"
@@ -2126,7 +1899,7 @@
         "title": "罗弗敦北部 · 亨宁斯维尔／港口 → 特罗姆瑟",
         "date": "2月13日（周六） · 上午看北部渔村，午前出发返回特罗姆瑟",
         "tags": [
-          "约9–11h（约530–560km，冬季规划估算）"
+          "🚗 9h"
         ],
         "photos": [
           {
@@ -2149,13 +1922,21 @@
           {
             "time": [
               "上午",
-              "08:00–10:00"
+              "09:00 - 14:00"
             ],
             "emoji": "🏘️",
-            "title": "Henningsvær · 海港与桥梁",
+            "title": "罗弗敦中北部海岸自驾",
             "body": [
               {
-                "t": "从Ballstad的谢尔斯塔渔人码头公寓退房出发，行李随车携带，前往Henningsvær，沿港湾短走拍渔屋与雪山。",
+                "t": "Ballstad → Vik Beach → Haukland Beach → Uttakleiv Beach → Unstad Beach → Eggum → Henningsvær",
+                "links": []
+              },
+              {
+                "t": "Unstad、Eggum 是独立支路，需要折返；如果冬季道路结冰或时间不足，建议优先保留 Haukland、Uttakleiv 和 Henningsvær。",
+                "links": []
+              },
+              {
+                "t": "Vik Beach： 位于 Haukland 附近的安静白沙滩，浅色沙滩、碧绿海水与陡峭雪山形成清澈柔和的北极海岸景观\nHaukland Beach： 罗弗敦最著名的北极海滩之一，洁白沙滩、蓝绿色海水与环绕海湾的巨大雪山形成强烈对比\nUttakleiv Beach： 面向大西洋的野性海滩，圆润礁石、海浪与雪山构成独特景观\nUnstad Beach： 罗弗敦著名的北极冲浪海滩，海湾被高耸雪山包围，冬季仍可能看到冲浪者挑战冰冷海浪\nEggum： 位于 Vestvågøy 北部的偏远海岸，开阔海面、草地与陡峭山体构成荒凉而安静的北极风景\nHenningsvær 渔村： 被称为“罗弗敦威尼斯”，由多个小岛和桥梁连接，拥有彩色渔屋、画廊、咖啡馆及著名的海边足球场，是两天行程中最适合深入逛街、喝咖啡和感受当地生活的地方",
                 "links": []
               }
             ],
@@ -2176,80 +1957,26 @@
               "sources": [
                 "https://visitlofoten.com/en/destination/henningsvaer/"
               ],
-              "description": "把车停在Henningsvær入口停车区，再步行逛港口与桥梁。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "谢尔斯塔渔人码头公寓",
-                "to": "Henningsvær",
-                "distance": "60–70km",
-                "duration": "冬季预留1–1.5小时（规划估算）",
-                "origin": "Solsiden Brygge Rorbuer Moloveien 41 Ballstad Norway",
-                "destination": "Henningsvaer Norway",
-                "checkedAt": "2026-11-15"
+                "label": "🚗 自驾环线 4h",
+                "duration": "4h",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E9%A9%BE%E7%8E%AF%E7%BA%BF%204h"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 08:00–10:00",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
-              "上午",
-              "10:30–11:00"
-            ],
-            "emoji": "🏘️",
-            "title": "Kabelvåg · 渔港短停",
-            "body": [
-              {
-                "t": "北返途中在传统港口短停；天气差或前一段延误时直接跳过，优先留出返程时间。",
-                "links": []
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "Kabelvåg",
-                  "query": "Kabelvag harbour Norway"
-                }
-              ],
-              "parking": [
-                {
-                  "label": "Kabelvåg港口停车区",
-                  "query": "Kabelvag parking Norway"
-                }
-              ],
-              "note": "使用镇内标示公共车位，步行到港口。",
-              "description": "可在Kabelvåg港口停车区停车，沿港口短走一圈。"
-            },
-            "drives": [
-              {
-                "from": "Henningsvær",
-                "to": "Kabelvåg",
-                "distance": "19km",
-                "duration": "25–35分钟",
-                "origin": "Henningsvaer Norway",
-                "destination": "Kabelvag harbour Norway",
-                "routeDistanceKm": 19.3,
-                "checkedAt": "2026-11-10"
-              }
-            ],
-            "infoCard": {
-              "time": "上午 · 10:30–11:00",
-              "price": "停车费另计"
-            }
-          },
-          {
-            "time": [
-              "白天",
-              "11:00出发"
+              "下午",
+              "14:00 - 22:00"
             ],
             "emoji": "🚗",
             "title": "斯沃尔维尔 → 特罗姆瑟",
             "body": [
               {
-                "t": "经E10、Bjerkvik走陆路返回；含补给和休息按7–9小时留量，冬季路况另留缓冲。当天不再返回雷纳。",
+                "t": "经E10、Bjerkvik走陆路返回",
                 "links": []
               }
             ],
@@ -2264,38 +1991,30 @@
                   "query": "Super central studio apartment Tromso Norway"
                 }
               ],
-              "description": "抵达后前往Super central studio apartment，最终入口按房东指引。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "Kabelvåg",
-                "to": "Super central studio apartment",
-                "distance": "435km",
-                "duration": "7–9小时",
-                "origin": "Kabelvag harbour Norway",
-                "destination": "Super central studio apartment Tromso Norway",
-                "routeDistanceKm": 435.0,
-                "checkedAt": "2026-11-10",
-                "waypoints": [
-                  "Bjerkvik Norway"
-                ]
+                "label": "🚗 Henningsvær → 市中心公寓 · 7h",
+                "duration": "7h",
+                "url": "https://www.google.com/maps/search/?api=1&query=Henningsv%C3%A6r%20%E2%86%92%20%E5%B8%82%E4%B8%AD%E5%BF%83%E5%85%AC%E5%AF%93"
               }
-            ],
-            "infoCard": {
-              "time": "白天 · 11:00出发",
-              "price": "租车／油费见预算"
-            }
+            ]
           },
           {
             "time": [
               "晚上",
-              "约19:00–21:00"
+              "22:00"
             ],
             "emoji": "🏨",
             "title": "入住 Super central studio apartment",
             "body": [
               {
                 "t": "入住特罗姆瑟市中心小公寓，简单晚餐后休息；次晨清晨还车，07:50飞冰岛。",
+                "links": []
+              },
+              {
+                "t": "若公寓订单不含停车，可使用Fjellet P-hus，再步行前往住处。",
                 "links": []
               }
             ],
@@ -2313,12 +2032,7 @@
                 }
               ],
               "note": "公寓停车是否包含在订单内需核对；不含时可用市区公共停车库。",
-              "description": "若公寓订单不含停车，可使用Fjellet P-hus，再步行前往住处。"
-            },
-            "infoCard": {
-              "time": "晚上 · 约19:00–21:00",
-              "price": "stay",
-              "stayId": "tromso-airport"
+              "description": ""
             }
           }
         ],
@@ -2351,8 +2065,8 @@
         "title": "特罗姆瑟 → 冰岛 · 教堂秋千 → 雷市酒吧",
         "date": "2月14日（周日） · 14:20抵达，市区入住，晚间ÆGIR 101 Bar",
         "tags": [
-          "约1–1.5h自驾（机场 → 教堂 → 雷市酒店，约50–55km）",
-          "✈️ 07:50 飞冰岛 · 经卑尔根"
+          "✈️ 07:50 飞冰岛 · 经卑尔根，14:20抵达",
+          "🚗 1h"
         ],
         "photos": [
           {
@@ -2370,7 +2084,7 @@
           {
             "time": [
               "上午",
-              "07:50–14:20"
+              "07:50 - 14:20"
             ],
             "emoji": "✈️",
             "title": "特罗姆瑟 → 卑尔根中转 → 雷克雅未克",
@@ -2378,28 +2092,6 @@
               {
                 "t": "07:50特罗姆瑟机场出发，经卑尔根中转2h50m，14:20抵达KEF机场。起降均为当地时间。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "全程7h30m · 卑尔根中转2h50m",
-                        "links": []
-                      },
-                      {
-                        "t": "07:50 → 14:20",
-                        "links": []
-                      },
-                      {
-                        "t": "¥1,487／人",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -2417,27 +2109,26 @@
             },
             "drives": [
               {
-                "from": "Super central studio apartment",
-                "to": "特罗姆瑟机场",
-                "distance": "8km",
-                "duration": "10–20分钟（清晨还车）",
-                "origin": "Super central studio apartment Tromso Norway",
-                "destination": "Tromsø Airport",
-                "routeDistanceKm": 7.6,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 市中心公寓 → 特罗姆瑟机场 · 10m（清晨还车）",
+                "duration": "10m",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E4%B8%AD%E5%BF%83%E5%85%AC%E5%AF%93%20%E2%86%92%20%E7%89%B9%E7%BD%97%E5%A7%86%E7%91%9F%E6%9C%BA%E5%9C%BA"
               }
             ]
           },
           {
             "time": [
               "下午",
-              "14:20–15:30"
+              "14:20 - 15:00"
             ],
             "emoji": "🚗",
             "title": "机场取车",
             "body": [
               {
                 "t": "按订单于15:00取车并记录车况，行李随车携带。目标15:30离开机场，先去雷市教堂门口拍秋千，再到市中心雷克雅未克公寓酒店办理入住。",
+                "links": []
+              },
+              {
+                "t": "导航到Blikavöllur 3的Zero Car取还车点，按Zero Car／Blue Car Rental标识找交付办公室。",
                 "links": []
               }
             ],
@@ -2449,31 +2140,57 @@
                 }
               ],
               "note": "Blikavöllur 3，按Zero Car／Blue Car Rental交付指引找办公室。",
-              "description": "导航到Blikavöllur 3的Zero Car取还车点，按Zero Car／Blue Car Rental标识找交付办公室。"
-            },
-            "infoCard": {
-              "time": "下午 · 14:20–15:30",
-              "price": "租车见预算"
+              "description": ""
             }
           },
           {
             "time": [
               "下午",
-              "约16:30–17:00"
+              "16:00 - 17:00"
             ],
-            "emoji": "⛪",
-            "title": "Hallgrímskirkja 哈尔格林姆斯教堂 · 秋千拍照",
+            "emoji": "🏨",
+            "title": "雷克雅未克公寓酒店 · 办理入住",
             "body": [
               {
-                "t": "机场取车后先到Hallgrímskirkja，预留约30分钟拍教堂正面与门口秋千。面对教堂时先到左侧找秋千，让人物与高耸立面一起入镜；这是游客记录中的位置，二月是否保留、开放以现场为准。",
+                "t": "先在市中心附近合法公共收费车位停车，再步行到Vatnsstígur 2前台办理入住。实际入住楼栋以酒店分配为准，停车收费与限制按现场标识。",
+                "links": []
+              }
+            ],
+            "navigation": {
+              "locations": [
+                {
+                  "label": "酒店接待处 · Vatnsstígur 2",
+                  "query": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
+                }
+              ],
+              "description": ""
+            },
+            "drives": [
+              {
+                "label": "🚗 Zero Car → Hallgrímskirkja · 50m",
+                "duration": "50m",
+                "url": "https://www.google.com/maps/search/?api=1&query=Zero%20Car%20%E2%86%92%20Hallgr%C3%ADmskirkja"
+              }
+            ]
+          },
+          {
+            "time": [
+              "晚上",
+              "17:00 - 18:00"
+            ],
+            "emoji": "⛪",
+            "title": "Hallgrímskirkja 哈尔格林姆斯教堂 · 秋千拍照 · 附近逛街",
+            "body": [
+              {
+                "t": "以 Laugavegur 购物街为主线，串联 Skólavörðustígur 彩虹街、Hallgrímskirkja 大教堂和老港口。",
                 "links": []
               },
               {
-                "t": "拍照后前往市中心雷克雅未克公寓酒店，约17:15办理入住；先在附近合法公共收费车位停车，再步行到Vatnsstígur 2接待处。",
+                "t": "Laugavegur 购物街：雷克雅未克最主要的购物街，聚集冰岛本土服装、户外品牌、设计店、唱片店和咖啡馆\nSkólavörðustígur 彩虹街：彩虹色路面一直延伸向哈尔格林姆教堂，两侧分布设计师品牌、手工艺品店、画廊和咖啡馆\nHallgrímskirkja 哈尔格林姆教堂：冰岛最具代表性的现代主义建筑之一，外立面灵感来自冰岛玄武岩柱状节理，内部极简庄严\nEpal 设计家居店：冰岛代表性的设计家居集合店，汇集北欧家具、灯具、陶瓷、生活器物及本地设计师作品，\nKraum 冰岛设计店：精选冰岛本土设计师的服装、羊毛制品、陶瓷、首饰和家居小物\n66°North：冰岛经典户外服装品牌，以防风防水外套、保暖中层和功能性服饰闻名\nFischersund 香氛店：极具特色的冰岛独立香氛品牌，将香水、音乐、影像与冰岛自然叙事结合，店铺如同小型沉浸式艺术空间\n12 Tónar 唱片店：冰岛知名独立唱片店兼音乐厂牌，收藏大量冰岛本土音乐与黑胶唱片，空间兼具咖啡馆氛围\nReykjavík Roasters：冰岛知名精品咖啡烘焙品牌，以手冲咖啡、意式咖啡和简洁温暖的北欧空间闻名\nKaffi Ó-le：市中心小型精品咖啡馆，空间简洁，主打高品质意式咖啡\nKolaportið 跳蚤市场：位于老港口附近的室内跳蚤市场，出售复古服饰、旧唱片、二手物件、冰岛羊毛制品和当地食品",
                 "links": []
               },
               {
-                "name": "拍照点 · 光线与景色",
+                "name": "拍照点",
                 "c": [
                   {
                     "t": "教堂门口秋千：人坐在秋千上，镜头退后把教堂尖塔一起收入画面；另补一张正面中轴构图。",
@@ -2495,86 +2212,23 @@
                   "query": "Eiriksgata parking Hallgrimskirkja Reykjavik Iceland"
                 }
               ],
-              "description": "导航到Hallgrímskirkja（Hallgrímstorg 1），优先找Eiríksgata教堂侧停车区的合法车位，步行到正门；收费与可用车位按现场标识。",
+              "description": "",
               "sources": [
                 "https://www.hallgrimskirkja.is/en-gb/new-page",
                 "https://www.ruv.is/english/2024-07-08-capital-drivers-to-be-hit-with-more-parking-charges-417305"
               ]
-            },
-            "drives": [
-              {
-                "from": "Zero Car取还车点",
-                "to": "Hallgrímskirkja",
-                "distance": "50km",
-                "duration": "50–70分钟（冬季规划）",
-                "origin": "Blue Car Rental Blikavollur 3 Keflavik Iceland",
-                "destination": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland",
-                "checkedAt": "2026-11-13"
-              }
-            ],
-            "infoCard": {
-              "type": "experience",
-              "time": "约16:30–17:00 · 30分钟",
-              "price": "外观拍照免费 · 停车另计"
-            }
-          },
-          {
-            "time": [
-              "傍晚",
-              "约17:15–18:00"
-            ],
-            "emoji": "🏨",
-            "title": "雷克雅未克公寓酒店 · 办理入住",
-            "body": [
-              {
-                "t": "入住Reykjavik Residence Hotel的一卧室公寓，共预订2套、1晚。3人出行保留2套；2人出行退掉其中1套，保留1套。各套公寓的金额、设施及免费取消期限以Trip新订单为准。接待处在Vatnsstígur 2，实际房间位于酒店分配的楼栋。",
-                "links": []
-              },
-              {
-                "t": "接待处位于步行街，不能开车到前台门口；使用附近合法公共收费车位。办妥入住后把车停好，晚上全程步行。",
-                "links": []
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "酒店接待处 · Vatnsstígur 2",
-                  "query": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
-                }
-              ],
-              "description": "先在市中心附近合法公共收费车位停车，再步行到Vatnsstígur 2前台办理入住。实际入住楼栋以酒店分配为准，停车收费与限制按现场标识。"
-            },
-            "drives": [
-              {
-                "from": "Hallgrímskirkja",
-                "to": "雷克雅未克市中心停车区",
-                "distance": "约1–2km",
-                "duration": "约5–10分钟，另留找车位与步行时间",
-                "origin": "Hallgrimskirkja Hallgrimstorg 1 Reykjavik Iceland",
-                "destination": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
-                "checkedAt": "2026-11-15"
-              }
-            ],
-            "infoCard": {
-              "time": "傍晚 · 约17:15–18:00",
-              "price": "stay",
-              "stayId": "reykjavik"
             }
           },
           {
             "time": [
               "晚上",
-              "19:30–21:30"
+              "19:30 - 21:30"
             ],
             "emoji": "🍻",
             "title": "ÆGIR 101 Bar · 晚餐与精酿",
             "body": [
               {
-                "t": "入住后步行到Laugavegur 2的ÆGIR 101 Bar - Taproom，点本地精酿和冰岛羊肉汤、鱼炖菜等餐食。当日周日常规营业12:00–23:00，19:30到店，21:30结束。",
-                "links": []
-              },
-              {
-                "t": "汽车留在停车处，去酒吧和返回酒店均步行。",
+                "t": "入住后步行到Laugavegur 2的ÆGIR 101 Bar - Taproom，点本地精酿和冰岛羊肉汤、鱼炖菜等餐食",
                 "links": []
               }
             ],
@@ -2585,15 +2239,11 @@
                   "query": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland"
                 }
               ],
-              "description": "从酒店分配的入住楼栋步行前往Laugavegur 2；以Vatnsstígur 2接待处计，约300米、4分钟。",
+              "description": "",
               "walking": {
                 "origin": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
                 "destination": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland"
               }
-            },
-            "infoCard": {
-              "time": "晚上 · 19:30–21:30",
-              "price": "餐饮自理"
             }
           },
           {
@@ -2605,7 +2255,7 @@
             "title": "酒吧结束 · 步行回酒店",
             "body": [
               {
-                "t": "从ÆGIR 101 Bar沿Laugavegur步行返回雷克雅未克公寓酒店，以Vatnsstígur 2接待处计约300米、4分钟。实际入住楼栋不同，步行路线与时间按房间地址调整。次日07:15退房出发。",
+                "t": "从ÆGIR 101 Bar沿Laugavegur步行返回雷克雅未克公寓酒店",
                 "links": []
               }
             ],
@@ -2620,15 +2270,11 @@
                   "query": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
                 }
               ],
-              "description": "步行路线：Laugavegur 2 → Laugavegur → Vatnsstígur 2；约300米、4分钟，到已分配房间的具体路线按酒店门牌调整。",
+              "description": "",
               "walking": {
                 "origin": "ÆGIR 101 Bar Taproom Laugavegur 2 Reykjavik Iceland",
                 "destination": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland"
               }
-            },
-            "infoCard": {
-              "time": "晚上 · 21:30后",
-              "price": "步行返回"
             }
           }
         ],
@@ -2638,10 +2284,9 @@
         "num": 10,
         "id": "262:735",
         "title": "黄金圈 → 南岸双瀑布 → 维克",
-        "date": "2月15日（周一） · 07:15出发，黄金圈东行，下午留天光看双瀑布",
+        "date": "2月15日（周一） ·黄金圈东行，下午留天光看双瀑布",
         "tags": [
-          "约5–6.5h自驾（约300–320km，冬季规划估算）",
-          "07:15出发 · 双瀑布优先留在天光内"
+          "🚗 5h"
         ],
         "photos": [
           {
@@ -2670,17 +2315,21 @@
           {
             "time": [
               "清晨",
-              "07:15–09:15"
+              "07:15 - 09:15"
             ],
             "emoji": "🏞️",
             "title": "雷克雅未克公寓酒店 → Þingvellir 辛格维利尔国家公园",
             "body": [
               {
-                "t": "07:15从雷克雅未克公寓酒店退房出发（行李随车携带），冬季留约1–1.25小时车程与余量；约08:30抵达，等晨光后短逛至09:15。到达时可能尚未日出，不在全黑时走结冰步道。",
+                "t": "07:15从雷克雅未克公寓酒店退房出发（行李随车携带），车程1h；约08:30抵达，等晨光后短逛至09:15。到达时可能尚未日出，不在全黑时走结冰步道。",
                 "links": []
               },
               {
-                "t": "只看Hakið观景区与开放的裂谷步道，停留约30–45分钟；不安排Silfra浮潜或长距离徒步。若天光不足或道路延误，缩短／跳过这一站，优先保留下午双瀑布。",
+                "t": "只看Hakið观景区与开放的裂谷步道，停留约30–45分钟。若天光不足或道路延误，缩短／跳过这一站，优先保留下午双瀑布。",
+                "links": []
+              },
+              {
+                "t": "使用P1／Hakið游客中心停车场；先看现场开放与结冰提示，再走观景步道。",
                 "links": []
               }
             ],
@@ -2697,39 +2346,31 @@
                   "query": "Thingvellir National Park P1 parking Iceland"
                 }
               ],
-              "description": "使用P1／Hakið游客中心停车场；先看现场开放与结冰提示，再走观景步道。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "雷克雅未克公寓酒店",
                 "to": "辛格维利尔",
-                "distance": "约50km",
-                "duration": "1–1.25小时",
+                "duration": "1h",
                 "origin": "Reykjavik Residence Hotel Vatnsstigur 2 Reykjavik Iceland",
                 "destination": "Thingvellir National Park P1 parking Iceland",
                 "routeDistanceKm": 50,
-                "checkedAt": "2026-11-15"
+                "checkedAt": "2026-11-15",
+                "label": "🚗 雷克雅未克公寓酒店 → 辛格维利尔 · 1h"
               }
-            ],
-            "infoCard": {
-              "time": "清晨 · 07:15–09:15",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "上午",
-              "10:15–10:45"
+              "10:15 - 10:45"
             ],
             "emoji": "♨️",
             "title": "Geysir／Strokkur 间歇泉",
             "body": [
               {
-                "t": "09:15离开辛格维利尔，沿开放的36／365／37号公路前往间歇泉区，车程先留约1小时；观赏Strokkur喷发，沿标示步道短逛。",
-                "links": []
-              },
-              {
-                "t": "停留约30分钟，随后前往黄金瀑布。当天不增加Kerið火山口、Brúarfoss或温泉支线。",
+                "t": "在Geysir配套停车场停车，步行进地热区，勿跨越围栏。",
                 "links": []
               }
             ],
@@ -2746,39 +2387,31 @@
                   "query": "Geysir parking Iceland"
                 }
               ],
-              "description": "在Geysir配套停车场停车，步行进地热区，勿跨越围栏。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "辛格维利尔",
                 "to": "间歇泉",
-                "distance": "60km",
-                "duration": "约1小时，雪天另留余量",
+                "duration": "1h",
                 "origin": "Thingvellir National Park P1 parking Iceland",
                 "destination": "Geysir parking Iceland",
                 "routeDistanceKm": 60,
-                "checkedAt": "2026-11-11"
+                "checkedAt": "2026-11-11",
+                "label": "🚗 辛格维利尔 → 间歇泉 · 1h，雪天另留余量"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 10:15–10:45",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "上午",
-              "11:00–11:45"
+              "11:00 - 11:45"
             ],
             "emoji": "💦",
             "title": "Gullfoss 黄金瀑布",
             "body": [
               {
-                "t": "从间歇泉开车约15分钟到黄金瀑布，预留约45分钟看瀑布与峡谷。冬季优先上层观景区；下层步道只在现场开放时前往。",
-                "links": []
-              },
-              {
-                "t": "11:45结束观景，简餐后最迟12:15离开黄金圈，给南岸双瀑布留下下午天光。",
+                "t": "从间歇泉开车15m到黄金瀑布，预留约45分钟看瀑布与峡谷。冬季优先上层观景区；下层步道只在现场开放时前往。",
                 "links": []
               }
             ],
@@ -2795,78 +2428,50 @@
                   "query": "Gullfoss upper parking Iceland"
                 }
               ],
-              "description": "使用上层游客中心停车场，按现场指引前往开放的观景台。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "间歇泉",
                 "to": "黄金瀑布",
-                "distance": "10km",
-                "duration": "约15分钟",
+                "duration": "15m",
                 "origin": "Geysir parking Iceland",
                 "destination": "Gullfoss upper parking Iceland",
                 "routeDistanceKm": 10,
-                "checkedAt": "2026-11-11"
+                "checkedAt": "2026-11-11",
+                "label": "🚗 间歇泉 → 黄金瀑布 · 15m"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 11:00–11:45",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "中午",
-              "11:45–12:15"
+              "11:45 - 12:15"
             ],
             "emoji": "🥪",
             "title": "简餐 · 12:15前离开黄金圈",
             "body": [
               {
-                "t": "提前备好路餐，或在黄金瀑布游客中心快速用餐（营业以当天为准）；不排长队。沿35／30号公路接回1号公路东行，驶向塞里雅兰瀑布。",
-                "links": []
-              },
-              {
-                "t": "这是规划目标时间，车程取决于风雪与路况；若预计双瀑布赶不上天光，优先缩短辛格维利尔及午餐停留，不用赶车追时间。",
+                "t": "提前备好路餐，或在黄金瀑布游客中心快速用餐（营业以当天为准），驶向塞里雅兰瀑布。",
                 "links": []
               }
-            ],
-            "infoCard": {
-              "time": "中午 · 11:45–12:15",
-              "price": "餐费自理"
-            }
+            ]
           },
           {
             "time": [
               "下午",
-              "14:30–15:10"
+              "14:30 - 15:10"
             ],
             "emoji": "💦",
-            "title": "Seljalandsfoss 塞里雅兰瀑布 · 天光优先",
+            "title": "Seljalandsfoss 塞里雅兰瀑布",
             "body": [
-              {
-                "t": "12:15离开黄金瀑布，先留约2–2.25小时到南岸，目标14:30抵达；停留约40分钟，不再加隐秘瀑布支线。",
-                "links": []
-              },
               {
                 "t": "细长落水与山崖形成南岸标志性景观；冬季以正面观景为主，不默认可以走到瀑布背后。",
                 "links": []
               },
               {
-                "name": "Frame 60",
-                "id": "288:5000",
-                "c": [
-                  {
-                    "name": "交通胶囊",
-                    "id": "279:3383",
-                    "c": [
-                      {
-                        "t": "🚶 从停车区步行约5–10分钟；实际看结冰范围",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
+                "t": "导航到塞里雅兰停车场，停好车后步行到瀑布观景步道。",
+                "links": []
               }
             ],
             "navigation": {
@@ -2883,59 +2488,40 @@
                 }
               ],
               "note": "导航到瀑布入口停车场，停车后步行到观景步道。",
-              "description": "导航到塞里雅兰停车场，停好车后步行到瀑布观景步道。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "黄金瀑布",
                 "to": "塞里雅兰瀑布",
-                "distance": "119km",
-                "duration": "2–2.25小时",
+                "duration": "2h",
                 "origin": "Gullfoss upper parking Iceland",
                 "destination": "Seljalandsfoss parking Iceland",
                 "routeDistanceKm": 119,
-                "checkedAt": "2026-11-11"
+                "checkedAt": "2026-11-11",
+                "label": "🚗 黄金瀑布 → 塞里雅兰瀑布 · 2h"
+              },
+              {
+                "label": "🚶 从停车区步行约5–10分钟",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E4%BB%8E%E5%81%9C%E8%BD%A6%E5%8C%BA%E6%AD%A5%E8%A1%8C%E7%BA%A65%E2%80%9310%E5%88%86%E9%92%9F"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 14:30–15:10",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "下午",
-              "15:50–16:35"
+              "15:50 - 16:35"
             ],
             "emoji": "💦",
-            "title": "Skógafoss 斯科加瀑布 · 天光优先",
+            "title": "Skógafoss 斯科加瀑布",
             "body": [
               {
-                "t": "15:10离开塞里雅兰，目标15:50抵达；预留约45分钟在天光中拍摄，优先瀑布正面，不把登顶阶梯作为必做。",
+                "t": "将车停在斯科加停车场，步行至瀑布正面观景区。宽阔瀑面适合拍正面水势与人物尺度。",
                 "links": []
               },
               {
-                "t": "宽阔瀑面适合拍正面水势与人物尺度；阶梯是否攀爬按结冰和体力决定。",
-                "links": []
-              },
-              {
-                "name": "拍照点 · 光线与景色",
-                "id": "295:576",
+                "name": "拍照点",
                 "c": [
-                  {
-                    "name": "拍照点标签",
-                    "id": "295:577",
-                    "c": [
-                      {
-                        "t": "📸",
-                        "links": []
-                      },
-                      {
-                        "t": "拍照点",
-                        "links": []
-                      }
-                    ]
-                  },
                   {
                     "t": "有阳光时留意瀑布水雾里的彩虹；从正面远处拍人物尺度，避开结冰与水雾湿滑区。",
                     "links": []
@@ -2957,24 +2543,20 @@
                 }
               ],
               "note": "在瀑布入口配套停车场停车，步行至正面观景区。",
-              "description": "将车停在斯科加停车场，步行至瀑布正面观景区。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "塞里雅兰瀑布",
                 "to": "斯科加瀑布",
-                "distance": "30km",
-                "duration": "30–40分钟",
+                "duration": "30m",
                 "origin": "Seljalandsfoss Iceland",
                 "destination": "Skogafoss Iceland",
                 "routeDistanceKm": 30.4,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 塞里雅兰瀑布 → 斯科加瀑布 · 30m"
               }
-            ],
-            "infoCard": {
-              "time": "下午 · 15:50–16:35",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
@@ -2985,11 +2567,7 @@
             "title": "前往维克 · 入住 Black Beach Suites",
             "body": [
               {
-                "t": "双瀑布之后直接前往Black Beach Suites办理入住，在维克一带补给和晚餐；不再增加Sólheimajökull冰川支线或维克教堂打卡，次晨按原计划去Reynisfjara黑沙滩。",
-                "links": []
-              },
-              {
-                "t": "若黄金圈道路不适合通行，当天改为直接走南岸；住宿日期与次日路线不变。",
+                "t": "若黄金圈道路不适合通行，当天改为直接走南岸。\n斯科加瀑布之后沿1号公路前往Black Beach Suites，使用住宿停车位。",
                 "links": []
               }
             ],
@@ -3006,25 +2584,20 @@
                   "query": "Black Beach Suites Iceland"
                 }
               ],
-              "description": "斯科加瀑布之后沿1号公路前往Black Beach Suites，使用住宿停车位；晚到按订单联系前台。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "斯科加瀑布",
                 "to": "Black Beach Suites",
-                "distance": "29km",
-                "duration": "40–55分钟",
+                "duration": "40m",
                 "origin": "Skogafoss parking Iceland",
                 "destination": "Black Beach Suites Iceland",
                 "routeDistanceKm": 29,
-                "checkedAt": "2026-11-11"
+                "checkedAt": "2026-11-11",
+                "label": "🚗 斯科加瀑布 → Black Beach Suites · 40m"
               }
-            ],
-            "infoCard": {
-              "time": "傍晚 · 约17:30后",
-              "price": "stay",
-              "stayId": "vik"
-            }
+            ]
           }
         ],
         "stayId": "vik"
@@ -3035,7 +2608,7 @@
         "title": "黑沙滩 → 教堂镇 → 冰川湖酒店",
         "date": "2月16日（周二） · 上午黑沙滩，沿南岸东行入住冰河湖附近",
         "tags": [
-          "约3.5–4.5h（约220–230km，冬季规划估算）"
+          "🚗 3.5h"
         ],
         "photos": [
           {
@@ -3058,30 +2631,14 @@
           {
             "time": [
               "上午",
-              "9:30 -\n10:30"
+              "9:30 - 10:30"
             ],
             "emoji": "🌊",
             "title": "Reynisfjara 黑沙滩",
             "body": [
               {
-                "t": "黑色火山沙、玄武岩柱与海蚀柱形成强烈画面；只在允许区域拍照，不靠近浪线。",
+                "t": "黑色火山沙、玄武岩柱与海蚀柱形成强烈画面；只在允许区域拍照，不靠近浪线。将车停在黑沙滩停车场，再按现场通行范围进入Reynisfjara。",
                 "links": []
-              },
-              {
-                "name": "Frame 59",
-                "id": "281:4809",
-                "c": [
-                  {
-                    "name": "活动时长标签",
-                    "id": "281:4806",
-                    "c": [
-                      {
-                        "t": "🕐 1h",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -3098,39 +2655,31 @@
                 }
               ],
               "note": "使用Reynisfjara入口停车场，按现场通行范围进入海滩。",
-              "description": "将车停在黑沙滩停车场，再按现场通行范围进入Reynisfjara。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Black Beach Suites",
                 "to": "Reynisfjara",
-                "distance": "4km",
-                "duration": "10–15分钟",
+                "duration": "10m",
                 "origin": "Black Beach Suites Iceland",
                 "destination": "Reynisfjara Iceland",
                 "routeDistanceKm": 4.0,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 Black Beach Suites → Reynisfjara · 10m"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 9:30–10:30",
-              "price": "停车费另计"
-            }
+            ]
           },
           {
             "time": [
               "上午",
-              "10:45 -\n11:30"
+              "10:45 - 11:30"
             ],
             "emoji": "🍽️",
             "title": "返回维克 · 午餐与加油",
             "body": [
               {
                 "t": "出镇前加油、吃饭、补水；确认接下来住宿是否提供晚餐，避免抵达后没有餐食。",
-                "links": []
-              },
-              {
-                "t": "官网／详情 ↗",
                 "links": []
               }
             ],
@@ -3141,39 +2690,31 @@
                   "query": "N1 Vik Iceland"
                 }
               ],
-              "description": "可在维克加油站完成补给后继续东行。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Reynisfjara",
                 "to": "维克加油站",
-                "distance": "11km",
-                "duration": "15–20分钟",
+                "duration": "15m",
                 "origin": "Reynisfjara Iceland",
                 "destination": "N1 Vik Iceland",
                 "routeDistanceKm": 10.9,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 Reynisfjara → 维克加油站 · 15m"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 10:45–11:30",
-              "price": "餐费／加油另计"
-            }
+            ]
           },
           {
             "time": [
-              "白天",
-              "11:30–17:30"
+              "下午",
+              "15:00"
             ],
             "emoji": "🚗",
             "title": "维克 → 冰川湖酒店 · 入住冰川景观双人间",
             "body": [
               {
-                "t": "沿1号公路东行，顺路经过Kirkjubæjarklaustur教堂镇；傍晚入住Hótel Jökulsárlón冰川湖酒店，晚餐可在酒店餐厅安排。",
-                "links": []
-              },
-              {
-                "t": "次日游览冰河湖与钻石沙滩，下午沿1号公路东行至REY Stays；今晚可准备次日路上所需的餐食与饮水。",
+                "t": "沿1号公路东行，顺路经过羽毛峡谷、Hof Church、Kirkjubæjarklaustur教堂镇；傍晚入住Hótel Jökulsárlón冰川湖酒店，次日游览冰河湖与钻石沙滩",
                 "links": []
               }
             ],
@@ -3207,44 +2748,19 @@
                 }
               ],
               "note": "可选短停只在开放、可识别的停车区进行，熔岩原不路边随停；住所导航按房东入口。",
-              "description": "教堂镇附近短停后前往冰川湖酒店，使用酒店免费停车场。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "维克加油站",
-                "to": "Kirkjubæjarklaustur",
-                "distance": "72km",
-                "duration": "60–75分钟",
-                "origin": "N1 Vik Iceland",
-                "destination": "Kirkjubaejarklaustur Iceland",
-                "routeDistanceKm": 72.1,
-                "checkedAt": "2026-11-10"
-              },
-              {
-                "from": "Kirkjubæjarklaustur",
-                "to": "Stjórnarfoss",
-                "distance": "2km",
-                "duration": "5分钟（可选）",
-                "origin": "Kirkjubaejarklaustur Iceland",
-                "destination": "Stjornarfoss Iceland",
-                "routeDistanceKm": 2.2,
-                "checkedAt": "2026-11-10"
-              },
-              {
                 "from": "Kirkjubæjarklaustur",
                 "to": "冰川湖酒店",
-                "distance": "135–140km",
-                "duration": "冬季预留2–2.5小时（估算）",
+                "duration": "2h",
                 "origin": "Kirkjubaejarklaustur Iceland",
                 "destination": "Hotel Jokulsarlon Glacier Lagoon Hotel Iceland",
-                "checkedAt": "2026-11-14"
+                "checkedAt": "2026-11-14",
+                "label": "🚗 Kirkjubæjarklaustur → 冰川湖酒店 · 2h"
               }
-            ],
-            "infoCard": {
-              "time": "白天 · 11:30–17:30",
-              "price": "stay",
-              "stayId": "jokulsarlon-hotel"
-            }
+            ]
           }
         ],
         "stayId": "jokulsarlon-hotel"
@@ -3255,7 +2771,7 @@
         "title": "冰河湖与钻石沙滩 → REY Stays",
         "date": "2月17日（周三） · 冰河湖与海滩观景，下午前往霍芬入住",
         "tags": [
-          "约1.5–2h自驾（约80km）"
+          "1.5h"
         ],
         "photos": [
           {
@@ -3273,17 +2789,13 @@
           {
             "time": [
               "上午",
-              "09:00–09:30"
+              "12:00"
             ],
             "emoji": "🚗",
             "title": "冰川湖酒店退房 → 冰河湖／钻石沙滩",
             "body": [
               {
-                "t": "早餐后退房，从Hótel Jökulsárlón冰川湖酒店沿1号公路向西到钻石沙滩与冰河湖；约15公里，冬季预留20–30分钟。行李随车带往当晚REY Stays。",
-                "links": []
-              },
-              {
-                "t": "早餐后退房，从冰川湖酒店前往钻石沙滩和冰河湖观景，按天光和路况调整停留时间。",
+                "t": "从冰川湖酒店前往钻石沙滩和冰河湖观景",
                 "links": []
               }
             ],
@@ -3304,25 +2816,25 @@
                   "query": "Diamond Beach Parking South Iceland"
                 }
               ],
-              "description": "先导航钻石沙滩东侧停车场，再前往冰河湖主停车场。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "冰川湖酒店",
                 "to": "钻石沙滩",
-                "distance": "15km",
-                "duration": "冬季预留20–30分钟",
+                "duration": "20m",
                 "origin": "Hotel Jokulsarlon Glacier Lagoon Hotel Iceland",
                 "destination": "Diamond Beach Parking South Iceland",
                 "routeDistanceKm": 15,
-                "checkedAt": "2026-11-14"
+                "checkedAt": "2026-11-14",
+                "label": "🚗 冰川湖酒店 → 钻石沙滩 · 20m"
               }
             ]
           },
           {
             "time": [
-              "上午",
-              "09:30–10:30"
+              "中午",
+              "12:30 - 13:30"
             ],
             "emoji": "💎",
             "title": "Fellsfjara 钻石沙滩",
@@ -3345,13 +2857,13 @@
                   "query": "Diamond Beach Parking South Iceland"
                 }
               ],
-              "description": "使用钻石沙滩东侧停车场，之后开车到冰河湖主停车场；不横穿1号公路。"
+              "description": ""
             }
           },
           {
             "time": [
-              "上午",
-              "10:35–12:00"
+              "下午",
+              "13:30 - 14:30"
             ],
             "emoji": "🧊",
             "title": "Jökulsárlón 冰河湖 · 湖岸观景",
@@ -3374,33 +2886,29 @@
                   "query": "Jokulsarlon Main Parking Iceland"
                 }
               ],
-              "description": "导航冰河湖主停车场，停车后步行到开放的湖岸观景区域。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "钻石沙滩",
                 "to": "Jokulsarlon",
-                "distance": "0.8km",
-                "duration": "约5分钟",
+                "duration": "5m",
                 "origin": "Diamond Beach Parking South Iceland",
                 "destination": "Jokulsarlon Main Parking Iceland",
                 "routeDistanceKm": 0.8,
-                "checkedAt": "2026-11-12"
+                "checkedAt": "2026-11-12",
+                "label": "🚗 钻石沙滩 → Jokulsarlon · 5m"
               }
             ]
           },
           {
             "time": [
               "下午",
-              "14:00–15:30"
+              "16:00"
             ],
             "emoji": "🚗",
             "title": "冰河湖 → REY Stays · 入住与晚餐",
             "body": [
-              {
-                "t": "午餐后沿1号公路向东至REY Stays，约65公里，冬季预留1–1.5小时；下午入住后休息与安排晚餐。",
-                "links": []
-              },
               {
                 "t": "今晚入住REY Stays一晚；次日退房后先去Stokksnes蝙蝠山，再沿南岸西返。",
                 "links": []
@@ -3419,18 +2927,18 @@
                   "query": "REY Stays House Hofn Iceland"
                 }
               ],
-              "description": "抵达REY Stays后按房东指引停车，提前准备晚餐或确认沿途餐厅营业。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Jokulsarlon",
                 "to": "REY Stays",
-                "distance": "65km",
-                "duration": "1–1.5小时",
+                "duration": "1h",
                 "origin": "Jokulsarlon Main Parking Iceland",
                 "destination": "REY Stays House Hofn Iceland",
                 "routeDistanceKm": 65,
-                "checkedAt": "2026-11-12"
+                "checkedAt": "2026-11-12",
+                "label": "🚗 Jokulsarlon → REY Stays · 1h"
               }
             ]
           }
@@ -3443,7 +2951,7 @@
         "title": "蝙蝠山 → 南岸西返 · 入住凯夫拉维克",
         "date": "2月18日（周四） · 上午拍蝙蝠山，长途西返，次日清晨还车",
         "tags": [
-          "约8–10h（约510–530km，含停留与休息）"
+          "8h"
         ],
         "photos": [
           {
@@ -3468,13 +2976,13 @@
           {
             "time": [
               "上午",
-              "08:30–09:00"
+              "11:00"
             ],
             "emoji": "🚗",
             "title": "霍芬 → Stokksnes 蝙蝠山",
             "body": [
               {
-                "t": "从REY Stays退房，开往Stokksnes；按道路开放、风况和天光决定停留。",
+                "t": "从REY Stays退房，开往Stokksnes。先到Viking Café入口购票，再按园区指引驶入Stokksnes园内停车区。",
                 "links": []
               }
             ],
@@ -3495,50 +3003,32 @@
               "sources": [
                 "https://www.vestrahorn.is/map"
               ],
-              "description": "先到Viking Café入口购票，再按园区指引驶入Stokksnes园内停车区。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "REY Stays",
                 "to": "Viking Café",
-                "distance": "15km",
-                "duration": "20–30分钟",
+                "duration": "20m",
                 "origin": "REY Stays House Hofn Iceland",
                 "destination": "Viking Cafe Stokksnes Iceland",
                 "routeDistanceKm": 15.3,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 REY Stays → Viking Café · 20m"
               }
-            ],
-            "infoCard": {
-              "time": "上午 · 08:30–09:00",
-              "price": "门票在下项列示"
-            }
+            ]
           },
           {
             "time": [
               "上午",
-              "09:00–10:00"
+              "11:30 - 12:30"
             ],
             "emoji": "🏔️",
             "title": "Vestrahorn 蝙蝠山 · 黑沙滩拍照",
             "body": [
               {
-                "t": "在山脚黑沙丘与湿沙滩拍山峰、倒影和雪景，不安排登山。遇强风、结冰或封路则取消，直接西返。",
+                "t": "在山脚黑沙丘与湿沙滩拍山峰、倒影和雪景，不安排登山。遇强风、结冰或封路则取消，直接西返。\n使用Stokksnes园内停车区，再步行到黑沙丘与海滩。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "园区门票另计 · 以出行时公布价格为准",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -3562,25 +3052,19 @@
               "sources": [
                 "https://www.vestrahorn.is/map"
               ],
-              "description": "使用Stokksnes园内停车区，再步行到黑沙丘与海滩。"
-            },
-            "infoCard": {
-              "time": "上午 · 09:00–10:00",
-              "price": "门票价格待确认",
-              "note": "官网票价信息不一致，以购票时显示为准。",
-              "source": "https://www.vestrahorn.is/map"
+              "description": ""
             }
           },
           {
             "time": [
-              "白天",
-              "10:00出发"
+              "下午",
+              "12:30"
             ],
             "emoji": "🚗",
             "title": "沿1号公路西返 → 凯夫拉维克",
             "body": [
               {
-                "t": "蝙蝠山后沿1号公路西返，沿途午餐、加油与休息，晚上入住已订Hotel Berg；黄金圈已安排在2月15日东行，当天不再绕行。",
+                "t": "蝙蝠山后沿1号公路西返，沿途午餐、加油与休息",
                 "links": []
               }
             ],
@@ -3598,34 +3082,35 @@
                 }
               ],
               "note": "长途西返的终点为凯夫拉维克港口旁的Hotel Berg，地址Bakkavegur 17；使用酒店停车位。",
-              "description": "终点为凯夫拉维克港口旁的Hotel Berg，地址Bakkavegur 17，抵达后使用酒店停车位。"
+              "description": ""
             },
             "drives": [
               {
                 "from": "Stokksnes",
                 "to": "Hotel Berg",
-                "distance": "494km",
-                "duration": "7–8小时（不含休息）",
+                "duration": "7h",
                 "origin": "Stokksnes Iceland",
                 "destination": "Hotel Berg Bakkavegur 17 Keflavik Iceland",
                 "routeDistanceKm": 494.0,
-                "checkedAt": "2026-11-10"
+                "checkedAt": "2026-11-10",
+                "label": "🚗 Stokksnes → Hotel Berg · 7h（不含休息）"
               }
-            ],
-            "infoCard": {
-              "time": "白天 · 10:00出发",
-              "price": "租车／油费见预算"
-            }
+            ]
           },
           {
             "time": [
-              "晚上"
+              "晚上",
+              "19:30"
             ],
             "emoji": "🏨",
             "title": "入住 Hotel Berg · 屋顶泡池与港口",
             "body": [
               {
                 "t": "入住Keflavík港口旁Bakkavegur 17的Hotel Berg，15:00后可办理入住，免费停车；有空可使用屋顶共用热水池或在公共壁炉休息区放松。当晚提前加满油、早点休息，次日约03:40出发去KEF还车。",
+                "links": []
+              },
+              {
+                "t": "Hotel Berg提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。",
                 "links": []
               }
             ],
@@ -3643,12 +3128,7 @@
                 }
               ],
               "note": "酒店提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。",
-              "description": "Hotel Berg提供免费停车；屋顶热水池为住客共用，开放安排向前台确认。"
-            },
-            "infoCard": {
-              "time": "晚上 · 时间待确认",
-              "price": "stay",
-              "stayId": "kef"
+              "description": ""
             }
           }
         ],
@@ -3690,7 +3170,7 @@
         "title": "哥本哈根 · 新港与建筑 → FRAMA设计店",
         "date": "2月19日（周五） · 抵达后沿新港看建筑，逛FRAMA设计精品店",
         "tags": [
-          "✈️ 07:30 飞哥本哈根"
+          "✈️ 07:30 飞哥本哈根，11:45抵达"
         ],
         "photos": [
           {
@@ -3719,13 +3199,13 @@
           {
             "time": [
               "清晨",
-              "03:40–05:00"
+              "6:00"
             ],
             "emoji": "🚗",
             "title": "Hotel Berg → KEF还车 → 航站楼",
             "body": [
               {
-                "t": "约03:40从Hotel Berg出发，约04:00到Zero Car还车，预留交钥匙和前往航站楼的时间，目标05:00到航站楼。酒店至还车点约6公里，清晨车程预留10–15分钟；还车流程提前向车行确认。",
+                "t": "06:00到Zero Car还车，预留交钥匙和前往航站楼的时间。导航到Blikavöllur 3的Zero Car取还车点，提前与车行确认清晨钥匙箱和前往航站楼的安排。",
                 "links": []
               }
             ],
@@ -3741,58 +3221,27 @@
                 }
               ],
               "note": "还车点Blikavöllur 3；清晨钥匙箱和航站楼接驳安排提前与车行确认。",
-              "description": "导航到Blikavöllur 3的Zero Car取还车点，提前与车行确认清晨钥匙箱和前往航站楼的安排。"
+              "description": ""
             },
             "drives": [
               {
-                "from": "Hotel Berg",
-                "to": "Zero Car取还车点",
-                "distance": "6km",
-                "duration": "10–15分钟",
-                "origin": "Hotel Berg Bakkavegur 17 Keflavik Iceland",
-                "destination": "Blue Car Rental Blikavollur 3 Keflavik Iceland",
-                "routeDistanceKm": 5.6,
-                "checkedAt": "2026-11-10"
+                "label": "🚗 Hotel Berg → Zero Car · 10m",
+                "duration": "10m",
+                "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Berg%20%E2%86%92%20Zero%20Car"
               }
-            ],
-            "infoCard": {
-              "time": "清晨 · 03:40–05:00",
-              "price": "租车见预算"
-            }
+            ]
           },
           {
             "time": [
               "上午",
-              "07:30–11:45"
+              "07:30 - 11:45"
             ],
             "emoji": "✈️",
             "title": "雷克雅未克 ✈️ 哥本哈根",
             "body": [
               {
-                "t": "2月19日雷克雅未克（凯夫拉维克机场）07:30起飞，哥本哈根机场11:45抵达，直飞3h15m，¥1,692／人；时刻均为当地时间。",
+                "t": "07:30起飞，哥本哈根机场11:45抵达，直飞3h15m",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "c": [
-                      {
-                        "t": "直飞3h15m",
-                        "links": []
-                      },
-                      {
-                        "t": "07:30 → 11:45",
-                        "links": []
-                      },
-                      {
-                        "t": "¥1,692／人",
-                        "links": []
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -3818,34 +3267,8 @@
             "title": "机场进城 · 酒店寄存",
             "body": [
               {
-                "t": "往新港方向可乘M2至Kongens Nytorv，地铁全天运行；具体班次查Rejseplanen；酒店在中央火车站方向可选火车。",
+                "t": "往新港方向可乘M2至Kongens Nytorv，地铁全天运行；前往Aperon寄存行李后，再轻装出门。",
                 "links": []
-              },
-              {
-                "name": "Background",
-                "id": "281:4882",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4883",
-                    "c": [
-                      {
-                        "t": "机场 → 市中心约13–15分钟",
-                        "links": []
-                      },
-                      {
-                        "name": "Frame 55",
-                        "id": "281:4887",
-                        "c": [
-                          {
-                            "t": "机场3区票约¥30／人",
-                            "links": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "navigation": {
@@ -3859,24 +3282,19 @@
                   "query": "Aperon Pustervig 8 Copenhagen"
                 }
               ],
-              "description": "前往Aperon寄存行李后，再轻装出门。"
-            },
-            "infoCard": {
-              "time": "落地后 · 约1h",
-              "price": "约¥30／人",
-              "note": "机场3区票现有参考；进城市区段约13–15分钟。"
+              "description": ""
             }
           },
           {
             "time": [
               "下午",
-              "14:00–15:15"
+              "13:00"
             ],
             "emoji": "🏛️",
             "title": "新港 → 阿美琳堡宫 → 腓特列教堂外观",
             "body": [
               {
-                "t": "沿运河彩色立面步行到阿美琳堡广场和腓特列教堂，集中看城市最经典的建筑外观；不叠加皇宫室内长参观。",
+                "t": "Nyhavn 新港：哥本哈根最具代表性的彩色运河街区，17–18 世纪的彩色联排建筑、木船和沿岸餐厅构成经典城市景观\nThe Round Tower 圆塔：17 世纪天文观测塔，以独特的螺旋坡道代替传统楼梯，可登顶俯瞰哥本哈根老城区屋顶与教堂尖塔\nThe Little Mermaid 小美人鱼雕像：以安徒生童话为灵感的海边铜像，是哥本哈根经典地标，但雕像本身较小",
                 "links": []
               }
             ],
@@ -3896,22 +3314,18 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "下午 · 14:00–15:15",
-              "price": "室内参观另计"
             }
           },
           {
             "time": [
               "下午",
-              "15:30–16:30"
+              "14:00"
             ],
             "emoji": "🛍️",
-            "title": "FRAMA Studio Store · 设计精品店",
+            "title": "市区逛街",
             "body": [
               {
-                "t": "Fredericiagade 57的历史药房空间融合家具、灯具、香氛与生活设计，店铺本身就是建筑与材料体验。将购物放在关店前，营业时间出发前复核。",
+                "t": "Strøget 步行街：哥本哈根最主要的购物街，全长约 1.1km，沿途聚集丹麦设计品牌、国际时装、百货商店与咖啡馆\nIllums Bolighus：丹麦最具代表性的设计家居百货之一，汇集经典北欧家具、灯具、陶瓷、玻璃器皿和生活用品\nHAY House：丹麦当代家居品牌 HAY 的旗舰店，位于 Strøget 二楼，空间展示色彩鲜明的家具、灯具、文具和生活器物\nFRAMA Studio Store：由历史药房改造的设计空间，融合极简家具、天然材料、香氛、生活器物和 Apotek 57 咖啡馆\nStudio Arhoj：哥本哈根独立陶瓷与玻璃工作室，以鲜艳釉色、手工陶器和趣味造型闻名\nRoyal Copenhagen 旗舰店：丹麦历史悠久的皇家瓷器品牌，以蓝白手绘瓷器闻名\nILLUM 百货：位于 Strøget 的高端百货，汇集北欧时装、美妆、家居和国际设计品牌，顶层设有餐饮空间，可俯瞰哥本哈根市中心\nJægersborggade：位于 Nørrebro 的独立设计街区，聚集陶瓷工作室、复古服装店、手工首饰、咖啡馆和小型画廊\nStrædet：与 Strøget 平行的特色小街，由多条历史街道组成，沿途有独立设计店、复古商店、陶瓷和家居用品店\nTorvehallerne 市场：由两座玻璃建筑组成的现代食品市场，聚集丹麦开放式三明治、精品咖啡、烘焙、海鲜和当地食材",
                 "links": []
               }
             ],
@@ -3923,10 +3337,6 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "下午 · 15:30–16:30",
-              "price": "购物自理"
             }
           },
           {
@@ -3949,11 +3359,6 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "晚上 · 时间待确认",
-              "price": "stay",
-              "stayId": "copenhagen"
             }
           }
         ],
@@ -3965,7 +3370,7 @@
         "title": "哥本哈根 · 设计购物与黑钻图书馆 → 20:00飞上海",
         "date": "2月20日（周六） · 只留最想逛的店与建筑，傍晚取行李前往机场",
         "tags": [
-          "✈️ 20:00 飞上海"
+          "✈️ 20:00 飞上海，次日13:30抵达"
         ],
         "photos": [
           {
@@ -3997,13 +3402,13 @@
           {
             "time": [
               "上午",
-              "10:00–11:30"
+              "10:00 - 11:30"
             ],
             "emoji": "🪑",
             "title": "Designmuseum Danmark · 丹麦设计",
             "body": [
               {
-                "t": "看经典家具、椅子和工艺，控制在约1.5小时。若更偏爱独立精品店，可整段替换为Jægersborggade，不与博物馆叠加。",
+                "t": "看经典家具、椅子和工艺",
                 "links": []
               }
             ],
@@ -4019,29 +3424,22 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "上午 · 10:00–11:30",
-              "price": "140 DKK／人",
-              "note": "官网成人票参考，约¥140／人；尚未计入现有预算。",
-              "source": "https://designmuseum.dk/en/besog-os/opening-hours-admission-2/",
-              "type": "experience"
             }
           },
           {
             "time": [
-              "中午至下午",
-              "12:00–14:30"
+              "下午",
+              "12:00 - 17:00"
             ],
             "emoji": "🛍️",
-            "title": "Strøget／Amagertorv → Illums Bolighus",
+            "title": "市区逛街",
             "body": [
               {
-                "t": "在步行街择店逛丹麦设计、家居和灯具，重点Illums Bolighus（Amagertorv 10），午餐就近解决。它与ILLUM百货不同，优先按喜好挑店，避免整条商业街走到底。",
+                "t": "在步行街择店逛丹麦设计、家居和灯具，重点Illums Bolighus（Amagertorv 10），它与ILLUM百货不同，优先按喜好挑店，避免整条商业街走到底。",
                 "links": []
               },
               {
-                "t": "Jægersborggade的陶瓷与首饰、Vesterbro／Istedgade的买手店作为替换方案：想逛其中一个街区，就替掉上午博物馆或中午步行街，三段不全部叠加。",
+                "t": "Jægersborggade的陶瓷与首饰、Vesterbro／Istedgade的买手店作为替换方案",
                 "links": []
               }
             ],
@@ -4073,114 +3471,18 @@
                 }
               ],
               "description": ""
-            },
-            "infoCard": {
-              "time": "中午至下午 · 12:00–14:30",
-              "price": "购物／餐费自理"
-            }
-          },
-          {
-            "time": [
-              "下午",
-              "15:00–16:00"
-            ],
-            "emoji": "🏛️",
-            "title": "Black Diamond 黑钻图书馆 · 临水建筑",
-            "body": [
-              {
-                "t": "看黑色临水立面、新旧建筑衔接与公共中庭，公共参观免费；当天开放范围与营业时间出发前复核。今天不再去远郊Louisiana。",
-                "links": []
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "黑钻图书馆",
-                  "query": "The Black Diamond Soren Kierkegaards Plads 1 Copenhagen"
-                }
-              ],
-              "description": ""
-            },
-            "infoCard": {
-              "time": "下午 · 15:00–16:00",
-              "price": "公共区域免费"
-            }
-          },
-          {
-            "time": [
-              "傍晚",
-              "约16:30–18:00"
-            ],
-            "emoji": "🧳",
-            "title": "取回行李 → 哥本哈根机场",
-            "body": [
-              {
-                "t": "16:30左右结束游览并取行李，预留交通与值机，目标18:00抵达机场。若购物延误，优先缩短图书馆停留。",
-                "links": []
-              }
-            ],
-            "navigation": {
-              "locations": [
-                {
-                  "label": "Aperon",
-                  "query": "Aperon Pustervig 8 Copenhagen"
-                },
-                {
-                  "label": "哥本哈根机场",
-                  "query": "Copenhagen Airport"
-                }
-              ],
-              "description": ""
-            },
-            "infoCard": {
-              "time": "傍晚 · 约16:30–18:00",
-              "price": "交通费另计"
             }
           },
           {
             "time": [
               "晚上",
-              "20:00"
+              "17:30"
             ],
             "emoji": "✈️",
-            "title": "哥本哈根 ✈️ 上海",
+            "title": "取回行李 → 哥本哈根机场 ✈️ 上海",
             "body": [
               {
-                "name": "Background",
-                "id": "281:4992",
-                "c": [
-                  {
-                    "name": "Paragraph",
-                    "id": "281:4993",
-                    "c": [
-                      {
-                        "t": "直飞 10h30m",
-                        "links": []
-                      },
-                      {
-                        "t": "20:00 - 次日13:30",
-                        "links": []
-                      },
-                      {
-                        "t": "东方航空",
-                        "links": []
-                      },
-                      {
-                        "name": "Frame 55",
-                        "id": "281:4997",
-                        "c": [
-                          {
-                            "t": "¥4376",
-                            "links": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "t": "官网／详情 ↗",
+                "t": "17:30取行李，18:00 到哥本哈根机场",
                 "links": []
               }
             ],
@@ -4196,7 +3498,14 @@
                 }
               ],
               "description": ""
-            }
+            },
+            "drives": [
+              {
+                "label": "🚗 市中心 → 哥本哈根机场 · 30m",
+                "duration": "30m",
+                "url": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E4%B8%AD%E5%BF%83%20%E2%86%92%20%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9%E6%9C%BA%E5%9C%BA"
+              }
+            ]
           }
         ]
       },
@@ -4204,12 +3513,27 @@
         "num": 16,
         "id": "281:4890",
         "title": "抵达上海",
-        "date": "2月21日（周日） ",
+        "date": "2月21日（周日）",
         "tags": [
           "✈️ 13:30 抵达上海"
         ],
         "photos": [],
-        "activities": []
+        "activities": [
+          {
+            "time": [
+              "下午",
+              "13:30"
+            ],
+            "emoji": "✈️",
+            "title": "抵达上海浦东机场",
+            "body": [
+              {
+                "t": "13:30  抵达上海浦东机场\nMU708 · 当地时间 · 行程结束",
+                "links": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "notes": [],
