@@ -273,7 +273,7 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 @media(hover:hover){.stay-address-copy:hover{background:#e8eee8}}
 
 /* Dining uses the shared attraction header, route groups and horizontal gallery. */
-.side-guide-links{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:8px 0 20px}
+.side-guide-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:8px 0 20px}
 .side-guide-card{display:flex;justify-content:center;align-items:center;min-height:34px;padding:6px 10px;border:1px solid #dedbd3;border-radius:10px;background:var(--paper);text-decoration:none;color:#625e57;font-size:12px;line-height:1.5;font-weight:400;white-space:nowrap}
 .side-guide-card.active{border-color:color-mix(in srgb,var(--theme,var(--accent)) 30%,var(--line));color:var(--theme,var(--accent));background:color-mix(in srgb,var(--theme,var(--accent)) 7%,#fbfaf7)}
 .side-guide-card:focus-visible{outline:2px solid var(--theme,var(--accent));outline-offset:3px}
@@ -379,3 +379,10 @@ a.budget-project[href^="#car/"] strong{width:fit-content;max-width:100%}
 .stay-lightbox-arrow.prev{left:12px}.stay-lightbox-arrow.next{right:12px}.stay-lightbox-arrow[hidden]{display:none}
 .stay-lightbox-caption{margin:0;padding:16px 24px calc(20px + env(safe-area-inset-bottom));text-align:center;font-size:14px;line-height:1.5;min-height:52px;color:#eee}
 .stay-lightbox button:focus-visible{outline:2px solid #fff;outline-offset:3px}
+
+/* Hiking shares the guide cards, gallery and typography with attractions. */
+.hiking-country-tabs{margin:24px 0}.hiking-season-note{padding:16px 20px;margin:22px 0 28px;background:color-mix(in srgb,var(--theme) 7%,var(--paper));border-radius:12px;color:var(--theme);font-size:14px;line-height:1.8}.hiking-type{font-size:12px;color:var(--muted);white-space:nowrap}.hiking-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:24px 0}.hiking-facts dt{font-size:12px;color:var(--muted);margin-bottom:6px}.hiking-facts dd{margin:0;font-size:17px;font-weight:500}.hiking-section{padding:28px 0;border-top:1px solid var(--line)}.hiking-section h2{margin:0 0 16px}.hiking-section p,.hiking-section li{line-height:1.9;color:var(--muted)}.hiking-section li+li{margin-top:10px}.hiking-map-note{font-size:12px;margin-top:16px}.hiking-weather-links{display:flex;flex-wrap:wrap;gap:12px 24px;margin-top:24px}.hiking-sources{border-top:1px solid var(--line);padding:28px 0 8px;margin-top:12px;font-size:12px;color:var(--muted)}.hiking-sources li{margin:12px 0;overflow-wrap:anywhere}.hiking-sources p{line-height:1.8}.hiking-empty{margin-top:32px;color:var(--muted)}.hiking-detail-page .attraction-track img{object-fit:contain;background:#e9e6df}@media(max-width:600px){.side-guide-card{padding-inline:5px}.hiking-type{font-size:11px}.hiking-row .attraction-row-title{align-items:flex-start}.hiking-section{padding:24px 0}.hiking-season-note{font-size:13px;padding:14px 16px}.hiking-facts{gap:18px 12px}.hiking-facts dd{font-size:15px}}
+
+.hiking-detail-page .attraction-hero{position:relative}.hiking-detail-page .attraction-hero figcaption{position:absolute;bottom:0;left:0;right:0;padding:12px 18px 34px;background:linear-gradient(transparent,rgba(0,0,0,.65));color:#fff;font-size:12px;line-height:1.6;text-align:left}
+
+.hiking-page .attractions-list{border-radius:14px;overflow:hidden}

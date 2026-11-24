@@ -11,7 +11,7 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-FILES = ('data', 'points', 'stays', 'experiences', 'attractions', 'dining', 'flight-monitor')
+FILES = ('data', 'points', 'stays', 'experiences', 'attractions', 'dining', 'hikes', 'flight-monitor')
 
 def build(output):
     output = output.resolve()

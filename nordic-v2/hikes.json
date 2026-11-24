@@ -1,0 +1,455 @@
+{
+  "items": [
+    {
+      "id": "haukland-uttakleiv",
+      "name": "Haukland–Uttakleiv 海岸线",
+      "type": "海岸原路往返",
+      "duration": "3–4小时，含拍照",
+      "distance": "约8–9km，可提前折返",
+      "elevation": "沿海旧路，爬升较少",
+      "condition": "低强度备选 · 仍需评估海岸条件",
+      "summary": "沿旧海岸路串起白沙滩、圆石海岸与雪山，不必登顶也能拍到山海同框。",
+      "winter": "夏季轻松步道不等于冬季通行保证。山脚路段需检查落冰、落石与雪崩路径；有封闭标识或向导判定不宜时仅在开放海滩短停。",
+      "description": [
+        "Haukland 的弧形白沙湾与 Uttakleiv 的圆石海岸适合放在同一条步行线路里看。沿途以海平面视角为主，人物、山体和海浪可以进入同一个画面，适合慢走与拍摄。",
+        "这里沿海绕山的旧道路与翻越山坳的历史道路是不同线路。本方案只考虑沿海原路往返，避免为了凑环线爬上 Mannen，也不把车行隧道当作徒步捷径。"
+      ],
+      "steps": [
+        "自驾导航到 Hauklandstranda 停车区，先确认现场通行提示与当天海况。",
+        "经海岸旧路向 Uttakleiv 方向行走；不转向 Mannen 登顶或翻山线路。",
+        "根据日照和路面预设折返点；抵达 Uttakleiv 后原路返回，不经车行隧道。"
+      ],
+      "query": "Hauklandstranda parking Lofoten Norway",
+      "planDays": [
+        7,
+        8
+      ],
+      "plan": "Ballstad 连住期间可作为 D7（2月12日）的低强度替代方案，但需减少 Hamnøy／Reine 南部停留；若挪到 D8，建议只走海岸短段，避免影响当天返回特罗姆瑟。",
+      "notes": [
+        "出发前确认沿海旧路开放；积雪或结冰掩盖路缘时缩短行程。",
+        "穿防水登山鞋，携带适合冰面的防滑装备、登山杖、头灯和备用保暖层。",
+        "在远离浪线和崖脚的位置拍摄；风大、海浪上冲或落冰时改为自驾观景。"
+      ],
+      "sources": [
+        {
+          "label": "北挪威旅游局 · Haukland–Uttakleiv 沿海旧路（标注常规季节5–10月）",
+          "url": "https://nordnorge.com/opplevelser/kultur-og-attraksjoner/kystveien-mellom-uttakleiv-og-haukland-i-lofoten/"
+        },
+        {
+          "label": "Vestvågøy 市政府 · 翻山历史道路修复，区别于海岸路线",
+          "url": "https://www.vestvagoy.kommune.no/administrasjon/utvikling-og-samarbeid/prosjekt-og-utvikling/utviklingsprosjekter/ferdavegen-uttakleiv-haukland.20339.aspx"
+        },
+        {
+          "label": "当地向导 · 冬季徒步与装备",
+          "url": "https://guidetolofoten.com/honest-guide-to-winter-hiking-in-lofoten/"
+        }
+      ],
+      "country": "norway",
+      "checkedAt": "2026-11-24",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/hikes/haukland-uttakleiv-0.jpg",
+          "label": "Haukland 沙湾与群山 · 非冬季地貌参考",
+          "credit": {
+            "author": "Michele Agostini",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Haukland_Beach_view.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/haukland-uttakleiv-1.jpg",
+          "label": "Uttakleiv 圆石海岸 · 非冬季地貌参考",
+          "credit": {
+            "author": "Cem Sagisman cems77",
+            "license": "CC0",
+            "url": "https://commons.wikimedia.org/wiki/File:Rocky_shore_at_Uttakleiv_Beach_(Unsplash).jpg",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/haukland-uttakleiv-2.jpg",
+          "label": "Haukland 海滩的开阔视角 · 非冬季地貌参考",
+          "credit": {
+            "author": "Jon Olav Eikenes from Oslo, Norway",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Haukland_beach.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/haukland-uttakleiv-3.jpg",
+          "label": "Uttakleiv 海湾 · 非冬季地貌参考",
+          "credit": {
+            "author": "Paal Svendsen",
+            "license": "CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Lofoten,_Uttakleiv.JPG",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+          }
+        }
+      ],
+      "photoCaptions": true
+    },
+    {
+      "id": "holandsmaelen",
+      "name": "Holandsmælen 山海全景",
+      "type": "冬季登山往返",
+      "duration": "3–4.5小时，雪况可延长",
+      "distance": "约5–6km，依起点而定",
+      "elevation": "山顶434m，非累计爬升",
+      "condition": "登山备选 · 建议向导评估",
+      "summary": "从山体高处看 Haukland、Vik 海湾与周围峰峦，比海岸步行多一层俯瞰视角。",
+      "winter": "这里仍是冬季山地路线，不以“低海拔”判断安全。没有冬季登山与导航经验时跟向导走，路线和登顶目标服从当天雪况。",
+      "description": [
+        "这条路线的吸引力在于视角变化：海湾、低地与周围尖峰逐步展开，适合拍摄从山脚走向高处的过程。可把半天留给一条路线，而不是把登顶当作自驾途中的快速打卡。",
+        "434米指山顶海拔。积雪深度、结冰和风会改变步行速度，3–4.5小时只是规划参考；若天气不好或时间不够，山腰折返也可以完成一次山海观景。"
+      ],
+      "steps": [
+        "先与当地向导确认采用的起点、停车与当天雪况，再导航前往 Holandsmælen 起点区域。",
+        "在向导确认的线路上上行，按体力和能见度决定是否继续。",
+        "同路下撤；不为赶上山顶拍照而压缩返回时间。"
+      ],
+      "query": "Holandsmaelen trailhead Lofoten Norway",
+      "planDays": [
+        7
+      ],
+      "plan": "更适合 D7（2月12日）以 Ballstad 为基地专门安排半天。应替换当天部分南部渔村观景，不建议放在 D8 长途返回特罗姆瑟之前。",
+      "notes": [
+        "请向导评估雪崩地形、风吹雪和山顶能见度，不把静态攻略当作安全评级。",
+        "根据雪况由向导决定使用雪鞋、防滑钉或其他装备；普通防滑套不能替代所有山地装备。",
+        "带头灯与备用电池，约定折返时刻，风雪增强或无法辨认路线时尽早下撤。"
+      ],
+      "sources": [
+        {
+          "label": "Lofoten Hikes · Holandsmælen 434m 路线资料",
+          "url": "https://lofotenhikes.com/hike/holandsmaelen-434m/"
+        },
+        {
+          "label": "当地向导 · 冬季徒步与装备",
+          "url": "https://guidetolofoten.com/honest-guide-to-winter-hiking-in-lofoten/"
+        }
+      ],
+      "country": "norway",
+      "checkedAt": "2026-11-24",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/hikes/holandsmaelen-0.jpg",
+          "label": "Holandsmælen 山体 · 从 Smørdalskammen 远望，非冬季",
+          "credit": {
+            "author": "Tournasol7",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Holandsmaelen_from_Smoerdalskammen_(1).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/holandsmaelen-1.jpg",
+          "label": "山脚周边 · Haukland 海湾，非山顶机位",
+          "credit": {
+            "author": "Michele Agostini",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Haukland_Beach_view.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/holandsmaelen-2.jpg",
+          "label": "山脚周边 · Haukland 白沙滩，非山顶机位",
+          "credit": {
+            "author": "Jon Olav Eikenes from Oslo, Norway",
+            "license": "CC BY 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Haukland_beach.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+          }
+        }
+      ],
+      "photoCaptions": true
+    },
+    {
+      "id": "eggum-coast",
+      "name": "Eggum 海岸前段",
+      "type": "海岸短段往返",
+      "duration": "2.5–3.5小时，含拍照",
+      "distance": "按折返点约5–7km",
+      "elevation": "前段海岸，爬升较少",
+      "condition": "只走前段 · 不做完整穿越",
+      "summary": "圆石海滩、开阔挪威海与荒野草坡，适合拍摄人物行走和安静的海岸画面。",
+      "winter": "不把 Eggum–Unstad 的完整夏季穿越搬到2月。仅在前段通行条件允许时原路往返；海岸暴露，需评估风浪、结冰及山脚上方地形。",
+      "description": [
+        "从 Eggum 休息区一带沿海岸缓慢展开，比连续开车停观景点更适合感受海浪、风声与空旷感。拍摄时可以用人物衬托海岸尺度，不必走远才能得到画面。",
+        "官方路线介绍将通往 Unstad 的后段列为更具挑战性的部分。因此这里采用可随时缩短的前段往返方案：距离跟着当天折返点变化，5–7公里并不是必须完成的目标。"
+      ],
+      "steps": [
+        "从 Eggum Rasteplass 一带的正式停车位置出发，先确认允许通行的路径。",
+        "沿 Unstad 方向的海岸前段步行，保持在现有小径，避开湿滑礁石和近浪位置。",
+        "在进入更陡、更窄或暴露路段前折返；不以抵达 Unstad 为目标。"
+      ],
+      "query": "Eggum Rasteplass Norway",
+      "planDays": [
+        7,
+        8
+      ],
+      "plan": "可在 D7（2月12日）替换一部分南部渔村行程，作为海岸摄影半天；D8 若顺北返支线停留，只建议短走，不安排完整的3小时徒步后再长途驾车。",
+      "notes": [
+        "前段也可能受雪崩路径、落冰和结冰影响，低爬升不代表无风险。",
+        "这里临外海，阵风和浪高比照片中更影响体验；当天不合适时在正规观景区短停。",
+        "穿防水鞋、带防滑装备和保暖层，不在海水可能淹没的礁石上摆拍。"
+      ],
+      "sources": [
+        {
+          "label": "Visit Lofoten · Eggum–Unstad 前后段路线差异",
+          "url": "https://visitlofoten.com/en/10-popular-hikes-in-lofoten/"
+        },
+        {
+          "label": "当地向导 · 冬季徒步与装备",
+          "url": "https://guidetolofoten.com/honest-guide-to-winter-hiking-in-lofoten/"
+        }
+      ],
+      "country": "norway",
+      "checkedAt": "2026-11-24",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/hikes/eggum-coast-0.jpg",
+          "label": "Eggum 海岸与草坡 · 非冬季地貌参考",
+          "credit": {
+            "author": "Gerd Eichmann",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Eggum-12-Strand-2019-gje.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/eggum-coast-1.jpg",
+          "label": "Eggum 圆石海滩 · 非冬季地貌参考",
+          "credit": {
+            "author": "Thomas Faivre-Duboz from Paris, France",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Eggum_-_boulder_beach.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/eggum-coast-2.jpg",
+          "label": "Eggum 海岸景观 · 非冬季地貌参考",
+          "credit": {
+            "author": "Tarjei Mo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Eggum_Lofoten.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/eggum-coast-3.jpg",
+          "label": "Eggum 海滩 · 非冬季地貌参考",
+          "credit": {
+            "author": "Wikibphil",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Eggum_beach.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        }
+      ],
+      "photoCaptions": true
+    },
+    {
+      "id": "kvalvika",
+      "name": "Kvalvika 野生海滩",
+      "type": "翻山坳至海滩往返",
+      "duration": "3–4小时起，冬季可能更久",
+      "distance": "约4–5km，Torsfjord方案",
+      "elevation": "山坳约200m，依线路而定",
+      "condition": "冬季较复杂 · 建议向导陪同",
+      "summary": "翻过山坳进入群山围合的白沙海湾，适合广角山海景观与环境人像。",
+      "winter": "从山坳下到海滩的斜坡可能结冰，能否通行应由向导按当天积雪和雪崩地形判断。不要因为往返公里数短就按轻松海滩散步准备。",
+      "description": [
+        "Kvalvika 的主角是被高山包围的海湾：走到沙地后，人物在山体与海浪之间显得很小。这里的体验与 Ryten 山顶俯瞰不同，重点是抵达海滩本身。",
+        "国家公园有不止一条进出线路，起点与距离不能混用。本页的4–5公里是原会话所述 Torsfjord 往返规划；若向导改用 Innersand／Fredvang 路线，应重新确认距离与时间。"
+      ],
+      "steps": [
+        "出发前查国家公园的线路与施工／封闭公告，与向导确认采用 Torsfjord 还是其他起点。",
+        "由 Torsfjord 方向翻越山坳；遇下坡结冰或能见度不佳时在安全位置折返。",
+        "到海滩后远离浪线；按已确认路线返回，不额外叠加 Ryten 登顶。"
+      ],
+      "query": "Torsfjord Kvalvika trailhead Norway",
+      "planDays": [
+        7
+      ],
+      "plan": "适合 D7（2月12日）往罗弗敦南部方向时替换部分渔村停留。徒步占主要日照时段，Reine／Hamnøy 只能再选少量顺路停靠，晚上回 Ballstad。",
+      "notes": [
+        "跟向导确认往返路线与最晚折返时间，头灯只作应急，不用来延长既定目标。",
+        "带保暖防水装备和热饮；海滩无可依赖的室内避风点。",
+        "留在标识步道，施工或改道按国家公园现场公告执行；不把当前无公告视为2月保证开放。"
+      ],
+      "sources": [
+        {
+          "label": "Lofotodden 国家公园 · Ryten／Kvalvika 路线与起点",
+          "url": "https://www.lofotoddennp.com/en/experience-lofotodden-national-park/kvalvika-ryten/"
+        },
+        {
+          "label": "国家公园 · 出发前检查最新通行公告",
+          "url": "https://www.lofotoddennp.com/en/current-conditions/"
+        },
+        {
+          "label": "当地向导 · 冬季徒步与装备",
+          "url": "https://guidetolofoten.com/honest-guide-to-winter-hiking-in-lofoten/"
+        }
+      ],
+      "country": "norway",
+      "checkedAt": "2026-11-24",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/hikes/kvalvika-0.jpg",
+          "label": "Kvalvika 海滩与环抱山体 · 非冬季地貌参考",
+          "credit": {
+            "author": "www.Pixel.la Free Stock Photos",
+            "license": "CC0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kvalvika_Beach,_Norway.jpg",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/kvalvika-1.jpg",
+          "label": "Kvalvika 海湾的全景视角 · 非冬季地貌参考",
+          "credit": {
+            "author": "Raf24~commonswiki",
+            "license": "CC BY 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Kvalvika_-_view.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/kvalvika-2.jpg",
+          "label": "Kvalvika 海滩景观 · 非冬季地貌参考",
+          "credit": {
+            "author": "Markus Trienke",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Nordnorwegen_2019_0198_(48652089081).jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/kvalvika-3.jpg",
+          "label": "Kvalvika 山海景观 · 非冬季地貌参考",
+          "credit": {
+            "author": "Gergely Csatari",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:9292Lofoten_2400.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        }
+      ],
+      "photoCaptions": true
+    },
+    {
+      "id": "ryten",
+      "name": "Ryten 俯瞰 Kvalvika",
+      "type": "冬季雪鞋登山",
+      "duration": "徒步约5–6小时；活动7–8小时",
+      "distance": "约7km往返，依雪况选线",
+      "elevation": "山顶543m，上升约500m+",
+      "condition": "专业向导 · 预留完整一天",
+      "summary": "从高处俯瞰 Kvalvika 的白沙弧线与外海，是五条路线里最值得留足时间的登山选项。",
+      "winter": "这条超过原来3–4小时的目标，不压缩为半天快速登顶。预约冬季向导，按当天风雪和雪崩地形调整线路，山顶悬崖与雪檐附近不拍危险机位。",
+      "description": [
+        "Ryten 的高处视野把 Kvalvika 海滩、陡峭山体与外海放进一幅画面。相比只在海滩上停留，登山过程更长，也更消耗体力，应把它当作当天的主要活动。",
+        "冬季向导的雪鞋团会根据日照、雪况与团队速度改变节奏。实际徒步约5–6小时、活动总时长7–8小时是规划参考；天气不合适时接受中途折返或改为低处路线。"
+      ],
+      "steps": [
+        "提前联系向导，确认2–3人是否成团或需要私人团，并说明自驾从 Ballstad 到起点。",
+        "按预约前往 Innersand／Fredvang 一带起点，由向导安排雪鞋和防滑装备。",
+        "跟随向导上行至当天适宜的折返点或山顶，原路下撤；不默认同日还下到 Kvalvika 海滩。"
+      ],
+      "query": "Innersand parking Ryten Fredvang Norway",
+      "planDays": [
+        7
+      ],
+      "plan": "建议只放 D7（2月12日），以 Ballstad 连住为基地。当天需明显精简或取消南部渔村安排；D6抵达日和D8返回特罗姆瑟都不适合再加一整天雪山徒步。",
+      "notes": [
+        "携带防水保暖登山鞋、分层衣物、手套、帽子和相机备用电池；雪鞋等装备按向导确认。",
+        "远离悬崖与雪檐，拍照点由向导选择，不模仿社交媒体边缘摆拍。",
+        "出发前确认取消、改期与天气替代方案；向导调整线路时不坚持登顶。"
+      ],
+      "guides": [
+        {
+          "name": "Guide to Lofoten · Ryten 冬季团",
+          "url": "https://guidetolofoten.com/guided-winter-snowshoe-hike-to-ryten-in-lofoten/",
+          "note": "已查到冬季产品；2027年具体日期、成团及价格在预订前确认。原会话报价不作为当前承诺。"
+        },
+        {
+          "name": "TRAD Adventures · Ryten／Kvalvika",
+          "url": "https://www.tradadventures.com/winter/ryten-kvalvika-hike-lofoten",
+          "note": "可询问2–3人、自驾到起点、希望留出摄影时间的私人团。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Guide to Lofoten · Ryten 冬季产品与时长",
+          "url": "https://guidetolofoten.com/guided-winter-snowshoe-hike-to-ryten-in-lofoten/"
+        },
+        {
+          "label": "Visit Lofoten · Ryten／Kvalvika 路线资料",
+          "url": "https://visitlofoten.com/aktivitet/vandring/fjelltur-til-kvalvika-og-ryten-543-moh/"
+        },
+        {
+          "label": "当地向导 · 冬季徒步与装备",
+          "url": "https://guidetolofoten.com/honest-guide-to-winter-hiking-in-lofoten/"
+        }
+      ],
+      "country": "norway",
+      "checkedAt": "2026-11-24",
+      "photos": [
+        {
+          "src": "../nordic-v2/assets/hikes/ryten-winter.jpg",
+          "label": "Ryten 冬季雪地俯瞰 Kvalvika · Conor Sheridan 实拍",
+          "credit": {
+            "author": "Conor Sheridan",
+            "license": "Unsplash License",
+            "url": "https://unsplash.com/photos/man-wearing-yellow-jacket-standing-on-white-snowland-at-daytime-6nGrWlxLaWo",
+            "licenseUrl": "https://unsplash.com/license"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/ryten-0.jpg",
+          "label": "从 Ryten 俯瞰 Kvalvika · 非冬季地貌参考",
+          "credit": {
+            "author": "Svein-Magne Tunli - tunliweb.no",
+            "license": "CC BY-SA 4.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Ryten_Kvalvika_Lofoten_tunliweb.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/ryten-1.jpg",
+          "label": "通往 Ryten 的步道 · 非冬季地貌参考",
+          "credit": {
+            "author": "Christoph Strässler",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Hiking_Trail_to_Ryten,_Lofoten,_Norway.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/ryten-2.jpg",
+          "label": "Ryten 步道沿途视野 · 非冬季地貌参考",
+          "credit": {
+            "author": "Christoph Strässler",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:View_from_Ryten_Hiking_Trail,_Lofoten,_Norway.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        },
+        {
+          "src": "../nordic-v2/assets/hikes/ryten-3.jpg",
+          "label": "从 Ryten 方向看 Fredvang 桥梁 · 非冬季地貌参考",
+          "credit": {
+            "author": "Christoph Strässler",
+            "license": "CC BY-SA 2.0",
+            "url": "https://commons.wikimedia.org/wiki/File:View_from_Ryten_toward_Fredvang_Bridges,_Lofoten,_Norway.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+          }
+        }
+      ],
+      "photoCaptions": true
+    }
+  ]
+}
